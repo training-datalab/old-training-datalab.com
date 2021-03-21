@@ -3,7 +3,7 @@
   description: From a data set of bills in the Chilean Lower House between 2006 and 2018 (<em>N</em> = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. 
   authors: Carla Cisternas and Bastián González-Bustamante
   link:
-    url: https://training-datalab.github.io/training-datalab.com/projects/chilean-congress-bills.html
+    url: https://training-datalab.com/projects/chilean-congress-bills.html
     display: See Project
   highlight: 1
   news2: 
@@ -13,7 +13,7 @@
   description: Based on data from the latest measurement of the <a href="https://bgonzalezbustamante.com/cps-ranking/series/2021-03-08-impact-ranking/" target="_blank">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1 according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.
   authors: Bastián González-Bustamante, Alejandro Olivares, and Carla Cisternas
   link:
-    url: https://training-datalab.github.io/training-datalab.com/projects/political-science-publications.html
+    url: https://training-datalab.com/projects/political-science-publications.html
     display: See Project
   highlight: 1
   news2: 
