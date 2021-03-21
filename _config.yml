@@ -10,8 +10,8 @@ title: Training Data Lab
 email: bastian.gonzalezbustamante@politics.ox.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   This project focuses on labelling data until getting a reliable set to train models for social sciences research projects. Then, we classify larger amounts of data using trained models backed by human validation workflow. The latter improves the AI and machine learning processes.
-baseurl: "/training-datalab.com"
-url: "https://training-datalab.github.io"
+baseurl: "/"
+url: "https://training-datalab.com"
 
 include:
   - .htaccess
