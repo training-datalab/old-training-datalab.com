@@ -1,0 +1,16 @@
+library(DiagrammeR)
+library(DiagrammeRsvg)
+library(magrittr)
+library(rsvg)
+
+grViz(diagram = "dot-files/diagram_bills.dot") %>%
+  export_svg %>% charToRaw %>% rsvg_pdf("plots/diagram_bills.pdf")
+
+grViz(diagram = "dot-files/diagram_bills.dot") %>%
+  export_svg %>% charToRaw %>% rsvg_png("plots/diagram_bills.png")
+
+grViz(diagram = "dot-files/diagram_publications.dot") %>%
+  export_svg %>% charToRaw %>% rsvg_pdf("plots/diagram_publications.pdf")
+
+grViz(diagram = "dot-files/diagram_publications.dot") %>%
+  export_svg %>% charToRaw %>% rsvg_png("plots/diagram_publications.png")

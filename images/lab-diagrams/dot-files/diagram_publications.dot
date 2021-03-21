@@ -1,0 +1,33 @@
+digraph {
+  graph [rankdir = TB, dpi = 72];
+
+data1 [shape = cylinder, style = filled, fillcolor = darkgreen, fontname = Helvetica, fontsize = 15, fontcolor = white, label = "Publications Data"];
+code1 [shape = invtrapezium, fontname = Helvetica, fontsize = 15, label = "Script"];
+subsample [shape = folder, fontname = Helvetica, fontsize = 15, label = "Subsample"];
+data1 -> subsample [arrowsize = 1.5, penwidth = 2];
+code1 -> subsample [arrowsize = 1.5, penwidth = 2];
+
+labelling1 [shape = box, fontname = Helvetica, fontsize = 15, label = "Labelling"];
+labelling2 [shape = house, fontname = Helvetica, fontsize = 15, label = "Iteration"];
+subsample ->  labelling1 [arrowsize = 1.5, penwidth = 2];
+labelling1 ->  labelling2 [arrowsize = 1.5, penwidth = 2];
+labelling2 ->  labelling1 [arrowsize = 1.5, penwidth = 2];
+
+codeddata [shape = cylinder, fontname = Helvetica, fontsize = 15, label = "Coded \n Subsample"];
+labelling1 ->  codeddata [arrowsize = 1.5, penwidth = 2];
+
+code2 [shape = invtrapezium, fontname = Helvetica, fontsize = 15, label = "Script"];
+train [shape = box, fontname = Helvetica, fontsize = 15, label = "Train Model"];
+vldt [shape = box, fontname = Helvetica, fontsize = 15, label = "Cross-Validation"];
+predict [shape = box, fontname = Helvetica, fontsize = 15, label = "Prediction"];
+data2 [shape = cylinder, fontname = Helvetica, fontsize = 15, label = "Coded Data \n"];
+aug [shape = house, fontname = Helvetica, fontsize = 15, label = "Augmented AI"];
+code2 ->  train [arrowsize = 1.5, penwidth = 2];
+codeddata ->  train [arrowsize = 1.5, penwidth = 2];
+train ->  vldt [arrowsize = 1.5, penwidth = 2];
+vldt ->  train [arrowsize = 1.5, penwidth = 2];
+train ->  predict [arrowsize = 1.5, penwidth = 2];
+predict ->  aug [arrowsize = 1.5, penwidth = 2];
+aug ->  predict [arrowsize = 1.5, penwidth = 2];
+predict ->  data2 [arrowsize = 1.5, penwidth = 2];
+}

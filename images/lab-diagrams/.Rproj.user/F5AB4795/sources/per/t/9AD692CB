@@ -1,0 +1,24 @@
+{
+    "id": "9AD692CB",
+    "path": "~/GitHub/testsite/docs/images/lab-diagrams/dot-files/diagram_bills.dot",
+    "project_path": "dot-files/diagram_bills.dot",
+    "type": "graphviz",
+    "hash": "1558739498",
+    "contents": "",
+    "dirty": false,
+    "created": 1615842167907.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "15,83",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1616360369,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1616360369536,
+    "read_only": false,
+    "read_only_alternatives": []
+}

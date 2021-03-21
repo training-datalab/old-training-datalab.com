@@ -1,0 +1,20 @@
+- name: Basitán González-Bustamante
+  photo: bgonzalezbustamante.jpg
+  info1: DPhil Researcher at the University of Oxford
+  info2: Instructor at the Universidad de Santiago
+  email: bastian.gonzalezbustamante@politics.ox.ac.uk
+  website: <a href="https://bgonzalezbustamante.com" target="_blank">https://bgonzalezbustamante.com</a>
+
+- name: Carla Cisternas
+  photo: ccisternas.jpg
+  info1: PhD Researcher at Leiden University
+  info2: Lecturer at the Universidad Mayor
+  email: carla.cisternas@umayor.cl
+  website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
+
+- name: Alejandro Olivares L.
+  photo: aolivares.jpg
+  info1: Associate Professor
+  info2: Universidad Católica de Temuco
+  email: alejandro.olivares@uct.cl
+  website: <a href="https://www.researchgate.net/profile/Alejandro-Olivares-L" target="_blank">ResearchGate</a>
