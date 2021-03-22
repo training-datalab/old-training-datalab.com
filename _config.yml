@@ -8,8 +8,7 @@
 # Site settings
 title: Training Data Lab
 email: bastian.gonzalezbustamante@politics.ox.ac.uk
-description: > # this means to ignore newlines until "baseurl:"
-  This group focuses on rating and labelling data to shape reliable data sets to train models for social sciences research projects.
+description: Training Data Lab focuses on rating and labelling data to shape reliable data sets to train models for social sciences research projects.
 baseurl: "/"
 url: "https://training-datalab.com"
 
