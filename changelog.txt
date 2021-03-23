@@ -1,0 +1,39 @@
+# Changelog
+All notable changes to "training-datalab.com" will be documented in this file.
+Automatic updates: Projects and team members updates.
+
+## [Unreleased]
+
+## [1.2.0] - TBC
+### Added
+- twConstitution project.
+
+## [Released]
+
+## [1.1.0] - 2021-03-23
+### Added
+- MIT License.
+- Changelog in TXT format at GitHub repository.
+- Badges in SVG at GitHub repository.
+### Changed
+- Automatic CV updates.
+- Automatic team members updates.
+
+## [1.0.0] - 2021-03-21
+### Added
+- Political science publications project.
+- DNS domain redirections.
+### Changed
+- Minor corrections.
+- Workflow diagrams code.
+
+## [0.2.0] - 2021-03-14
+### Added
+- GitHub page powered by Jekyll.
+- Chilean Congress bills project.
+- Workflow diagrams code.
+
+## [0.1.0] - 2021-03-13
+### Added
+- Labelling flow on AWS.
+- GitHub organisation.
