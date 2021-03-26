@@ -12,7 +12,7 @@ permalink: /projects/chilean-congress-bills.html
 
 ## Data and Samples
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/plots/diagram_bills.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_bills.png){: style="width: 350px; float: right; border: 10px"}
 
 <p align="justify">From a data set of bills in the Chilean Lower House between 2006 and 2018 (*N* = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. </p>
 
@@ -36,4 +36,4 @@ permalink: /projects/chilean-congress-bills.html
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Last updated: March 21, 2021.</small>
+<small>Last updated: March 26, 2021.</small>
