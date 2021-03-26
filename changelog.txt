@@ -15,12 +15,15 @@ Automatic updates: Projects, news, and team members updates.
 ### Changed
 - README at GitHub repository.
 - Automatic news updates.
+## Removed
+- Workflow diagrams code.
 
 ## [1.2.0] - 2021-03-25
 ### Added
 - Labelling flow on Labelbox platform.
 ### Deprecated
 - Labelling flow on AWS Ground Truth platform.
+- Workflow diagrams code.
 
 ## [1.1.0] - 2021-03-23
 ### Added
