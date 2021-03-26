@@ -6,7 +6,7 @@
 
 ## Core Team
 
-[<img src="https://avatars.githubusercontent.com/u/59541634?v=4" width="75px;"/>](https://github.com/bgonzalezbustamante)
+[<img src="https://avatars.githubusercontent.com/u/59541634?v=4" width="75px;"/>](https://github.com/bgonzalezbustamante) [<img src="https://avatars.githubusercontent.com/u/60717875?v=4" width="75px;"/>](https://github.com/carlacisternasg)
 
 ## Associates
 
