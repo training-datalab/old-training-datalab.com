@@ -14,7 +14,7 @@ permalink: /projects/political-science-publications.html
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_publications.png){: style="width: 350px; float: right; border: 10px"}
 
-<p align="justify">Based on data from the latest measurement of the Chilean Politics Science Impact Ranking (<a href="https://bgonzalezbustamante.com/cps-ranking/series/2021-03-08-impact-ranking/" target="_blank">CPS-Ranking</a>), we have collected all the authors’ publications ranked in the first quartile (Q1) according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. Alternatively, we are considering translating English publications to keep the integrity of the data. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.</p>
+<p align="justify">Based on data from the latest measurement of the Chilean Politics Science Impact Ranking (<a href="https://bgonzalezbustamante.com/cps-ranking/series/2021-03-08-impact-ranking/" target="_blank">CPS-Ranking</a>), we have collected all the authors’ publications ranked in the first quartile (Q1) according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.</p>
 
 ## Coding Political Science Publications
 
