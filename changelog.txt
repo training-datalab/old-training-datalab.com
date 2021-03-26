@@ -4,16 +4,22 @@ Automatic updates: Projects and team members updates.
 
 ## [Unreleased]
 
-## [1.2.0] - TBC
+## [1.3.1] - TBC
 ### Added
 - twConstitution project.
 - OCR civil service (TBC).
 
 ## [Released]
 
-## [1.1.1] - 2021-03-26
+## [1.2.1] - 2021-03-26
 ### Changed
 - README at GitHub repository.
+
+## [1.2.0] - 2021-03-25
+### Added
+- Labelling flow on Labelbox platform.
+### Deprecated
+- Labelling flow on AWS Ground Truth platform.
 
 ## [1.1.0] - 2021-03-23
 ### Added
@@ -40,5 +46,5 @@ Automatic updates: Projects and team members updates.
 
 ## [0.1.0] - 2021-03-13
 ### Added
-- Labelling flow on AWS.
+- Labelling flow on AWS Ground Truth platform.
 - GitHub organisation.
