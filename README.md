@@ -10,11 +10,10 @@
 
 ## Associates
 
-## Assistants
-
 ## Ongoing Projects
+- [Training Data on Chilean Congress Bills](https://training-datalab.com/projects/chilean-congress-bills.html)
+- [Training Data on Political Science Publications](https://training-datalab.com/projects/political-science-publications.html)
 
 ## Labelbox
 - [Platform](https://app.labelbox.com/)
 - [Status](https://status.labelbox.com/)
-
