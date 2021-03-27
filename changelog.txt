@@ -13,8 +13,9 @@ Automatic updates: Projects, news, and team members updates.
 
 ## [1.2.1] - 2021-03-26
 ### Changed
-- README at GitHub repository.
+- README on GitHub repository.
 - Automatic news updates.
+- Minor corrections.
 ## Removed
 - Workflow diagrams code.
 
@@ -28,8 +29,8 @@ Automatic updates: Projects, news, and team members updates.
 ## [1.1.0] - 2021-03-23
 ### Added
 - MIT License.
-- Changelog in TXT format at GitHub repository.
-- Badges in SVG at GitHub repository.
+- Changelog in TXT format on GitHub repository.
+- Badges in SVG on GitHub repository.
 ### Changed
 - Automatic CV updates.
 - Automatic team members updates.
@@ -51,4 +52,4 @@ Automatic updates: Projects, news, and team members updates.
 ## [0.1.0] - 2021-03-13
 ### Added
 - Labelling flow on AWS Ground Truth platform.
-- GitHub organisation.
+- GitHub organisation account.
