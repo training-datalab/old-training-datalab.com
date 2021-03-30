@@ -10,6 +10,8 @@ permalink: /projects/chilean-congress-bills.html
 
 **Carla Cisternas and Bastián González-Bustamante**
 
+[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish.html) 
+
 ## Data and Samples
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_bills.png){: style="width: 350px; float: right; border: 10px"}
@@ -20,9 +22,9 @@ permalink: /projects/chilean-congress-bills.html
 
 <p align="justify">We are looking for *ad honorem* coders to label our Congress bills’ subsample for this project. We need bachelor or master students of social sciences programmes. Our coders will receive general training and dedicate a variable and flexible amount of time to this task.</p>
 
-<p align="justify">We do not work with a specific number of coders because we iterate the labelling process to shape up coding accuracy until achieving a high-reliability level. Each subsample observation requires validation of a different number of coders depending on the specific classification task categories. For example, identifying the bills’ issue has a higher threshold of coders than codifying the territorial scope, which has less possible outcomes.</p>
+<p align="justify">We do not work with a specific number of coders because we iterate the labelling process to shape up coding accuracy until achieving a high-reliability level. Each subsample observation requires validation of a different number of coders depending on the specific classification task categories. For example, identifying the territorial scope has a higher threshold of coders than codifying the bills’ issue, which has less possible outcomes.</p>
 
-<p align="justify">For further details, please contact <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a>.</p>
+<p align="justify">For further details, please contact <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</p>
 
 ## Machine Learning Classification
 
@@ -36,4 +38,4 @@ permalink: /projects/chilean-congress-bills.html
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Last updated: March 26, 2021.</small>
+<small>Last updated: March 30, 2021.</small>
