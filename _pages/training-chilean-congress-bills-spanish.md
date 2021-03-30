@@ -12,7 +12,7 @@ permalink: /projects/chilean-congress-bills-spanish.html
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
-## Data and Samples
+## Datos y muestras
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_bills.png){: style="width: 350px; float: right; border: 10px"}
 
@@ -26,11 +26,11 @@ permalink: /projects/chilean-congress-bills-spanish.html
 
 <p align="justify">Para más detalles, póngase en contacto con <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</p>
 
-## Machine Learning Classification
+## Clasificación con aprendizaje automático
 
 <p align="justify">Una vez codificada la base de datos, entrenamos un modelo y predecimos los datos no codificados mediante técnicas de aprendizaje automático. En esta fase, es posible incorporar la validación humana en el flujo de trabajo para revisar las observaciones con valores de confianza bajos. Finalmente, tendremos los datos necesarios para realizar nuestro análisis principal, en este caso, modelos estocásticos basados en actores para redes dinámicas, con el objetivo de observar las estrategias de copatrocinio en el Congreso de Chile a lo largo del período.</p>
 
-## Phases
+## Fases
 
 |---|---|---|---|---|---|---|
 | 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![50%](https://progress-bar.dev/50) |
