@@ -22,7 +22,7 @@ permalink: /projects/chilean-congress-bills-spanish.html
 
 <p align="justify">Buscamos codificadores *ad honorem* para etiquetar nuestra submuestra de proyectos de ley del Congreso para esta investigación. Necesitamos estudiantes de licenciatura o de magíster de programas de ciencias sociales. Nuestros codificadores recibirán formación general y dedicarán una cantidad de tiempo variable y flexible a esta tarea.</p>
 
-<p align="justify">No trabajamos con un número concreto de codificadores porque iteramos el proceso de etiquetado para mejorar la precisión de la codificación hasta alcanzar un nivel de alta confiabilidad. Cada observación de la submuestra requiere la validación de un número diferente de codificadores en función de las categorías de tareas de clasificación específicas. Por ejemplo, la identificación del ámbito territorial de los proyectos posee un umbral más alto de codificadores que la identificación del tema, que tiene menos resultados posibles.</p>
+<p align="justify">No trabajamos con un número concreto de codificadores porque iteramos el proceso de etiquetado para mejorar la precisión de la codificación hasta alcanzar un nivel de alta confiabilidad. Cada observación de la submuestra requiere la validación de un número diferente de codificadores en función de las categorías de la tarea de clasificación específica. Por ejemplo, la identificación del ámbito territorial de los proyectos posee un umbral más alto de codificadores que la identificación del tema, que tiene menos resultados posibles.</p>
 
 <p align="justify">Para más detalles, póngase en contacto con <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</p>
 
