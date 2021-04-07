@@ -39,22 +39,22 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Extended Team
-<div class="row">
+<!--## Extended Team 
+<div class="row"> -->
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
 <h4>Research Associates</h4>
 {% for member in site.data.associates %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div>-->
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
 <h4>Research Assistants</h4>
 {% for member in site.data.assistants %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div>-->
 
 <!-- <div class="col-sm-4 clearfix">
 <h4>Bachelor students</h4>
@@ -63,4 +63,4 @@ permalink: /team/
 {% endfor %}
 </div>-->
 
-</div>
+<!-- </div> -->
