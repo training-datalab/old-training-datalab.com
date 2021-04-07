@@ -6,13 +6,8 @@
 
 ## Core Team
 
-| [<img src="https://avatars.githubusercontent.com/u/59541634?v=4" width="75px;"/>](https://github.com/bgonzalezbustamante) | [<img src="https://avatars.githubusercontent.com/u/60717875?v=4" width="75px;"/>](https://github.com/carlacisternasg) |  [<img src="https://avatars.githubusercontent.com/u/70457696?v=4" width="75px;"/>](https://github.com/janolivares) |
-|---|---|---|
-
-## Associates
-
-| [<img src="https://avatars.githubusercontent.com/u/26773927?v=4" width="75px;"/>](https://github.com/raco1979) |
-|---|
+| [<img src="https://avatars.githubusercontent.com/u/59541634?v=4" width="75px;"/>](https://github.com/bgonzalezbustamante) | [<img src="https://avatars.githubusercontent.com/u/60717875?v=4" width="75px;"/>](https://github.com/carlacisternasg) |  [<img src="https://avatars.githubusercontent.com/u/70457696?v=4" width="75px;"/>](https://github.com/janolivares) | [<img src="https://avatars.githubusercontent.com/u/26773927?v=4" width="75px;"/>](https://github.com/raco1979) |
+|---|---|---|---|
 
 ## Ongoing Projects
 - [Training Data on Chilean Congress Bills](https://training-datalab.com/projects/chilean-congress-bills.html)
