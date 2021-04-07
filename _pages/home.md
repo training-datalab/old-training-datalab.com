@@ -10,7 +10,7 @@ permalink: /
 
 **We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
-This group is made up of researchers from different institutions.
+Different institutions logistically or financially support this group.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/oxford.jpg" style="width: 60px"> &nbsp;&nbsp;
