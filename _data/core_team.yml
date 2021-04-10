@@ -1,14 +1,14 @@
 - name: Basitán González-Bustamante
   photo: bgonzalezbustamante.jpg
-  info1: DPhil Researcher at the University of Oxford
-  info2: Instructor at the Universidad de Santiago
+  info1: DPhil Researcher, University of Oxford
+  info2: Instructor, Universidad de Santiago
   email: bastian.gonzalezbustamante@politics.ox.ac.uk
   website: <a href="https://bgonzalezbustamante.com" target="_blank">https://bgonzalezbustamante.com</a>
 
 - name: Carla Cisternas
   photo: ccisternas.jpg
-  info1: PhD Researcher at Leiden University
-  info2: Lecturer at the Universidad Mayor
+  info1: PhD Researcher, Leiden University
+  info2: Lecturer, Universidad Mayor
   email: c.g.cisternas.guasch@hum.leidenuniv.nl
   website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
 
@@ -21,7 +21,7 @@
 
 - name: Rodrigo Cuevas
   photo: rcuevas.jpg
-  info1: Lecturer
-  info2: Universidad de Chile
+  info1: Lecturer, Universidad de Chile
+  info2: Lecturer, Universidad de Valparaíso
   email: rodrigocuevas@uchile.cl
   website: 
