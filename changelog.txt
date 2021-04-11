@@ -8,6 +8,7 @@ Automatic updates: Projects, news, and team members updates.
 ### Added
 - twConstitution project.
 - OCR civil service (TBC).
+- COVID-19 Tracker (TBC).
 
 ## [Released]
 
