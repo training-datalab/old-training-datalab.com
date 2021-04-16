@@ -8,7 +8,7 @@
 # Site settings
 title: Training Data Lab
 email: bastian.gonzalezbustamante@politics.ox.ac.uk
-description: Training Data Lab focuses on rating and labelling data to shape reliable data sets to train models for social sciences research projects.
+description: Training Data Lab focuses on focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling, and machine learning.
 baseurl: "/"
 url: "https://training-datalab.com"
 
