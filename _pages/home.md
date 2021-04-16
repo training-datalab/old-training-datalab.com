@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-<p align="justify">This group focuses on rating and labelling data to shape reliable data sets to train models for social sciences research projects. Then, we classify larger non-coded data using trained models backed by human validation workflow. The latter improves the AI and machine learning processes.</p>
+<p align="justify">This research group focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling, and machine learning. On the one hand, we pursue gathering data with mining techniques in order to elaborate econometric models with observational or matching techniques.</p>
+
+<p align="justify">On the other hand, we focus on training models with both machine and deep learning and labelling data sets for different projects. The latter allows us to classify non-coded data using trained models backed by human validation workflow, which improves the AI learning processes.</p>
 
 **We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
