@@ -8,7 +8,9 @@ permalink: /projects/chilean-congress-bills-spanish.html
 
 # Entrenamiento de datos sobre los proyectos de ley del Congreso chileno
 
-**Carla Cisternas and Bastián González-Bustamante**
+**Researchers:** Carla Cisternas y Bastián González-Bustamante
+
+**Associate:** Diego Aguilar
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
