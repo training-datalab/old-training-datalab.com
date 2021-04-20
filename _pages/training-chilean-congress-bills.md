@@ -8,7 +8,9 @@ permalink: /projects/chilean-congress-bills.html
 
 # Training Data on Chilean Congress Bills
 
-**Carla Cisternas and Bastián González-Bustamante**
+**Investigadores:** Carla Cisternas and Bastián González-Bustamante
+
+**Asociado:** Diego Aguilar
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish.html) 
 
