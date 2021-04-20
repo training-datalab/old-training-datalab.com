@@ -24,3 +24,4 @@ permalink: /open-review/
 <li>Dictamen abierto fundado (extensión recomendada 1.000 - 1.500 palabras).</li>
 <li>Recomendación final (rechazar, aceptar sujeto a modificaciones o aceptar sin modificaciones).</li>
 <ul>
+<br />
