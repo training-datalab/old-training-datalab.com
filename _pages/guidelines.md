@@ -32,9 +32,9 @@ permalink: /guidelines/
 
 <p align=" justify">Tanto la evaluación de escritorio como la evaluación de pares se basa en <a href="/open-review">informes de revisión abiertos</a>. Estos informes son publicados anexos al artículo con la firma y datos biográficos de los revisores. De esta forma, se genera un incentivo para participar en el proceso y se aumenta la calidad del arbitraje.</p>
 
-<p align=" justify">Los manuscritos aceptados deben ser ajustados por los autores con base en los comentarios del proceso de revisión, posteriormente, son revisados por el equipo editorial que puede solicitar ajustes menores adicionales. Este ciclo se repite hasta que se obtenga una versión satisfactoria que pueda ser diagramada. Los manuscritos se diagraman en Tufte-LaTeX y son revisados por el equipo editorial y los autores. Todo este proceso se realiza de forma abierta y con seguimiento constante en nuestro <a href="https://github.com/Tufte-Papers/issues" target="_blank">repositorio de GitHub</a>.</p>
+<p align=" justify">Los manuscritos aceptados deben ser ajustados por los autores con base en los comentarios del proceso de revisión, posteriormente, son revisados por el equipo editorial que puede solicitar ajustes menores adicionales. Este ciclo se repite hasta que se obtenga una versión satisfactoria que pueda ser diagramada. Los manuscritos se diagraman en Tufte-LaTeX y son revisados por el equipo editorial y los autores. Todo este proceso se realiza de forma abierta y con seguimiento constante en nuestro <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">repositorio de GitHub</a>.</p>
 
-<p align=" justify">Por último, las versiones finales se pueden almacenar alternativamente en GitHub o en <a href="http://osf.io/" target="_blank">OSF</a>, de acuerdo con las preferencias de los autores. Lo segundo permite la asignación de un <a href="https://www.doi.org/" target="_blank">DOI</a> único, sin embargo, requiere que al menos uno de los autores tenga una cuenta habilitada. También se recomienda el uso de <a href="https://orcid.org/" target="_blank">ORCID iD</a>.</p>
+<p align=" justify">Por último, las versiones finales se almacenan en GitHub y en SocArXiv en <a href="http://osf.io/" target="_blank">OSF</a>.</p>
 
 ## Guía de estilo para los autores
 
