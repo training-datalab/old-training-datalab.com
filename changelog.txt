@@ -10,6 +10,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 - OCR civil service.
 - Google Scholar scraper.
 - twConstitution project.
+- CRediT.
 
 ## [Released]
 
