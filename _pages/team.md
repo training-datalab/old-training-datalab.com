@@ -68,25 +68,25 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Extended Team 
+## Research Assistants
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Research Assistants</h4>
+<!-- <h4>Research Assistants</h4> -->
 {% for member in site.data.assistants1 %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4></h4>
+<!-- <h4></h4> -->
 {% for member in site.data.assistants2 %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4></h4>
+<!-- <h4></h4> -->
 {% for member in site.data.assistants3 %}
 {{ member.name }}
 {% endfor %}
