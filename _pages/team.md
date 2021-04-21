@@ -71,25 +71,25 @@ permalink: /team/
 ## Extended Team 
 <div class="row">
 
-<!-- <div class="col-sm-4 clearfix">
-<h4>Research Associates</h4>
-{% for member in site.data.associates %}
-{{ member.name }}
-{% endfor %}
-</div>-->
-
 <div class="col-sm-4 clearfix">
 <h4>Research Assistants</h4>
-{% for member in site.data.assistants %}
+{% for member in site.data.assistants1 %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<!-- <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.bachelor %}
+<div class="col-sm-4 clearfix">
+<h4></h4>
+{% for member in site.data.assistants2 %}
 {{ member.name }}
 {% endfor %}
-</div>-->
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4></h4>
+{% for member in site.data.assistants3 %}
+{{ member.name }}
+{% endfor %}
+</div>
 
 </div>
