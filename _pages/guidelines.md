@@ -20,7 +20,7 @@ permalink: /guidelines/
 
 ## Gestión editorial
 
-<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, Bastián González-Bustamante, en quien recae su gestión en su más amplio sentido, y por Elinor Luco, asistente editorial.</p>
+<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <strong>Bastián González-Bustamante</strong>, en quien recae su gestión en su más amplio sentido, y por <strong>Elinor Luco</strong>, asistente editorial.</p>
 
 ## Proceso editorial
 
