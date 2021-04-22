@@ -12,6 +12,8 @@ permalink: /projects/chilean-congress-bills-spanish.html
 
 **Asociado:** Diego Aguilar
 
+**Asistentes:** Elinor Luco y Beatriz Herrera
+
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
 ## Datos y muestras
@@ -40,4 +42,4 @@ permalink: /projects/chilean-congress-bills-spanish.html
 | 5. Entrenamiento del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Última actualización: 21 de abril de 2021.</small>
+<small>Última actualización: 22 de abril de 2021.</small>
