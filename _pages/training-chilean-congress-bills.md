@@ -12,7 +12,7 @@ permalink: /projects/chilean-congress-bills.html
 
 **Associate:** Diego Aguilar
 
-**Assistants:** Elinor Luco y Beatriz Herrera
+**Assistants:** Elinor Luco and Beatriz Herrera
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish.html) 
 
