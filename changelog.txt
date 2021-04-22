@@ -17,6 +17,8 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 ## [1.5.4] - 2021-04-22
 ### Added
 - Tufte Working Papers landing page.
+### Changed
+- Minor corrections.
 
 ## [1.4.4] - 2021-04-20
 ### Added
