@@ -29,9 +29,9 @@ permalink: /projects/political-science-publications.html
 ## Phases
 
 |---|---|---|---|---|---|---|
-| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![20%](https://progress-bar.dev/20) |
+| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![30%](https://progress-bar.dev/30) |
 | 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Last updated: March 26, 2021.</small>
+<small>Last updated: April 25, 2021.</small>
