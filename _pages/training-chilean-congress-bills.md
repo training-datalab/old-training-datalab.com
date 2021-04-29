@@ -10,7 +10,7 @@ permalink: /projects/chilean-congress-bills.html
 
 **Researchers:** Carla Cisternas and Bastián González-Bustamante
 
-**Associate:** Diego Aguilar
+**Associates:** Diego Aguilar and Mariana Ardiles
 
 **Assistants:** Elinor Luco and Beatriz Herrera
 
@@ -38,8 +38,8 @@ permalink: /projects/chilean-congress-bills.html
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![14%](https://progress-bar.dev/14) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![3%](https://progress-bar.dev/3) |
+| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![16%](https://progress-bar.dev/16) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![5%](https://progress-bar.dev/5) |
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Last updated: April 28, 2021.</small>
+<small>Last updated: April 29, 2021.</small>
