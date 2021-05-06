@@ -38,8 +38,8 @@ permalink: /projects/chilean-congress-bills-spanish.html
 
 |---|---|---|---|---|---|---|
 | 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![29%](https://progress-bar.dev/29) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![5%](https://progress-bar.dev/5) |
+| 3. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![30%](https://progress-bar.dev/30) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![5%](https://progress-bar.dev/5) |
 | 5. Entrenamiento del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Última actualización: 4 de mayo de 2021.</small>
+<small>Última actualización: 6 de mayo de 2021.</small>
