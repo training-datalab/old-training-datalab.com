@@ -8,11 +8,13 @@ permalink: /tufte-working-papers/
 
 # Tufte Working Papers
 
-<p align=" justify"><b>Tufte Working Papers (ISSN 2735-6043)</b> es una publicación continúa basada en Training Data Lab con el apoyo logístico de la Universidad de Santiago de Chile. Esta serie de documentos promueve el debate en ciencias sociales, especialmente en temas relacionados con la ciencia política y las políticas públicas. La serie incluye trabajos inéditos y versiones revisadas de publicaciones previas que proponen <strong>técnicas de investigación innovadoras u ofrecen información empírica novedosa</strong>. Los trabajos se publican en español e inglés, aunque se privilegian las publicaciones en español con el fin de apoyar la difusión del conocimiento de acceso abierto en Iberoamérica.</p>
+<p align=" justify"><b>Tufte Working Papers (ISSN 2735-6043)</b> is a continuous publication based at Training Data Lab with logistical support from the Universidad de Santiago de Chile. This series of papers promotes debate in the social sciences, especially on issues related to political science and public policies. The series includes unpublished papers and revised versions of previous publications that propose <strong>innovative research techniques or offer novel empirical information</strong>. The papers are published in Spanish and English, although preference is given to publications in Spanish in order to support the divulgation of open access knowledge in Ibero-America.</p>
 
-<p align=" justify">Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tufte. Además, se licencia bajo <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.txt" target="_blank">Creative Commons</a>, por tanto, su contenido es de acceso abierto y utiliza la taxonomía <a href="https://bgonzalezbustamante.com/credit/" target="_blank">CRediT</a> para identificar contribuciones en coautorías junto con un proceso de <a href="/open-review/">revisión abierto</a>. Para más información, revisar los <a href="/guidelines/">lineamientos</a> de esta serie.</p>
+<p align=" justify">This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In addition, it is licensed under <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.txt" target="_blank">Creative Commons</a>, therefore, its content is open access and uses the <a href="https://bgonzalezbustamante.com/credit/" target="_blank">CRediT</a> taxonomy to identify co-authored contributions along with an <a href="/open-review/">open review</a> process. For further information, see the <a href="/guidelines/">guidelines</a> for this series.</p>
 
-## Números
+<p align=" justify"><a href="/tufte-working-papers-spanish/">See this page in Spanish</a>.</p>
+
+## Issues
 
 <ul>
 <li>González-Bustamante, B. (2021, <em>forthcoming</em>). Sofisticación, participación y compromiso político en América Latina. <em>Tufte Working Papers</em>, 2. DOI: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.</li>
