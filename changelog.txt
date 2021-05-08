@@ -4,7 +4,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [Unreleased]
 
-## [1.6.4] - TBC
+## [1.6.5] - TBC
 ### Added
 - COVID-19 tracker.
 - OCR civil service.
@@ -13,6 +13,10 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 - CRediT.
 
 ## [Released]
+
+## [1.5.5] - 2021-05-08
+### Changed
+- Minor corrections.
 
 ## [1.5.4] - 2021-04-22
 ### Added
