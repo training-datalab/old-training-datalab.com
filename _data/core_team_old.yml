@@ -1,0 +1,41 @@
+- name: Bastián González-Bustamante
+  photo: bgonzalezbustamante.jpg
+  info1: University of Oxford
+  info2: Universidad de Santiago
+  email: bastian.gonzalezbustamante@politics.ox.ac.uk
+  website: <a href="https://bgonzalezbustamante.com" target="_blank">https://bgonzalezbustamante.com</a>
+
+- name: Carla Cisternas
+  photo: ccisternas.jpg
+  info1: Leiden University
+  info2: Universidad Mayor
+  email: c.g.cisternas.guasch@hum.leidenuniv.nl
+  website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
+
+- name: Alejandro Olivares L.
+  photo: aolivares.jpg
+  info1: Universidad Católica de Temuco
+  info2: 
+  email: alejandro.olivares@uct.cl
+  website: 
+
+- name: Rodrigo Cuevas
+  photo: rcuevas.jpg
+  info1: Universidad de Chile
+  info2: Universidad de Valparaíso
+  email: rodrigocuevas@uchile.cl
+  website: 
+
+- name: Mariana Ardiles
+  photo: mardiles.jpg
+  info1: Universidad de Chile
+  info2: 
+  email: mariana.ardiles@uchile.cl
+  website: 
+
+- name: Diego Aguilar
+  photo: daguilar.jpg
+  info1: McMaster University
+  info2: 
+  email: aguild1@mcmaster.ca
+  website: 
