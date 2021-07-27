@@ -79,4 +79,4 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">Con el objetivo de fomentar la innovación, la propiedad intelectual de lo creado en este proyecto VIP será compartida entre estudiantes e investigadores responsables y asociados. En consecuencia, los miembros del equipo podrán utilizar los datos levantados para publicaciones propias, agradeciendo y mencionando adecuadamente al proyecto. Esperamos, en futuras versiones, incentivar a los estudiantes más experimentados a utilizar los datos para sumarse a coautorías con investigadores del equipo y que asuman roles de liderazgo para orientar y capacitar a nuevos integrantes.</p>
 
-<small>Last updated: 27 de julio de 2021.</small>
+<small>Última actualización: 27 de julio de 2021.</small>
