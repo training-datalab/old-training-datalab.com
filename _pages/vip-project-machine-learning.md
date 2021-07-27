@@ -41,13 +41,42 @@ permalink: /projects/vip-project-machine-learning
 <ul>
 <li>To train students in fundamental topics on social science research.</li>
 <li>To introduce students to machine learning topics.</li>
-<li>•	To train students in programming fundamentals in R.</li>
+<li>To train students in programming fundamentals in R.</li>
 </ul>
 
 ## Research Methodology
 
 <p align="justify">The vertical integration will be carried out between students from different years, principal and associate researchers in a synchronous tutoring environment (workshops or evaluation meetings of one chronological hour) and asynchronous weekly autonomous work with data (three hours per week).</p>
 
+<p align="justify">Synchronous workshops and weekly meetings.</p>
+
+<ul>
+<li>Introduction and presentation of the project.</li>
+<li>Fundamental notions of machine learning.</li>
+<li>Disinformation and public opinion.</li>
+<li>Fundamental elements of methodology.</li>
+<li>Data coding and labelling.</li>
+<li>Fundamentals of R.</li>
+<li>Descriptive statistics in R.</li>
+<li>Data coding evaluation.</li>
+<li>Linear models in R.</li>
+<li>Logistic models in R.</li>
+<li>Data coding evaluation.</li>
+<li>Regularisation and cross-validation.</li>
+<li>Decision trees and Random Forest.</li>
+<li>Data coding evaluation.</li>
+<li>Presentation and comments on preliminary analysis.</li>
+<li>Closing and self-evaluation of this first version.</li>
+</ul>
+
+<p align="justify">This project is developed by the Business School of the Universidad Mayor, but it will be carried out entirely online. No previous knowledge of statistics or programming is required, only access to a computer and Internet connection. Students will be evaluated during the data coding progress meetings (25% each) and the final session through self-evaluation (25%).</p>
+
+<p align="justify">The synchronous tutorials, on the one hand, aim to train students in essential social science research topics and introduce them to machine learning and programming in R. For their part, the asynchronous autonomous work is related to data coding and labelling to train our algorithm, which will be constantly evaluated in several scheduled synchronous sessions.</p>
+
+<p align="justify">Data sets compilation and labelling will be carried out with codes programmed in R and Python and on digital platforms developed by the research group comprised of several members of this project, bringing together researchers from different universities.</p>
+
 ## Intellectual Property
+
+<p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principal and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
 
 <small>Last updated: July 27, 2021.</small>
