@@ -1,11 +1,11 @@
 - title: "VIP Project: Machine Learning in Public Policy and Economics"
   image: UMayor.png
-  description:  
+  description: This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics issues. In this very first version, we will focus on the dynamics of disinformation in economic and public interest issues. 
   authors: Carla Cisternas and Francisco Castañeda
   link:
     url: https://training-datalab.com/projects/vip-project-machine-learning
     display: See Project
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Training Data on Chilean Congress Bills"
