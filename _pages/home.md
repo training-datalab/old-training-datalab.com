@@ -10,9 +10,9 @@ permalink: /
 
 <p align="justify">On the other hand, we focus on training models with both machine and deep learning and labelling data sets for different projects. The latter allows us to classify non-coded data using trained models backed by human validation workflow, which improves the AI learning processes.</p>
 
-**We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
-
 <a href="https://training-datalab.com/about-spanish">See this description in Spanish.</a>
+
+**We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
 Different institutions logistically or financially support this group.
 
