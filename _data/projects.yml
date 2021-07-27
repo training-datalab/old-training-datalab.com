@@ -15,7 +15,7 @@
   link:
     url: https://training-datalab.com/projects/chilean-congress-bills.html
     display: See Project
-  highlight: 2
+  highlight: 1
   news2: 
 
 - title: "Training Data on Political Science Publications"
@@ -25,5 +25,5 @@
   link:
     url: https://training-datalab.com/projects/political-science-publications.html
     display: See Project
-  highlight: 3
+  highlight: 1
   news2: 
