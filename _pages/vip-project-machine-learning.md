@@ -16,7 +16,7 @@ permalink: /projects/vip-project-machine-learning
 
 ## Project Description
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/UMayor.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/vip-project.png){: style="width: 350px; float: right; border: 10px"}
 
 <p align="justify">From a data set of bills in the Chilean Lower House between 2006 and 2018 (*N* = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. </p>
 
