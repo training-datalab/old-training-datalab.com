@@ -17,7 +17,7 @@ Different institutions logistically or financially support this group.
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/oxford.jpg" style="width: 60px"> &nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/leiden.jpg" style="width: 155px">  &nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/uct.png" style="width: 160px">  &nbsp;&nbsp;
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logos/uct.png" style="width: 160px">  &nbsp;&nbsp;-->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/usach.png" style="width: 55px"> &nbsp;&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/umayor.png" style="width: 60px">
 </figure>
