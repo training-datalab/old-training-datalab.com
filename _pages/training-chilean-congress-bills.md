@@ -3,18 +3,18 @@ title: "Training Data Lab - Chilean Congress Bills"
 layout: textlay
 excerpt: "Training Data on Chilean Congress Bills"
 sitemap: false
-permalink: /projects/chilean-congress-bills.html
+permalink: /projects/chilean-congress-bills
 ---
 
 # Training Data on Chilean Congress Bills
 
 **Researchers:** Carla Cisternas and Bastián González-Bustamante
 
-**Associates:** Diego Aguilar and Mariana Ardiles
+**Associates:** Diego Aguilar
 
 **Assistants:** Elinor Luco and Beatriz Herrera
 
-[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish.html) 
+[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish) 
 
 ## Data and Samples
 
@@ -42,4 +42,4 @@ permalink: /projects/chilean-congress-bills.html
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Last updated: May 30, 2021.</small>
+<small>Last updated: July 27, 2021.</small>
