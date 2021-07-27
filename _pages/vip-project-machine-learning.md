@@ -12,7 +12,7 @@ permalink: /projects/vip-project-machine-learning
 
 **Associates:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
 
-[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish.html) 
+[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish) 
 
 ## Project Description
 
@@ -28,7 +28,7 @@ permalink: /projects/vip-project-machine-learning
 
 ## Objectives
 
-<p align="justify">This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics issues. In this very first version, we will focus on the dynamics of disinformation in economic and public interest issues. We expect to address and analyse other phenomena related to sectoral public policy making and market regulation in subsequent versions.</p>
+<p align="justify">This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics. In this very first version, we will focus on the dynamics of disinformation in economic and public interest issues. We expect to address and analyse other phenomena related to sectoral public policymaking and market regulation in subsequent versions.</p>
 
 <p align="justify">Therefore, our main objective for our first case study is:</p>
 
@@ -46,9 +46,9 @@ permalink: /projects/vip-project-machine-learning
 
 ## Research Methodology
 
-<p align="justify">The vertical integration will be carried out between students from different years, principal and associate researchers in a synchronous tutoring environment (workshops or evaluation meetings of one chronological hour) and asynchronous weekly autonomous work with data (three hours per week).</p>
+<p align="justify">The vertical integration will be carried out between students from different years, principals and associate researchers in a synchronous tutoring environment (workshops or evaluation meetings of one chronological hour) and asynchronous weekly autonomous work with data (three hours per week).</p>
 
-<p align="justify">Synchronous workshops and weekly meetings.</p>
+<p align="justify">Synchronous workshops and weekly meetings:</p>
 
 <ul>
 <li>Introduction and presentation of the project.</li>
@@ -77,6 +77,6 @@ permalink: /projects/vip-project-machine-learning
 
 ## Intellectual Property
 
-<p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principal and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
+<p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principals and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
 
 <small>Last updated: July 27, 2021.</small>
