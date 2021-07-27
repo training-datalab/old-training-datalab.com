@@ -12,6 +12,8 @@ permalink: /
 
 **We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
+<a href="https://training-datalab.com/about-spanish">See this description in Spanish.</a>
+
 Different institutions logistically or financially support this group.
 
 <figure class="fourth">
