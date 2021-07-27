@@ -1,20 +1,20 @@
 ---
-title: "Entrenamiento de datos sobre los proyectos de ley del Congreso chileno"
+title: "Training Data Lab - Entrenamiento de datos sobre los proyectos de ley del Congreso chileno"
 layout: textlay
 excerpt: "Entrenamiento de datos sobre los proyectos de ley del Congreso chileno"
 sitemap: false
-permalink: /projects/chilean-congress-bills-spanish.html
+permalink: /projects/chilean-congress-bills-spanish
 ---
 
 # Entrenamiento de datos sobre los proyectos de ley del Congreso chileno
 
 **Investigadores:** Carla Cisternas y Bastián González-Bustamante
 
-**Asociados:** Diego Aguilar y Mariana Ardiles
+**Asociados:** Diego Aguilar
 
 **Asistentes:** Elinor Luco y Beatriz Herrera
 
-[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
+[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills) 
 
 ## Datos y muestras
 
@@ -42,4 +42,4 @@ permalink: /projects/chilean-congress-bills-spanish.html
 | 5. Entrenamiento del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Última actualización: 30 de mayo de 2021.</small>
+<small>Última actualización: 27 de julio de 2021.</small>
