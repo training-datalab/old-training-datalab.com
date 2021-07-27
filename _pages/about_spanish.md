@@ -1,6 +1,6 @@
 ---
 title: "Training Data Lab - Home"
-layout: homelay
+layout: textlay
 excerpt: "Training Data Lab"
 sitemap: false
 permalink: /about-spanish
@@ -10,9 +10,9 @@ permalink: /about-spanish
 
 <p align="justify">Por otro lado, nos enfocamos en entrenar modelos con técnicas de aprendizaje automático y profundo etiquetando conjuntos de datos para diferentes proyectos. Lo anterior, nos permite clasificar datos no codificados usando nuestros modelos entrenados incorporando validación humana en el flujo de trabajo, lo que mejora la inteligencia artificial en los procesos de aprendizaje.</p>
 
-**Buscamos codificadores para unirse al proyecto de proyectos de ley del Congreso de Chile** [(más información)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
-
 <a href="https://training-datalab.com">Ver esta descripción en inglés.</a>
+
+**Buscamos codificadores para unirse al proyecto de proyectos de ley del Congreso de Chile** [(más información)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
 Diferentes instituciones apoyan logística o financieramente a este grupo.
 
