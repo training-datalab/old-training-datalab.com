@@ -12,32 +12,42 @@ permalink: /projects/vip-project-machine-learning
 
 **Collaborators:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
 
-[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish.html) 
+[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish.html) 
 
 ## Project Description
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/vip-project.png){: style="width: 350px; float: right; border: 10px"}
 
-<p align="justify">From a data set of bills in the Chilean Lower House between 2006 and 2018 (*N* = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. </p>
+<p align="justify">This project addresses the complexity of different political, social, and economic phenomena from a multidisciplinary approach by analysing big data. This project seeks, in particular, to develop and use machine learning applications to detect anomalies in data used by decision-makers and understand current social dynamics and information consumption dynamics.  In general, this project aims to study a number of social science research topics using trained algorithms.</p>
 
-## Coding Chilean Congress Bills
+<p align="justify">A case in point is Cambridge Analytica, a company accused of manipulating the 2016 US elections by positioning ideas and perceptions on Facebook. Indeed, during the electoral campaign, the company unauthorisedly collected Facebook user data to conduct micro-targeted campaigns with fake news and disinformation subsequently. This emblematic case demonstrates how the manipulation of big data and machine learning techniques make it possible to affect political results and, thus, impact the economy and public policies of entire countries and regions.</p>
 
-<p align="justify">We are looking for *ad honorem* coders to label our Congress bills’ subsample for this project. We need bachelor or master students of social sciences programmes. Our coders will receive general training and dedicate a variable and flexible amount of time to this task.</p>
+<p align="justify">In the first version of this project (2nd semester, 2021), we will focus precisely on misinformation about economic and public policy issues. To this end, our research team has programmed codes that allow the downloading of large volumes of information from the Chilean press and digital social networks in order to benchmark with different algorithms already trained to identify disinformation dynamics on specific topics. This way, we aim to explore and evaluate thematic gaps and compare their scope with more traditional and reliable information sources.</p>
 
-<p align="justify">We do not work with a specific number of coders because we iterate the labelling process to shape up coding accuracy until achieving a high-reliability level. Each subsample observation requires validation of a different number of coders depending on the specific classification task categories. For example, identifying the territorial scope has a higher threshold of coders than codifying the bills’ issue, which has less possible outcomes.</p>
+<p align="justify">A distinguishing characteristic of this project is that we will train our algorithm with Chilean data to identify the particular dynamics of the national reality. In this process, the students who join our team will play a fundamental role through coding and labelling data subsamples to provide inputs to train a classification algorithm.</p>
 
-<p align="justify">For further details, please contact <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</p>
+## Objectives
 
-## Machine Learning Classification
+<p align="justify">This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics issues. In this very first version, we will focus on the dynamics of disinformation in economic and public interest issues. We expect to address and analyse other phenomena related to sectoral public policy making and market regulation in subsequent versions.</p>
 
-<p align="justify">Once the database is codified, we train a model and predict the non-coded data using machine learning techniques. At this stage, it is possible to incorporate human validation in the workflow to validate observations with low confidence values. Finally, we will have the data necessary to carry out our principal analysis, in this case, stochastic actor-based models for networks dynamics, to observe co-sponsorship strategies in the Chilean Congress over the period.</p>
+<p align="justify">Therefore, our main objective for our first case study is:</p>
 
-## Phases
+<ul>
+<li>To train a classification algorithm to identify disinformation levels in public policy and economic issues in the Chilean digital sphere.</li>
+</ul>
 
-|---|---|---|---|---|---|---|
-| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%](https://progress-bar.dev/33) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![7%](https://progress-bar.dev/7) |
-| 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
-| 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+<p align="justify">The vertical integration with students allows us to establish the following secondary objectives related to the tutoring environment to be developed:</p>
 
-<small>Last updated: May 30, 2021.</small>
+<ul>
+<li>To train students in fundamental topics on social science research.</li>
+<li>To introduce students to machine learning topics.</li>
+<li>•	To train students in programming fundamentals in R.</li>
+</ul>
+
+## Research Methodology
+
+<p align="justify">The vertical integration will be carried out between students from different years, principal and associate researchers in a synchronous tutoring environment (workshops or evaluation meetings of one chronological hour) and asynchronous weekly autonomous work with data (three hours per week).</p>
+
+## Intellectual Property
+
+<small>Last updated: July 27, 2021.</small>
