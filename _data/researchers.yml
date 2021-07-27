@@ -3,7 +3,7 @@
   info1: University of Oxford
   email: bastian.gonzalezbustamante@politics.ox.ac.uk
   info2: Universidad de Santiago
-  email2: bastian.gonzalez.b@usach.cl
+  info3: bastian.gonzalez.b@usach.cl
   website: <a href="https://bgonzalezbustamante.com" target="_blank">https://bgonzalezbustamante.com</a>
 
 - name: Carla Cisternas
@@ -11,7 +11,7 @@
   info1: Leiden University
   email: c.g.cisternas.guasch@hum.leidenuniv.nl
   info2: Universidad Mayor
-  email2: carla.cisternas@umayor.cl
+  info3: carla.cisternas@umayor.cl
   website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
 
 - name: Alejandro Olivares L.
@@ -19,7 +19,7 @@
   info1: Universidad Católica de Temuco
   email: alejandro.olivares@uct.cl
   info2: 
-  email2: 
+  info3: 
   website: 
 
 - name: Rodrigo Cuevas
@@ -27,7 +27,7 @@
   info1: Universidad de Chile
   email: rodrigocuevas@uchile.cl
   info2: Universidad de Valparaíso
-  email: rodrigo.cuevas@uv.cl
+  info3: <a href="mailto:rodrigo.cuevas@uv.cl">rodrigo.cuevas@uv.cl</a>
   website: 
 
 - name: Mariana Ardiles
@@ -35,7 +35,7 @@
   info1: Universidad de Chile
   email: mariana.ardiles@uchile.cl
   info2:
-  email2:
+  info3:
   website: 
 
 - name: Diego Aguilar
@@ -43,5 +43,5 @@
   info1: McMaster University
   email: aguild1@mcmaster.ca
   info2: 
-  email2: 
+  info3: 
   website: 
