@@ -10,7 +10,7 @@ permalink: /projects/vip-project-machine-learning
 
 **Researchers:** Carla Cisternas and Francisco Castañeda
 
-**Collaborators:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
+**Associates:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish.html) 
 
