@@ -1,13 +1,13 @@
 - name: Mariana Ardiles
   photo: mardiles.jpg
-  info1: Lecturer
+  info1: 
   info2: Universidad de Chile
   email: mariana.ardiles@uchile.cl
-  website: <a href="https://uchile.academia.edu/MarianaArdilesThonet" target="_blank">Academia.edu</a>
+  website: 
 
 - name: Diego Aguilar
   photo: daguilar.jpg
-  info1: MA in Global Politics
+  info1: 
   info2: McMaster University
   email: aguild1@mcmaster.ca
   website: 
