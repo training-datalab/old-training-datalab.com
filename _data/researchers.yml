@@ -3,7 +3,7 @@
   info1: University of Oxford
   email: bastian.gonzalezbustamante@politics.ox.ac.uk
   info2: Universidad de Santiago
-  info3: bastian.gonzalez.b@usach.cl
+  info3: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a>
   website: <a href="https://bgonzalezbustamante.com" target="_blank">https://bgonzalezbustamante.com</a>
 
 - name: Carla Cisternas
@@ -11,7 +11,7 @@
   info1: Leiden University
   email: c.g.cisternas.guasch@hum.leidenuniv.nl
   info2: Universidad Mayor
-  info3: carla.cisternas@umayor.cl
+  info3: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a>
   website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
 
 - name: Alejandro Olivares L.
