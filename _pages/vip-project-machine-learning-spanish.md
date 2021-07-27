@@ -28,7 +28,7 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 ## Objetivos
 
-<p align="justify">Este proyecto busca conformar un equipo multidisciplinario de investigación verticalmente integrado para realizar diferentes aplicaciones de aprendizaje automático en temas de políticas públicas y economía. En esta primera versión, nos centraremos en las dinámicas de desinformación en temas económicos y de interés público. Esperamos abordar y analizar otros fenómenos relacionados con la formulación de políticas públicas sectoriales y regulación de mercados en futuras versiones.</p>
+<p align="justify">Este proyecto busca conformar un equipo multidisciplinario de investigación verticalmente integrado para realizar diferentes aplicaciones de aprendizaje automático en políticas públicas y economía. En esta primera versión, nos centraremos en las dinámicas de desinformación en temas económicos y de interés público. Esperamos abordar y analizar otros fenómenos relacionados con la formulación de políticas públicas sectoriales y regulación de mercados en futuras versiones.</p>
 
 <p align="justify">En consecuencia, nuestro objetivo principal para nuestro primer caso de estudio es: </p>
 
@@ -46,37 +46,37 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 ## Metodología de investigación
 
-<p align="justify">The vertical integration will be carried out between students from different years, principal and associate researchers in a synchronous tutoring environment (workshops or evaluation meetings of one chronological hour) and asynchronous weekly autonomous work with data (three hours per week).</p>
+<p align="justify">La integración vertical se realizará entre los estudiantes de distintos años que se integren al proyecto, investigadores responsables y asociados en un entorno de tutoría sincrónico (talleres o reuniones de evaluación de una hora cronológica) y trabajo autónomo semanal asincrónico con datos (tres horas semanales).</p>
 
-<p align="justify">Synchronous workshops and weekly meetings.</p>
+<p align="justify">Talleres y reuniones semanales sincrónicas:</p>
 
 <ul>
-<li>Introduction and presentation of the project.</li>
-<li>Fundamental notions of machine learning.</li>
-<li>Disinformation and public opinion.</li>
-<li>Fundamental elements of methodology.</li>
-<li>Data coding and labelling.</li>
-<li>Fundamentals of R.</li>
-<li>Descriptive statistics in R.</li>
-<li>Data coding evaluation.</li>
-<li>Linear models in R.</li>
-<li>Logistic models in R.</li>
-<li>Data coding evaluation.</li>
-<li>Regularisation and cross-validation.</li>
-<li>Decision trees and Random Forest.</li>
-<li>Data coding evaluation.</li>
-<li>Presentation and comments on preliminary analysis.</li>
-<li>Closing and self-evaluation of this first version.</li>
+<li>Introducción y presentación del proyecto.</li>
+<li>Nociones fundamentales de aprendizaje automático.</li>
+<li>Desinformación y opinión pública.</li>
+<li>Elementos fundamentales de metodología.</li>
+<li>Codificación y etiquetado de datos.</li>
+<li>Fundamentos de R.</li>
+<li>Estadística descriptiva en R.</li>
+<li>Evaluación codificación de datos.</li>
+<li>Modelos lineales en R.</li>
+<li>Modelos logísticos en R.</li>
+<li>Evaluación codificación de datos.</li>
+<li>Regularización y validación cruzada.</li>
+<li>Árboles de decisión y Random Forest.</li>
+<li>Evaluación codificación de datos.</li>
+<li>Presentación y comentarios de análisis preliminares.</li>
+<li>Cierre y autoevaluación de esta primera versión.</li>
 </ul>
 
-<p align="justify">This project is developed by the Business School of the Universidad Mayor, but it will be carried out entirely online. No previous knowledge of statistics or programming is required, only access to a computer and Internet connection. Students will be evaluated during the data coding progress meetings (25% each) and the final session through self-evaluation (25%).</p>
+<p align="justify">Este proyecto se desarrolla desde la Escuela de Negocios de la Universidad Mayor, pero se realizará completamente online. No son necesarios conocimientos previos en estadística o programación, solo se requiere acceso a un computador y conexión a Internet. La evaluación de los estudiantes se realizará durante las reuniones de avance de la codificación de datos (25% cada una) y durante la sesión final a través de una autoevaluación (25 %).</p>
 
-<p align="justify">The synchronous tutorials, on the one hand, aim to train students in essential social science research topics and introduce them to machine learning and programming in R. For their part, the asynchronous autonomous work is related to data coding and labelling to train our algorithm, which will be constantly evaluated in several scheduled synchronous sessions.</p>
+<p align="justify">Las tutorías sincrónicas, por una parte, tienen por objetivo capacitar a los estudiantes en temas básicos de investigación en ciencias sociales e introducirlos en temas de aprendizaje automático y programación en R. Por su parte, el trabajo autónomo asincrónico tiene relación con la codificación y etiquetado de información para entrenar nuestro propio algoritmo, lo que será evaluado constantemente en diversas sesiones sincrónicas programadas.</p>
 
-<p align="justify">Data sets compilation and labelling will be carried out with codes programmed in R and Python and on digital platforms developed by the research group comprised of several members of this project, bringing together researchers from different universities.</p>
+<p align="justify">La compilación y etiquetado de los conjuntos de datos se realizarán con códigos programados en R y Python y en plataformas digitales elaboradas por el grupo de investigación al que pertenecen varios miembros de este proyecto que agrupa investigadores de diversas universidades.</p>
 
-## Intellectual Property
+## Propiedad intelectual
 
-<p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principal and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
+<p align="justify">Con el objetivo de fomentar la innovación, la propiedad intelectual de lo creado en este proyecto VIP será compartida entre estudiantes e investigadores responsables y asociados. En consecuencia, los miembros del equipo podrán utilizar los datos levantados para publicaciones propias, agradeciendo y mencionando adecuadamente al proyecto. Esperamos, en futuras versiones, incentivar a los estudiantes más experimentados a utilizar los datos para sumarse a coautorías con investigadores del equipo y que asuman roles de liderazgo para orientar y capacitar a nuevos integrantes.</p>
 
-<small>Last updated: July 27, 2021.</small>
+<small>Last updated: 27 de julio de 2021.</small>
