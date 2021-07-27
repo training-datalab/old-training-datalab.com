@@ -10,9 +10,9 @@ permalink: /team/
 
 **We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
 
-## Core Team
+## Researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.core_team %}
+{% for member in site.data.researchers %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -23,7 +23,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info1 }}<br>{{ member.info2 }}<br><{{ member.email }}><br>{{ member.website }}
+  {{ member.info1 }}<br>{{ member.info2 }}<br><{{ member.email }}><br>{{ member.info2 }}<br>{{ member.website }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -39,7 +39,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Associates
+<!-- ## Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.associates %}
 
@@ -66,7 +66,7 @@ permalink: /team/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %}-->
 
 ## Research Assistants
 <div class="row">
