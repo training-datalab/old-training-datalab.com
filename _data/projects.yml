@@ -1,9 +1,9 @@
 - title: "VIP Project: Machine Learning in Public Policy and Economics"
   image: UMayor.png
-  description: From a data set of bills in the Chilean Lower House between 2006 and 2018 (<em>N</em> = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. 
+  description:  
   authors: Carla Cisternas and Francisco Castañeda
   link:
-    url: https://training-datalab.com/projects/chilean-congress-bills.html
+    url: https://training-datalab.com/projects/machine-learning-public-policy
     display: See Project
   highlight: 1
   news2: 
