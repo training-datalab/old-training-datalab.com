@@ -30,18 +30,18 @@
   info3: <a href="mailto:rodrigo.cuevas@uv.cl">rodrigo.cuevas@uv.cl</a>
   website: 
 
-- name: Mariana Ardiles
-  photo: mardiles.jpg
-  info1: Universidad de Chile
-  email: mariana.ardiles@uchile.cl
-  info2:
-  info3:
-  website: 
-
 - name: Diego Aguilar
   photo: daguilar.jpg
   info1: McMaster University
   email: aguild1@mcmaster.ca
   info2: 
   info3: 
+  website: 
+
+- name: Mariana Ardiles
+  photo: mardiles.jpg
+  info1: Universidad de Chile
+  email: mariana.ardiles@uchile.cl
+  info2:
+  info3:
   website: 
