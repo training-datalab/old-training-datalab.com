@@ -21,7 +21,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.info1 }}<br><{{ member.email }}><br>{{ member.info2 }}<br>{{ member.info3 }}<br>{{ member.website }}
 </div>
@@ -50,7 +50,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   {{ member.info1 }}<br><{{ member.email }}><br>{{ member.info2 }}<br>{{ member.info3 }}<br>{{ member.website }}
 </div>
@@ -97,28 +97,26 @@ permalink: /team/
 </div>
 {% endif %}-->
 
-## Research Assistants
+<!-- ## Research Assistants
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<!-- <h4>Research Assistants</h4> -->
+
 {% for member in site.data.assistants1 %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<!-- <h4></h4> -->
 {% for member in site.data.assistants2 %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<!-- <h4></h4> -->
 {% for member in site.data.assistants3 %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
 </div>
