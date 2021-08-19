@@ -117,6 +117,6 @@ permalink: /team/
 {% for member in site.data.assistants3 %}
 {{ member.name }}
 {% endfor %}
-</div> -->
+</div> 
 
-</div>
+</div> -->
