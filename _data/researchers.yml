@@ -14,10 +14,10 @@
   info3: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a>
   website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
 
-- name: Alejandro Olivares L.
-  photo: aolivares.jpg
-  info1: Universidad Católica de Temuco
-  email: alejandro.olivares@uct.cl
+- name: Francisco Castañeda
+  photo: fcastaneda.jpg
+  info1: Universidad Mayor
+  email: francisco.castaneda@umayor.cl
   info2: 
   info3: 
   website: 
@@ -34,6 +34,14 @@
   photo: daguilar.jpg
   info1: McMaster University
   email: aguild1@mcmaster.ca
+  info2: 
+  info3: 
+  website: 
+
+- name: Alejandro Olivares L.
+  photo: aolivares.jpg
+  info1: Universidad Católica de Temuco
+  email: alejandro.olivares@uct.cl
   info2: 
   info3: 
   website: 
