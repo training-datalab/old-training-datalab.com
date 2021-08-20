@@ -1,55 +1,41 @@
 - name: Bastián González-Bustamante
   photo: bgonzalezbustamante.jpg
-  info1: University of Oxford
+  info: University of Oxford
   email: bastian.gonzalezbustamante@politics.ox.ac.uk
-  info2: Universidad de Santiago
-  info3: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a>
   website: <a href="https://bgonzalezbustamante.com" target="_blank">https://bgonzalezbustamante.com</a>
 
 - name: Carla Cisternas
   photo: ccisternas.jpg
-  info1: Leiden University
+  info: Leiden University
   email: c.g.cisternas.guasch@hum.leidenuniv.nl
-  info2: Universidad Mayor
-  info3: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a>
   website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
 
 - name: Francisco Castañeda
   photo: fcastaneda.jpg
-  info1: Universidad Mayor
+  info: Universidad Mayor
   email: francisco.castaneda@umayor.cl
-  info2: 
-  info3: 
   website: 
 
 - name: Rodrigo Cuevas
   photo: rcuevas.jpg
-  info1: Universidad de Chile
+  info: Universidad de Chile
   email: rodrigocuevas@uchile.cl
-  info2: Universidad de Valparaíso
-  info3: <a href="mailto:rodrigo.cuevas@uv.cl">rodrigo.cuevas@uv.cl</a>
   website: 
 
 - name: Diego Aguilar
   photo: daguilar.jpg
-  info1: McMaster University
+  info: McMaster University
   email: aguild1@mcmaster.ca
-  info2: 
-  info3: 
   website: 
 
 - name: Alejandro Olivares L.
   photo: aolivares.jpg
-  info1: Universidad Católica de Temuco
+  info: Universidad Católica de Temuco
   email: alejandro.olivares@uct.cl
-  info2: 
-  info3: 
-  website: 
+  website: <a href="https://www.researchgate.net/profile/Alejandro-Olivares-L" target="_blank">ResearchGate</a>
 
 - name: Mariana Ardiles
   photo: mardiles.jpg
-  info1: Universidad de Chile
+  info: Universidad de Chile
   email: mariana.ardiles@uchile.cl
-  info2:
-  info3:
-  website: 
+  website: <a href="https://uchile.academia.edu/MarianaArdilesThonet" target="_blank">Academia.edu</a>
