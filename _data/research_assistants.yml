@@ -1,23 +1,23 @@
 - name: Elinor Luco
   photo: eluco.jpg
-  info1: Universidad de Santiago
+  info: Universidad de Santiago
   email: elinor.luco@usach.cl
   website: 
 
 - name: Matías Astete
   photo: mastete.jpg
-  info1: Universidad de Santiago
+  info: Universidad de Santiago
   email: matias.astete@usach.cl
   website: 
 
 - name: Berenice Orvenes
   photo: avatar.jpg
-  info1: Universidad de Santiago
+  info: Universidad de Santiago
   email: berenice.orvenes@usach.cl
   website: 
 
 - name: Beatriz Herrera
   photo: avatar.jpg
-  info1: Universidad de Santiago
+  info: Universidad de Santiago
   email: beatriz.herrera@usach.cl
   website: 
