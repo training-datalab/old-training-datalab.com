@@ -25,5 +25,5 @@ permalink: /tufte-open-review-spanish/
 <li>Breve biografía del evaluador (extensión recomendada 100 - 150 palabras).</li>
 <li>Dictamen abierto fundado (extensión recomendada 1.000 - 1.500 palabras).</li>
 <li>Recomendación final (rechazar, aceptar sujeto a modificaciones o aceptar sin modificaciones).</li>
-<ul>
+</ul>
 <br />
