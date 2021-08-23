@@ -25,5 +25,5 @@ permalink: /tufte-open-review/
 <li>A brief biography of the reviewer (recommended length 100 - 150 words).</li>
 <li>Open and reasoned opinion (recommended length 1,000 - 1,500 words).</li>
 <li>Final recommendation (reject, accept subject to modifications or accept without modifications).</li>
-<ul>
+</ul>
 <br />
