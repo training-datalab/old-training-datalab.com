@@ -4,15 +4,18 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [Unreleased]
 
-## [1.7.6] - TBC
+## [1.8.6] - TBC
 ### Added
 - COVID-19 tracker.
-- OCR civil service.
 - Google Scholar scraper.
 - twConstitution project.
 - CRediT.
 
 ## [Released]
+
+## [1.7.6] - 2021-08-23
+### Added
+- OCR civil service.
 
 ## [1.6.6] - 2021-08-20
 ### Changed
