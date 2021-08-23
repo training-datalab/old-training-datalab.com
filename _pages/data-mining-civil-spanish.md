@@ -12,7 +12,7 @@ permalink: /projects/chilean-civil-service-spanish
 
 **Investigador:** Bastián González-Bustamante
 
-**Asistentes:** Matías Astete and Berenice Orvenes
+**Asistentes:** Matías Astete y Berenice Orvenes
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service) 
 
