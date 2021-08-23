@@ -30,7 +30,7 @@
 
 - title: "Data Mining Chilean Civil Service"
   image: Civil-Servants.jpg
-  description: We present a novel data which contains detailed information on 431 senior public managers of the Chilean civil service from 2009-2017. The data set was created from requests for access to public information and a revision of 1,396 public documents. These documents were digitalised with data mining algorithms and reviewed exhaustively with semi-automated procedures. This allowed us to obtain diverse information about senior public managers. 
+  description: We present a novel data set that contains detailed information on 431 senior public managers of the Chilean civil service from 2009-2017. The set was created from requests for access to public information and an OCR revision of 1,396 public documents. These documents were digitalised with data mining algorithms and reviewed exhaustively with semi-automated procedures.
   authors: Bastián González-Bustamante, Matías Astete, and Berenice Orvenes
   link:
     url: https://training-datalab.com/projects/chilean-civil-service
