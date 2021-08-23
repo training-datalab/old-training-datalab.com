@@ -8,7 +8,7 @@ permalink: /projects/chilean-civil-service
 
 # Data Mining Chilean Civil Service
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram.png){: style="width: 320px; float: right; border: 10px"}
 
 **Researcher:** Bastián González-Bustamante
 
@@ -33,5 +33,4 @@ permalink: /projects/chilean-civil-service
 <li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.</li>
 </ul>
 <br />
-
 <small>Last updated: August 23, 2021.</small>
