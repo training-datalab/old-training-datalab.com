@@ -8,7 +8,7 @@ permalink: /projects/chilean-civil-service
 
 # Data Mining Chilean Civil Service
 
-**Researchers:** Bastián González-Bustamante
+**Researcher:** Bastián González-Bustamante
 
 **Assistants:** Matías Astete and Berenice Orvenes
 
