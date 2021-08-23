@@ -8,13 +8,13 @@ permalink: /projects/chilean-civil-service
 
 # Data Mining Chilean Civil Service
 
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram.png){: style="width: 320px; float: right; border: 10px"}
+
 **Researcher:** Bastián González-Bustamante
 
 **Assistants:** Matías Astete and Berenice Orvenes
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service-spanish) 
-
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram.png){: style="width: 320px; float: right; border: 10px"}
 
 ## Creation of the Dataset
 
