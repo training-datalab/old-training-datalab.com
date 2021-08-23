@@ -8,6 +8,8 @@ permalink: /projects/chilean-civil-service
 
 # Data Mining Chilean Civil Service
 
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram.png){: style="width: 300px; float: right; border: 10px"}
+
 **Researcher:** Bastián González-Bustamante
 
 **Assistants:** Matías Astete and Berenice Orvenes
@@ -15,8 +17,6 @@ permalink: /projects/chilean-civil-service
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service-spanish) 
 
 ## Creation of the Dataset
-
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram.png){: style="width: 300px; float: right; border: 10px"}
 
 <p align="justify">The sources of information were data released by the DNSC in response to requests AE004T0000240 and AE004T0000484 under Law on Access to Public Information. These requests were made on December 26, 2016, and April 26, 2018, respectively. With the first request, we developed a database of senior public managers for the period 2009-2015 (*N* = 391; see <a href="https://doi.org/10.1111/blar.13044" target="_blank">González-Bustamante, 2020</a>).</p>
 
