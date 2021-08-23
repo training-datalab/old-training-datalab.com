@@ -3,7 +3,7 @@ title: "Training Data Lab - Data Mining Chilean Civil Service"
 layout: textlay
 excerpt: "Data Mining Chilean Civil Service"
 sitemap: false
-permalink: /projects/chilean-civil-service
+permalink: /projects/chilean-civil-service-spanish
 ---
 
 # Minería de datos del servicio civil chileno
