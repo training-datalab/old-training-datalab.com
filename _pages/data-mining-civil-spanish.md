@@ -8,6 +8,8 @@ permalink: /projects/chilean-civil-service-spanish
 
 # Minería de datos del servicio civil chileno
 
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram_spanish.png){: style="width: 320px; float: right; border: 10px"}
+
 **Investigador:** Bastián González-Bustamante
 
 **Asistentes:** Matías Astete and Berenice Orvenes
@@ -15,8 +17,6 @@ permalink: /projects/chilean-civil-service-spanish
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service) 
 
 ## Creación del conjunto de datos 
-
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram_spanish.png){: style="width: 320px; float: right; border: 10px"}
 
 <p align="justify">Las fuentes originales de información corresponden a datos liberados por la DNSC en respuesta a las solicitudes AE004T0000240 y AE004T0000484 en el marco de la Ley 20.285 sobre Acceso a la Información Pública, realizadas el 26 de diciembre de 2016 y el 26 de abril de 2018, respectivamente. Con la primera solicitud elaboramos una base de datos de altos directivos públicos para el período 2009-2015 (*N* = 391, véase también <a href="https://doi.org/10.1111/blar.13044" target="_blank">González-Bustamante, 2020</a>).</p> 
 
