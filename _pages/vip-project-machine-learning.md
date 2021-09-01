@@ -77,9 +77,9 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">Data sets compilation and labelling will be carried out with codes programmed in R and Python and on digital platforms developed by the research group comprised of several members of this project, bringing together researchers from different universities.</p>
 
-## Coding and Machine Learning
-
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 350px; float: right; border: 10px"}
+
+## Coding and Machine Learning
 
 <p align="justify">From social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134), we draw a subsample considering some messages per day. We will carry out two data coding procedures in this subsample to identify the emotionality and reliability of the information. Once both are codified, we will train a model and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
 
