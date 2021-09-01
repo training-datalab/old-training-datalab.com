@@ -18,6 +18,16 @@
   highlight: 1
   news2: 
 
+- title: "Chilean Political Science Impact Ranking"
+  image: CPS-Ranking.png
+  description: This is a scraper programmed in order to obtain quarterly data from Google Scholar and elaborate an impact measurement. This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
+  authors: Bastián González-Bustamante
+  link:
+    url: https://training-datalab.com/projects/cps-ranking
+    display: See Project
+  highlight: 1
+  news2: 
+
 - title: "Training Data on Political Science Publications"
   image: Library.jpg
   description: Based on data from the latest measurement of the <a href="https://bgonzalezbustamante.com/cps-ranking/series/2021-03-08-impact-ranking/" target="_blank">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1 according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.
