@@ -30,9 +30,11 @@ permalink: /projects/cps-ranking
 
 <ul>
 <li><a href="https://bgonzalezbustamante.com/cps-ranking/" target="_blank">Quarterly measurements</a>.</li>
+<li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/to-be-ranked.md" target="_blank">Researchers to be added</a>.</li>
 <li><a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Data sets on the OSF-Project</a>.</li>
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">GitHub repository</a>.</li>
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt" target="_blank">Changelog</a>.</li>
 </ul>
 <br />
+<small>Ongoing project.</small><br />
 <small>Last updated: September 1, 2021.</small>
