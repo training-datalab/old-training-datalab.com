@@ -34,4 +34,5 @@ and soon available for public consultation).</p>
 <li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.</li>
 </ul>
 <br />
+<small>Completed project.</small><br />
 <small>Last updated: August 23, 2021.</small>
