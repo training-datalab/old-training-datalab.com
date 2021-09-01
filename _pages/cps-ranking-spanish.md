@@ -12,19 +12,19 @@ permalink: /projects/cps-ranking
 
 **Asociados:** Alejandro Olivares, Carla Cisternas y Rodrigo Cuevas
 
-[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/cps-ranking-spanish) 
+[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/cps-ranking) 
 
 ## Sobre el ranking
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/network-ranking.png){: style="width: 350px; float: right; border: 10px"}
 
-<p align="justify">This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.</p>
+<p align="justify">Este ranking se presenta de mayor a menor índice H. El número de citas se ha utilizado como segundo criterio en caso de empate en el Índice H.</p>
 
-<p align="justify">It has been elaborated according to the following sampling criteria. First of all, all the paper-givers with a Chilean academic affiliation in the last political science congress organised by the Chilean Association of Political Science (ACCP in Spanish) in 2018 were identified. After that, people considered was those who possed an active   Google Scholar account. Subsequently, well-known researchers in the Chilean field, who also possess a Google Scholar profile, suggested by other people who were selected in the previous step were added. Finally, authors who had added to their profile publications that are not their authorship (because of name confusion, deliberately or without realising it) were removed from the ranking.</p>
+<p align="justify">Se ha elaborado según los siguientes criterios de muestreo. En primer lugar, se identificaron todos los ponentes con filiación académica chilena en el último congreso de ciencia política organizado por la Asociación Chilena de Ciencia Política (ACCP) en 2018. Luego, se consideró a las personas que poseían una cuenta activa en Google Scholar. Posteriormente, se agregaron investigadores reconocidos en el ámbito chileno, que también poseyeran un perfil en Google Scholar, sugeridos por otras personas que fueron seleccionadas en el paso anterior. Por último, se eliminaron del ranking los autores que habían añadido a su perfil publicaciones que no son de su autoría (por confusión de nombres, deliberadamente o sin darse cuenta).</p>
 
-<p align="justify">Furthermore, a consistency index (C-Index) has been calculated on March 2021 measurement. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.</p>
+<p align="justify">Además, se ha calculado un índice de consistencia (C-Index) sobre la medición de marzo de 2021. El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en cuanto a la autoría. Los valores más bajos se asocian a mayores incoherencias, por lo que los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.</p>
 
-<p align="justify">If you like to suggest someone, please send an email to <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>.</p>
+<p align="justify">Si quiere sugerir a alguien, envíe un correo electrónico a <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>.</p>
 
 ## Recursos
 
