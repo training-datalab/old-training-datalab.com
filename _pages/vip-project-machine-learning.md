@@ -12,6 +12,8 @@ permalink: /projects/vip-project-machine-learning
 
 **Associates:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
 
+**Assistants:** Esteban Barrios, César Oviedo, Virla Liberona, Maximiliano Ossa, Felipe Aniñir, Sebastián Saldías, Carolina Ávila, Nikolas Romero, Gonzalo Avaria, and Matías Carrillo
+
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish) 
 
 ## Project Description
