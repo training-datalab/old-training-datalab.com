@@ -34,4 +34,5 @@ y pronto disponible para consulta pública).</p>
 <li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Artículo publicado en español</a>.</li>
 </ul>
 <br />
+<small>Proyecto terminado.</small><br />
 <small>Última actualización: 23 de agosto de 2021.</small>
