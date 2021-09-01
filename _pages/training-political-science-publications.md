@@ -14,7 +14,7 @@ permalink: /projects/political-science-publications.html
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_publications.png){: style="width: 350px; float: right; border: 10px"}
 
-<p align="justify">Based on data from the latest measurement of the Chilean Politics Science Impact Ranking (<a href="https://bgonzalezbustamante.com/cps-ranking/series/2021-03-08-impact-ranking/" target="_blank">CPS-Ranking</a>), we have collected all the authors’ publications ranked in the first quartile (Q1) according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.</p>
+<p align="justify">Based on data from the the Chilean Politics Science Impact Ranking (<a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>), we have collected all the authors’ publications ranked in the first quartile (Q1) according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.</p>
 
 ## Coding Political Science Publications
 
@@ -34,4 +34,5 @@ permalink: /projects/political-science-publications.html
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Last updated: April 29, 2021.</small>
+<small>Project on standby.</small><br />
+<small>Last updated: September 1, 2021.</small>
