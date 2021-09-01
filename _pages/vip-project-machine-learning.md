@@ -81,7 +81,7 @@ permalink: /projects/vip-project-machine-learning
 
 ## Coding and Machine Learning
 
-<p align="justify">From social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134), we draw a subsample considering some messages per day. We will carry out two data coding procedures in this subsample to identify the emotionality and reliability of the information. Once both are codified, we will train a model and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
+<p align="justify">We draw a subsample considering some messages per day from social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134). We will carry out two data coding procedures in this subsample to identify the emotionality and reliability of the information. Once both are codified, we will train models and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
 
 <p align="justify">It is relevant to note that both the complete data set and subsample have been properly anonymised with a cryptographic algorithm based on a hash function to meet the current ethical considerations on social media research.</p>
 
@@ -90,7 +90,7 @@ permalink: /projects/vip-project-machine-learning
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![70%](https://progress-bar.dev/70) |
 | 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
-| 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 5. Train Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
 ## Intellectual Property
