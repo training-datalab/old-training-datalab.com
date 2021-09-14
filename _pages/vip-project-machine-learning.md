@@ -77,25 +77,26 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">Data sets compilation and labelling will be carried out with codes programmed in R and Python and on digital platforms developed by the research group comprised of several members of this project, bringing together researchers from different universities.</p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 400px; float: right; border: 10px"}
 
 ## Coding and Machine Learning
 
-<p align="justify">We draw a subsample considering some messages per day from social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134). We will carry out two data coding procedures in this subsample to identify the emotionality and reliability of the information. Once both are codified, we will train models and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
+<p align="justify">We draw two subsamples considering some messages per day from social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134). We will carry out three data coding procedures in these subsamples to identify the position, emotionality, and credibility of the information. Then, we will train models and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
 
-<p align="justify">It is relevant to note that both the complete data set and subsample have been properly anonymised with a cryptographic algorithm based on a hash function to meet the current ethical considerations on social media research.</p>
+<p align="justify">It is relevant to note that the complete data set and subsamples have been properly anonymised with a cryptographic algorithm based on a hash function to meet the current ethical considerations on social media research.</p>
 
 ## Phases
 
 |---|---|---|---|---|---|---|
-| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![70%](https://progress-bar.dev/70) |
+| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![75%](https://progress-bar.dev/75) |
 | 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 5. Train Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 9. Benchmarking| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
 
 ## Intellectual Property
 
 <p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principals and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
 <br />
 <small>Ongoing project.</small><br />
-<small>Last updated: September 2, 2021.</small>
+<small>Last updated: September 14, 2021.</small>
