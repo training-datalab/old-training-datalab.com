@@ -75,9 +75,9 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">Las tutorías sincrónicas, por una parte, tienen por objetivo capacitar a los estudiantes en temas básicos de investigación en ciencias sociales e introducirlos en temas de aprendizaje automático y programación en R. Por su parte, el trabajo autónomo asincrónico tiene relación con la codificación y etiquetado de información para entrenar nuestro propio algoritmo, lo que será evaluado constantemente en diversas sesiones sincrónicas programadas.</p>
 
-<p align="justify">La compilación y etiquetado de los conjuntos de datos se realizarán con códigos programados en R y Python y en plataformas digitales elaboradas por el grupo de investigación al que pertenecen varios miembros de este proyecto que agrupa investigadores de diversas universidades.</p>
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 550px; float: right; border: 10px"}
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 400px; float: right; border: 10px"}
+<p align="justify">La compilación y etiquetado de los conjuntos de datos se realizarán con códigos programados en R y Python y en plataformas digitales elaboradas por el grupo de investigación al que pertenecen varios miembros de este proyecto que agrupa investigadores de diversas universidades.</p>
 
 ## Codificación y aprendizaje automático
 
