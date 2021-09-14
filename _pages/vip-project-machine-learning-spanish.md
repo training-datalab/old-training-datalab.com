@@ -77,25 +77,26 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">La compilación y etiquetado de los conjuntos de datos se realizarán con códigos programados en R y Python y en plataformas digitales elaboradas por el grupo de investigación al que pertenecen varios miembros de este proyecto que agrupa investigadores de diversas universidades.</p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 400px; float: right; border: 10px"}
 
 ## Codificación y aprendizaje automático
 
-<p align="justify">Extraemos una submuestra considerando algunos mensajes por día de los datos de las redes sociales del referéndum chileno para una nueva Constitución en octubre de 2020 (*N* = 2.529.134). En esta submuestra realizaremos dos procedimientos de codificación de datos para identificar la emocionalidad y la fiabilidad de la información. Una vez codificados ambos, entrenaremos modelos y predeciremos los datos no codificados de las redes sociales utilizando técnicas de aprendizaje automático e incorporando la validación humana en el flujo de trabajo.</p>
+<p align="justify">Extraemos dos submuestras considerando algunos mensajes por día de los datos de las redes sociales del referéndum chileno para una nueva Constitución en octubre de 2020 (*N* = 2.529.134). En esta submuestra realizaremos tres procedimientos de codificación de datos para identificar la posición, emocionalidad y credibilidad de la información. Luego, entrenaremos modelos y predeciremos los datos no codificados de las redes sociales utilizando técnicas de aprendizaje automático e incorporando la validación humana en el flujo de trabajo.</p>
 
-<p align="justify">Es importante señalar que tanto el conjunto de datos completo como la submuestra han sido debidamente anonimizados con un algoritmo criptográfico basado en una función *hash* para cumplir con las consideraciones éticas actuales sobre la investigación en medios sociales.</p>
+<p align="justify">Es importante señalar que tanto el conjunto de datos completo como las submuestras han sido debidamente anonimizados con un algoritmo criptográfico basado en una función *hash* para cumplir con las consideraciones éticas actuales sobre la investigación en medios sociales.</p>
 
 ## Fases
 
 |---|---|---|---|---|---|---|
-| 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![70%](https://progress-bar.dev/70) |
+| 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![75%](https://progress-bar.dev/75) |
 | 3. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 5. Entrenamiento de modelos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación de modelos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 9. Benchmarking| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
 
 ## Propiedad intelectual
 
 <p align="justify">Con el objetivo de fomentar la innovación, la propiedad intelectual de lo creado en este proyecto VIP será compartida entre estudiantes e investigadores responsables y asociados. En consecuencia, los miembros del equipo podrán utilizar los datos levantados para publicaciones propias, agradeciendo y mencionando adecuadamente al proyecto. Esperamos, en futuras versiones, incentivar a los estudiantes más experimentados a utilizar los datos para sumarse a coautorías con investigadores del equipo y que asuman roles de liderazgo para orientar y capacitar a nuevos integrantes.</p>
 <br />
 <small>Proyecto en curso.</small><br />
-<small>Última actualización: 2 de septiembre de 2021.</small>
+<small>Última actualización: 14 de septiembre de 2021.</small>
