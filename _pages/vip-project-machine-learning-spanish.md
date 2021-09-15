@@ -81,7 +81,7 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 ## Codificación y aprendizaje automático
 
-<p align="justify">Extraemos dos submuestras considerando algunos mensajes por día de los datos de las redes sociales del referéndum chileno para una nueva Constitución en octubre de 2020 (*N* = 2.529.134). En esta submuestra realizaremos tres procedimientos de codificación de datos para identificar la posición, emocionalidad y credibilidad de la información. Luego, entrenaremos modelos y predeciremos los datos no codificados de las redes sociales utilizando técnicas de aprendizaje automático e incorporando la validación humana en el flujo de trabajo.</p>
+<p align="justify">Extraemos dos submuestras considerando algunos mensajes por día de los datos de las redes sociales del referéndum chileno para una nueva Constitución en octubre de 2020 (*N* = 2.529.134). En estas submuestras realizaremos dos procedimientos de codificación de datos para identificar la posición, emocionalidad y credibilidad de la información. Luego, entrenaremos modelos y predeciremos los datos no codificados de las redes sociales utilizando técnicas de aprendizaje automático e incorporando la validación humana en el flujo de trabajo.</p>
 
 <p align="justify">Es importante señalar que tanto el conjunto de datos completo como las submuestras han sido debidamente anonimizados con un algoritmo criptográfico basado en una función *hash* para cumplir con las consideraciones éticas actuales sobre la investigación en medios sociales.</p>
 
