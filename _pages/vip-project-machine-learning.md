@@ -81,7 +81,7 @@ permalink: /projects/vip-project-machine-learning
 
 ## Coding and Machine Learning
 
-<p align="justify">We draw two subsamples considering some messages per day from social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134). We will carry out three data coding procedures in these subsamples to identify the position, emotionality, and credibility of the information. Then, we will train models and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
+<p align="justify">We draw two subsamples considering some messages per day from social media data of the Chilean referendum for a new Constitution in October 2020 (*N* = 2,529,134). We will carry out two data coding procedures in these subsamples to identify the position, emotionality, and credibility of the information. Then, we will train models and predict the non-coded social media data using machine learning techniques and incorporating human validation in the workflow.</p>
 
 <p align="justify">It is relevant to note that the complete data set and subsamples have been properly anonymised with a cryptographic algorithm based on a hash function to meet the current ethical considerations on social media research.</p>
 
