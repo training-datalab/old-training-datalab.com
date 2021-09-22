@@ -73,9 +73,9 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">This project is developed by the Business School of the Universidad Mayor, but it will be carried out entirely online. No previous knowledge of statistics or programming is required, only access to a computer and Internet connection. Students will be evaluated during the data coding progress meetings (25% each) and the final session through self-evaluation (25%).</p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 550px; float: right; border: 10px"}
-
 <p align="justify">The synchronous tutorials, on the one hand, aim to train students in essential social science research topics and introduce them to machine learning and programming in R. For their part, the asynchronous autonomous work is related to data coding and labelling to train our algorithm, which will be constantly evaluated in several scheduled synchronous sessions.</p>
+
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 550px; float: right; border: 10px"}
 
 <p align="justify">Data sets compilation and labelling will be carried out with codes programmed in R and Python and on digital platforms developed by the research group comprised of several members of this project, bringing together researchers from different universities.</p>
 
