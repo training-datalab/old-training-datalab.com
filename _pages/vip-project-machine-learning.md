@@ -99,4 +99,4 @@ permalink: /projects/vip-project-machine-learning
 <p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principals and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
 <br />
 <small>Ongoing project.</small><br />
-<small>Last updated: September 22, 2021.</small>
+<small>Last updated: September 23, 2021.</small>
