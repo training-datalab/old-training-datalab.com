@@ -8,7 +8,7 @@ permalink: /team/
 
 # Team Members
 
-**We have an open call for research assistants**<a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(see in Spanish)</a>
+**We have an open call for research assistants** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(see in Spanish)</a>
 
 ## Researchers
 {% assign number_printed = 0 %}
