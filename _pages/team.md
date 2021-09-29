@@ -8,7 +8,7 @@ permalink: /team/
 
 # Team Members
 
-**We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html) 
+<a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">**We have an open call for research assistants (in Spanish)**</a>
 
 ## Researchers
 {% assign number_printed = 0 %}
