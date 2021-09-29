@@ -14,7 +14,7 @@ permalink: /about-spanish
 
 <a href="https://training-datalab.com">Ver esta descripción en inglés.</a>
 
-**Tenemos una convocatoria abierta para asistentes de investigación ** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">((ver en español))</a>
+**Tenemos una convocatoria abierta para asistentes de investigación** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(ver en español)</a>
 
 Diferentes instituciones apoyan logística o financieramente a este grupo.
 
