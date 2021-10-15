@@ -11,7 +11,7 @@
 - title: "Training Data on Chilean Congress Bills"
   image: Congreso_Nacional_de_Chile.jpg
   description: From a data set of bills in the Chilean Lower House between 2006 and 2018 (<em>N</em> = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. 
-  authors: Carla Cisternas and Bastián González-Bustamante
+  authors: Bastián González-Bustamante, Carla Cisternas, Diego Aguilar, and Jaquelin Morillo
   link:
     url: https://training-datalab.com/projects/chilean-congress-bills
     display: See Project
@@ -31,7 +31,7 @@
 - title: "Training Data on Political Science Publications"
   image: Library.jpg
   description: Based on data from the the <a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1. From this data set, we draw a random subsample and carry out data coding procedures in this subsample to classify the type of publication.
-  authors: Bastián González-Bustamante, Alejandro Olivares, and Carla Cisternas
+  authors: Bastián González-Bustamante and Alejandro Olivares
   link:
     url: https://training-datalab.com/projects/political-science-publications
     display: See Project
