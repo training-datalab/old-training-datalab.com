@@ -8,11 +8,7 @@ permalink: /projects/chilean-congress-bills
 
 # Training Data on Chilean Congress Bills
 
-**Researchers:** Carla Cisternas and Bastián González-Bustamante
-
-**Associates:** Diego Aguilar
-
-**Assistants:** Elinor Luco and Beatriz Herrera
+**Researchers:** Bastián González-Bustamante, Carla Cisternas, Diego Aguilar, and Jaquelin Morillo
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish) 
 
@@ -43,4 +39,4 @@ permalink: /projects/chilean-congress-bills
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
 <small>Ongoing project.</small><br />
-<small>Last updated: September 15, 2021.</small>
+<small>Last updated: October 15, 2021.</small>
