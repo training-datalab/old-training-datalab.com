@@ -8,11 +8,7 @@ permalink: /projects/chilean-congress-bills-spanish
 
 # Entrenamiento de datos sobre los proyectos de ley del Congreso chileno
 
-**Investigadores:** Carla Cisternas y Bastián González-Bustamante
-
-**Asociados:** Diego Aguilar
-
-**Asistentes:** Elinor Luco y Beatriz Herrera
+**Investigadores:** Bastián González-Bustamante, Carla Cisternas, Diego Aguilar y Jaquelin Morillo
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills) 
 
@@ -43,4 +39,4 @@ permalink: /projects/chilean-congress-bills-spanish
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
 <small>Proyecto en curso.</small><br />
-<small>Última actualización: 15 de septiembre de 2021.</small>
+<small>Última actualización: 15 de octubre de 2021.</small>
