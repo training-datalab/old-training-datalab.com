@@ -3,12 +3,12 @@ title: "Training Data Lab - Political Science Publications"
 layout: textlay
 excerpt: "Training Data on Political Science Publications"
 sitemap: false
-permalink: /projects/political-science-publications.html
+permalink: /projects/political-science-publications
 ---
 
 # Training Data on Political Science Publications
 
-**Researchers:** Bastián González-Bustamante, Alejandro Olivares, and Carla Cisternas
+**Researchers:** Bastián González-Bustamante and Alejandro Olivares
 
 ## Data and Samples
 
@@ -35,4 +35,4 @@ permalink: /projects/political-science-publications.html
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
 <small>Project on standby.</small><br />
-<small>Last updated: September 1, 2021.</small>
+<small>Last updated: October 15, 2021.</small>
