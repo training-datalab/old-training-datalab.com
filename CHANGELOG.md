@@ -17,6 +17,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 ## [1.8.8] - 2021-10-22
 ### Changed
 - Revision of upgrade versioning.
+- Changelog in MD format on GitHub repository.
 
 ## [1.8.7] - 2021-09-29
 ### Changed
