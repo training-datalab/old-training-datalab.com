@@ -83,7 +83,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [1.2.1] - 2021-03-26
 ### Changed
-- README on GitHub repository.
+- README in MD format on GitHub repository.
 - Automatic news updates.
 - Minor corrections.
 ## Removed
@@ -200,3 +200,4 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 ## [0.1.0] - 2020-08-02
 ### Added
 - GitHub repository Tufte Working Papers.
+- README in MD format on GitHub repository.
