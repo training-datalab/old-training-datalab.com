@@ -4,7 +4,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [Unreleased]
 
-## [1.9.8] - TBC
+## [1.9.9] - TBC
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
@@ -13,6 +13,10 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [1.8.9] - 2021-10-31
+### Changed
+- Minor corrections.
 
 ## [1.8.8] - 2021-10-22
 ### Changed
