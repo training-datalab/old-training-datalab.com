@@ -8,6 +8,8 @@ permalink: /projects/chilean-congress-bills
 
 # Training Data on Chilean Congress Bills
 
+[![Status](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)]
+
 **Researchers:** Bastián González-Bustamante, Carla Cisternas, Diego Aguilar, and Jaquelin Morillo
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish) 
@@ -34,9 +36,9 @@ permalink: /projects/chilean-congress-bills
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![40%](https://progress-bar.dev/40) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![19%](https://progress-bar.dev/19) |
+| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![57%](https://progress-bar.dev/40) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![25%](https://progress-bar.dev/25) |
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![10%](https://progress-bar.dev/10) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![5%](https://progress-bar.dev/5) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
 <small>Ongoing project.</small><br />
-<small>Last updated: November 4, 2021.</small>
+<small>Last updated: November 18, 2021.</small>
