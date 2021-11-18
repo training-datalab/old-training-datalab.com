@@ -8,8 +8,6 @@ permalink: /projects/chilean-congress-bills
 
 # Training Data on Chilean Congress Bills
 
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/chilean-congress-bills)
-
 **Researchers:** Bastián González-Bustamante, Carla Cisternas, Diego Aguilar, and Jaquelin Morillo
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish) 
