@@ -28,12 +28,6 @@
   email: esteban.barrios@mayor.cl
   website: 
 
-- name: César Oviedo
-  photo: coviedo.jpg
-  info: Universidad Mayor
-  email: cesar.oviedo@mayor.cl
-  website: 
-
 - name: Virla Liberona
   photo: vliberona.jpg
   info: Universidad Mayor
@@ -56,12 +50,6 @@
   photo: cavila.png
   info: Universidad Mayor
   email: carolina.avilam@mayor.cl
-  website: 
-
-- name: Nikolas Romero
-  photo: nromero.jpg
-  info: Universidad Mayor
-  email: nikolas.romero@mayor.cl
   website: 
 
 - name: Gonzalo Avaria
