@@ -108,7 +108,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [1.1.0] - 2021-03-23
 ### Added
-- MIT License.
+- MIT license.
 - Changelog in TXT format on GitHub repository.
 - Badges in SVG on GitHub repository.
 ### Changed
