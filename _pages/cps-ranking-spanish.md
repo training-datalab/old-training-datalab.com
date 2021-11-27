@@ -14,6 +14,8 @@ permalink: /projects/cps-ranking-spanish
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/cps-ranking) 
 
+[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
+
 ## Sobre el ranking
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/network-ranking.png){: style="width: 350px; float: right; border: 10px"}
@@ -36,5 +38,4 @@ permalink: /projects/cps-ranking-spanish
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt" target="_blank">Registro de cambios</a>.</li>
 </ul>
 <br />
-<small>Proyecto en curso.</small><br />
 <small>Última actualización: 1 de septiembre de 2021.</small>
