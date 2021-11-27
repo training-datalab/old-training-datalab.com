@@ -16,6 +16,8 @@ permalink: /projects/chilean-civil-service-spanish
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service) 
 
+[![Project Status: Completed](https://img.shields.io/badge/project%20status-Completed-yellowgreen.svg)](https://training-datalab.com/projects/chilean-civil-service-spanish)
+
 ## Creación del conjunto de datos 
 
 <p align="justify">Las fuentes originales de información corresponden a datos liberados por la DNSC en respuesta a las solicitudes AE004T0000240 y AE004T0000484 en el marco de la Ley 20.285 sobre Acceso a la Información Pública, realizadas el 26 de diciembre de 2016 y el 26 de abril de 2018, respectivamente. Con la primera solicitud elaboramos una base de datos de altos directivos públicos para el período 2009-2015 (*N* = 391, véase también <a href="https://doi.org/10.1111/blar.13044" target="_blank">González-Bustamante, 2020</a>).</p> 
@@ -34,5 +36,4 @@ y pronto disponible para consulta pública).</p>
 <li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Artículo publicado en español</a>.</li>
 </ul>
 <br />
-<small>Proyecto terminado.</small><br />
 <small>Última actualización: 23 de agosto de 2021.</small>
