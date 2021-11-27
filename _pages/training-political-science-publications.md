@@ -10,6 +10,8 @@ permalink: /projects/political-science-publications
 
 **Researchers:** Bastián González-Bustamante and Alejandro Olivares
 
+[![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/political-science-publications)
+
 ## Data and Samples
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_publications.png){: style="width: 350px; float: right; border: 10px"}
@@ -33,6 +35,5 @@ permalink: /projects/political-science-publications
 | 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
-
-<small>Project on standby.</small><br />
+<br />
 <small>Last updated: October 15, 2021.</small>
