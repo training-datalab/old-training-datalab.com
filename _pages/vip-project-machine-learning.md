@@ -8,6 +8,8 @@ permalink: /projects/vip-project-machine-learning
 
 # VIP Project: Machine Learning Applications in Public Policy and Economics
 
+[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/vip-project-machine-learning)
+
 **Researchers:** Carla Cisternas and Francisco Castañeda
 
 **Associates:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
