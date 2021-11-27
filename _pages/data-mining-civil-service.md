@@ -16,6 +16,8 @@ permalink: /projects/chilean-civil-service
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service-spanish) 
 
+[![Project Status: Completed](https://img.shields.io/badge/project%20status-Completed-yellowgreen.svg)](https://training-datalab.com/projects/chilean-civil-service)
+
 ## Creation of the Dataset
 
 <p align="justify">The sources of information were data released by the DNSC in response to requests AE004T0000240 and AE004T0000484 under Law on Access to Public Information. These requests were made on December 26, 2016, and April 26, 2018, respectively. With the first request, we developed a database of senior public managers for the period 2009-2015 (*N* = 391; see <a href="https://doi.org/10.1111/blar.13044" target="_blank">González-Bustamante, 2020</a>).</p>
@@ -34,5 +36,4 @@ and soon available for public consultation).</p>
 <li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.</li>
 </ul>
 <br />
-<small>Completed project.</small><br />
 <small>Last updated: August 23, 2021.</small>
