@@ -12,6 +12,8 @@ permalink: /projects/chilean-congress-bills-spanish
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills) 
 
+[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/training-chilean-congress-bills-spanish)
+
 ## Datos y muestras
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_bills.png){: style="width: 350px; float: right; border: 10px"}
@@ -38,5 +40,4 @@ permalink: /projects/chilean-congress-bills-spanish
 | 5. Entrenamiento del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![10%](https://progress-bar.dev/10) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![5%](https://progress-bar.dev/5) |
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
-<small>Proyecto en curso.</small><br />
 <small>Última actualización: 18 de noviembre de 2021.</small>
