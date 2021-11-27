@@ -1,19 +1,19 @@
-- title: "VIP Project: Machine Learning in Public Policy and Economics"
-  image: UMayor.png
-  description: This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics. In this version, we will focus on the dynamics of disinformation. 
-  authors: Carla Cisternas and Francisco Castañeda
-  link:
-    url: https://training-datalab.com/projects/vip-project-machine-learning
-    display: See Project
-  highlight: 1
-  news2: 
-
 - title: "Training Data on Chilean Congress Bills"
   image: Congreso_Nacional_de_Chile.jpg
   description: From a data set of bills in the Chilean Lower House between 2006 and 2018 (<em>N</em> = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. 
   authors: Bastián González-Bustamante, Carla Cisternas, Diego Aguilar, and Jaquelin Morillo
   link:
     url: https://training-datalab.com/projects/chilean-congress-bills
+    display: See Project
+  highlight: 1
+  news2: 
+
+- title: "VIP Project: Machine Learning in Public Policy and Economics"
+  image: UMayor.png
+  description: This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics. In this version, we will focus on the dynamics of disinformation. 
+  authors: Carla Cisternas and Francisco Castañeda
+  link:
+    url: https://training-datalab.com/projects/vip-project-machine-learning
     display: See Project
   highlight: 1
   news2: 
