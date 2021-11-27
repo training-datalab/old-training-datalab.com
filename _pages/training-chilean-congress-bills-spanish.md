@@ -12,7 +12,7 @@ permalink: /projects/chilean-congress-bills-spanish
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills) 
 
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/training-chilean-congress-bills-spanish)
+[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
 ## Datos y muestras
 
