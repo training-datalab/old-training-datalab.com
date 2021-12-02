@@ -32,10 +32,9 @@ permalink: /projects/cps-ranking-spanish
 
 <ul>
 <li><a href="https://bgonzalezbustamante.com/cps-ranking/" target="_blank">Mediciones trimestrales</a>.</li>
-<li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/to-be-ranked.md" target="_blank">Investigadores que se añadirán</a>.</li>
 <li><a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en OSF</a>.</li>
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.</li>
-<li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/changelog.txt" target="_blank">Registro de cambios</a>.</li>
+<li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.</li>
 </ul>
 <br />
-<small>Última actualización: 1 de septiembre de 2021.</small>
+<small>Última actualización: 2 de diciembre de 2021.</small>
