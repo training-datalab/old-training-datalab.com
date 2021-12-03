@@ -16,7 +16,7 @@ permalink: /projects/vip-project-machine-learning
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish) 
 
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/vip-project-machine-learning)
+[![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/vip-project-machine-learning)
 
 ## Project Description
 
@@ -87,12 +87,12 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">It is relevant to note that the complete data set and subsamples have been properly anonymised with a cryptographic algorithm based on a hash function to meet the current ethical considerations on social media research.</p>
 
-## Phases
+## Phases 1st Model
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Pilot | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![48%](https://progress-bar.dev/48) |
-| 5. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![24%](https://progress-bar.dev/24) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Train Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 3. Pilot | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![59%](https://progress-bar.dev/59) |
+| 5. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![29%](https://progress-bar.dev/29) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Train Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Evaluate Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 9. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 10. Benchmarking | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
@@ -100,4 +100,4 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">In order to promote innovation, the intellectual property of what is created in this VIP project will be shared between students and principals and associate researchers. Therefore, team members will be able to use the data collected for their publications, thanking and mentioning the project appropriately. We hope, in future versions, to encourage more experienced students to use the data in co-authorships with team researchers and take on leadership roles to mentor and train new team members.</p>
 <br />
-<small>Last updated: November 23, 2021.</small>
+<small>Last updated: December 3, 2021.</small>
