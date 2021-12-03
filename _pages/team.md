@@ -41,7 +41,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 </div>
 {% endif %}
 
-## Research Assistants
+## Research Assistant
 {% assign number_printed = 0 %}
 {% for member in site.data.research_assistants %}
 
