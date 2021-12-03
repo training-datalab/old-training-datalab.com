@@ -16,7 +16,7 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 [Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning) 
 
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
+[![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
 
 ## Descripción del proyecto
 
@@ -87,12 +87,12 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">Es importante señalar que tanto el conjunto de datos completo como las submuestras han sido debidamente anonimizados con un algoritmo criptográfico basado en una función *hash* para cumplir con las consideraciones éticas actuales sobre la investigación en medios sociales.</p>
 
-## Fases
+## Fases 1er modelo
 
 |---|---|---|---|---|---|---|
 | 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Piloto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![48%](https://progress-bar.dev/48) |
-| 5. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![24%](https://progress-bar.dev/24) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Entrenamiento de modelos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 3. Piloto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![59%](https://progress-bar.dev/59) |
+| 5. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![29%](https://progress-bar.dev/29) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Entrenamiento de modelos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 7. Evaluación de modelos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 | 9. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 10. Benchmarking | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
@@ -100,4 +100,4 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">Con el objetivo de fomentar la innovación, la propiedad intelectual de lo creado en este proyecto VIP será compartida entre estudiantes e investigadores responsables y asociados. En consecuencia, los miembros del equipo podrán utilizar los datos levantados para publicaciones propias, agradeciendo y mencionando adecuadamente al proyecto. Esperamos, en futuras versiones, incentivar a los estudiantes más experimentados a utilizar los datos para sumarse a coautorías con investigadores del equipo y que asuman roles de liderazgo para orientar y capacitar a nuevos integrantes.</p>
 <br />
-<small>Última actualización: 23 de noviembre de 2021.</small>
+<small>Última actualización: 3 de diciembre de 2021.</small>
