@@ -8,7 +8,6 @@
 - [Researchers and Assistants](https://training-datalab.com/team/)
 
 ## Ongoing Projects
-- [VIP Project: Machine Learning Applications in Public Policy and Economics](https://training-datalab.com/projects/vip-project-machine-learning)
 - [Training Data on Chilean Congress Bills](https://training-datalab.com/projects/chilean-congress-bills)
 - [Chilean Political Science Impact Ranking](https://training-datalab.com/projects/cps-ranking)
 
