@@ -8,16 +8,6 @@
   highlight: 1
   news2: 
 
-- title: "VIP Project: Machine Learning in Public Policy and Economics"
-  image: UMayor.png
-  description: This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics. In this version, we will focus on the dynamics of disinformation. 
-  authors: Carla Cisternas and Francisco Castañeda
-  link:
-    url: https://training-datalab.com/projects/vip-project-machine-learning
-    display: See Project
-  highlight: 1
-  news2: 
-
 - title: "Chilean Political Science Impact Ranking"
   image: CPS-Ranking.png
   description: This is a scraper programmed in order to obtain quarterly data from Google Scholar and elaborate an impact measurement. This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
@@ -28,22 +18,32 @@
   highlight: 1
   news2: 
 
-- title: "Training Data on Political Science Publications"
-  image: Library.jpg
-  description: Based on data from the the <a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1. From this data set, we draw a random subsample and carry out data coding procedures in this subsample to classify the type of publication.
-  authors: Bastián González-Bustamante and Alejandro Olivares
-  link:
-    url: https://training-datalab.com/projects/political-science-publications
-    display: See Project
-  highlight: 1
-  news2: 
-
 - title: "Data Mining Chilean Civil Service"
   image: Civil-Servants.jpg
   description: We present a novel data set that contains detailed information on 431 senior public managers of the Chilean civil service from 2009-2017. The set was created from requests for access to public information and an OCR revision of 1,396 public documents. These documents were digitalised with data mining algorithms and reviewed exhaustively with semi-automated procedures.
   authors: Bastián González-Bustamante, Matías Astete, and Berenice Orvenes
   link:
     url: https://training-datalab.com/projects/chilean-civil-service
+    display: See Project
+  highlight: 1
+  news2: 
+
+- title: "VIP Project: Machine Learning in Public Policy and Economics"
+  image: UMayor.png
+  description: This project aims to form a vertically integrated multidisciplinary research team to use different machine learning applications in public policy and economics. In this version, we will focus on the dynamics of disinformation. 
+  authors: Carla Cisternas and Francisco Castañeda
+  link:
+    url: https://training-datalab.com/projects/vip-project-machine-learning
+    display: See Project
+  highlight: 1
+  news2: 
+
+- title: "Training Data on Political Science Publications"
+  image: Library.jpg
+  description: Based on data from the the <a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1. From this data set, we draw a random subsample and carry out data coding procedures in this subsample to classify the type of publication.
+  authors: Bastián González-Bustamante and Alejandro Olivares
+  link:
+    url: https://training-datalab.com/projects/political-science-publications
     display: See Project
   highlight: 1
   news2: 
