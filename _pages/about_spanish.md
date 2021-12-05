@@ -19,6 +19,7 @@ permalink: /about-spanish
 Diferentes instituciones apoyan logística o financieramente a este grupo.
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab-logo.png" style="width: 65px"> &nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/oxford.jpg" style="width: 60px"> &nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/leiden.jpg" style="width: 155px">  &nbsp;
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logos/uct.png" style="width: 160px">  &nbsp;&nbsp;-->
