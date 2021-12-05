@@ -14,6 +14,10 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [Released]
 
+## [1.10.10] - 2021-12-05
+### Changed
+- Minor corrections.
+
 ## [1.10.9] - 2021-11-27
 ### Added
 - Projects status badges.
