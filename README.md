@@ -11,6 +11,9 @@
 - [Training Data on Chilean Congress Bills](https://training-datalab.com/projects/chilean-congress-bills)
 - [Chilean Political Science Impact Ranking](https://training-datalab.com/projects/cps-ranking)
 
+## Working Papers
+- [Tufte Working Papers](https://training-datalab.com/tufte-working-papers/)
+
 ## Labelbox
 - [Platform](https://app.labelbox.com/)
 - [Status](https://status.labelbox.com/)
