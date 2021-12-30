@@ -22,7 +22,7 @@ permalink: /tufte-guidelines/
 
 ## Editorial Management
 
-<p align=" justify">This series has only the editorial team as its executive body. The editorial team is composed of the editor, <strong>Bastián González-Bustamante</strong>, who manages the series in its broadest sense, and <strong>Elinor Luco</strong>, editorial assistant.</p>
+<p align=" justify">This series has only the editorial team as its executive body. The editorial team is composed of the editor, <strong>Bastián González-Bustamante</strong>, who manages the series in its broadest sense, and <strong>Carla Cisternas</strong>, associate editor.</p>
 
 ## Editorial Process
 
@@ -44,5 +44,5 @@ permalink: /tufte-guidelines/
 
 <p align=" justify">As this series favours empirical studies, it is strongly recommended to follow the format introduction-method-results-discussion and keep the document’s length between 4,000 and 10,000 words (including references).</p>
 
-<p align=" justify"><strong>Submissions can be made to the email address of our assistant <a href="mailto:elinor.luco@usach.cl">elinor.luco@usach.cl</a>.</strong></p>
+<p align=" justify"><strong>Submissions can be made to the email address of our associate editor <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</strong></p>
 <br />
