@@ -22,7 +22,7 @@ permalink: /tufte-guidelines-spanish/
 
 ## Gestión editorial
 
-<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <strong>Bastián González-Bustamante</strong>, en quien recae su gestión en su más amplio sentido, y por <strong>Elinor Luco</strong>, asistente editorial.</p>
+<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <strong>Bastián González-Bustamante</strong>, en quien recae su gestión en su más amplio sentido, y por <strong>Carla Cisternas</strong>, editora asociada.</p>
 
 ## Proceso editorial
 
@@ -44,5 +44,5 @@ permalink: /tufte-guidelines-spanish/
 
 <p align=" justify">Como esta serie privilegia los estudios empíricos, se recomienda encarecidamente seguir el formato introducción-método-resultados-discusión y mantener la extensión del documento entre 4.000 y 10.000 palabras (incluyendo referencias).</p> 
 
-<p align=" justify"><strong>Los envíos se pueden realizar al correo electrónico de nuestra asistente <a href="mailto:elinor.luco@usach.cl">elinor.luco@usach.cl</a>.</strong></p>
+<p align=" justify"><strong>Los envíos se pueden realizar al correo electrónico de nuestra editora asociada <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</strong></p>
 <br />
