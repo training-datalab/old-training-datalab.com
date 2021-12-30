@@ -8,11 +8,14 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
-- CRediT.
 ### Changed
 - Scripts and folders names standardisation.
 
 ## [Released]
+
+## [1.11.10] - 2021-12-30
+### Added
+- CRediT.
 
 ## [1.10.10] - 2021-12-05
 ### Changed
