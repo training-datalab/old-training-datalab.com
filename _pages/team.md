@@ -12,7 +12,7 @@ permalink: /team/
 
 Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong>#Slack workspace</strong></a> for our team.
 
-## Researchers
+## Research Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.researchers %}
 
