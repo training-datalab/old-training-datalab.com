@@ -1,5 +1,11 @@
-- name: Elinor Luco
-  photo: eluco.jpg
-  info: Universidad de Santiago
-  email: elinor.luco@usach.cl
+- name: Virla Liberona
+  photo: vliberona.jpg
+  info: Universidad Mayor
+  email: virla.liberona@mayor.cl
+  website: 
+
+- name: Matías Carillo
+  photo: mcarillo.jpg
+  info: Universidad Mayor
+  email: matias.carrillo@mayor.cl
   website: 
