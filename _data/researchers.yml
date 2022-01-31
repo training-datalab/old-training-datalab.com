@@ -28,14 +28,20 @@
   email: diego.aguilar@training-datalab.com
   website: 
 
-- name: Alejandro Olivares L.
-  photo: aolivares.jpg
-  info: Universidad Católica de Temuco
-  email: alejandro.olivares@uct.cl
-  website: <a href="https://www.researchgate.net/profile/Alejandro-Olivares-L" target="_blank">ResearchGate</a>
-
 - name: Jaquelin Morillo
   photo: jmorillo.jpg
   info: Training Data Lab
   email: jaquelin.morillo@training-datalab.com
   website: 
+
+- name: Miguel Ángel López
+  photo: malopez.jpg
+  info: Universidad de Chile
+  email: mlopez@uchile.cl
+  website: 
+
+- name: Alejandro Olivares L.
+  photo: aolivares.jpg
+  info: Universidad Católica de Temuco
+  email: alejandro.olivares@uct.cl
+  website: <a href="https://www.researchgate.net/profile/Alejandro-Olivares-L" target="_blank">ResearchGate</a>
