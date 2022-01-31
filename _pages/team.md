@@ -41,7 +41,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 </div>
 {% endif %}
 
-<!-- ## Research Assistant
+## Research Assistants
 {% assign number_printed = 0 %}
 {% for member in site.data.research_assistants %}
 
@@ -68,7 +68,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}-->
+{% endif %}
 
 ## Former Assistants
 <div class="row">
