@@ -26,7 +26,7 @@ permalink: /tufte-guidelines/
 
 ## Editorial Process
 
-<p align=" justify">All manuscripts received are subjected to a preliminary desk review. The outcome of this desk review may be rejection, approval with minor changes or, exceptionally, sending the manuscript for peer-review.
+<p align=" justify">All manuscripts received are subjected to a preliminary desk review. The outcome of this desk review may be rejection, approval with minor changes or, exceptionally, sending the manuscript for peer-review.</p>
 
 <p align=" justify">Double-blind peer-review with external referees is not considered mandatory in this series. When the editorial decision of the preliminary review is to submit the manuscript for peer-review, an <strong>open review</strong> with one or two experts is used in which the identities of the authors and referees are disclosed.</p>
 
