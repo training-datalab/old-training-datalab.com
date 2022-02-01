@@ -18,11 +18,11 @@ permalink: /tufte-guidelines-spanish/
 
 <p align=" justify">Esta serie es editada en Tufte-LaTeX, una plantilla LaTeX inspirada por Edward R. Tufte. <a href="https://www.latex-project.org/" target="_blank">LaTeX</a> es un software libre que permite la composición de textos con alta calidad tipográfica. Por otro lado, esta serie cuenta con una política ética y normas de estilo basadas en la <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/guidelines/SS_Spanish.pdf" target="_blank">Declaración de Singapur sobre Integridad en la Investigación</a> y las orientaciones del <a href="https://publicationethics.org/" target="_blank">COPE</a>. Además, cuenta con una política de acceso abierto basada en la <a href="https://www.budapestopenaccessinitiative.org/boai-10-translations/spanish" target="_blank">Iniciativa de Acceso Abierto de Budapest</a> y las declaraciones de <a href="https://ictlogy.net/articles/bethesda_es.html" target="_blank">Bethesda</a> y <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/guidelines/declaracion_berlin.pdf" target="_blank">Berlín</a> sobre acceso abierto. En consecuencia, los trabajos se licencian bajo <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.txt" target="_blank">Creative Commons</a>.</p>
 
-<p align=" justify">Por último, la serie utiliza la taxonomía <a href="https://bgonzalezbustamante.com/credit/" target="_blank">CRediT</a> para identificar las contribuciones exactas de cada investigador en caso de coautorías o asistencias de investigación.</p>
+<p align=" justify">Por último, la serie utiliza la taxonomía <a href="/credit/">CRediT</a> para identificar las contribuciones exactas de cada investigador en caso de coautorías o asistencias de investigación.</p>
 
 ## Gestión editorial
 
-<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <strong>Bastián González-Bustamante</strong>, en quien recae su gestión en su más amplio sentido, y por <strong>Carla Cisternas</strong>, editora asociada.</p>
+<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <strong>Bastián González-Bustamante</strong>, en quien recae su gestión en su más amplio sentido, y por <strong>Jaquelin Morillo</strong>, editora asociada.</p>
 
 ## Proceso editorial
 
@@ -44,5 +44,5 @@ permalink: /tufte-guidelines-spanish/
 
 <p align=" justify">Como esta serie privilegia los estudios empíricos, se recomienda encarecidamente seguir el formato introducción-método-resultados-discusión y mantener la extensión del documento entre 4.000 y 10.000 palabras (incluyendo referencias).</p> 
 
-<p align=" justify"><strong>Los envíos se pueden realizar al correo electrónico de nuestra editora asociada <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</strong></p>
+<p align=" justify"><strong>Los envíos se pueden realizar al correo electrónico de nuestra editora asociada <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a>.</strong></p>
 <br />
