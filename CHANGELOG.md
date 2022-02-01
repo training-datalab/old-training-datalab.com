@@ -13,6 +13,10 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [Released]
 
+## [1.11.11] - 2022-02-01
+### Changed
+- Minor corrections.
+
 ## [1.11.10] - 2021-12-30
 ### Added
 - CRediT.
