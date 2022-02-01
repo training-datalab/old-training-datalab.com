@@ -18,11 +18,11 @@ permalink: /tufte-guidelines/
 
 <p align=" justify">This series is edited in Tufte-LaTeX, a LaTeX template inspired by Edward R. Tufte. <a href="https://www.latex-project.org/" target="_blank">LaTeX</a> is free software that allows the composition of texts with high typographic quality. On the other hand, this series has ethical policy and style standards based on the <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/guidelines/singpore_statement.pdf" target="_blank">Singapore Statement on Research Integrity</a> and the <a href="https://publicationethics.org/" target="_blank">COPE</a> guidelines. It also has an open access policy based on the <a href="https://www.budapestopenaccessinitiative.org/boai-10-recommendations" target="_blank">Budapest Open Access Initiative</a> and the <a href="https://dash.harvard.edu/bitstream/handle/1/4725199/Suber_bethesda.htm?sequence=3&isAllowed=y" target="_blank">Bethesda</a> and <a href="https://openaccess.mpg.de/Berlin-Declaration" target="_blank">Berlín</a> declarations on open access. Accordingly, the works are licensed under <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.txt" target="_blank">Creative Commons</a>.</p>
 
-<p align=" justify">Finally, the series uses the <a href="https://bgonzalezbustamante.com/credit/" target="_blank">CRediT</a> taxonomy to identify the exact contributions of each researcher in the case of co-authorship or research assistantships.</p>
+<p align=" justify">Finally, the series uses the <a href="/credit/">CRediT</a> taxonomy to identify the exact contributions of each researcher in the case of co-authorship or research assistantships.</p>
 
 ## Editorial Management
 
-<p align=" justify">This series has only the editorial team as its executive body. The editorial team is composed of the editor, <strong>Bastián González-Bustamante</strong>, who manages the series in its broadest sense, and <strong>Carla Cisternas</strong>, associate editor.</p>
+<p align=" justify">This series has only the editorial team as its executive body. The editorial team is composed of the editor, <strong>Bastián González-Bustamante</strong>, who manages the series in its broadest sense, and <strong>Jaquelin Morillo</strong>, associate editor.</p>
 
 ## Editorial Process
 
@@ -44,5 +44,5 @@ permalink: /tufte-guidelines/
 
 <p align=" justify">As this series favours empirical studies, it is strongly recommended to follow the format introduction-method-results-discussion and keep the document’s length between 4,000 and 10,000 words (including references).</p>
 
-<p align=" justify"><strong>Submissions can be made to the email address of our associate editor <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>.</strong></p>
+<p align=" justify"><strong>Submissions can be made to the email address of our associate editor <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a>.</strong></p>
 <br />
