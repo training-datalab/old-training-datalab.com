@@ -12,7 +12,7 @@ permalink: /projects/chilean-congress-bills
 
 [See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills-spanish)
 
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/chilean-congress-bills)
+[![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/chilean-congress-bills)
 
 ## Data and Samples
 
@@ -36,9 +36,9 @@ permalink: /projects/chilean-congress-bills
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![86%](https://progress-bar.dev/86) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![62%](https://progress-bar.dev/62) |
-| 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![10%](https://progress-bar.dev/10) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![5%](https://progress-bar.dev/5) |
+| 3. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![88%](https://progress-bar.dev/88) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![64%](https://progress-bar.dev/64) |
+| 5. Train Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%](https://progress-bar.dev/33) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluate Model | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%](https://progress-bar.dev/33) |
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
 
 <br />
-<small>Last updated: February 26, 2022.</small>
+<small>Last updated: March 8, 2022.</small>
