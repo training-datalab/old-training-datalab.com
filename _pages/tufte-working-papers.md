@@ -27,4 +27,5 @@ permalink: /tufte-working-papers/
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 175px">
 </figure>
 
-<p align=" justify">This working papers series is indexed in Latindex-Directorio. The full text usage, which is the sum of views and downloads from the platform, is 1,007 until March 2022.</p>
+<p align=" justify">This working papers series is indexed in Latindex-Directorio.</p>
+<p align=" justify">The full text usage, which is the sum of views and downloads from the platform, is 1,007 until March 2022.</p>
