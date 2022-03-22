@@ -14,6 +14,10 @@ permalink: /tufte-working-papers-spanish/
 
 <p align=" justify">Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tufte. Además, se licencia bajo <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.md" target="_blank">Creative Commons</a>, por tanto, su contenido es de acceso abierto y utiliza la taxonomía <a href="/credit/">CRediT</a> para identificar contribuciones en coautorías junto con un proceso de <a href="/tufte-open-review-spanish/">revisión abierto</a>. Para más información, revisar los <a href="/tufte-guidelines-spanish/">lineamientos</a> de esta serie.</p>
 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 150px">  Esta serie de documentos de trabajo está indizadaa en Latindex-Directorio.
+</figure>
+
 ## Números
 
 <ul>
@@ -21,3 +25,4 @@ permalink: /tufte-working-papers-spanish/
 <li>González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continúo, para el estudio de las élites. <em>Tufte Working Papers</em>, 1, 1-15. DOI: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.</li>
 </ul>
 <br />
+<small>El uso del texto completo, que es la suma de visualizacione4s y descargas de la plataforma, es de 1.007 hasta marzo de 2022.</small>
