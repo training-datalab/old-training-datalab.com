@@ -15,7 +15,7 @@ permalink: /tufte-working-papers/
 <p align=" justify">This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In addition, it is licensed under <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.md" target="_blank">Creative Commons</a>, therefore, its content is open access and uses the <a href="/credit/">CRediT</a> taxonomy to identify co-authored contributions along with an <a href="/tufte-open-review/">open review</a> process. For further information, see the <a href="/tufte-guidelines/">guidelines</a> for this series.</p>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 175px"> This working papers series is indexed in Latindex-Directorio.</p>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 160px"> This working papers series is indexed in Latindex-Directorio.
 </figure>
 
 ## Issues
