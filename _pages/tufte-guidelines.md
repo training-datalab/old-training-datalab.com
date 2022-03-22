@@ -34,7 +34,7 @@ permalink: /tufte-guidelines/
 
 <p align=" justify">Both desktop and peer-review are based on <a href="/tufte-open-review/">open review reports</a>. These reports are published attached to the article with the signature and biographical details of the reviewers. This creates an incentive to participate in the process and increases the quality of the refereeing.</p>
 
-<p align=" justify">Accepted manuscripts must be adjusted by the authors based on the comments of the review process and are then reviewed by the editorial team, who may request further minor adjustments. This cycle is repeated until a satisfactory version that can be typeset is obtained. Manuscripts are then typeset in Tufte-LaTeX and reviewed by the editorial team and the authors. This whole process is done openly and with constant monitoring in our <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">repositorio de GitHub</a>.</p>
+<p align=" justify">Accepted manuscripts must be adjusted by the authors based on the comments of the review process and are then reviewed by the editorial team, who may request further minor adjustments. This cycle is repeated until a satisfactory version that can be typeset is obtained. Manuscripts are then typeset in Tufte-LaTeX and reviewed by the editorial team and the authors. This whole process is done openly and with constant monitoring in our <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">GitHub repository</a>.</p>
 
 <p align=" justify">Finally, the version of record is stored on GitHub and SocArXiv in <a href="http://osf.io/" target="_blank">OSF</a>.</p>
 
