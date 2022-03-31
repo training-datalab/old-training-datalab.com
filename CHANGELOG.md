@@ -13,6 +13,10 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [Released]
 
+## [1.11.13] - 2022-03-31
+### Changed
+- Minor corrections.
+
 ## [1.11.12] - 2022-03-22
 ### Changed
 - Minor corrections.
@@ -227,7 +231,7 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 
 ## [0.2.0] - 2020-08-03
 ### Added
-- License CC-BY Attribution 4.0 International on Tufte Working Papers repository.
+- License CC BY 4.0 on Tufte Working Papers repository.
 - Cover page template typed in Tufte-LaTeX.
 
 ## [0.1.0] - 2020-08-02
