@@ -3,14 +3,16 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.0.0] - TBC
+## [2.1.0] - TBC
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
 
 ## [Released]
 
-## [1.12.14] - 2022-04-04
+## [2.0.0] - 2022-04-04
+### Added
+Team members profiles.
 ### Changed
 - Minor corrections.
 
