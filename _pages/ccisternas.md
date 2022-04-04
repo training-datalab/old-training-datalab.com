@@ -12,8 +12,8 @@ permalink: /team/ccisternas/
 
 ### Contact information
 
-* Email: <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>
-* Alternative email: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a>
-* ORCID iD: <a href="https://orcid.org/0000-0001-7948-6194" target="_blank">https://orcid.org/0000-0001-7948-6194</a>
-* Personal website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
+Email: <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a>
+Alternative email: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a>
+ORCID iD: <a href="https://orcid.org/0000-0001-7948-6194" target="_blank">https://orcid.org/0000-0001-7948-6194</a>
+Personal website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a>
 <br />
