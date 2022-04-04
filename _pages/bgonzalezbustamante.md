@@ -16,28 +16,21 @@ permalink: /team/bgonzalezbustamante/
 
 <p align=" justify">My doctoral research is supervised by Professor Petra Schleiter and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations. My research is funded by the Chilean National Agency for Research and Development.</p>
 
-## Contact information
+## Featured Articles
 
-* Email: bastian.gonzalezbustamante@politics.ox.ac.uk
-* Alternative Email: bastian.gonzalez.b@usach.cl
-* Personal Website:
-* Institutional Website:
+* Orchard, X., & **González-Bustamante, B.** (2022). Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019). *The International Journal of Press/Politics*.
 
-## Featured Peer-Reviewed Articles
+* Cuevas, C., **González-Bustamante, B.**, Calderón-Orellana, M., & Barría, D. (2021). Motivación de servicio público entre funcionarios públicos chilenos. *Revista del CLAD Reforma y Democracia, 81*.
 
-Orchard, X., González-Bustamante, B. (2022). Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019). The International Journal of Press/Politics.
+* **González-Bustamante, B.** (2021). Early Government Responses to COVID-19 in South America. *World Development, 137*, 105180.
 
-Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., Barría, D. (2021). Motivación de servicio público entre funcionarios públicos chilenos. Revista del CLAD Reforma y Democracia, 81.
+* **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2020). Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service. *Revista de Gestión Pública, IX*(2), 151-169.
 
-González-Bustamante, B. (2021). Early Government Responses to COVID-19 in South America. World Development, 137, 105180.
+* **González-Bustamante, B.** (2020). The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Bulletin of Latin American Research, 39*(5), 582-597.
 
-onzález-Bustamante, B., Astete, M., Orvenes, B. (2020). Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service. Revista de Gestión Pública, IX(2), 151-169.
+* Olivares, A., **González-Bustamante, B.**, Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., Canavesi Sosa, J. B. (2020). Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
 
-González-Bustamante, B. (2020). The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. Bulletin of Latin American Research, 39(5), 582-597.
-
-Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., Canavesi Sosa, J. B. (2020). Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas. Iberoamericana. América Latina - España - Portugal, XX(74), 229–259.
-
-González-Bustamante, B., Carvajal, A., González, A. (2020). Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno. Gestión y Política Pública, XXIX(1), 97-129.
+* **González-Bustamante, B.**, Carvajal, A., González, A. (2020). Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno. *Gestión y Política Pública, XXIX*(1), 97-129.
 
 Maillet, A., González-Bustamante, B., Olivares, A. (2019). Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014). Latin American Business Review, 20(4), 367-387.
 
@@ -60,3 +53,10 @@ González-Bustamante, B., Barría, D. (2018). Expansión de la esfera pública e
 González-Bustamante, B. (2018). Internet, uso de redes sociales digitales y participación en el Cono Sur. In P. Cottet (ed.), Opinión Pública Contemporánea: Otras Posibilidades de Comprensión e Investigación. Santiago: Social-Ediciones.
 
 ## Data Collection Projects
+
+### Contact information
+
+* Email: bastian.gonzalezbustamante@politics.ox.ac.uk
+* Alternative Email: bastian.gonzalez.b@usach.cl
+* Personal Website:
+* Institutional Website:
