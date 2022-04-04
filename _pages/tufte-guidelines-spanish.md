@@ -22,7 +22,7 @@ permalink: /tufte-working-papers/guidelines-spanish/
 
 ## Gestión editorial
 
-<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <strong>Bastián González-Bustamante</strong>, en quien recae su gestión en su más amplio sentido, y por <strong>Jaquelin Morillo</strong>, editora asociada.</p>
+<p align=" justify">Esta serie solo tiene al equipo editorial como instancia ejecutiva. El equipo editorial está compuesto por el editor, <a href="/team/bgonzalezbustamante"><strong>Bastián González-Bustamante</strong></a>, en quien recae su gestión en su más amplio sentido, y por <a href="/team/jmorillo"><strong>Jaquelin Morillo</strong></a>, editora asociada.</p>
 
 ## Proceso editorial
 
