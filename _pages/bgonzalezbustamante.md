@@ -18,13 +18,13 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
-* Orchard, X., & González-Bustamante, B. (2022). <a href="https://github.com/training-datalab/" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*.
+* Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*.
 
-* Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://github.com/training-datalab/" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia, 81*.
+* Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia, 81*.
 
-* González-Bustamante, B. (2021). <a href="https://github.com/training-datalab/tufte-working-papers/" target="_blank">Early Government Responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
+* González-Bustamante, B. (2021). <a href="https://doi.org/10.1016/j.worlddev.2020.105180" target="_blank">Early Government Responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
 
-* González-Bustamante, B., Astete, M., & Orvenes, B. (2020). <a href="https://github.com/training-datalab/tufte-working-papers/" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
+* González-Bustamante, B., Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
 
 * González-Bustamante, B. (2020). <a href="https://github.com/training-datalab/tufte-working-papers/" target="_blank">The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition</a>. *Bulletin of Latin American Research, 39*(5), 582-597.
 
@@ -56,7 +56,8 @@ permalink: /team/bgonzalezbustamante/
 
 ### Contact information
 
-* Email: bastian.gonzalezbustamante@politics.ox.ac.uk
-* Alternative email: bastian.gonzalez.b@usach.cl
-* Personal Website: 
-* Institutional Website:
+* Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>
+* Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a>
+* ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a>
+* Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a>
+* Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a>
