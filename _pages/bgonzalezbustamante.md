@@ -54,6 +54,10 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
+* González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Ministers (1990-2014) (Version 3.2.3 -- Wispy Boat) [Data set]. DOI: 10.5281/zenodo.5744536
+
+* González-Bustamante, B., & Olivares, A. (2022). Data Set on Chilean Undersecretaries (1990-2022) (Version 2.0.0 -- Shy Mud) [Data set]. DOI: 10.5281/zenodo.5715384
+
 ### Contact information
 
 * Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>
@@ -61,3 +65,4 @@ permalink: /team/bgonzalezbustamante/
 * ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a>
 * Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a>
 * Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a>
+<br />
