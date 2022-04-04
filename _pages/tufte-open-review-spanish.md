@@ -8,7 +8,7 @@ permalink: /tufte-working-papers/open-review-spanish/
 
 # Tufte Working Papers
 
-<p align=" justify"><a href="/tufte-open-review/">Ver esta página en inglés</a>.</p>
+<p align=" justify"><a href="/tufte-working-papers/open-review/">Ver esta página en inglés</a>.</p>
 
 ## Procedimiento de revisión abierta
 
