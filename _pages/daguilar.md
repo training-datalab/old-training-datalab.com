@@ -3,10 +3,10 @@ title: "Training Data Lab - Diego Aguilar"
 layout: gridlay
 excerpt: "Training Data Lab - Diego Aguilar"
 sitemap: false
-permalink: /team/ccisternas/
+permalink: /team/daguilar/
 ---
 
-# Carla Cisternas
+# Diego Aguilar
 
 <img src="https://training-datalab.com/images/team/daguilar.jpg" class="img-responsive" width="180px" style="float: left" />
 
