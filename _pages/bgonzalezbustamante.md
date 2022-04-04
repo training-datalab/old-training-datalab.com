@@ -54,9 +54,9 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.2.3 -- Wispy Boat)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.5 -- Gentle Scene)</a> [Data set].
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.0.0 -- Shy Mud)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.2 -- Bold Tooth)</a> [Data set].
 
 ### Contact Information
 
