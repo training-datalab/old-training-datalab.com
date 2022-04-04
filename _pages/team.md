@@ -53,7 +53,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  {{ member.name }}<br>
   <!-- {{ member.info }}<br><{{ member.email }}><br>{{ member.website }}-->
   {{ member.info }}<br>{{ member.website }}
 </div>
@@ -84,7 +84,8 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br><{{ member.email }}><br>{{ member.website }}
+  <!-- {{ member.info }}<br><{{ member.email }}><br>{{ member.website }} -->
+  {{ member.info }}<br>{{ member.website }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
