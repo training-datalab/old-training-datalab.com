@@ -1,9 +1,9 @@
 ---
-title: "Training Data Lab - Guidelines Working Papers"
+title: "Training Data Lab - Guidelines Tufte Working Papers"
 layout: gridlay
-excerpt: "Training Data Lab - Guidelines Working Papers"
+excerpt: "Training Data Lab - Guidelines Tufte Working Papers"
 sitemap: false
-permalink: /tufte-guidelines/
+permalink: /tufte-working-papers/guidelines/
 ---
 
 # Tufte Working Papers
