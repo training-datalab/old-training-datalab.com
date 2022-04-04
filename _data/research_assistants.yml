@@ -1,11 +1,11 @@
-- name: Virla Liberona
-  photo: vliberona.jpg
-  info: Universidad Mayor
-  email: virla.liberona@mayor.cl
-  website: 
-
 - name: Matías Carrillo
   photo: mcarrillo.jpg
   info: Universidad Mayor
   email: matias.carrillo@mayor.cl
-  website: 
+  website:
+
+- name: Virla Liberona
+  photo: vliberona.jpg
+  info: Universidad Mayor
+  email: virla.liberona@mayor.cl
+  website:
