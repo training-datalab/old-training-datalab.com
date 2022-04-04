@@ -60,9 +60,9 @@ permalink: /team/bgonzalezbustamante/
 
 ### Contact information
 
-* Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>
-* Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a>
-* ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a>
-* Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a>
-* Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a>
+Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>
+Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a>
+ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a>
+Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a>
+Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a>
 <br />
