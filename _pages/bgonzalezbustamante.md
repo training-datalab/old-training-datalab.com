@@ -10,7 +10,7 @@ permalink: /team/bgonzalezbustamante/
 
 <div class="col-sm-6 clearfix">
 <img src="https://training-datalab.com/images/team/bgonzalezbustamante.jpg" class="img-responsive" width="50%" style="float: left" />
-University of Oxford<br>Email<br>Website
+<!-- University of Oxford<br>Email<br>Website -->
 </div>
 <p align=" justify">I am completing my DPhil (PhD) dissertation in the Department of Politics and International Relations and St Hilda’s College at the University of Oxford, United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the Faculty of Administration and Economics at the Universidad de Santiago de Chile.</p>
 
