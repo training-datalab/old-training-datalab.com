@@ -28,7 +28,7 @@ permalink: /team/bgonzalezbustamante/
 
 * González-Bustamante, B. (2020). <a href="https://doi.org/10.1111/blar.13044" target="_blank">The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition</a>. *Bulletin of Latin American Research, 39*(5), 582-597.
 
-* Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="http://dx.doi.org/10.29265/gypp.v29i1.658" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
+* Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
 
 * González-Bustamante, B., Carvajal, A., & González, A. (2020). <a href="http://dx.doi.org/10.29265/gypp.v29i1.658" target="_blank">Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno</a>. *Gestión y Política Pública, XXIX*(1), 97-129.
 
