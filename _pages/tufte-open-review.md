@@ -3,7 +3,7 @@ title: "Training Data Lab - Open Review Working Papers"
 layout: gridlay
 excerpt: "Training Data Lab - Open Review Working Papers"
 sitemap: false
-permalink: /tufte-open-review/
+permalink: /tufte-working-papers/open-review/
 ---
 
 # Tufte Working Papers
