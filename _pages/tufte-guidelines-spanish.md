@@ -8,7 +8,7 @@ permalink: /tufte-working-papers/guidelines-spanish/
 
 # Tufte Working Papers
 
-<p align=" justify"><a href="/tufte-guidelines/">Ver esta página en inglés</a>.</p>
+<p align=" justify"><a href="/tufte-working-papers/guidelines/">Ver esta página en inglés</a>.</p>
 
 ## Criterios de publicación
 
