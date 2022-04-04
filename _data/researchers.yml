@@ -2,34 +2,28 @@
   photo: daguilar.jpg
   info: Training Data Lab
   email: diego.aguilar@training-datalab.com
-  website:
-
-- name: Bastián González-Bustamante
-  photo: bgonzalezbustamante.jpg
-  info: University of Oxford
-  email: bastian.gonzalezbustamante@politics.ox.ac.uk
-  website: <a href="/team/bgonzalezbustamante">View profile</a>
+  website: <a href="/team/daguilar">View profile</a>
 
 - name: Rodrigo Cuevas
   photo: rcuevas.jpg
   info: Universidad de Chile
   email: rodrigocuevas@uchile.cl
-  website:
+  website: <a href="/team/rcuevas">View profile</a>
 
 - name: Miguel Ángel López
   photo: malopez.jpg
   info: Universidad de Chile
   email: mlopez@uchile.cl
-  website:
 
+  website: <a href="/team/malopez">View profile</a>
 - name: Jaquelin Morillo
   photo: jmorillo.jpg
   info: Training Data Lab
   email: jaquelin.morillo@training-datalab.com
-  website:
+  website: <a href="/team/jmorillo">View profile</a>
 
 - name: Alejandro Olivares L.
   photo: aolivares.jpg
   info: Universidad Católica de Temuco
   email: alejandro.olivares@uct.cl
-  website: <a href="https://www.researchgate.net/profile/Alejandro-Olivares-L" target="_blank">ResearchGate</a>
+  website: <a href="/team/aolivares">View profile</a>
