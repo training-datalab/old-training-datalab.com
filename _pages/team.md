@@ -24,7 +24,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <strong>{{ member.name }}</strong>
+  <br><strong>{{ member.name }}</strong><br>
   {{ member.info }}<br>{{ member.website }}
 </div>
 
