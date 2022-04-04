@@ -1,6 +1,5 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file.
-Automatic updates: Projects, news, and team members updates. Tufte Working Papers issues.
+All notable changes to "training-datalab.com" will be documented in this file. Automatic updates: Projects, news, and team members updates. Tufte Working Papers issues.
 
 ## [Unreleased]
 
@@ -8,10 +7,18 @@ Automatic updates: Projects, news, and team members updates. Tufte Working Paper
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
-### Changed
-- Scripts and folders names standardisation.
 
 ## [Released]
+
+## [1.12.14] - 2022-04-04
+### Changed
+- Minor corrections.
+
+## [1.12.13] - 2022-04-02
+### Added
+- LPPL v1.3c license on Tufte Working Papers repository.
+### Changed
+- Minor corrections.
 
 ## [1.11.13] - 2022-03-31
 ### Changed
