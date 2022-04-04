@@ -12,6 +12,35 @@ permalink: /team/
 
 Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong>#Slack workspace</strong></a> for our team.
 
+## Coordinators
+{% assign number_printed = 0 %}
+{% for member in site.data.coordinators %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  {{ member.info }}<br>{{ member.website }}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ## Research Associates
 {% assign number_printed = 0 %}
 {% for member in site.data.researchers %}
@@ -25,7 +54,8 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  {{ member.info }}<br><{{ member.email }}><br>{{ member.website }}
+  <!-- {{ member.info }}<br><{{ member.email }}><br>{{ member.website }}-->
+  {{ member.info }}<br>{{ member.website }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -90,6 +120,6 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 {% for member in site.data.assistants3 %}
 {{ member.name }}
 {% endfor %}
-</div> 
+</div>
 
-</div> 
+</div>
