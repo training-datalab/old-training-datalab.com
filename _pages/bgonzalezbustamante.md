@@ -18,7 +18,7 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
-* Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*.
+* Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. Online First.
 
 * Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia, 81*.
 
@@ -34,7 +34,7 @@ permalink: /team/bgonzalezbustamante/
 
 * Maillet, A., González-Bustamante, B., & Olivares, A. (2019). <a href="https://doi.org/10.1080/10978526.2019.1652099" target="_blank">Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</a>. *Latin American Business Review, 20*(4), 367-387.
 
-* González-Bustamante, B. (2019). <a href="https://doi.org/10.29101/crcs.v26i80.11097" target="_blank">Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay</a>. *Convergencia. Revista de Ciencias Sociales, 80*, 1-27.
+* González-Bustamante, B. (2019). <a href="https://doi.org/10.29101/crcs.v26i80.11097" target="_blank">Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay</a>. *Convergencia. Revista de Ciencias Sociales*, 80, 1-27.
 
 * Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
 
@@ -54,9 +54,9 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.5 -- Gentle Scene)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.6 -- Dry Bonus)</a> [Data set].
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.2 -- Bold Tooth)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.3 -- Shiny Snow)</a> [Data set].
 
 ### Contact Information
 
