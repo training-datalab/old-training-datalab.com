@@ -28,6 +28,8 @@ permalink: /consultancy/
 
 -	Optical character recognition algorithms and pre-processing of press or archives digitalised files (extremely highly time-consuming task).
 
+- Labelling and annotation for texts and images according to specific categories. We provide the pre-processed data and inter-coder reliability tests (highly time-consuming task).
+
 ## Branding Management
 -	Design and permanent cloud storage of academic/professional websites.
 
