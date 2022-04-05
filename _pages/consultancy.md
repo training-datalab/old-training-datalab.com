@@ -37,5 +37,5 @@ permalink: /consultancy/
 
 <p align=" justify">We do not provide support in analysis or empirical strategies development beyond data management, collection and pre-processing.</p>
 
-<p align=" justify">Please address requests to <a href="mailto:contact@training-datalab.com">contact@training-datalab.com</a>.</p>
+<p align=" justify">**Please email us at <a href="mailto:contact@training-datalab.com">contact@training-datalab.com</a> to evaluate the budget, schedule availability, and feasibility of your request.**</p>
 <br />
