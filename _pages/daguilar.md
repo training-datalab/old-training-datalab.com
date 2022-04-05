@@ -10,9 +10,7 @@ permalink: /team/daguilar/
 
 <img src="https://training-datalab.com/images/team/daguilar.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align=" justify">I am a public servant working on indigenous affairs in the federal government. I am currently based in the province of Ontario, Canada. Furthermore, I am a Network Leader at the Brantford Immigration Partnership.</p>
-
-<p align=" justify">Before relocating to Canada, I served as a Lawyer and International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC). </p>
+<p align=" justify">I am a public servant working on indigenous affairs in the federal government. I am currently based in the province of Ontario, Canada. Furthermore, I am a Network Leader at the Brantford Immigration Partnership. Before relocating to Canada, I served as a Lawyer and International Relations Coordinator at the Servicio Nacional del Consumidor (SERNAC). </p>
 
 <p align=" justify">I hold an MA in Political Science from the Institute of Public Affairs at the Universidad de Chile and a MA in Global Politics from McMaster University (Hamilton, Canada). Moreover, I earned a Bachelor of Laws from Universidad Alberto Hurtado, Chile.</p>
 
