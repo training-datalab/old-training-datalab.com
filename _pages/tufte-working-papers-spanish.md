@@ -15,7 +15,7 @@ permalink: /tufte-working-papers-spanish/
 <p align=" justify">Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tufte. Además, se licencia bajo <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/CCBY40.md" target="_blank">Creative Commons</a> y <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE.md" target="_blank">LPPL v1.3c</a>, por tanto, su contenido es de acceso abierto y utiliza la taxonomía <a href="/credit/">CRediT</a> para identificar contribuciones en coautorías junto con un proceso de <a href="/tufte-working-papers/open-review-spanish/">revisión abierto</a>. Para más información, revisar los <a href="/tufte-working-papers/guidelines-spanish/">lineamientos</a> de esta serie.</p>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 150px"> Esta serie de documentos de trabajo está indizada en Latindex-Directorio.
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 125px"> Esta serie de documentos de trabajo está indizada en Latindex-Directorio.
 </figure>
 
 ## Números
