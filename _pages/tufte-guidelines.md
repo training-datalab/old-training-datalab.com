@@ -22,7 +22,7 @@ permalink: /tufte-working-papers/guidelines/
 
 ## Editorial Management
 
-<p align=" justify">This series has only the editorial team as its executive body. The editorial team is composed of the editor, <a href="/team/bgonzalezbustamante"><strong>Bastián González-Bustamante</strong></a>, who manages the series in its broadest sense, and <a href="/team/jmorillo"><strong>Jaquelin Morillo</strong></a>, associate editor.</p>
+<p align=" justify">This series has only the editorial team as its executive body. The editorial team is comprised of the editor, <a href="/team/bgonzalezbustamante"><strong>Bastián González-Bustamante</strong></a>, who manages the series in its broadest sense, and <a href="/team/jmorillo"><strong>Jaquelin Morillo</strong></a>, associate editor.</p>
 
 ## Editorial Process
 
