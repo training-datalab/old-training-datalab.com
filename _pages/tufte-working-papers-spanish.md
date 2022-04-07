@@ -22,7 +22,7 @@ permalink: /tufte-working-papers-spanish/
 
 <ul>
 <li>González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. <em>Tufte Working Papers</em>, 2, 1-21. DOI: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.</li>
-<li>González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continúo, para el estudio de las élites. <em>Tufte Working Papers</em>, 1, 1-15. DOI: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.</li>
+<li>González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. <em>Tufte Working Papers</em>, 1, 1-15. DOI: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.</li>
 </ul>
 <br />
-<small>El uso del texto completo, que es la suma de visualizacione4s y descargas de la plataforma, es de 676 hasta abril de 2022.</small>
+<small>El uso del texto completo, que es la suma de visualizacione4s y descargas de la plataforma, es de 1.077 hasta abril de 2022.</small>
