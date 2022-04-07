@@ -44,5 +44,5 @@ permalink: /tufte-working-papers/guidelines-spanish/
 
 <p align=" justify">Como esta serie privilegia los estudios empíricos, se recomienda encarecidamente seguir el formato introducción-método-resultados-discusión y mantener la extensión del documento entre 4.000 y 10.000 palabras (incluyendo referencias).</p>
 
-<p align=" justify"><strong>Los envíos se pueden realizar al correo electrónico de nuestra editora asociada <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a>.</strong></p>
+<p align=" justify"><strong>Los envíos se pueden realizar al correo electrónico de nuestra editora asociada <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a> o <a href="mailto:working-papers@training-datalab.com">working-papers@training-datalab.com</a>.</strong></p>
 <br />
