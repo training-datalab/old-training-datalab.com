@@ -44,5 +44,5 @@ permalink: /tufte-working-papers/guidelines/
 
 <p align=" justify">As this series favours empirical studies, it is strongly recommended to follow the format introduction-method-results-discussion and keep the document’s length between 4,000 and 10,000 words (including references).</p>
 
-<p align=" justify"><strong>Submissions can be made to the email address of our associate editor <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a>.</strong></p>
+<p align=" justify"><strong>Submissions can be made to the email address of our associate editor <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a> or <a href="mailto:working-papers@training-datalab.com">working-papers@training-datalab.com</a>.</strong></p>
 <br />
