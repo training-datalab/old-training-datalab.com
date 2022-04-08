@@ -10,6 +10,10 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Released]
 
+## [2.1.1] - 2022-04-08
+### Changed
+- Minor corrections.
+
 ## [2.1.0] - 2022-04-05
 ### Added
 - Consultancy private section.
