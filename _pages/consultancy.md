@@ -40,7 +40,7 @@ permalink: /consultancy/
 
 ## Relevant Disclaimers
 
-<p align=" justify">Considering request and agenda availability, consultancy is provided by specific team members as a private, professional service, not by the institutions to which they are affiliated.
+<p align=" justify">Considering request and agenda availability, consultancy is provided by specific team members as a private, professional service, not by the institutions to which they are affiliated.</p>
 
 <p align=" justify">We do not provide support in analysis or empirical strategies development beyond data management, collection and pre-processing.</p>
 
