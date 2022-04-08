@@ -8,9 +8,7 @@ permalink: /consultancy/
 
 # Consultancy
 
-## Topics
-
-### Data Management
+## Data Management
 
 - Replicability and metadata generation consultancy.
 
@@ -20,7 +18,7 @@ permalink: /consultancy/
 
 -	Data deposit consultancy and guidelines.
 
-### Data Collection and Pre-Processing
+## Data Collection and Pre-Processing
 
 -	Data gathering and pre-processing of the global digital press by country or topic from 2020 to nowadays (highly time-consuming task, the feasibility of previous years could be assessed).
 
@@ -32,7 +30,7 @@ permalink: /consultancy/
 
 - Labelling and annotation for texts and images according to specific categories. We provide the pre-processed data and inter-coder reliability tests (highly time-consuming task).
 
-### Branding Management
+## Branding Management
 
 -	Design and permanent cloud storage of academic/professional websites.
 
