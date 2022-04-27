@@ -1,14 +1,19 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file. Automatic updates: Projects, news, and team members updates. Tufte Working Papers issues.
+All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, and team members updates. Tufte Working Papers issues.
 
 ## [Unreleased]
 
-## [2.2.0] - TBC
+## [2.2.2] - TBC
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
+- Local government indicators project.
 
 ## [Released]
+
+## [2.1.2] - 2022-04-27
+### Changed
+- Minor corrections.
 
 ## [2.1.1] - 2022-04-08
 ### Changed
@@ -112,7 +117,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Integration with Tufte Working Papers.
 ### Changed
 - Cover page template typed in Tufte-LaTeX.
-- Automatic working papers updates.
+- Automated working papers updates.
 - Revision of upgrade versioning.
 - Minor corrections.
 
@@ -138,7 +143,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [1.2.1] - 2021-03-26
 ### Changed
 - README in MD format on GitHub repository.
-- Automatic news updates.
+- Automated news updates.
 - Minor corrections.
 ## Removed
 - Workflow diagrams code.
@@ -156,8 +161,8 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Changelog in TXT format on GitHub repository.
 - Badges in SVG on GitHub repository.
 ### Changed
-- Automatic projects updates.
-- Automatic team members updates.
+- Automated projects updates.
+- Automated team members updates.
 
 ## [1.0.0] - 2021-03-21
 ### Added
