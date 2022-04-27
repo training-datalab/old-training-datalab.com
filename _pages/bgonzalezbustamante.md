@@ -10,13 +10,17 @@ permalink: /team/bgonzalezbustamante/
 
 <img src="https://training-datalab.com/images/team/bgonzalezbustamante.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align=" justify">I am completing my DPhil (PhD) dissertation in the <a href="https://www.politics.ox.ac.uk/" target="_blank">Department of Politics and International Relations</a> and <a href="https://www.sthildas.ox.ac.uk/" target="_blank">St Hilda’s College</a> at the <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the <a href="https://fae.usach.cl/" target="_blank">Faculty of Administration and Economics</a> at the Universidad de Santiago de Chile.</p>
+<p align=" justify">I am completing my DPhil (PhD) dissertation in the <a href="https://www.politics.ox.ac.uk/" target="_blank">Department of Politics and International Relations</a> and <a href="https://www.sthildas.ox.ac.uk/" target="_blank">St Hilda’s College</a> at the <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the <a href="https://fae.usach.cl/" target="_blank">Faculty of Administration and Economics</a> at the Universidad de Santiago de Chile (USACH).</p>
 
 <p align=" justify">Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Chile and a consultant for the United Nations Development Programme (UNDP).</p>
 
-<p align=" justify">My doctoral research is supervised by <a href="https://www.politics.ox.ac.uk/person/petra-schleiter" target="_blank">Professor Petra Schleiter</a> and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations. My research is funded by the Chilean National Agency for Research and Development.</p>
+<p align=" justify">My doctoral research is supervised by <a href="https://www.politics.ox.ac.uk/person/petra-schleiter" target="_blank">Professor Petra Schleiter</a> and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My data gathering strategy is based on archives revision using Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning techniques. In addition, my empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations.</p>
+
+<p align=" justify">My research is funded by the Chilean National Agency for Research and Development and the St Hilda’s College Muriel Wise Fund.</p>
 
 ## Featured Articles
+
+* Fleming, T., González‑Bustamante, B., & Schleiter, P. (2022, *forthcoming*). Cabinet Reshuffles and Parliamentary No‑Confidence Motions. *Government and Opposition*.
 
 * Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. Online First.
 
