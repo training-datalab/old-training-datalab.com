@@ -24,7 +24,7 @@ permalink: /team/bgonzalezbustamante/
 
 * Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. Online First.
 
-* Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia, 81*.
+* Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81.
 
 * González-Bustamante, B. (2021). <a href="https://doi.org/10.1016/j.worlddev.2020.105180" target="_blank">Early Government Responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
 
