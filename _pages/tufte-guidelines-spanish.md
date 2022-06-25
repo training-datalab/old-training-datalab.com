@@ -36,7 +36,7 @@ permalink: /tufte-working-papers/guidelines-spanish/
 
 <p align=" justify">Los manuscritos aceptados deben ser ajustados por los autores con base en los comentarios del proceso de revisión, posteriormente, son revisados por el equipo editorial que puede solicitar ajustes menores adicionales. Este ciclo se repite hasta que se obtenga una versión satisfactoria que pueda ser diagramada. Los manuscritos se diagraman en Tufte-LaTeX y son revisados por el equipo editorial y los autores. Todo este proceso se realiza de forma abierta y con seguimiento constante en nuestro <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">repositorio de GitHub</a>.</p>
 
-<p align=" justify">Por último, las versiones finales se almacenan en GitHub, opcionalmente SocArXiv en <a href="http://osf.io/" target="_blank">OSF</a> y <a href="https://zenodo.org/" target="_blank">Zenodo</a>.</p>
+<p align=" justify">Por último, las versiones finales se almacenan en GitHub, opcionalmente SocArXiv en <a href="http://osf.io/" target="_blank">OSF</a>, y <a href="https://zenodo.org/" target="_blank">Zenodo</a>.</p>
 
 ## Guía de estilo para los autores
 
