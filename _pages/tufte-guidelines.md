@@ -36,7 +36,7 @@ permalink: /tufte-working-papers/guidelines/
 
 <p align=" justify">Accepted manuscripts must be adjusted by the authors based on the comments of the review process and are then reviewed by the editorial team, who may request further minor adjustments. This cycle is repeated until a satisfactory version that can be typeset is obtained. Manuscripts are then typeset in Tufte-LaTeX and reviewed by the editorial team and the authors. This whole process is done openly and with constant monitoring in our <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">GitHub repository</a>.</p>
 
-<p align=" justify">Finally, the version of record is stored on GitHub, optionally SocArXiv in <a href="http://osf.io/" target="_blank">OSF</a> and <a href="https://zenodo.org/" target="_blank">Zenodo</a>.</p>
+<p align=" justify">Finally, the version of record is stored on GitHub, optionally SocArXiv in <a href="http://osf.io/" target="_blank">OSF</a>, and <a href="https://zenodo.org/" target="_blank">Zenodo</a>.</p>
 
 ## Style guide for authors
 
