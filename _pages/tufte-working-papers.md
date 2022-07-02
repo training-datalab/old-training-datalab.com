@@ -14,10 +14,6 @@ permalink: /tufte-working-papers/
 
 <p align=" justify">This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In addition, it is licensed under <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-CC.md" target="_blank">Creative Commons</a> and <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-LPPL.md" target="_blank">LPPL v1.3c</a>, therefore, its content is open access and uses the <a href="/credit/">CRediT</a> taxonomy to identify co-authored contributions along with an <a href="/tufte-working-papers/open-review/">open review</a> process. For further information, see the <a href="/tufte-working-papers/guidelines/">guidelines</a> for this series.</p>
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 130px"> This working papers series is indexed in Latindex-Directorio.
-</figure>
-
 ## Issues
 
 <ul>
@@ -26,8 +22,8 @@ permalink: /tufte-working-papers/
 </ul>
 
 <figure class="fourth">
-  <small>Connected with:</small> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/orcid.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cc.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 45px">
+  <small>Connected with:</small> &nbsp;&nbsp; <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/orcid.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cc.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 40px">
 </figure>
 
 <br />
-<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,252 until June 2022.</small>
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,306 until July 2022.</small>
