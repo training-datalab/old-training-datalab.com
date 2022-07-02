@@ -14,9 +14,6 @@ permalink: /tufte-working-papers-spanish/
 
 <p align=" justify">Esta serie se produce íntegramente en Tufte-LaTeX, inspirado por Edward R. Tufte. Además, se licencia bajo <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-CC.md" target="_blank">Creative Commons</a> y <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-LPPL.md" target="_blank">LPPL v1.3c</a>, por tanto, su contenido es de acceso abierto y utiliza la taxonomía <a href="/credit/">CRediT</a> para identificar contribuciones en coautorías junto con un proceso de <a href="/tufte-working-papers/open-review-spanish/">revisión abierto</a>. Para más información, revisar los <a href="/tufte-working-papers/guidelines-spanish/">lineamientos</a> de esta serie.</p>
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 130px"> Esta serie de documentos de trabajo está indizada en Latindex-Directorio.
-</figure>
 
 ## Números
 
@@ -25,4 +22,10 @@ permalink: /tufte-working-papers-spanish/
 <li>González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. <em>Tufte Working Papers</em>, 1, 1-15. DOI: <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">10.5281/zenodo.6739266</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.</li>
 </ul>
 <br />
-<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF, es de 1.252 hasta junio de 2022.</small>
+
+<figure class="fourth">
+  <small>Conectados con:</small> &nbsp;&nbsp; <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/orcid.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cc.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 40px">
+</figure>
+
+<br />
+<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF, es de 1.306 hasta julio de 2022.</small>
