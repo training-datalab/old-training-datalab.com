@@ -16,7 +16,7 @@ permalink: /team/bgonzalezbustamante/
 
 <p align=" justify">My doctoral research is supervised by <a href="https://www.politics.ox.ac.uk/person/petra-schleiter" target="_blank">Professor Petra Schleiter</a> and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My data gathering strategy is based on archives revision using Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning techniques. In addition, my empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations.</p>
 
-<p align=" justify">My research is funded by the Chilean National Agency for Research and Development and the St Hilda’s College Muriel Wise Fund.</p>
+<p align=" justify">My research is funded by the Chilean National Agency for Research and Development, the St Hilda’s College Muriel Wise Fund and the Society for Latin American Studies Postgraduate and Postdoctoral Research Award.</p>
 
 ## Featured Articles
 
@@ -57,6 +57,8 @@ permalink: /team/bgonzalezbustamante/
 * González-Bustamante, B. (2018). <a href="https://doi.org/10.34720/2nd0-8t73" target="_blank">Internet, uso de redes sociales digitales y participación en el Cono Sur</a>. In P. Cottet (ed.), *Opinión Pública Contemporánea: Otras Posibilidades de Comprensión e Investigación*. Santiago: Social-Ediciones.
 
 ## Data Collection Projects
+
+* González‑Bustamante, B., & Aguilar, D. (2022, *forthcoming*). Data Set on Local Government Indicators in Chile (Version 1.0.0 – TBC) [Data set].
 
 * González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.6 -- Dry Bonus)</a> [Data set].
 
