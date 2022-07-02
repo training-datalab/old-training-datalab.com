@@ -22,6 +22,14 @@ permalink: /team/daguilar/
 
 * Aguilar, D. (2020). <a href="https://www.academia.edu/43823415/Una_aproximaci%C3%B3n_a_la_arbitrariedad_como_cl%C3%A1usula_abusiva_an%C3%A1lisis_a_la_cl%C3%A1usula_del_no_show" target="_blank">Una aproximación a la arbitrariedad como cláusula abusiva: análisis a la cláusula del no-show</a>. In S. Bozzo (ed.), *Memorias III Congreso Internacional de Regulación y Consumo*. Santiago: RIL Editores.
 
+## Data Collection Project
+
+* González‑Bustamante, B., & Aguilar, D. (2022, *forthcoming*). Data Set on Local Government Indicators in Chile (Version 1.0.0 – TBC) [Data set].
+
+## Selected Conference Presentations
+
+* González‑Bustamante, B., & Aguilar, D. (2022). *Patrones territoriales en el desarrollo digital y el gobierno abierto: Evidencia de los municipios chilenos*. Presentation delivered at the XI Latin American Congress of Political Science, Virtual.
+
 ### Contact Information
 
 Email: <a href="mailto:diego.aguilar@training-datalab.com">diego.aguilar@training-datalab.com</a><br />
