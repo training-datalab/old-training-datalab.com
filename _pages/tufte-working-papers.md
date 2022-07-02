@@ -28,7 +28,7 @@ permalink: /tufte-working-papers/
 
 <small>Connected with:</small>
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 45px"> 
+  Connected with: <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/orcid.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 45px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 45px"> 
 </figure>
 
 <br />
