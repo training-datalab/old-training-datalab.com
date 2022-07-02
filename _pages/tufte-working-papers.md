@@ -25,4 +25,11 @@ permalink: /tufte-working-papers/
 <li>González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. <em>Tufte Working Papers</em>, 1, 1-15. DOI: <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">10.5281/zenodo.6739266</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.</li>
 </ul>
 <br />
+
+<small>Connected with:</small>
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="width: 130px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="width: 130px"> 
+</figure>
+
+<br />
 <small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,252 until June 2022.</small>
