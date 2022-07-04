@@ -28,6 +28,8 @@ permalink: /team/daguilar/
 
 ## Selected Conference Presentations
 
+ * González-Bustamante, B., & Aguilar, D. (2022, *forthcoming*). *Territorial Patterns in Digital Development and Open Government: Evidence from Chilean Local Governments*. Presentation delivered at the International Political Science Association Seminar Smart Cities and Open Government: Local Responses to Participation, Public Information, and Democracy, Madrid.
+
 * González‑Bustamante, B., & Aguilar, D. (2022). *Patrones territoriales en el desarrollo digital y el gobierno abierto: Evidencia de los municipios chilenos*. Presentation delivered at the XI Latin American Congress of Political Science, Virtual.
 
 ### Contact Information
