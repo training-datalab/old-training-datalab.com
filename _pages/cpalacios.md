@@ -24,9 +24,9 @@ permalink: /team/cpalacios/
 
 ## Reviews
 
-Palacios, C. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/332" target="_blank">Inés Nercesian. Presidentes empresarios y estados capturados: América Latina en el siglo XXI. Buenos Aires: Editorial Teseo, 2020.: 246 ppp. ISBN 9789877232646</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 192-195.
+* Palacios, C. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/332" target="_blank">Inés Nercesian. Presidentes empresarios y estados capturados: América Latina en el siglo XXI. Buenos Aires: Editorial Teseo, 2020.: 246 ppp. ISBN 9789877232646</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 192-195.
 
-Palacios, C. (2018). Aninat, I. y Razmilic. S. (eds.) (2018). <a href="https://revistas.uv.cl/index.php/rgp/article/view/2206" target="_blank">Un Estado para la Ciudadanía. Estudios para su modernización. Santiago: Centro de Estudios Públicos</a>. *Revista de Gestión Pública, VII*(1), 137–142.
+* Palacios, C. (2018). Aninat, I. y Razmilic. S. (eds.) (2018). <a href="https://revistas.uv.cl/index.php/rgp/article/view/2206" target="_blank">Un Estado para la Ciudadanía. Estudios para su modernización. Santiago: Centro de Estudios Públicos</a>. *Revista de Gestión Pública, VII*(1), 137–142.
 
 ## Selected Conference Presentation
 
