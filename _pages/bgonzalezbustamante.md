@@ -22,6 +22,8 @@ permalink: /team/bgonzalezbustamante/
 
 * Fleming, T., González‑Bustamante, B., & Schleiter, P. (2022, *forthcoming*). Cabinet Reshuffles and Parliamentary No‑Confidence Motions. *Government and Opposition*.
 
+* Cisternas, C., & González-Bustamante, B. (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
+
 * Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. Online First.
 
 * Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81.
