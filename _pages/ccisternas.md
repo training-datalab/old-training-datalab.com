@@ -24,6 +24,8 @@ I am interested in technocracy in Latin America, public policies and legislative
 
 * Cisternas, C. (2021). <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank">Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018</a>. *Revista de Estudios Políticos*, 194, 249-279.
 
+* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
+
 * Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
 
 * Cisternas, C., & Vásquez, J. (2018). <a href="https://doi.org/10.32992/erlacs.10349" target="_blank">Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile.</a> *European Review of Latin American and Caribbean Studies*, 106, 1–22.
