@@ -23,7 +23,7 @@ permalink: /tufte-working-papers-spanish/
 <br />
 
 <figure class="fourth">
-  <small>Connected with:</small> &nbsp;&nbsp; <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/socarxiv.jpg" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/orcid.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cc.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 40px">
+  <small>Conectados con:</small> &nbsp;&nbsp; <img src="{{ site.url }}{{ site.baseurl }}/images/logos/latindex.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/openaire.jpg" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/socarxiv.jpg" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/orcid.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/cc.png" style="height: 40px"> <img src="{{ site.url }}{{ site.baseurl }}/images/logos/dora.png" style="height: 40px">
 </figure>
 
 <br />
