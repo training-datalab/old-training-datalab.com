@@ -1,12 +1,12 @@
 ---
-title: "Training Data Lab - Carlos Palacios"
+title: "Training Data Lab - Carlos Palacios Peralta"
 layout: gridlay
-excerpt: "Training Data Lab - Carlos Palacios"
+excerpt: "Training Data Lab - Carlos Palacios Peralta"
 sitemap: false
 permalink: /team/cpalacios/
 ---
 
-# Carlos Palacios
+# Carlos Palacios Peralta
 
 <img src="https://training-datalab.com/images/team/cpalacios.jpg" class="img-responsive" width="180px" style="float: left" />
 
