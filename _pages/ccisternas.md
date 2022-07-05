@@ -10,18 +10,15 @@ permalink: /team/ccisternas/
 
 <img src="https://training-datalab.com/images/team/ccisternas.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<!-- <p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/" target="_blank">Leiden University</a>, Netherlands. I am also a Lecturer in the School of Business at the <a href="https://www.umayor.cl/um/facultades/humanidades/10000" target="_blank">Faculty of Social Sciences and Arts</a> at the Universidad Mayor, Chile. </p> -->
-<br />
-<p align="justify">I am  a Lecturer in the School of Business at the <a href="https://www.umayor.cl/um/facultades/humanidades/10000" target="_blank">Faculty of Social Sciences and Arts</a> at the Universidad Mayor, Chile. </p>
+<p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/en" target="_blank">Leiden University</a>, Netherlands. I am also a Lecturer at the <a href="https://www.umayor.cl/um/facultades/facultad-de-ciencias-sociales-y-artes/10000" target="_blank">Faculty of Social Sciences and Arts</a> at the Universidad Mayor, Chile.</p>
 
-<!-- <p align="justify">I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a>  at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago. I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis, and mixed methods. My doctoral project is supervised by <a href="https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1" target="_blank">Professor Patricio Silva</a> and Dr <a href="https://www.universiteitleiden.nl/en/staffmembers/maria-gabriela-palacio-ludena#tab-1" target="_blank">María Gabriela Palacio</a> and focuses on the relationship between technocracy, democracy, and sociopolitical conflicts. In particular, I study ad hoc presidential advisory commissions.</p> -->
+I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a> at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago de Chile (USACH).
 
-<p align="justify">I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a>  at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago.</p>
-
-<p align="justify">I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis, and mixed methods.</p>
-<br />
+I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis and mixed methods. My doctoral project is supervised by <a href="https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1" target="_blank">Professor Patricio Silva</a> and <a href="https://www.universiteitleiden.nl/en/staffmembers/maria-gabriela-palacio-ludena#tab-1" target="_blank">Dr María Gabriela Palacio</a> and focuses on the relationship between technocracy, democracy, and sociopolitical conflicts. In particular, I study ad hoc presidential advisory commissions. The Chilean National Agency for Research and Development funds my PhD project.
 
 ## Featured Articles
+
+* Cisternas, C., & González-Bustamante, B. (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
 
 * Castañeda, F., Ormazabal, F., & Cisternas, C. (2022, *forthcoming*). Socio-Demographic Determinants of Financial Literacy Levels. *Studies in Business and Economics Journal, 17*(2).
 
@@ -33,9 +30,8 @@ permalink: /team/ccisternas/
 
 ### Contact Information
 
-<!-- Email: <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a><br /> -->
-Email: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a><br />
-<!-- Alternative email: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a><br /> -->
+Email: <a href="mailto:c.g.cisternas.guasch@hum.leidenuniv.nl">c.g.cisternas.guasch@hum.leidenuniv.nl</a><br />
+Alternative email: <a href="mailto:carla.cisternas@umayor.cl">carla.cisternas@umayor.cl</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0001-7948-6194" target="_blank">https://orcid.org/0000-0001-7948-6194</a><br />
 Personal website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a><br />
 <!-- Institutional website: <a href="" target="_blank"></a><br /> -->
