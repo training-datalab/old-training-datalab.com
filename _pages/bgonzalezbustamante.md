@@ -26,7 +26,7 @@ permalink: /team/bgonzalezbustamante/
 
 * Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. Online First.
 
-* González-Bustamante, B. (2021). <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21. DOI: 10.5281/zenodo.6739833.
+* González-Bustamante, B. (2021). <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21. DOI: 10.5281/zenodo.6739833.
 
 * González-Bustamante, B., & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
 
@@ -38,7 +38,7 @@ permalink: /team/bgonzalezbustamante/
 
 * González-Bustamante, B. (2020). <a href="https://doi.org/10.1111/blar.13044" target="_blank">The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition</a>. *Bulletin of Latin American Research, 39*(5), 582-597.
 
-* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
+* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
 
 * Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
 
