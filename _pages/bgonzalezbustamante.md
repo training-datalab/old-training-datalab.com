@@ -20,6 +20,8 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
+* González-Bustamante, B. (2022, *forthcoming*). Ministerial Stability During Presidential Approval Crises: The Moderating Effect of Ministers’ Attributes on Dismissals in Brazil and Chile. *The British Journal of Politics and International Relations*.
+
 * Fleming, T., González‑Bustamante, B., & Schleiter, P. (2022, *forthcoming*). Cabinet Reshuffles and Parliamentary No‑Confidence Motions. *Government and Opposition*.
 
 * Cisternas, C., & González-Bustamante, B. (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
