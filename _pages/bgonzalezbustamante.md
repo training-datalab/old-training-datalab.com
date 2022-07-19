@@ -68,7 +68,7 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
-* González‑Bustamante, B., & Aguilar, D. (2022, *forthcoming*). Data Set on Local Government Indicators in Chile (Version 1.0.0 – TBC) [Data set].
+* González‑Bustamante, B., & Aguilar, D. (2022). <a href="https://doi.org/10.5281/zenodo.6848053" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly)</a> [Data set]. Pre-release version under restricted access.
 
 * González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.6 -- Dry Bonus)</a> [Data set].
 
