@@ -24,9 +24,11 @@ permalink: /team/daguilar/
 
 ## Data Collection Project
 
-* González‑Bustamante, B., & Aguilar, D. (2022, *forthcoming*). Data Set on Local Government Indicators in Chile (Version 1.0.0 – TBC) [Data set].
+* González‑Bustamante, B., & Aguilar, D. (2022). <a href="https://doi.org/10.5281/zenodo.6848053" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly)</a> [Data set]. Pre-release version under restricted access.
 
 ## Selected Conference Presentations
+
+ * González-Bustamante, B., & Aguilar, D. (2022, *forthcoming*). *Digital Development and Open Government: Evidence from Chilean Local Governments*. Presentation delivered at the Digital Democracy Workshop, Digital Society Initiative, University of Zurich, Zurich.
 
  * González-Bustamante, B., & Aguilar, D. (2022, *forthcoming*). *Territorial Patterns in Digital Development and Open Government: Evidence from Chilean Local Governments*. Presentation delivered at the International Political Science Association Seminar Smart Cities and Open Government: Local Responses to Participation, Public Information, and Democracy, Madrid.
 
