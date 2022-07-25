@@ -8,25 +8,26 @@
   photo: rcuevas.jpg
   info: Universidad de Chile
   email: rodrigocuevas@uchile.cl
-  website: <a href="/team/rcuevas">View profile</a>
+  website:
 
 - name: Miguel Ángel López
   photo: malopez.jpg
   info: Universidad de Chile
   email: mlopez@uchile.cl
+  website:
 
   website: <a href="/team/malopez">View profile</a>
 - name: Jaquelin Morillo
   photo: jmorillo.jpg
   info: Training Data Lab
   email: jaquelin.morillo@training-datalab.com
-  website: <a href="/team/jmorillo">View profile</a>
+  website:
 
 - name: Alejandro Olivares L.
   photo: aolivares.jpg
   info: Universidad Católica de Temuco
   email: alejandro.olivares@uct.cl
-  website: <a href="/team/aolivares">View profile</a>
+  website:
 
 - name: Carlos Palacios Peralta
   photo: cpalacios.jpg
