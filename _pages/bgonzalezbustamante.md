@@ -10,9 +10,7 @@ permalink: /team/bgonzalezbustamante/
 
 <img src="https://training-datalab.com/images/team/bgonzalezbustamante.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align=" justify">I am completing my DPhil (PhD) dissertation in the <a href="https://www.politics.ox.ac.uk/" target="_blank">Department of Politics and International Relations</a> and <a href="https://www.sthildas.ox.ac.uk/" target="_blank">St Hilda’s College</a> at the <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, United Kingdom. I am currently based in Oxford, working on my research. Furthermore, I am an Instructor Professor in the Management and Public Policies Department at the <a href="https://fae.usach.cl/" target="_blank">Faculty of Administration and Economics</a> at the Universidad de Santiago de Chile (USACH).</p>
-
-<p align=" justify">Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Chile and a consultant for the United Nations Development Programme (UNDP).</p>
+<p align=" justify">I am completing my DPhil (PhD) dissertation in the <a href="https://www.politics.ox.ac.uk/" target="_blank">Department of Politics and International Relations</a> and <a href="https://www.sthildas.ox.ac.uk/" target="_blank">St Hilda’s College</a> at the <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, United Kingdom. Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Santiago and Universidad de Chile and as a consultant for the United Nations Development Programme (UNDP).</p>
 
 <p align=" justify">My doctoral research is supervised by <a href="https://www.politics.ox.ac.uk/person/petra-schleiter" target="_blank">Professor Petra Schleiter</a> and focuses on cabinets’ stability in Latin American presidential democracies. In my DPhil project, I combine the principal-agent theory elements to evaluate the actors’ incentives and strategies in presidential systems. My data gathering strategy is based on archives revision using Optical Character Recognition (OCR), Natural Language Processing (NLP), and machine learning techniques. In addition, my empirical strategy employs propensity scores and matching methods, competing risks models, and IV estimations.</p>
 
@@ -32,7 +30,9 @@ permalink: /team/bgonzalezbustamante/
 
 * González-Bustamante, B., & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
 
-* Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81.
+* González-Bustamante, B. (2021). <a href="https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé*, 21, 31-39.
+
+* Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81, 105-138.
 
 * González-Bustamante, B. (2021). <a href="https://doi.org/10.1016/j.worlddev.2020.105180" target="_blank">Early Government Responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
 
@@ -77,7 +77,7 @@ permalink: /team/bgonzalezbustamante/
 ### Contact Information
 
 Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a><br />
-Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a><br />
+<!-- Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a><br /> -->
 ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a><br />
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
