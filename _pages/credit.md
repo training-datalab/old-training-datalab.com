@@ -8,7 +8,7 @@ permalink: /credit/
 
 # CRediT
 
-CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. <a href="https://casrai.org/credit/" target="_blank">See further details</a>.
+CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
 
 | **Badge** | **Role** | **Definition**
 |---|---|---|
@@ -27,4 +27,4 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 | <img src="../images/badges/writing_initial_draft.png" align="center" width="40" /> | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | <img src="../images/badges/writing_review.png" align="center" width="40" /> | Writing – review and editing | Critical review, commentary or revision – including pre- or post-publication stages. |
 
-<small>Source: Compiled using badges from [Center for Open Science](https://github.com/CenterForOpenScience/open_research_badges) and core definitions from CASRAI. See also [https://bgonzalezbustamante.com/credit](https://bgonzalezbustamante.com/credit/). </small><br />
+<small>Source: Compiled using badges from <a href="https://github.com/CenterForOpenScience/open_research_badges" target="_blank">Center for Open Science</a> and core definitions from CASRAI. See also <a href="https://bgonzalezbustamante.com/credit/" target="_blank">https://bgonzalezbustamante.com/credit</a>. </small><br />
