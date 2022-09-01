@@ -11,6 +11,10 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Released]
 
+## [2.1.4] - 2022-09-01
+### Changed
+- Minor corrections.
+
 ## [2.1.3] - 2022-07-02
 ### Changed
 - Revision of upgrade versioning.
