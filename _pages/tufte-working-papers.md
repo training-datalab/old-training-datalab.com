@@ -16,6 +16,8 @@ permalink: /tufte-working-papers/
 
 ## Issues
 
+* Cuevas, R. (2022, *forthcoming*). Democracia y libre comercio: Una historia de 30 años más que del siglo XXI. *Tufte Working Papers*, 3.
+
 * González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. *Tufte Working Papers*, 2, 1-21. DOI: <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">10.5281/zenodo.6739833</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.
 
 * González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. *Tufte Working Papers*, 1, 1-15. DOI: <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">10.5281/zenodo.6739266</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.
@@ -26,4 +28,4 @@ permalink: /tufte-working-papers/
 </figure>
 
 <br />
-<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,306 until July 2022.</small>
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,485 until October 2022.</small>
