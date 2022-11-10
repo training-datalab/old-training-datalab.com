@@ -10,11 +10,11 @@ permalink: /projects/vip-project-machine-learning
 
 **Researchers:** Carla Cisternas and Francisco Castañeda
 
-**Associates:** Bastián González-Bustamante, Rodrigo Cuevas, and Diego Aguilar
+**Associates:** Bastián González-Bustamante, Rodrigo Cuevas and Diego Aguilar
 
-**Assistants:** Esteban Barrios, Virla Liberona, Felipe Aniñir, Sebastián Saldías, Carolina Ávila, Gonzalo Avaria, Matías Carrillo, and Nicolas Garrido
+**Assistants:** Esteban Barrios, Virla Liberona, Felipe Aniñir, Sebastián Saldías, Carolina Ávila, Gonzalo Avaria, Matías Carrillo and Nicolas Garrido
 
-[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish) 
+[See project in Spanish]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning-spanish)
 
 [![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/vip-project-machine-learning)
 
