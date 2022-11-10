@@ -27,8 +27,9 @@ permalink: /projects/local-government-indicators
 ## Resources
 
 <ul>
-<li><a href="https://youtu.be/AmUQnQbKabQ" target="_blank">Presentation on the repository at the LatinR Conference in Spanish.</a></li>
-<li><a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index at the IPSA Seminar in Madrid in English.</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.6848053" target="_blank">Pre‑release dataset under restricted access.</a></li>
+<li><a href="https://youtu.be/AmUQnQbKabQ" target="_blank">Presentation on the repository in Spanish at the LatinR Conference.</a></li>
+<li><a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index in English at the IPSA Seminar in Madrid.</a></li>
 </ul>
 <br />
 <small>Last updated: November 10, 2022.</small>
