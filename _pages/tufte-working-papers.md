@@ -2,7 +2,7 @@
 title: "Training Data Lab - Tufte Working Papers"
 layout: gridlay
 excerpt: "Training Data Lab - Tufte Working Papers"
-sitemap: false
+sitemap: true
 permalink: /tufte-working-papers/
 ---
 
