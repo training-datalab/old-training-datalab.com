@@ -2,7 +2,7 @@
 title: "Training Data Lab - Projects"
 layout: gridlay
 excerpt: "Training Data Lab - Projects"
-sitemap: false
+sitemap: true
 permalink: /projects/
 ---
 
