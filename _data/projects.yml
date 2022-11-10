@@ -1,6 +1,6 @@
 - title: "Local Government Indicators Repository"
   image: open_gov_RM.png
-  description: This project presents a novel integrated dataset with geospatial information and indicators of local governments in Chile between 2010 and 2022.
+  description: This project presents a novel integrated dataset with geospatial information and indicators of local governments in Chile between 2010 and 2022. We integrated several indicators with geospatial information using open data and public information.
   authors: Bastián González-Bustamante and Diego Aguilar
   link:
     url: https://training-datalab.com/projects/local-government-indicators
