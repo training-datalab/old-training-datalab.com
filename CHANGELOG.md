@@ -1,23 +1,28 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, and team members updates. Tufte Working Papers issues.
+All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, team members updates and Tufte Working Papers issues.
 
 ## [Unreleased]
 
-## [2.2.6] - TBC
+## [2.2.5] - TBC
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
-- Local government indicators project.
 
 ## [Released]
 
-## [2.1.5] - 2022-11-10
+## [2.2.4] - 2022-11-10
+### Added
+- Local government indicators project.
 ### Changed
 - Minor corrections.
+### Removed
+- Consultancy section.
 
 ## [2.1.4] - 2022-09-01
 ### Changed
 - Minor corrections.
+### Deprecated
+- Consultancy section.
 
 ## [2.1.3] - 2022-07-02
 ### Changed
