@@ -8,11 +8,11 @@ permalink: /projects/local-government-indicators
 
 # Local Government Indicators Repository
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/open_gov_RM.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/RM_map.png){: style="width: 350px; float: right; border: 10px"}
 
 **Researchers:** Bastián González-Bustamante and Diego Aguilar
 
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/cps-ranking)
+[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/local-government-indicators)
 
 ## Creation of the Dataset
 
