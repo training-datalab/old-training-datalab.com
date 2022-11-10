@@ -1,13 +1,3 @@
-- title: "Local Government Indicators Repository"
-  image: open_gov_RM.png
-  description: This project presents a novel integrated dataset with geospatial information and indicators of local governments in Chile between 2010 and 2022.
-  authors: Bastián González-Bustamante and Diego Aguilar
-  link:
-    url: https://training-datalab.com/projects/local-government-indicators
-    display: See Project
-  highlight: 1
-  news2:
-
 - title: "Chilean Political Science Impact Ranking"
   image: CPS-Ranking.png
   description: This is a scraper programmed in order to obtain quarterly data from Google Scholar and elaborate an impact measurement. This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
