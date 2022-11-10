@@ -2,7 +2,7 @@
 title: "Training Data Lab - Consultancy"
 layout: gridlay
 excerpt: "Training Data Lab - Consultancy"
-sitemap: true
+sitemap: false
 permalink: /consultancy/
 ---
 
@@ -12,7 +12,7 @@ permalink: /consultancy/
 
 - Replicability and metadata generation consultancy.
 
--	Storage and backup consultancy to secure advanced encryption standards, therefore, it is possible to store public and confidential information.
+-	Storage and backup consultancy to secure advanced encryption standards to store public and confidential information.
 
 -	Data access and security based on cryptographic authentication consultancy.
 
