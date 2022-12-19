@@ -29,4 +29,4 @@ permalink: /tufte-working-papers-spanish/
 </figure>
 
 <br />
-<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF, es de 1.485 hasta octubre de 2022.</small>
+<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF, es de 1.581 hasta diciembre de 2022.</small>
