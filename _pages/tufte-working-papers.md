@@ -28,4 +28,4 @@ permalink: /tufte-working-papers/
 </figure>
 
 <br />
-<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,485 until October 2022.</small>
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,581 until December 2022.</small>
