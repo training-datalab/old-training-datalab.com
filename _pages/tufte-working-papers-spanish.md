@@ -17,7 +17,7 @@ permalink: /tufte-working-papers-spanish/
 
 ## Números
 
-* Cuevas, R. (2022, *próximamente*). Democracia y libre comercio: Una historia de 30 años más que del siglo XXI. *Tufte Working Papers*, 3.
+* Cuevas, R. (2022, *próximamente*). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3.
 
 * González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. *Tufte Working Papers*, 2, 1-21. DOI: <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">10.5281/zenodo.6739833</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.
 
