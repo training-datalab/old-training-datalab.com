@@ -16,7 +16,7 @@ permalink: /tufte-working-papers/
 
 ## Issues
 
-* Cuevas, R. (2022, *forthcoming*). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3.
+* Cuevas, R. (2022, *forthcoming*). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3. SocArXiv: <a href="https://doi.org/10.31235/osf.io/y4fxw" target="_blank">10.31235/osf.io/y4fxw</a>.
 
 * González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. *Tufte Working Papers*, 2, 1-21. DOI: <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">10.5281/zenodo.6739833</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.
 
@@ -28,4 +28,4 @@ permalink: /tufte-working-papers/
 </figure>
 
 <br />
-<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,581 until December 2022.</small>
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF, is 1,622 until January 2023.</small>
