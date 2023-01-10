@@ -17,6 +17,8 @@ permalink: /tufte-working-papers-spanish/
 
 ## Números
 
+* Cisternas, C., González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *próximamente*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+
 * Cuevas, R. (2022, *próximamente*). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3. SocArXiv: <a href="https://doi.org/10.31235/osf.io/y4fxw" target="_blank">10.31235/osf.io/y4fxw</a>.
 
 * González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. *Tufte Working Papers*, 2, 1-21. DOI: <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">10.5281/zenodo.6739833</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.
