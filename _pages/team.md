@@ -72,6 +72,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 </div>
 {% endif %}
 
+<!-- 2023
 ## Research Assistants
 {% assign number_printed = 0 %}
 {% for member in site.data.research_assistants %}
@@ -85,8 +86,10 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <!-- <h4>{{ member.name }}</h4> -->
+  <!-- 2023
   <br>{{ member.name }}<br>
   <!-- {{ member.info }}<br><{{ member.email }}><br>{{ member.website }} -->
+  <!-- 2023
   {{ member.info }}<br>{{ member.website }}
 </div>
 
@@ -102,6 +105,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+2023 -->
 
 ## Former Assistants
 <div class="row">
