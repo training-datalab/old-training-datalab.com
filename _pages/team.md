@@ -92,6 +92,7 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
   <!-- 2023
   {{ member.info }}<br>{{ member.website }}
 </div>
+2023 -->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -105,7 +106,6 @@ Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-2023 -->
 
 ## Former Assistants
 <div class="row">
