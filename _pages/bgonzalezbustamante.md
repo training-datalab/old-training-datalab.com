@@ -22,37 +22,17 @@ permalink: /team/bgonzalezbustamante/
 
 * Fleming, T. G., González‑Bustamante, B., & Schleiter, P. (2022). <a href="https://doi.org/10.1017/gov.2022.23" target="_blank">Cabinet Reshuffles and Parliamentary No‑Confidence Motions</a>. *Government and Opposition*. FirstView.
 
-* Cisternas, C., & González-Bustamante, B. (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
-
 * Orchard, X., & González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. OnlineFirst.
-
-* González-Bustamante, B. (2021). <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21. DOI: 10.5281/zenodo.6739833.
-
-* González-Bustamante, B., & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
-
-* González-Bustamante, B. (2021). <a href="https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé*, 21, 31-39.
 
 * Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81, 105-138.
 
 * González-Bustamante, B. (2021). <a href="https://doi.org/10.1016/j.worlddev.2020.105180" target="_blank">Early Government Responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
 
-* González-Bustamante, B., Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
-
 * González-Bustamante, B. (2020). <a href="https://doi.org/10.1111/blar.13044" target="_blank">The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition</a>. *Bulletin of Latin American Research, 39*(5), 582-597.
-
-* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
-
-* Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
 
 * González-Bustamante, B., Carvajal, A., & González, A. (2020). <a href="http://dx.doi.org/10.29265/gypp.v29i1.658" target="_blank">Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno</a>. *Gestión y Política Pública, XXIX*(1), 97-129.
 
-* Maillet, A., González-Bustamante, B., & Olivares, A. (2019). <a href="https://doi.org/10.1080/10978526.2019.1652099" target="_blank">Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</a>. *Latin American Business Review, 20*(4), 367-387.
-
 * González-Bustamante, B. (2019). <a href="https://doi.org/10.29101/crcs.v26i80.11097" target="_blank">Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay</a>. *Convergencia. Revista de Ciencias Sociales*, 80, 1-27.
-
-* Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
-
-* Del Valle, N., & González-Bustamante, B. (2018). <a href="http://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146" target="_blank">Agenda política, periodismo y medios digitales en Chile: Notas de investigación sobre pluralismo informativo</a>. *Perspectivas de la Comunicación, 11*(1), 291-326.
 
 * González-Bustamante, B., & Garrido-Vergara, L. (2018). <a href="http://www.politicaygobierno.cide.edu/index.php/pyg/article/view/1080/" target="_blank">Socializacion, trayectorias y poscarrera de ministros en Chile, 1990-2010</a>. *Política y Gobierno, XXV*(1), 31-64.
 
@@ -73,6 +53,28 @@ permalink: /team/bgonzalezbustamante/
 * González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.6 -- Dry Bonus)</a> [Data set].
 
 * González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.3 -- Shiny Snow)</a> [Data set].
+
+## Other Publications
+
+* Cisternas, C., & González-Bustamante, B. (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
+
+* González-Bustamante, B. (2021). <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21. DOI: 10.5281/zenodo.6739833.
+
+* González-Bustamante, B., & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
+
+* González-Bustamante, B. (2021). <a href="https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé*, 21, 31-39.
+
+* González-Bustamante, B., Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
+
+* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
+
+* Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
+
+* Maillet, A., González-Bustamante, B., & Olivares, A. (2019). <a href="https://doi.org/10.1080/10978526.2019.1652099" target="_blank">Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</a>. *Latin American Business Review, 20*(4), 367-387.
+
+* Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
+
+* Del Valle, N., & González-Bustamante, B. (2018). <a href="http://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146" target="_blank">Agenda política, periodismo y medios digitales en Chile: Notas de investigación sobre pluralismo informativo</a>. *Perspectivas de la Comunicación, 11*(1), 291-326.
 
 ### Contact Information
 
