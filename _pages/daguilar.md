@@ -24,7 +24,7 @@ permalink: /team/daguilar/
 
 ## Data Collection Project
 
-* González‑Bustamante, B., & Aguilar, D. (2022). <a href="https://doi.org/10.5281/zenodo.6848053" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly)</a> [Data set]. Pre-release version under restricted access.
+* González‑Bustamante, B., & Aguilar, D. (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.14 -- Old Waterfall)</a> [Data set].
 
 ## Selected Conference Presentations
 
