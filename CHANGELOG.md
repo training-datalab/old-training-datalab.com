@@ -1,14 +1,18 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, team members updates and Tufte Working Papers issues.
+All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, SVG badges, team members updates and Tufte Working Papers issues.
 
 ## [Unreleased]
 
-## [2.2.5] - TBC
+## [2.3.5] - TBC
 ### Added
 - COVID-19 tracker.
 - twConstitution project.
 
 ## [Released]
+
+## [2.3.4] - 2023-02-11
+### Added
+- Automated badges in SVG.
 
 ## [2.2.4] - 2022-11-10
 ### Added
