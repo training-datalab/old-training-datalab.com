@@ -12,10 +12,6 @@ permalink: /
 
 [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/about-spanish)
 
-<!-- **We are  looking for coders to join the Chilean Congress Bills project** [(more info)]({{ site.url }}{{ site.baseurl }}/projects/chilean-congress-bills.html)-->
-
-<!-- **We have an open call for research assistants** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(see in Spanish)</a> -->
-
 Different institutions logistically or financially support this group.
 
 <figure class="fourth">
