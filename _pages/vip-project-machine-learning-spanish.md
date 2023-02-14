@@ -14,9 +14,9 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 **Asistentes:** Esteban Barrios, Virla Liberona, Felipe Aniñir, Sebastián Saldías, Carolina Ávila, Gonzalo Avaria, Matías Carrillo y Nicolas Garrido
 
-[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning) 
+[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/vip-project-machine-learning)
 
-[![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
+[![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
 
 ## Descripción del proyecto
 
