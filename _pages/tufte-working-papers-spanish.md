@@ -8,9 +8,7 @@ permalink: /tufte-working-papers-spanish/
 
 # Tufte Working Papers
 
-<div class="col-sm-12">
 [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/tufte-working-papers) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/tufte-working-papers-spanish)
-</div>
 
 <p align=" justify"><b>Tufte Working Papers (ISSN 2735-6043)</b> es una publicación continua basada en Training Data Lab con el apoyo logístico de la Universidad de Santiago de Chile. Esta serie de documentos promueve el debate en ciencias sociales, especialmente en temas relacionados con la ciencia política y las políticas públicas. La serie incluye trabajos inéditos y versiones revisadas de publicaciones previas que proponen <strong>técnicas de investigación innovadoras u ofrecen información empírica novedosa</strong>. Los trabajos se publican en español e inglés, aunque se privilegian las publicaciones en español con el fin de apoyar la difusión del conocimiento de acceso abierto en Iberoamérica.</p>
 
