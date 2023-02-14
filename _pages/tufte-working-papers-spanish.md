@@ -1,6 +1,6 @@
 ---
 title: "Training Data Lab - Tufte Working Papers"
-layout: textlay
+layout: gridlay
 excerpt: "Training Data Lab - Tufte Working Papers"
 sitemap: false
 permalink: /tufte-working-papers-spanish/
