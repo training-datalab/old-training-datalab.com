@@ -14,6 +14,8 @@ permalink: /tufte-working-papers/
 
 <p align=" justify">This series is produced entirely in Tufte-LaTeX, inspired by Edward R. Tufte. In addition, it is licensed under <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-CC.md" target="_blank">Creative Commons</a> and <a href="https://github.com/training-datalab/tufte-working-papers/blob/master/LICENSE-LPPL.md" target="_blank">LPPL v1.3c</a>, therefore, its content is open access and uses the <a href="/credit/">CRediT</a> taxonomy to identify co-authored contributions along with an <a href="/tufte-working-papers/open-review/">open review</a> process. For further information, see the <a href="/tufte-working-papers/guidelines/">guidelines</a> for this series.</p>
 
+[![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/tufte-working-papers) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/tufte-working-papers-spanish)
+
 ## Issues
 
 * Cisternas, C., González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
