@@ -7,7 +7,7 @@
 
 # Site settings
 title: Training Data Lab
-email: bastian.gonzalezbustamante@politics.ox.ac.uk
+email: contact@training-datalab.com
 description: Training Data Lab focuses on data science applications in social sciences.
 baseurl: "/"
 url: "https://training-datalab.com"
@@ -37,4 +37,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
