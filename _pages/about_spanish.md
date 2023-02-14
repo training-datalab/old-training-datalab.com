@@ -14,8 +14,6 @@ permalink: /about-spanish
 
 [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/about-spanish)
 
-<!-- **Tenemos una convocatoria abierta para asistentes de investigación** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(ver en español)</a> -->
-
 Diferentes instituciones apoyan logística o financieramente a este grupo.
 
 <figure class="fourth">
