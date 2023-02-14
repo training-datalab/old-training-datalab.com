@@ -14,15 +14,13 @@ permalink: /projects/chilean-civil-service-spanish
 
 **Asistentes:** Matías Astete y Berenice Orvenes
 
-[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/chilean-civil-service) 
+![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg) [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/chilean-civil-service) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/chilean-civil-service-spanish)
 
-[![Project Status: Completed](https://img.shields.io/badge/project%20status-Completed-yellowgreen.svg)](https://training-datalab.com/projects/chilean-civil-service-spanish)
+## Creación del conjunto de datos
 
-## Creación del conjunto de datos 
+<p align="justify">Las fuentes originales de información corresponden a datos liberados por la DNSC en respuesta a las solicitudes AE004T0000240 y AE004T0000484 en el marco de la Ley 20.285 sobre Acceso a la Información Pública, realizadas el 26 de diciembre de 2016 y el 26 de abril de 2018, respectivamente. Con la primera solicitud elaboramos una base de datos de altos directivos públicos para el período 2009-2015 (*N* = 391, véase también <a href="https://doi.org/10.1111/blar.13044" target="_blank">González-Bustamante, 2020</a>).</p>
 
-<p align="justify">Las fuentes originales de información corresponden a datos liberados por la DNSC en respuesta a las solicitudes AE004T0000240 y AE004T0000484 en el marco de la Ley 20.285 sobre Acceso a la Información Pública, realizadas el 26 de diciembre de 2016 y el 26 de abril de 2018, respectivamente. Con la primera solicitud elaboramos una base de datos de altos directivos públicos para el período 2009-2015 (*N* = 391, véase también <a href="https://doi.org/10.1111/blar.13044" target="_blank">González-Bustamante, 2020</a>).</p> 
-
-<p align="justify">Con esta base de datos y la segunda solicitud elaboramos un listado de 452 directivos del primer nivel jerárquico para el período 2009-2017. Posteriormente, recopilamos 1.396 documentos públicos, entre decretos de nombramiento, actas de los concursos, noticias institucionales, entre otros similares.</p> 
+<p align="justify">Con esta base de datos y la segunda solicitud elaboramos un listado de 452 directivos del primer nivel jerárquico para el período 2009-2017. Posteriormente, recopilamos 1.396 documentos públicos, entre decretos de nombramiento, actas de los concursos, noticias institucionales, entre otros similares.</p>
 
 <p align="justify">Los documentos fueron cargados en la plataforma <a href="https://doi.org/10.17605/OSF.IO/WBF6M" target="_blank">Open Science Framework (OSF)</a> y se les asignó una URL permanente única que nos permitió aplicar un algoritmo de reconocimiento óptico (OCR) programado específicamente para este propósito. De esta forma, los documentos PDF fueron convertidos en imágenes PNG que fueron cargadas en el <a href="https://github.com/bgonzalezbustamante" target="_blank">repositorio del proyecto en GitHub</a> que está conectado con OSF (*surv-civil-servants*, actualmente privado
 y pronto disponible para consulta pública).</p>
