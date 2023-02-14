@@ -1,6 +1,6 @@
 ---
 title: "Training Data Lab - Home"
-layout: homelay
+layout: homespanish
 excerpt: "Training Data Lab"
 sitemap: false
 permalink: /about-spanish
