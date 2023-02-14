@@ -12,7 +12,7 @@ permalink: /about-spanish
 
 <p align="justify">Por otro lado, nos enfocamos en entrenar modelos con técnicas de aprendizaje automático y profundo etiquetando conjuntos de datos para diferentes proyectos. Lo anterior, nos permite clasificar datos no codificados usando nuestros modelos entrenados incorporando validación humana en el flujo de trabajo, lo que mejora la inteligencia artificial en los procesos de aprendizaje.</p>
 
-<a href="https://training-datalab.com">Ver esta descripción en inglés.</a>
+[![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/about-spanish)
 
 <!-- **Tenemos una convocatoria abierta para asistentes de investigación** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(ver en español)</a> -->
 
