@@ -8,11 +8,11 @@
 
 - date: 2 jul. 2022
   headline: "Hemos suscrito DORA"
-  newslink:
+  newslink: <a href="https://sfdora.org/signers/" target="_blank">[más info]</a>
 
 - date: 22 mar. 2022
   headline: "Tufte Working Papers ha sido indexado en Latindex"
-  newslink:
+  newslink: <a href="/tufte-working-papers-spanish/">[más info]</a>
 
 - date: 27 jul. 2021
   headline: "Proyecto VIP: Aplicaciones de Machine Learning en políticas públicas y economía"
