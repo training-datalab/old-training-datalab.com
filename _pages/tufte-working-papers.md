@@ -8,7 +8,7 @@ permalink: /tufte-working-papers/
 
 # Tufte Working Papers
 
-[![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/tufte-working-papers) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/tufte-working-papers-spanish)
+[![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/tufte-working-papers) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/tufte-working-papers-spanish) [![GitHub]({{ site.url }}{{ site.baseurl }}/badges/software/github.svg)](https://github.com/training-datalab/tufte-working-papers)
 
 <p align=" justify"><b>Tufte Working Papers (ISSN 2735-6043)</b> is a continuous publication based at Training Data Lab with logistical support from the Universidad de Santiago de Chile. This series of papers promotes debate in the social sciences, especially on issues related to political science and public policies. The series includes unpublished papers and revised versions of previous publications that propose <strong>innovative research techniques or offer novel empirical information</strong>. The papers are published in Spanish and English, although preference is given to publications in Spanish in order to support the divulgation of open access knowledge in Ibero-America.</p>
 
