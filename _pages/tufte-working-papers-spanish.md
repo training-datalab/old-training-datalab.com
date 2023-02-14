@@ -8,7 +8,7 @@ permalink: /tufte-working-papers-spanish/
 
 # Tufte Working Papers
 
-<div id="textid" class="col-sm-12">
+<div class="col-sm-12">
 [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/tufte-working-papers) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/tufte-working-papers-spanish)
 </div>
 
