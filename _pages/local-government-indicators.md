@@ -12,7 +12,7 @@ permalink: /projects/local-government-indicators
 
 **Researchers:** Bastián González-Bustamante and Diego Aguilar
 
-[![Project Status: Suspended](https://img.shields.io/badge/project%20status-Suspended-orange.svg)](https://training-datalab.com/projects/local-government-indicators)
+![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg)
 
 ## Creation of the Dataset
 
