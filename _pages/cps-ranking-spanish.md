@@ -12,9 +12,7 @@ permalink: /projects/cps-ranking-spanish
 
 **Asociados:** Alejandro Olivares, Carla Cisternas y Rodrigo Cuevas
 
-[Ver proyecto en inglés]({{ site.url }}{{ site.baseurl }}/projects/cps-ranking) 
-
-[![Project Status: Active](https://img.shields.io/badge/project%20status-Active-brightgreen.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
+![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
 ## Sobre el ranking
 
