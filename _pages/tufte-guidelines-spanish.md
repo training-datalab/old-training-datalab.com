@@ -8,7 +8,7 @@ permalink: /tufte-working-papers/guidelines-spanish/
 
 # Tufte Working Papers
 
-<p align=" justify"><a href="/tufte-working-papers/guidelines/">Ver esta página en inglés</a>.</p>
+[![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/tufte-working-papers/guidelines/) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/tufte-working-papers/guidelines-spanish/) [![GitHub]({{ site.url }}{{ site.baseurl }}/badges/software/github.svg)](https://github.com/training-datalab/tufte-working-papers)
 
 ## Criterios de publicación
 
