@@ -14,7 +14,7 @@ permalink: /projects/chilean-civil-service-spanish
 
 **Asistentes:** Matías Astete y Berenice Orvenes
 
-![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg) [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/chilean-civil-service) [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/chilean-civil-service-spanish)
+![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/chilean-civil-service) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/chilean-civil-service-spanish)
 
 ## Creación del conjunto de datos
 
