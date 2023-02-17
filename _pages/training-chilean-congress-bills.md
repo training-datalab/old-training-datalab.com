@@ -8,7 +8,7 @@ permalink: /projects/chilean-congress-bills
 
 # Training Data on Chilean Congress Bills
 
-**Researchers:** Carla Cisternas, Bastián González-Bustamante, Diego Aguilar and Jaquelin Morillo
+**Researchers:** Carla Cisternas, Bastián González-Bustamante, Jaquelin Morillo and Diego Aguilar
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
@@ -39,4 +39,4 @@ permalink: /projects/chilean-congress-bills
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 <br />
-<small>Last updated: February 14, 2023.</small>
+<small>Last updated: February 17, 2023.</small>
