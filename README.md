@@ -2,13 +2,12 @@
 **Training Data Lab**\
 **https://training-datalab.com**
 
-[![Version](https://img.shields.io/badge/version-v2.3.4-blue.svg)](/CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![GitHub issues](https://img.shields.io/github/issues/training-datalab/training-datalab.com.svg)](https://github.com/training-datalab/training-datalab.com/issues/) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/training-datalab/training-datalab.com.svg)](https://github.com/training-datalab/training-datalab.com/issues?q=is%3Aissue+is%3Aclosed) [![License](https://img.shields.io/badge/license-MIT-black)](LICENSE) [![Jekyll](https://img.shields.io/badge/made%20with-Jekyll-1f425f.svg)](https://jekyllrb.com/) [![Status](https://img.shields.io/website-up-down-green-red/http/training-datalab.com.svg)](https://training-datalab.com)
+[![Version](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/versions/v_2_4_6.svg)](/CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/licenses/mit.svg)](LICENSE) [![Jekyll](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/software/jekyll.svg)](https://jekyllrb.com/) ![tDL](https://raw.githubusercontent.com/training-datalab/training-datalab.com/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Team
 - [Researchers and Assistants](https://training-datalab.com/team/)
 
 ## Ongoing Projects
-- [Local Government Indicators Repository](https://training-datalab.com/projects/local-government-indicators)
 - [Chilean Political Science Impact Ranking](https://training-datalab.com/projects/cps-ranking)
 
 ## Working Papers
