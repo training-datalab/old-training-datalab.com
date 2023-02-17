@@ -14,7 +14,7 @@ permalink: /projects/chilean-congress-bills-spanish
 
 ## Datos y muestras
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/bills.png){: style="width: 250px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/bills_training.png){: style="width: 250px; float: right; border: 10px"}
 
 <p align="justify">A partir de un conjunto de datos de proyectos de ley de la Cámara de Diputados de Chile entre 2006 y 2018 (*N* = 4.139), período que corresponde a tres administraciones, extraemos una submuestra aleatoria considerando algunos proyectos de ley por mes. En esta submuestra realizamos dos procedimientos de codificación de datos para identificar tanto el tema del proyecto de ley como su alcance territorial. </p>
 
