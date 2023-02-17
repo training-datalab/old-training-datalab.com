@@ -1,0 +1,24 @@
+graph TD
+    bills[(Bills Data<br />N = 4 139)] --> sample[/Subsample<br />N = 1 002/]
+    script1[\Script/] --> sample
+    sample --> label[\Labelling/]
+    label --> it[\Iteration/]
+    it --> label
+    label --> codedsample[(Coded<br />Subsample)]
+    script2[\Script/] --> models[Supervised<br />Models]
+    codedsample --> models
+    models --> cross[Cross-Validation]
+    cross --> models
+    models --> preds[/Predictions/]
+    preds --> ai[\Aurgmented AI/]
+    ai --> preds
+    preds --> final[(Coded Data<br / >N = 4 139)]
+    style bills fill:#aecdc2, stroke:#488f31
+    style script1 fill:#aecdc2, stroke:#488f31
+    style sample fill:#aecdc2, stroke:#488f31
+    style label fill:#ffa600, , stroke:#ff6361
+    style it fill:#ffa600, , stroke:#ff6361
+    style codedsample fill:#ffa600, , stroke:#ff6361
+    style script2 fill:#ffa600, , stroke:#ff6361
+    style models fill:#ffa600, , stroke:#ff6361
+    style cross fill:#ffa600, , stroke:#ff6361
