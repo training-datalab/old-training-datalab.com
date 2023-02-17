@@ -8,6 +8,16 @@
   highlight: 1
   news2:
 
+- title: "Twitter Online Tracker of the Chilean Referendum"
+  image: twitter-referendum.png
+  description: This is a Twitter online tracker of the Chilean refenrum for a New Constitution in October 2020, which contains merged, daily data sets on \#Apruebo and \#Rechazo viewpoints on this social media.
+  authors: Bastián González-Bustamante
+  link:
+    url: https://training-datalab.com/projects/twitter-tracker-chilean-referendum
+    display: See Project
+  highlight: 1
+  news2:
+
 - title: "Data Mining Chilean Civil Service"
   image: Civil-Servants.jpg
   description: We present a novel data set that contains detailed information on 431 senior public managers of the Chilean civil service from 2009-2017. The set was created from requests for access to public information and an OCR revision of 1,396 public documents. These documents were digitalised with data mining algorithms and reviewed exhaustively with semi-automated procedures.
