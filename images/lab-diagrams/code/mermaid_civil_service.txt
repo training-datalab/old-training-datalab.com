@@ -1,0 +1,13 @@
+graph TD
+    request1[/AE004T0000240/] --> data1[(Data Set<br />N = 391)]
+    request2[/AE004T0000484/] --> data2[(Data Set<br />N = 452)]
+    data1 --> data2
+    data2 --> docs[/PDFs on OSF<br / >N = 1 396/]
+    script[\Script/] --> ocr(OCR Algorithm)
+    docs --> ocr
+    ocr --> png[/PNGs on GitHub<br / >N = 1 396/]
+    png --> txt[/TXTs on GitHub<br / >N = 1 396/]
+    txt --> vldt[Validation]
+    vldt --> clean[Data Cleaning]
+    clean --> final[(Data Set<br />N = 431)]
+    docs --> final
