@@ -30,7 +30,7 @@ permalink: /projects/local-government-indicators
 
 ## Pipeline
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/pipeline_local_govs.png){: style="width: 600px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/pipeline_local_govs.png){: style="width: 600px; float: center; border: 10px"}
 
 ## Resources
 
