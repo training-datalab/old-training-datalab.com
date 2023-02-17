@@ -8,7 +8,7 @@ permalink: /projects/chilean-civil-service-spanish
 
 # Minería de datos del servicio civil chileno
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/datsaset_diagram_spanish.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/civil_service.png){: style="width: 250px; float: right; border: 10px"}
 
 **Investigador:** Bastián González-Bustamante
 
