@@ -1,0 +1,18 @@
+graph TD
+    data[(Publications Data<br />N = 17 329)] --> sample[/Subsample/]
+    script1[\Script/] --> sample
+    sample --> label[\Labelling/]
+    label --> it[\Iteration/]
+    it --> label
+    label --> codedsample[(Coded<br />Subsample)]
+    script2[\Script/] --> models[Supervised<br />Models]
+    codedsample --> models
+    models --> cross[Cross-Validation]
+    cross --> models
+    models --> preds[/Predictions/]
+    preds --> ai[\Aurgmented AI/]
+    ai --> preds
+    preds --> final[(Coded Data)]
+    style data fill:#aecdc2, stroke:#488f31
+    style script1 fill:#ffa600, , stroke:#ff6361
+    style sample fill:#ffa600, , stroke:#ff6361
