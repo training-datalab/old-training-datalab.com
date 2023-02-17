@@ -8,13 +8,13 @@ permalink: /projects/chilean-congress-bills-spanish
 
 # Entrenamiento de datos sobre los proyectos de ley del Congreso chileno
 
-**Investigadores:** Carla Cisternas, Bastián González-Bustamante, Diego Aguilar y Jaquelin Morillo
+**Investigadores:** Carla Cisternas, Bastián González-Bustamante, Jaquelin Morillo y Diego Aguilar
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
 ## Datos y muestras
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_bills.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/bills.png){: style="width: 250px; float: right; border: 10px"}
 
 <p align="justify">A partir de un conjunto de datos de proyectos de ley de la Cámara de Diputados de Chile entre 2006 y 2018 (*N* = 4.139), período que corresponde a tres administraciones, extraemos una submuestra aleatoria considerando algunos proyectos de ley por mes. En esta submuestra realizamos dos procedimientos de codificación de datos para identificar tanto el tema del proyecto de ley como su alcance territorial. </p>
 
@@ -33,10 +33,10 @@ permalink: /projects/chilean-congress-bills-spanish
 ## Fases
 
 |---|---|---|---|---|---|---|
-| 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![88%](https://progress-bar.dev/88) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![64%](https://progress-bar.dev/64) |
-| 5. Entrenamiento del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%](https://progress-bar.dev/33) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%](https://progress-bar.dev/33) |
-| 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| 3. Etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![88%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/88.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Iteraciones del etiquetado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![64%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/64.svg) |
+| 5. Entrenamiento del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/33.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Evaluación del modelo | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/33.svg) |
+| 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 <br />
-<small>Última actualización: 10 de noviembre de 2022.</small>
+<small>Última actualización: 17 de febrero de 2023.</small>
