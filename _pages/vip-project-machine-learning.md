@@ -73,8 +73,6 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">This project is developed by the Business School of the Universidad Mayor, but it will be carried out entirely online. No previous knowledge of statistics or programming is required, only access to a computer and Internet connection. Students will be evaluated during the data coding progress meetings (25% each) and the final session through self-evaluation (25%).</p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/diagram_vip.png){: style="width: 550px; float: right; border: 10px"}
-
 <p align="justify">The synchronous tutorials, on the one hand, aim to train students in essential social science research topics and introduce them to machine learning and programming in R. For their part, the asynchronous autonomous work is related to data coding and labelling to train our algorithm, which will be constantly evaluated in several scheduled synchronous sessions.</p>
 
 <p align="justify">Data sets compilation and labelling will be carried out with codes programmed in R and Python and on digital platforms developed by the research group comprised of several members of this project, bringing together researchers from different universities.</p>
@@ -88,11 +86,11 @@ permalink: /projects/vip-project-machine-learning
 ## Phases 1st Model
 
 |---|---|---|---|---|---|---|
-| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) |
-| 3. Pilot | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%](https://progress-bar.dev/100) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![59%](https://progress-bar.dev/59) |
-| 5. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![29%](https://progress-bar.dev/29) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Train Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
-| 7. Evaluate Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
-| 9. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 10. Benchmarking | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%](https://progress-bar.dev/0) |
+| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| 3. Pilot | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Labelling | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![59%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/59.svg) |
+| 5. Labelling Iterations | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![29%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/29.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 6. Train Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| 7. Evaluate Models | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| 9. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 10. Benchmarking | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 ## Intellectual Property
 
