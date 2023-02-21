@@ -3,11 +3,15 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.5.6] - TBC
+## [2.6.6] - TBC
 ### Added
 - COVID-19 tracker.
 
 ## [Released]
+
+## [2.5.6] - 2023-02-21
+### Added
+- Resources page.
 
 ## [2.4.6] - 2023-02-17
 ### Added
