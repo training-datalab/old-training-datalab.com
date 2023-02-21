@@ -8,9 +8,7 @@ permalink: /team/
 
 # Team Members
 
-<!-- **We have an open call for research assistants** <a href="https://github.com/training-datalab/workshops/blob/main/Calls/Call-Data-Lab-Spanish.pdf" target="_blank">(see in Spanish)</a> -->
-
-Here is our <a href="https://training-datalab.slack.com" target="_blank"><strong>#Slack workspace</strong></a> for our team.
+<a href="https://training-datalab.com/resources"><strong>Resources for our team</strong>.</a>
 
 ## Coordinators
 {% assign number_printed = 0 %}
