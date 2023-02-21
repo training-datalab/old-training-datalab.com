@@ -26,6 +26,8 @@ permalink: /projects/cps-ranking-spanish
 
 <p align="justify">Si quiere sugerir a alguien, envíe un correo electrónico a <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>.</p>
 
+<p align="justify">Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.</p>
+
 ## Recursos
 
 <ul>
@@ -35,4 +37,4 @@ permalink: /projects/cps-ranking-spanish
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.</li>
 </ul>
 <br />
-<small>Última actualización: 2 de diciembre de 2021.</small>
+<small>Última actualización: 21 de febrero de 2023.</small>
