@@ -10,7 +10,7 @@ permalink: /projects/cps-ranking
 
 **Researcher:** Bastián González-Bustamante
 
-**Associates:** Alejandro Olivares, Carla Cisternas, and Rodrigo Cuevas
+**Associates:** Alejandro Olivares, Carla Cisternas and Rodrigo Cuevas
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
@@ -26,6 +26,8 @@ permalink: /projects/cps-ranking
 
 <p align="justify">If you like to suggest someone, please send an email to <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>.</p>
 
+<p align="justify">We would like to thank Patricio Navia for their valuable comments and contributions.</p>
+
 ## Resources
 
 <ul>
@@ -35,4 +37,4 @@ permalink: /projects/cps-ranking
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Changelog</a>.</li>
 </ul>
 <br />
-<small>Last updated: December 2, 2021.</small>
+<small>Last updated: February 2, 2023.</small>
