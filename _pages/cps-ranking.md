@@ -37,4 +37,4 @@ permalink: /projects/cps-ranking
 <li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Changelog</a>.</li>
 </ul>
 <br />
-<small>Last updated: February 2, 2023.</small>
+<small>Last updated: February 21, 2023.</small>
