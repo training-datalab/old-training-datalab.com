@@ -6,6 +6,12 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [2.6.6] - TBC
 ### Added
 - COVID-19 tracker.
+- Economic elites project.
+- R theme.
+- Ministers data set.
+- Undersecretaries data set.
+- Toxicity project.
+- COVID experts project.
 
 ## [Released]
 
