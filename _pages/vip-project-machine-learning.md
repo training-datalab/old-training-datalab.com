@@ -18,7 +18,7 @@ permalink: /projects/vip-project-machine-learning
 
 ## Project Description
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/vip-project.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/UMayor.png){: style="width: 350px; float: right; border: 10px"}
 
 <p align="justify">This project addresses the complexity of different political, social, and economic phenomena from a multidisciplinary approach by analysing big data. This project seeks, in particular, to develop and use machine learning applications to detect anomalies in data used by decision-makers and understand current social dynamics and information consumption dynamics.  In general, this project aims to study a number of social science research topics using trained algorithms.</p>
 
