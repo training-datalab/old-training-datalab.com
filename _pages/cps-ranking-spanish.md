@@ -16,7 +16,7 @@ permalink: /projects/cps-ranking-spanish
 
 ## Sobre el ranking
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/network-ranking.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/network_ranking.png){: style="width: 350px; float: right; border: 10px"}
 
 <p align="justify">Este ranking se presenta de mayor a menor índice H. El número de citas se ha utilizado como segundo criterio en caso de empate en el Índice H.</p>
 
