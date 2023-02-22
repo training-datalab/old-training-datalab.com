@@ -16,7 +16,7 @@ permalink: /projects/cps-ranking
 
 ## About the Ranking
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/network-ranking.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/network_ranking.png){: style="width: 350px; float: right; border: 10px"}
 
 <p align="justify">This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.</p>
 
