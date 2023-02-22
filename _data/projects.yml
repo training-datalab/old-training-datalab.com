@@ -19,7 +19,7 @@
   news2:
 
 - title: "Data Mining Chilean Civil Service"
-  image: Civil-Servants.jpg
+  image: civil_servants.jpg
   description: We present a novel data set that contains detailed information on 431 senior public managers of the Chilean civil service from 2009-2017. The set was created from requests for access to public information and an OCR revision of 1,396 public documents. These documents were digitalised with data mining algorithms and reviewed exhaustively with semi-automated procedures.
   authors: Bastián González-Bustamante, Matías Astete and Berenice Orvenes
   link:
@@ -28,8 +28,18 @@
   highlight: 1
   news2:
 
+- title: "Vibrant Ink Flavoured Theme"
+  image: vink_project.png
+  description: This is a flavoured version of vibrant ink for RStudio released under an MIT No Attribution (MIT-0) license. Therefore, there are no conditions, not even requiring the preservation of copyright and license notices.
+  authors: Bastián González-Bustamante
+  link:
+    url: https://training-datalab.com/projects/vibrant-ink-flavoured-theme
+    display: See Project
+  highlight: 1
+  news2:
+
 - title: "Local Government Indicators Repository"
-  image: open_gov_RM.png
+  image: open_gov.png
   description: This project presents a novel integrated dataset with geospatial information and indicators of local governments in Chile between 2010 and 2022. We integrated several indicators with geospatial information using open data and public information.
   authors: Bastián González-Bustamante and Diego Aguilar
   link:
@@ -59,11 +69,11 @@
   news2:
 
 - title: "Training Data on Political Science Publications"
-  image: Library.jpg
+  image: library.jpg
   description: Based on data from the the <a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1. From this data set, we draw a random subsample and carry out data coding procedures in this subsample to classify the type of publication.
   authors: Bastián González-Bustamante, Alejandro Olivares and Carla Cisternas
   link:
     url: https://training-datalab.com/projects/political-science-publications
     display: See Project
-  highlight: 1
+  highlight: 2
   news2:
