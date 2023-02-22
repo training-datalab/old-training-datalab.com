@@ -1,9 +1,9 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, SVG badges, team members updates and Tufte Working Papers issues.
+All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, resources (e.g., SVG badges), team members updates and Tufte Working Papers.
 
 ## [Unreleased]
 
-## [2.6.6] - TBC
+## [2.7.6] - TBC
 ### Added
 - COVID-19 tracker.
 - Economic elites project.
@@ -14,6 +14,12 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - COVID experts project.
 
 ## [Released]
+
+## [2.6.6] - 2023-02-22
+### Added
+- Automated resources.
+### Changed
+- Minor corrections.
 
 ## [2.5.6] - 2023-02-21
 ### Added
