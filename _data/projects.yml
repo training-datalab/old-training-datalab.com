@@ -69,7 +69,7 @@
   news2:
 
 - title: "Training Data on Political Science Publications"
-  image: library.jpg
+  image: library.png
   description: Based on data from the the <a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>, we have collected all the authors’ publications ranked in Q1. From this data set, we draw a random subsample and carry out data coding procedures in this subsample to classify the type of publication.
   authors: Bastián González-Bustamante, Alejandro Olivares and Carla Cisternas
   link:
