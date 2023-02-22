@@ -16,6 +16,7 @@ permalink: /resources/
 - Email training-datalab.com
   - A Gmail account is required
   - Upon request by <a href="mailto:bastian.gonzalezbustamante@training-datalab.com">email</a>
+  - <a href="https://signaturehound.com/signature/2fdmjnlcf1mu81" target="_blank">Signature template</a>
 - Labelbox license
   - <a href="https://app.labelbox.com/" target="_blank">Platform access</a>
   - <a href="https://status.labelbox.com/" target="_blank">Platform status</a>
@@ -27,3 +28,6 @@ permalink: /resources/
   - Upon request by <a href="mailto:bastian.gonzalezbustamante@training-datalab.com">email</a>
 - <a href="https://short.training-datalab.com/" target="_blank">URL shortener</a>
   - Upon request by <a href="mailto:bastian.gonzalezbustamante@training-datalab.com">email</a>
+
+<br />
+<small>Last updated: February 22, 2023.</small>
