@@ -14,7 +14,7 @@ permalink: /projects/local-government-indicators
 
 ## Creation of the Dataset
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/RM_map.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/open_gov.png){: style="width: 350px; float: right; border: 10px"}
 
 <p align="justify">This project presents a novel integrated dataset with geospatial information and indicators of local governments in Chile between 2010 and 2022. We applied an e-services model to Chile’s 345 municipalities in order to measure an e-government index. We then expanded the index by incorporating transparency indicators from the requests for Access to publication information filed to the Council for Transparency in Chile.</p>
 
