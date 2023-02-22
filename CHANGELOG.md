@@ -7,7 +7,6 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Added
 - COVID-19 tracker.
 - Economic elites project.
-- R theme.
 - Ministers data set.
 - Undersecretaries data set.
 - Toxicity project.
@@ -17,6 +16,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [2.6.6] - 2023-02-22
 ### Added
+- R theme.
 - Automated resources.
 ### Changed
 - Minor corrections.
