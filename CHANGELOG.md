@@ -16,6 +16,8 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [2.7.6] - 2023-03-02
 ### Added
 - Toxicity project.
+### Changed
+- Minor corrections.
 
 ## [2.6.6] - 2023-02-22
 ### Added
