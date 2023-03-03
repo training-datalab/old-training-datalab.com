@@ -8,11 +8,11 @@ permalink: /projects/incivility-towards-experts-during-crises
 
 # Incivility Towards Experts During Crises
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/experts_dalle.png){: style="width: 300px; float: right; border: 10px"}
-
 **Researchers:** Carla Cisternas and Bastián González-Bustamante
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg)
+
+![]({{ site.url }}{{ site.baseurl }}/images/projects/experts_dalle.png){: style="width: 300px; float: right; border: 10px"}
 
 ## Overview
 
