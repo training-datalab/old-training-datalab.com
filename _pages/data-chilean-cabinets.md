@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/data-chilean-cabinets
 ---
 
-# Data on Chilean Cabinets
+# Data on Chilean Cabinets (1990-2022)
 
 **Researchers:** Bastián González-Bustamante and Alejandro Olivares
 
@@ -43,4 +43,5 @@ permalink: /projects/data-chilean-cabinets
 <li><a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Undersecretaries Zenodo repository.</a></li>
 </ul>
 <br />
+<small>Artwork by DALL·E in an impressionist style.</small><br />
 <small>Last updated: March 3, 2023.</small>
