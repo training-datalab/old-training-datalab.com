@@ -12,7 +12,7 @@ permalink: /projects/data-chilean-cabinets
 
 ![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg)
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/cabinet.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/cabinet_dalle.png){: style="width: 300px; float: right; border: 10px"}
 
 ## Overview
 
@@ -37,8 +37,10 @@ permalink: /projects/data-chilean-cabinets
 ## Resources
 
 <ul>
-<li><a href="https://github.com/bgonzalezbustamante/chilean-ministers" target="_blank">Data set on Chilean ministers GitHub repository.</a></li>
-<li><a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data set on Chilean ministers Zenodo repository.</a></li>
+<li><a href="https://github.com/bgonzalezbustamante/chilean-ministers" target="_blank">Ministers GitHub repository.</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Ministers Zenodo repository.</a></li>
+<li><a href="https://github.com/bgonzalezbustamante/chilean-undersecretaries" target="_blank">Undersecretaries GitHub repository.</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Undersecretaries Zenodo repository.</a></li>
 </ul>
 <br />
 <small>Last updated: March 3, 2023.</small>
