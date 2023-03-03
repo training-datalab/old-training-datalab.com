@@ -14,9 +14,9 @@ permalink: /projects/cps-ranking-spanish
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
-## Descripción
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/network_ranking.png){: style="width: 350px; float: right; border: 10px"}
+
+## Descripción
 
 <p align="justify">Este ranking se presenta de mayor a menor índice H. El número de citas se ha utilizado como segundo criterio en caso de empate en el Índice H.</p>
 
