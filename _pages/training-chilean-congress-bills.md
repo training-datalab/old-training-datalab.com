@@ -12,9 +12,9 @@ permalink: /projects/chilean-congress-bills
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
-## Data and Samples
-
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/bills_training.png){: style="width: 250px; float: right; border: 10px"}
+
+## Data and Samples
 
 <p align="justify">From a data set of bills in the Chilean Lower House between 2006 and 2018 (*N* = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope. </p>
 
