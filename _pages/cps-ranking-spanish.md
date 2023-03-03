@@ -14,7 +14,7 @@ permalink: /projects/cps-ranking-spanish
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
-## Sobre el ranking
+## Descripción
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/network_ranking.png){: style="width: 350px; float: right; border: 10px"}
 
