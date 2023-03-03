@@ -12,9 +12,9 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg)
 
-## Overview
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/twmedia.png){: style="width: 350px; float: right; border: 10px"}
+
+## Overview
 
 <p align="justify">We are analysing the online interactions between audiences and media in the context of journalist practices during the mass protests in Chile in the second half of 2019. The relevance of these mass protests is associated with the opportunity window to draft a New Constitution in Chile after the social unrest.</p>
 
@@ -22,6 +22,6 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 
 ## Progress
 
-![17%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/17.svg)
+![18%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/18.svg)
 <br />
-<small>Last updated: March 2, 2023.</small>
+<small>Last updated: March 3, 2023.</small>
