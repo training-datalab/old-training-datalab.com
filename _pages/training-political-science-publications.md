@@ -37,4 +37,5 @@ permalink: /projects/political-science-publications
 | 7. Predictions | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. Augmented AI | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 <br />
+<small>Artwork by DALL·E in an impressionist style.</small><br />
 <small>Last updated: October 15, 2021.</small>
