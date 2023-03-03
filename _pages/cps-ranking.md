@@ -14,9 +14,9 @@ permalink: /projects/cps-ranking
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
-## Overview
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/network_ranking.png){: style="width: 350px; float: right; border: 10px"}
+
+## Overview
 
 <p align="justify">This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.</p>
 
