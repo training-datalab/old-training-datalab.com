@@ -22,6 +22,9 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 
 ## Progress
 
-![18%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/18.svg)
+|---|---|---|---|---|---|---|
+| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| 3. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![18%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/18.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
+
 <br />
 <small>Last updated: March 3, 2023.</small>
