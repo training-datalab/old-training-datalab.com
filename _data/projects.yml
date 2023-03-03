@@ -48,6 +48,16 @@
   highlight: 1
   news2:
 
+- title: " Data on Chilean Cabinets (1990-2022)"
+  image: cabinets.png
+  description: This project comprises two data sets on Chilean ministers and undersecretaries in Comma-Separated Values (CSV) format with Unicode encoding UTF-8. The data set on ministers covers between 1990 and 2014, while the set on undersecretaries contains officeholders until 2022.
+  authors: Bastián González-Bustamante and Alejandro Olivares
+  link:
+    url: https://training-datalab.com/projects/data-chilean-cabinets
+    display: See Project
+  highlight: 1
+  news2:
+
 - title: "Vibrant Ink Flavoured Theme"
   image: vink_project.png
   description: This is a flavoured version of vibrant ink for RStudio released under an MIT No Attribution (MIT-0) license. Therefore, there are no conditions, not even requiring the preservation of copyright and license notices.
