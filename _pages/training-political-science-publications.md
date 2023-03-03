@@ -28,7 +28,7 @@ permalink: /projects/political-science-publications
 
 <p align="justify">Once the subsample is codified, we train a model a predict the non-coded data using machine learning techniques. At this stage, we could eventually incorporate external human validation to revise the low predicted values. Finally, we will have the data to carry out predictions on new data about political science production in Latin America.</p>
 
-## Phases
+## Progress
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
