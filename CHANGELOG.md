@@ -7,14 +7,13 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Added
 - COVID-19 tracker.
 - Economic elites project.
-- Ministers data set.
-- Undersecretaries data set.
 
 ## [Released]
 
 ## [2.8.6] - 2023-03-03
 ### Added
 - COVID experts project.
+- Chilean cabinets data set.
 ### Changed
 - Minor corrections.
 
