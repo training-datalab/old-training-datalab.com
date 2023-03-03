@@ -30,7 +30,7 @@ permalink: /projects/chilean-congress-bills
 
 <p align="justify">Once the database is codified, we train a model and predict the non-coded data using machine learning techniques. At this stage, it is possible to incorporate human validation in the workflow to validate observations with low confidence values. Finally, we will have the data necessary to carry out our principal analysis, in this case, stochastic actor-based models for networks dynamics, to observe co-sponsorship strategies in the Chilean Congress over the period.</p>
 
-## Phases
+## Progress
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
