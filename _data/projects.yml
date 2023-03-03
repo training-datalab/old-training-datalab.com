@@ -1,19 +1,19 @@
-- title: "Incivility Towards Experts During Crises"
-  image: experts.png
-  description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis. >We focus on the activity on Twitter around specific hashtags using the Twitter API.
-  authors: Carla Cisternas and Bastián González-Bustamante
-  link:
-    url: https://training-datalab.com/projects/incivility-towards-experts-during-crises
-    display: See Project
-  highlight: 1
-  news2:
-
 - title: "Toxicity in Audiences-Journalistic Interactions in Crises"
   image: twmedia.png
   description: We are analysing the online interactions between audiences and media in the context of journalist practices during the mass protests in Chile in the second half of 2019. The relevance of these mass protests is associated with the opportunity window to draft a New Constitution.
   authors: Ximena Orchard, Bastián González-Bustamante and Carla Cisternas
   link:
     url: https://training-datalab.com/projects/toxicity-in-audiences-journalistic-interactions-in-crises
+    display: See Project
+  highlight: 1
+  news2:
+
+- title: "Incivility Towards Experts During Crises"
+  image: experts.png
+  description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis. >We focus on the activity on Twitter around specific hashtags using the Twitter API.
+  authors: Carla Cisternas and Bastián González-Bustamante
+  link:
+    url: https://training-datalab.com/projects/incivility-towards-experts-during-crises
     display: See Project
   highlight: 1
   news2:
@@ -39,7 +39,7 @@
   news2:
 
 - title: "Data Mining Chilean Civil Service"
-  image: civil_servants.jpg
+  image: civil_servants.png
   description: We present a novel data set that contains detailed information on 431 senior public managers of the Chilean civil service from 2009-2017. The set was created from requests for access to public information and an OCR revision of 1,396 public documents.
   authors: Bastián González-Bustamante, Matías Astete and Berenice Orvenes
   link:
@@ -69,7 +69,7 @@
   news2:
 
 - title: "Training Data on Chilean Congress Bills"
-  image: Congreso_Nacional_de_Chile.jpg
+  image: congress.png
   description: From a data set of bills in the Chilean Lower House between 2006 and 2018 (<em>N</em> = 4,139), a period that corresponds to three administrations, we draw a random subsample considering some bills per month. We are carrying out two data coding procedures in this subsample in order to identify both the bill’s issue and territorial scope.
   authors: Carla Cisternas, Bastián González-Bustamante, Jaquelin Morillo and Diego Aguilar
   link:
