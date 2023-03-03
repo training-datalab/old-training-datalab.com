@@ -39,4 +39,5 @@ permalink: /projects/chilean-congress-bills-spanish
 | 7. Predicciones | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 8. IA aumentada | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 <br />
+<small>Arte por DALL·E en un estilo impresionista.</small><br />
 <small>Última actualización: 17 de febrero de 2023.</small>
