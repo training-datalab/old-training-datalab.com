@@ -22,8 +22,7 @@ permalink: /projects/chilean-civil-service
 
 <p align="justify">With this database and the second request, we compiled 452 top-level managers for 2009-2017. Subsequently, we compiled 1,396 public documents, including appointment decrees, minutes of contests, institutional news, among other similar documents.</p> <!-- These documents were digitalised with data mining algorithms and reviewed exhaustively with semi-automated procedures.-->
 
-<p align="justify">The documents were uploaded to the <a href="https://doi.org/10.17605/OSF.IO/WBF6M" target="_blank">Open Science Framework (OSF)</a> platform and assigned a unique permalink that allowed us to apply an optical character recognition (OCR) algorithm programmed for this purpose. In this way, the PDF documents were converted to PNG images which were uploaded to the <a href="https://github.com/bgonzalezbustamante" target="_blank">project repository on GitHub</a>, which is connected to OSF (*surv-civil-servants*, currently private
-and soon available for public consultation).</p>
+<p align="justify">The documents were uploaded to the <a href="https://doi.org/10.17605/OSF.IO/WBF6M" target="_blank">Open Science Framework (OSF)</a> platform and assigned a unique permalink that allowed us to apply an optical character recognition (OCR) algorithm programmed for this purpose. In this way, the PDF documents were converted to PNG images which were uploaded to the <a href="https://github.com/bgonzalezbustamante" target="_blank">project repository on GitHub</a>, which is connected to OSF (*surv-civil-servants*, currently private and soon available for public consultation).</p>
 
 <p align="justify">The images were then converted to a manageable text format to match and verify the documents with the identified cases. This allowed us to validate the cases.</p>
 
