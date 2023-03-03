@@ -8,22 +8,22 @@
   highlight: 1
   news2:
 
-- title: "Incivility Towards Experts During Crises"
-  image: experts.png
-  description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis. >We focus on the activity on Twitter around specific hashtags using the Twitter API.
-  authors: Carla Cisternas and Bastián González-Bustamante
-  link:
-    url: https://training-datalab.com/projects/incivility-towards-experts-during-crises
-    display: See Project
-  highlight: 1
-  news2:
-
 - title: "Chilean Political Science Impact Ranking"
   image: CPS-Ranking.png
   description: This is a scraper programmed in order to obtain quarterly data from Google Scholar and elaborate an impact measurement. This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
   authors: Bastián González-Bustamante
   link:
     url: https://training-datalab.com/projects/cps-ranking
+    display: See Project
+  highlight: 1
+  news2:
+
+- title: "Incivility Towards Experts During Crises"
+  image: experts.png
+  description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis. >We focus on the activity on Twitter around specific hashtags using the Twitter API.
+  authors: Carla Cisternas and Bastián González-Bustamante
+  link:
+    url: https://training-datalab.com/projects/incivility-towards-experts-during-crises
     display: See Project
   highlight: 1
   news2:
@@ -74,6 +74,16 @@
   authors: Bastián González-Bustamante and Diego Aguilar
   link:
     url: https://training-datalab.com/projects/local-government-indicators
+    display: See Project
+  highlight: 1
+  news2:
+
+- title: "Data Collection on Boards of Directors (2001-2022)"
+  image: ceo.png
+  description: We used data from the Financial Market Commission, which supervised more than 70% of financial assets in Chile, to identify board members and CEOs of a number of companies. We have elaborated a list of board members and CEOs for 463 and 451 companies.
+  authors: Bastián González-Bustamante and Carla Cisternas
+  link:
+    url: https://training-datalab.com/projects/data-boards-of-directors
     display: See Project
   highlight: 1
   news2:
