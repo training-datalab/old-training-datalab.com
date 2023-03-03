@@ -22,6 +22,8 @@ permalink: /projects/data-chilean-cabinets
 
 - González-Bustamante, B. (2022). Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile. *The British Journal of Politics and International Relations*. OnlineFirst. DOI: [10.1177/13691481221124850](https://doi.org/10.1177/13691481221124850).
 
+- González-Bustamante, B. (2022). Métodos cuantitativos para estudiar a las élites: Aplicaciones prácticas, sesgos y potencialidades. *Revista Chilena de Derecho y Ciencia Política, 13*(2), 12-44. DOI: [10.7770/rchdcp-V13N2-art2907](https://doi.org/10.7770/rchdcp-V13N2-art2907).
+
 - Orchard, X., & González-Bustamante (2022). Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians' Presence and Prominence in the Chilean Press (1991-2019). *The International Journal of Press/Politics*. OnlineFirst. DOI: [10.1177/19401612221089482](https://doi.org/10.1177/19401612221089482).
 
 - González-Bustamante, B. (2020). The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition. *Bulletin of Latin American Research, 39*(5), 582-597. DOI: [10.1111/blar.13044](https://doi.org/10.1111/blar.13044).
