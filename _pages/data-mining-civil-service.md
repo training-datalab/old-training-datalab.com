@@ -27,7 +27,7 @@ and soon available for public consultation).</p>
 
 <p align="justify">The images were then converted to a manageable text format to match and verify the documents with the identified cases. This allowed us to validate the cases.</p>
 
-## Publications
+## Resources
 
 <ul>
 <li><a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint in English</a>.</li>
