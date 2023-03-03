@@ -20,6 +20,12 @@ permalink: /projects/incivility-towards-experts-during-crises
 
 <p align="justify">Our empirical strategy is based on a discontinuity design to estimate the effect of certain events on incivility/toxicity levels.</p>
 
+## Progress
+
+|---|---|---|---|---|---|---|
+| 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+
 <br />
 <small>Artwork by DALL·E inspired by Mattise.</small><br />
 <small>Last updated: March 3, 2023.</small>
