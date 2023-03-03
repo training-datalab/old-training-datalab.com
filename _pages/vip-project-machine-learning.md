@@ -16,9 +16,9 @@ permalink: /projects/vip-project-machine-learning
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/vip-project-machine-learning) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
 
-## Overview
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/UMayor.png){: style="width: 350px; float: right; border: 10px"}
+
+## Overview
 
 <p align="justify">This project addresses the complexity of different political, social, and economic phenomena from a multidisciplinary approach by analysing big data. This project seeks, in particular, to develop and use machine learning applications to detect anomalies in data used by decision-makers and understand current social dynamics and information consumption dynamics.  In general, this project aims to study a number of social science research topics using trained algorithms.</p>
 
