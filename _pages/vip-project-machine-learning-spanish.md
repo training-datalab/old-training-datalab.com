@@ -16,7 +16,7 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/vip-project-machine-learning) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
 
-## Descripción del proyecto
+## Descripción
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/UMayor.png){: style="width: 350px; float: right; border: 10px"}
 
