@@ -21,5 +21,5 @@ permalink: /projects/incivility-towards-experts-during-crises
 <p align="justify">Our empirical strategy is based on a discontinuity design to estimate the effect of certain events on incivility/toxicity levels.</p>
 
 <br />
-<small>Artwork por DALL·E, inspired by Mattise.</small>
+<small>Artwork por DALL·E, inspired by Mattise.</small><br />
 <small>Last updated: March 3, 2023.</small>
