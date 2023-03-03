@@ -12,9 +12,9 @@ permalink: /projects/twitter-tracker-chilean-referendum
 
 ![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg)
 
-## Overview
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/counting_plot_referendum.png){: style="width: 350px; float: right; border: 10px"}
+
+## Overview
 
 <p align="justify">This is a Twitter online tracker of the Chilean refenrum for a New Constitution in October 2020, which contains merged, daily data sets on #Apruebo and #Rechazo viewpoints on this social media.</p>
 
