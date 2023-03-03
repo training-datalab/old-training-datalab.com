@@ -12,9 +12,9 @@ permalink: /projects/political-science-publications
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg)
 
-## Data and Samples
-
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/publications_training.png){: style="width: 250px; float: right; border: 10px"}
+
+## Data and Samples
 
 <p align="justify">Based on data from the the Chilean Politics Science Impact Ranking (<a href="https://training-datalab.com/projects/cps-ranking">CPS-Ranking</a>), we have collected all the authors’ publications ranked in the first quartile (Q1) according to his/her H-Index. From this data set, we exclude publications in English and draw a random subsample. We are carrying out data coding procedures in this subsample to classify the type of publication using a typology of political science’s subfields.</p>
 
