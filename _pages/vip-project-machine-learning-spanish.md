@@ -16,9 +16,9 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/vip-project-machine-learning) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/vip-project-machine-learning-spanish)
 
-## Descripción
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/UMayor.png){: style="width: 350px; float: right; border: 10px"}
+
+## Descripción
 
 <p align="justify">Este proyecto aborda la complejidad de distintos fenómenos políticos, sociales y económicos desde un enfoque multidisciplinar a través del análisis de grandes volúmenes de datos. Este proyecto, en particular, busca utilizar y desarrollar aplicaciones de aprendizaje automático para detectar anomalías en datos que utilizan tomadores de decisiones y comprender las dinámicas sociales de consumo de información actuales. En general, este proyecto tiene como objetivo estudiar diversos temas de investigación en ciencias sociales utilizando algoritmos entrenados.</p>
 
