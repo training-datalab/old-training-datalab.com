@@ -27,5 +27,5 @@ permalink: /projects/incivility-towards-experts-during-crises
 | 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 <br />
-<small>Artwork by DALL·E inspired by Mattise.</small><br />
+<small>Artwork by DALL·E inspired by Matisse.</small><br />
 <small>Last updated: March 3, 2023.</small>
