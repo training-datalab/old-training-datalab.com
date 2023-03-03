@@ -27,7 +27,7 @@ y pronto disponible para consulta pública).</p>
 
 <p align="justify">Las imágenes se convirtieron a un formato de texto manejable a través del proceso previamente descrito con el fin de emparejar y verificar los documentos con los casos identificados. Esto nos permitió validar los casos.</p>
 
-## Publications
+## Recursos
 
 <ul>
 <li><a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint en inglés</a>.</li>
