@@ -12,9 +12,9 @@ permalink: /projects/vibrant-ink-flavoured-theme
 
 ![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg)
 
-## Overview
-
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/vink.png){: style="width: 350px; float: right; border: 10px"}
+
+## Overview
 
 <p align="justify">This is a flavoured version of vibrant ink for RStudio released under an MIT No Attribution (MIT-0) license. Therefore, there are no conditions, not even requiring the preservation of copyright and license notices.</p>
 
