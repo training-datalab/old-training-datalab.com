@@ -30,7 +30,7 @@ permalink: /projects/chilean-congress-bills-spanish
 
 <p align="justify">Una vez codificada la base de datos, entrenamos un modelo y predecimos los datos no codificados mediante técnicas de aprendizaje automático. En esta fase, es posible incorporar la validación humana en el flujo de trabajo para revisar las observaciones con valores de confianza bajos. Finalmente, tendremos los datos necesarios para realizar nuestro análisis principal, en este caso, modelos estocásticos basados en actores para redes dinámicas, con el objetivo de observar las estrategias de copatrocinio en el Congreso de Chile a lo largo del período.</p>
 
-## Fases
+## Progreso
 
 |---|---|---|---|---|---|---|
 | 1. Recopilación de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Limpieza de datos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
