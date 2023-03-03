@@ -83,7 +83,7 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">It is relevant to note that the complete data set and subsamples have been properly anonymised with a cryptographic algorithm based on a hash function to meet the current ethical considerations on social media research.</p>
 
-## Phases 1st Model
+## Progress 1st Model
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
