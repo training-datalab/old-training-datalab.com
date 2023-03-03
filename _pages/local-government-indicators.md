@@ -35,9 +35,10 @@ permalink: /projects/local-government-indicators
 ## Resources
 
 <ul>
-<li><a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Pre‑release dataset.</a></li>
+<li><a href="https://github.com/bgonzalezbustamante/local-gov-indicators" target="_blank">GitHub repository.</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Zenodo repository.</a></li>
 <li><a href="https://youtu.be/AmUQnQbKabQ" target="_blank">Presentation on the repository in Spanish at the LatinR Conference.</a></li>
 <li><a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index in English at the IPSA Seminar in Madrid.</a></li>
 </ul>
 <br />
-<small>Last updated: January 25, 2023.</small>
+<small>Last updated: March 3, 2023.</small>
