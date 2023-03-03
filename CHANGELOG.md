@@ -3,10 +3,9 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.8.6] - TBC
+## [2.9.6] - TBC
 ### Added
 - COVID-19 tracker.
-- Economic elites project.
 
 ## [Released]
 
@@ -14,6 +13,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Added
 - COVID experts project.
 - Chilean cabinets data set.
+- Economic elites project.
 ### Changed
 - Minor corrections.
 
