@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Data on Chilean Cabinets"
+title: "Training Data Lab - Data on Chilean Cabinets (1990-2022)"
 layout: textlay
-excerpt: "Data on Chilean Cabinets"
+excerpt: "Data on Chilean Cabinets (1990-2022)"
 sitemap: false
 permalink: /projects/data-chilean-cabinets
 ---
@@ -16,7 +16,7 @@ permalink: /projects/data-chilean-cabinets
 
 ## Overview
 
-<p align="justify">This project comprises two data sets on Chilean ministers and undersecretaries in Comma-Separated Values (CSV) format with Unicode encoding UTF-8. The data set on ministers covers between 1990 and 2014, while the set on undersecretaries contains officeholders from 1990 to 1990.</p>
+<p align="justify">This project comprises two data sets on Chilean ministers and undersecretaries in Comma-Separated Values (CSV) format with Unicode encoding UTF-8. The data set on ministers covers between 1990 and 2014, while the set on undersecretaries contains officeholders from 1990 to 2022.</p>
 
 <p align="justify">Both data sets have been used in the following articles and book chapters:</p>
 
