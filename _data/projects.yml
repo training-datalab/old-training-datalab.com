@@ -49,7 +49,7 @@
   news2:
 
 - title: " Data on Chilean Cabinets (1990-2022)"
-  image: cabinets.png
+  image: cabinet.png
   description: This project comprises two data sets on Chilean ministers and undersecretaries in Comma-Separated Values (CSV) format with Unicode encoding UTF-8. The data set on ministers covers between 1990 and 2014, while the set on undersecretaries contains officeholders until 2022.
   authors: Bastián González-Bustamante and Alejandro Olivares
   link:
