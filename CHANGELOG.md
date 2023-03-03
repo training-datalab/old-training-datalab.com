@@ -9,12 +9,17 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Economic elites project.
 - Ministers data set.
 - Undersecretaries data set.
-- COVID experts project.
 
 ## [Released]
 
-## [2.7.6] - 2023-03-02
+## [2.8.6] - 2023-03-03
 ### Added
+- COVID experts project.
+### Changed
+- Minor corrections.
+
+### Added
+## [2.7.6] - 2023-03-02
 - Toxicity project.
 ### Changed
 - Minor corrections.
