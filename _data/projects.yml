@@ -1,9 +1,9 @@
 - title: "Incivility Towards Experts During Crises"
   image: experts.png
-  description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis.
+  description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis. >We focus on the activity on Twitter around specific hashtags using the Twitter API.
   authors: Carla Cisternas and Bastián González-Bustamante
   link:
-    url: https://training-datalab.com/projects/toxicity-in-audiences-journalistic-interactions-in-crises
+    url: https://training-datalab.com/projects/incivility-towards-experts-during-crises
     display: See Project
   highlight: 1
   news2:
