@@ -3,11 +3,15 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.9.6] - TBC
+## [2.10.6] - TBC
 ### Added
 - COVID-19 tracker.
 
 ## [Released]
+
+## [2.9.6] - 2023-03-04
+### Added
+- GA4 set up.
 
 ## [2.8.6] - 2023-03-03
 ### Added
