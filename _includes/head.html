@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <!-- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">-->
-  <meta name="description" content="Training Data Lab focuses on rating and labelling data to shape reliable data sets to train models for social sciences research projects.">
+  <meta name="description" content="Training Data Lab focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling and machine learning.">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
@@ -18,7 +18,7 @@
   <meta property="og:locale" content="en-gb">
 
 {% if jekyll.environment == 'production' %}
-<!-- {% include analytics.html %} -->
+{% include analytics.html %}
 {% endif %}
 
 </head>
