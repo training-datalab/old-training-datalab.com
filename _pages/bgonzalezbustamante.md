@@ -84,3 +84,4 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
+<small>Last updated: January 25, 2023.</small>
