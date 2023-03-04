@@ -38,4 +38,5 @@ ORCID iD: <a href="https://orcid.org/0000-0001-7948-6194" target="_blank">https:
 Personal website: <a href="https://carlacisternas.com/" target="_blank">https://carlacisternas.com</a><br />
 Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch" target="_blank">https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch</a><br />
 <br />
+<small>Picture by Luciana Solar.</small><br />
 <small>Last updated: March 4, 2023.</small>
