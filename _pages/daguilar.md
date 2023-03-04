@@ -44,3 +44,4 @@ ORCID iD: <a href="https://orcid.org/0000-0003-4531-5922" target="_blank">https:
 <!-- Personal website: <a href="" target="_blank"></a><br /> -->
 <!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
+<small>Last updated: January 25, 2023.</small>
