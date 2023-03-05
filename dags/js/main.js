@@ -1,16 +1,16 @@
 /* DAGitty - a browser-based software for causal modelling and analysis
 *   Copyright (C) 2010-2022 Johannes Textor
-* 
+*
 *   This program is free software; you can redistribute it and/or
 *   modify it under the terms of the GNU General Public License
 *   as published by the Free Software Foundation; either version 2
 *   of the License, or (at your option) any later version.
-* 
+*
 *   This program is distributed in the hope that it will be useful,
 *   but WITHOUT ANY WARRANTY; without even the implied warranty of
 *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 *   GNU General Public License for more details.
-* 
+*
 *   You should have received a copy of the GNU General Public License
 *   along with this program; if not, write to the Free Software
 *   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA. */
@@ -72,7 +72,7 @@ var GUI = {
 		DAGittyControl && DAGittyControl.setViewMode( vm );
 	},
 	set_bias_mode : function( bm ){
-		DAGittyControl && DAGittyControl.setBiasMode( bm );		
+		DAGittyControl && DAGittyControl.setBiasMode( bm );
 	},
 	refresh_variable_status : function(){
 		var vid = document.getElementById("variable_id").value
@@ -96,13 +96,13 @@ var GUI = {
 		var sty = DAGitty.stylesheets.default.style
 		document.getElementById("highlight_ancestral").checked = typeof(sty["confoundernode_inactive"]) === "undefined";
 		document.getElementById("highlight_ancestral").checked ? displayShow("legend_ancestors") : displayHide("legend_ancestors");
-		
+
 		document.getElementById("highlight_causal").checked = typeof(sty["causalpath_inactive"]) === "undefined";
 		document.getElementById("highlight_causal").checked ? displayShow("legend_causal") : displayHide("legend_causal");
-		
+
 		document.getElementById("highlight_biasing").checked = typeof(sty["biasingpath_inactive"]) === "undefined";
 		document.getElementById("highlight_biasing").checked ? displayShow("legend_biasing") : displayHide("legend_biasing");
-		
+
 		document.getElementById("highlight_puredirect").checked = typeof(sty["puredirectpath_inactive"]) === "undefined";
 		_.each(["biasingpath","causalpath","exposure","latentnode","lnode","mnode","other",
 			"outcome","rnode","adjustednode"],function(n){
@@ -115,7 +115,7 @@ var GUI = {
 
 /**
  * Some convenience functions.
- * 
+ *
  **/
 
 function displayArrow( id, on ){
@@ -125,7 +125,7 @@ function displayArrow( id, on ){
 }
 function displayShow( id ){
 	var e = document.getElementById(id);
-	if( !e ){ 
+	if( !e ){
 		return;
 	}
 	if( e.tagName == "SPAN" ){
@@ -137,7 +137,7 @@ function displayShow( id ){
 }
 function displayHide( id ){
 	var e = document.getElementById(id);
-	if( !e ){ 
+	if( !e ){
 		return;
 	}
 	e.style.display = "none";
@@ -205,7 +205,7 @@ function setsToHTML( sets ){
 				}
 			}
 			msas_html[i] += "}";
-		} 
+		}
 		return "<ul><li>"+msas_html.sort().join("</li><li>")+"</li></ul>";
 	} else {
 		return "";
@@ -231,16 +231,16 @@ function msgOKP( t ){
 }
 
 
-/** 
+/**
  * Functions that compute things.
  */
 
 function causalEffectEstimates( effect_type ){
 	/*if( Model.dag.getSelectedNodes().length > 0 ){
-		displayCausalMsg("I cannot determine causal effects for DAGs with selection nodes."); return 
+		displayCausalMsg("I cannot determine causal effects for DAGs with selection nodes."); return
 	}*/
 	if( GraphAnalyzer.containsCycle( Model.dag ) ){
-		displayCausalMsg("Can't determine causal effects for cyclic models."); return 
+		displayCausalMsg("Can't determine causal effects for cyclic models."); return
 	}
 	switch( effect_type ){
 		case "adj_total" :
@@ -263,7 +263,7 @@ function causalEffectEstimates( effect_type ){
 
 /** Updates the "adjustment" UI component. The variable "kind" can be one of
 	"total" or "direct". */
-	
+
 function msasToHtml( msas ){
 	let r = null;
 	if( msas.length > 0 ){
@@ -292,12 +292,12 @@ function msasToHtml( msas ){
 	return r
 }
 
-function displayCausalMsg( wh ){	
-	document.getElementById("causal_effect").innerHTML 
+function displayCausalMsg( wh ){
+	document.getElementById("causal_effect").innerHTML
 		= "<p>"+wh+"</p>";
 }
 
-function displayAdjustmentInfo( kind ){	
+function displayAdjustmentInfo( kind ){
 	let g = Model.dag
 
 	let adjusted_nodes = g.getAdjustedNodes();
@@ -321,7 +321,7 @@ function displayAdjustmentInfo( kind ){
 	}
 
 	if( outcomes_list.length > 0 ){
-		tgt_el.appendChild( msgP( "Outcome"+(outcomes.length > 1?"s: ":": ")+outcomes_list.join(",") ) ) 
+		tgt_el.appendChild( msgP( "Outcome"+(outcomes.length > 1?"s: ":": ")+outcomes_list.join(",") ) )
 	} else {
 		tgt_el.appendChild( msgWarnP( "No outcome defined." ) )
 	}
@@ -334,10 +334,10 @@ function displayAdjustmentInfo( kind ){
 	/* For non-total effects, we need exactly one exposure and/or outcome. */
 	if( kind == "causal odds ratio" ){
 		if( exposures.length > 1 ){
-			tgt_el.appendChild( msgWarnP( "Multiple exposures defined." ) )		
+			tgt_el.appendChild( msgWarnP( "Multiple exposures defined." ) )
 		}
 		if( outcomes.length > 1 ){
-			tgt_el.appendChild( msgWarnP( "Multiple outcomes defined." ) )		
+			tgt_el.appendChild( msgWarnP( "Multiple outcomes defined." ) )
 		}
 		return
 	}
@@ -350,8 +350,8 @@ function displayAdjustmentInfo( kind ){
 			tgt_el.appendChild( msgWarnP("Selection nodes not supported for direct effects." ) )
 			return
 		}
-	} 
-	
+	}
+
 	if( kind == "causalodds" ){
 		if( selected.length == 0 ){
 			tgt_el.appendChild( msgWarnP("Selection node not defined." ) )
@@ -396,7 +396,7 @@ function displayAdjustmentInfo( kind ){
 	  * adjustment sets yet if there is a selection node.
 	  */
 
-	if( !["total","direct"].includes( kind ) || selected.length > 0 ){ return } 
+	if( !["total","direct"].includes( kind ) || selected.length > 0 ){ return }
 
 	let adjustment_list_el = document.createElement( "p" )
 
@@ -405,7 +405,7 @@ function displayAdjustmentInfo( kind ){
 	if( adjusted_nodes.length > 0 ){
 		note_adjustment = " containing "+_.pluck(adjusted_nodes,'id').sort().join(", ");
 	}
-	
+
 	let showMsas = function( t, msas, note_a, el ){
 		if( msas.length == 1 && msas[0].length == 0 ){
 			el.innerText = "No adjustment is necessary to estimate the "+t+" of "+
@@ -416,7 +416,7 @@ function displayAdjustmentInfo( kind ){
 		let msas_html = msasToHtml( msas );
 		if( msas_html ){
 			el.innerText = "Minimal sufficient adjustment sets "+note_a+" for estimating the "+t+" of "
-				+ _.pluck(Model.dag.getSources(),'id').join(",") 
+				+ _.pluck(Model.dag.getSources(),'id').join(",")
 				+ " on " + _.pluck(Model.dag.getTargets(),'id').join(",") + ": "
 			el.after( msas_html )
 		} else {
@@ -428,7 +428,7 @@ function displayAdjustmentInfo( kind ){
 		showMsas( "total effect",
 			GraphAnalyzer.listMsasTotalEffect( g ), note_adjustment, adjustment_list_el );
 	}
-	
+
 	if( kind == "direct" ){
 		showMsas( "direct effect",
 			GraphAnalyzer.listMsasDirectEffect( g ), note_adjustment, adjustment_list_el );
@@ -444,7 +444,7 @@ function ivsToHtml( ivs ){
 			if( ivs[i][1].length > 0 ){
 				ivs_html[i] += " | "+_.pluck(ivs[i][1],'id').join(', ');
 			}
-		} 
+		}
 		return "<ul><li>"+ivs_html.sort().join("</li><li>")+"</li></ul>";
 	} else {
 		return "";
@@ -452,7 +452,7 @@ function ivsToHtml( ivs ){
 }
 
 function displayInstrumentInfo(){
-	if( Model.dag.getSources().length != 1 || 
+	if( Model.dag.getSources().length != 1 ||
 		Model.dag.getTargets().length != 1 ){
 		document.getElementById("causal_effect").innerHTML = "<p>Instrumental variable identification is only supported for a single exposure and a single outcome.</p>"
 		return
@@ -497,8 +497,8 @@ function showTreeFASTP(id) {
 	if (alen(res.missingCycles) + alen(res.oldPropagatedMissingCycles) + alen(res.oldMissingCycles) + alen(res.propagatedMissingCycles) > 0) {
 		msg += "\n\n\nThe calculation used cycles: \n"
 		var mc = []
-		_.map(["missingCycles", "propagatedMissingCycles", "oldMissingCycles"], function(mcid){ 
-			if (res[mcid]) mc.push(missingCyclesToString(res[mcid])) 
+		_.map(["missingCycles", "propagatedMissingCycles", "oldMissingCycles"], function(mcid){
+			if (res[mcid]) mc.push(missingCyclesToString(res[mcid]))
 		})
 		msg += mc.join(", ")
 	}
@@ -537,7 +537,7 @@ function treeIDResultsToHtml( tid ){
 		})
 		return r
 	}
-	
+
 	var temp = resultsToHtmlForKID(1)
 	var r = ""
 	if (temp) r += "<p>Identifiable edges:</p><ul>" + temp + "</ul>"
@@ -548,7 +548,7 @@ function treeIDResultsToHtml( tid ){
 
 function displayTreeIDInfo(){
 	var warnings = []
-	if( Model.dag.getSources().length != 0 || 
+	if( Model.dag.getSources().length != 0 ||
 		Model.dag.getTargets().length != 0 ){
 		warnings = ["<p>Exposure and outcome nodes are ignored for TreeID."+
 			"Instead, TreeID tests identifiability of every direct effect (path coefficient) "+
@@ -589,7 +589,7 @@ function displayImplicationInfo( full ){
 					imp_html += imp[i][0]+" &perp; "+imp[i][1];
 					if( imp[i][2][j].length > 0 ){
 						imp_html += " | "+_.pluck(imp[i][2][j],'id').sort().join(", ");
-					} 
+					}
 				}  else {
 					more_link = true;
 				}
@@ -605,7 +605,7 @@ function displayImplicationInfo( full ){
 }
 
 function exportTikzCode(){
-	DAGittyControl.getView().openHTMLDialog( 
+	DAGittyControl.getView().openHTMLDialog(
 		"<textarea style=\"width:80%\" rows=\"10\">"+
 		"% This code uses the tikz package\n"+
 		"\\begin{tikzpicture}\n"+
@@ -615,7 +615,7 @@ function exportTikzCode(){
 	)
 }
 
-/** updates the "summary" component */ 
+/** updates the "summary" component */
 function displayGeneralInfo(){
 	var cycle = GraphAnalyzer.containsCycle( Model.dag );
 	if( cycle ){
@@ -637,7 +637,7 @@ function displayGeneralInfo(){
 			document.getElementById("info_covariates").innerHTML = Model.dag.getNumberOfVertices()-Model.dag.getSources().length
 			-Model.dag.getTargets().length;
 			document.getElementById("info_frontdoor").innerHTML = Model.dag.countPaths();
-			// $("info_backdoor").innerHTML = dag_ancestor_pair_graph.countPaths();      
+			// $("info_backdoor").innerHTML = dag_ancestor_pair_graph.countPaths();
 		}
 	}
 	/*$("path_information").innerHTML = nl2br("Closed paths:<br/>"+dag_ancestor_graph.listClosedPaths()
@@ -665,9 +665,9 @@ function generateSpringLayout(){
 function loadExample( nr ){
 	nr = parseInt( nr )
 	if( examples[nr].d ){
-		document.getElementById("adj_matrix").value = examples[nr].d 
+		document.getElementById("adj_matrix").value = examples[nr].d
 	} else {
-		document.getElementById("adj_matrix").value = 
+		document.getElementById("adj_matrix").value =
 			examples[nr].v+"\n\n"+examples[nr].e;
 	}
 	loadDAGFromTextData();
@@ -682,7 +682,7 @@ function newModel2(ename){
 	ename = (""+ename).trim()
 	if( ename == "" ){ return false; }
 	DAGittyControl.getView().openPromptDialog(
-		"Please enter name of outcome variable","",function(s){ 
+		"Please enter name of outcome variable","",function(s){
 			newModel3(ename,s) } )
 	return true;
 }
@@ -703,7 +703,7 @@ function supportsSVG() {
 function exportPDF(){
 	if( supportsSVG() ){
 		document.getElementById("exportformsvg").value = document.getElementById("canvas").innerHTML;
-		document.getElementById("exportform").action = "http://www.dagitty.net/pdf/batik-pdf.php";
+		document.getElementById("exportform").action = "/pdf/batik-pdf.php";
 		document.getElementById("exportform").submit();
 	}
 }
@@ -806,7 +806,7 @@ function saveOnlineForm(){
 		{
 			method:'POST',
 			onFailure: networkFailMsg,
-			onSuccess: function( t ) { 
+			onSuccess: function( t ) {
 				DAGittyControl.getView().openHTMLDialog( t.responseText )
 				GUI.recaptchaid = grecaptcha.render( "recaptcha",
 					{ sitekey : "6LdFd_sSAAAAAGyO4FTNjvok0sKA9Bm_sShVsU9F",
@@ -822,7 +822,7 @@ function validateCaptcha()
 {
 	DAGitty.Ajax.Request("http://"+hostName()+"/dags/recaptcha-validate-v2.php",{
 		method: "POST",
-		parameters: { 
+		parameters: {
 			"g-recaptcha-response" : grecaptcha.getResponse(),
 		},
 		onSuccess : function(t){
@@ -858,7 +858,7 @@ function saveOnline( secret ){
 						secret : secret
 				},
 				onFailure: networkFailMsg,
-				onSuccess: function( t ) { 
+				onSuccess: function( t ) {
 					DAGittyControl.getView().openHTMLDialog( t.responseText, "OK" )
 					Model.uniqid = /\"https?:\/\/dagitty.net\/m([^"]+)\"/g.exec(t.responseText)[1];
 				}
@@ -870,7 +870,7 @@ function updateOnline( id, pw ){
 	DAGitty.Ajax.Request("http://"+hostName()+"/dags/update.php",
 		{
 			method:'POST',
-			parameters: { id:id, pw:pw, 
+			parameters: { id:id, pw:pw,
 				dag:Model.dag.toString(), // TODO change to new syntax after 3.0 release
 			 },
 			onFailure: networkFailMsg,
@@ -885,13 +885,13 @@ function updateOnline( id, pw ){
 }
 function updateOnlineForm2( url ){
 	var mdlid = getModelIdFromURL( url )
-	DAGittyControl.getView().openPromptDialog( 
-		"Please enter the password", "", 
+	DAGittyControl.getView().openPromptDialog(
+		"Please enter the password", "",
 		function(pw){ updateOnline( mdlid, pw ) } )
 }
 function updateOnlineForm(){
-	DAGittyControl.getView().openPromptDialog( 
-		"Please enter the model URL", "dagitty.net/m"+(Model.uniqid||""), 
+	DAGittyControl.getView().openPromptDialog(
+		"Please enter the model URL", "dagitty.net/m"+(Model.uniqid||""),
 		updateOnlineForm2 )
 }
 
@@ -906,18 +906,18 @@ function deleteOnline( id, pw ){
 					networkFailMsg(); return
 				}
 				msg( t.responseText )
-			}	
+			}
 		}
 	);
 }
 function deleteOnlineForm2( url ){
 	var mdlid = getModelIdFromURL( url )
-	DAGittyControl.getView().openPromptDialog( 
-		"Please enter the password", "", 
+	DAGittyControl.getView().openPromptDialog(
+		"Please enter the password", "",
 		function(pw){ deleteOnline( mdlid, pw ) } )
 }
 function deleteOnlineForm( id, pw ){
-	DAGittyControl.getView().openPromptDialog( 
+	DAGittyControl.getView().openPromptDialog(
 		"Please enter the model URL", "dagitty.net/m"+(Model.uniqid||""), deleteOnlineForm2 )
 }
 
@@ -928,7 +928,7 @@ function loadOnline( url ){
 			method:'POST',
 			parameters: { id:graphid },
 			onFailure: networkFailMsg,
-			onSuccess: function( t ) { 
+			onSuccess: function( t ) {
 				if( t.readyState==4 && t.status == 0 ){
 					networkFailMsg(); return
 				}
