@@ -18,13 +18,13 @@ I am interested in technocracy in Latin America, public policies and legislative
 
 ## Featured Articles
 
-* Cisternas, C., & González-Bustamante, B. (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
+* Cisternas, C., & González-Bustamante, B. (2022). <a href="https://doi.org/10.15517/eci.v12i2.50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
 
-* Castañeda, F., Ormazabal, F., & Cisternas, C. (2022, *forthcoming*). Socio-Demographic Determinants of Financial Literacy Levels. *Studies in Business and Economics Journal, 17*(2).
+* Castañeda, F., Ormazabal, F., & Cisternas, C. (2022). <a href="https://doi.org/10.2478/sbe-2022-0024" target="_blank">Socio-Demographic Determinants of Financial Literacy Levels)</a>. *Studies in Business and Economics Journal, 17*(2), 44-61.
 
 * Cisternas, C. (2021). <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank">Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018</a>. *Revista de Estudios Políticos*, 194, 249-279.
 
-* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
+* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
 
 * Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
 
@@ -39,4 +39,4 @@ Personal website: <a href="https://carlacisternas.com/" target="_blank">https://
 Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch" target="_blank">https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch</a><br />
 <br />
 <small>Picture by Luciana Solar.</small><br />
-<small>Last updated: March 4, 2023.</small>
+<small>Last updated: March 13, 2023.</small>
