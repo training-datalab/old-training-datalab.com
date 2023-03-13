@@ -28,7 +28,7 @@ I am interested in technocracy in Latin America, public policies and legislative
 
 * Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
 
-* Cisternas, C., & Vásquez, J. (2018). <a href="https://doi.org/10.32992/erlacs.10349" target="_blank">Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile.</a> *European Review of Latin American and Caribbean Studies*, 106, 1–22.
+* Cisternas, C., & Vásquez, J. (2018). <a href="https://doi.org/10.32992/erlacs.10349" target="_blank">Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile.</a> *European Review of Latin American and Caribbean Studies*, 106, 1-22.
 
 ### Contact Information
 
