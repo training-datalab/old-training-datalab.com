@@ -66,7 +66,7 @@ permalink: /team/bgonzalezbustamante/
 
 * González-Bustamante, B., Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
 
-* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
+* González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
 
 * Olivares, A., González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
 
