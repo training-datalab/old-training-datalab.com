@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/svg/training-data-lab.svg" alt="GitHub" height="30%" width="30%" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/svg/training-data-lab.svg" alt="Training Data Lab" height="50%" width="35%" />
 
 <p align="justify">This research group focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling and machine learning. On the one hand, we pursue gathering data with mining techniques in order to elaborate econometric models with observational or matching techniques.</p>
 
