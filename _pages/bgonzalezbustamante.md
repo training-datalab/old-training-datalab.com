@@ -18,7 +18,9 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
-* González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/13691481221124850" target="_blank">Ministerial Stability During Presidential Approval Crises: The Moderating Effect of Ministers’ Attributes on Dismissals in Brazil and Chile</a>. *The British Journal of Politics and International Relations*. OnlineFirst.
+* González-Bustamante, B., & Aguilar, D. (2023, *forthcoming*). Territorial patterns of open e-government: Evidence from Chilean municipalities. *Political Research Exchange*.
+
+* González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/13691481221124850" target="_blank">Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile</a>. *The British Journal of Politics and International Relations*. OnlineFirst.
 
 * Fleming, T. G., González‑Bustamante, B., & Schleiter, P. (2022). <a href="https://doi.org/10.1017/gov.2022.23" target="_blank">Cabinet Reshuffles and Parliamentary No‑Confidence Motions</a>. *Government and Opposition*. FirstView.
 
@@ -26,7 +28,7 @@ permalink: /team/bgonzalezbustamante/
 
 * Cuevas, C., González-Bustamante, B., Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81, 105-138.
 
-* González-Bustamante, B. (2021). <a href="https://doi.org/10.1016/j.worlddev.2020.105180" target="_blank">Early Government Responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
+* González-Bustamante, B. (2021). <a href="https://doi.org/10.1016/j.worlddev.2020.105180" target="_blank">Evolution and early government responses to COVID-19 in South America</a>. *World Development, 137*, 105180.
 
 * González-Bustamante, B. (2020). <a href="https://doi.org/10.1111/blar.13044" target="_blank">The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition</a>. *Bulletin of Latin American Research, 39*(5), 582-597.
 
@@ -48,11 +50,11 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
-* González‑Bustamante, B., & Aguilar, D. (2022). <a href="https://doi.org/10.5281/zenodo.6848053" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.20.14 -- Late Butterfly)</a> [Data set]. Pre-release version under restricted access.
+* González‑Bustamante, B., & Aguilar, D. (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a> [Data set, pre-release version]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.6 -- Dry Bonus)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew)</a> [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.3 -- Shiny Snow)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.4 -- Wandering Grass)</a> [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
 ## Other Publications
 
@@ -84,4 +86,4 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
-<small>Last updated: January 25, 2023.</small>
+<small>Last updated: March 17, 2023.</small>
