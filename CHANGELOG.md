@@ -6,6 +6,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [2.10.6] - TBC
 ### Added
 - COVID-19 tracker.
+- twConvention project.
 
 ## [Released]
 
