@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Alejandro Olivares L."
+title: "Training Data Lab - Alejandro Olivares"
 layout: gridlay
-excerpt: "Training Data Lab - Alejandro Olivares L."
+excerpt: "Training Data Lab - Alejandro Olivares"
 sitemap: false
 permalink: /team/aolivares/
 ---
@@ -22,15 +22,16 @@ permalink: /team/aolivares/
 
 ## Data Collection Projects
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.6 -- Dry Bonus)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew)</a> [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
-* González-Bustamante, B., & Olivares, A. (2022). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.3 -- Shiny Snow)</a> [Data set].
+* González-Bustamante, B., & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.4 -- Wandering Grass)</a> [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
 ### Contact Information
 
-Email: <a href="mailto:alejandro.olivares@uct.cl">alejandro.olivares@uct.cl</a><br />
+Email: <a href="mailto:alejandro.olivares@uct.cl">alejandro.olivares@umayor.cl</a><br />
 <!-- Alternative email: <a href=""></a><br /> -->
 ORCID iD: <a href="https://orcid.org/0000-0001-6934-2437" target="_blank">https://orcid.org/0000-0001-6934-2437</a><br />
 <!-- Personal website: <a href="" target="_blank"></a><br /> -->
 <!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
+<small>Last updated: March 17, 2023.</small>
