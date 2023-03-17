@@ -7,6 +7,10 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Added
 - COVID-19 tracker.
 - twConvention project.
+- Digital protests project.
+- QM-Elites demonstration.
+- Time-dependent data demonstration.
+- Regularisation demonstration.
 
 ## [Released]
 
