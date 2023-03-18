@@ -38,11 +38,9 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">La integración vertical con estudiantes nos permite establecer los siguientes objetivos secundarios relacionados con el entorno de tutoría que conformaremos:</p>
 
-<ul>
-<li>Entrenar a los estudiantes en tópicos básicos de investigación en ciencias sociales.</li>
-<li>Introducir a los estudiantes en temas de aprendizaje automático.</li>
-<li>Capacitar a los estudiantes en fundamentos básicos de programación en R.</li>
-</ul>
+- Entrenar a los estudiantes en tópicos básicos de investigación en ciencias sociales.
+- Introducir a los estudiantes en temas de aprendizaje automático.
+- Capacitar a los estudiantes en fundamentos básicos de programación en R.
 
 ## Metodología de investigación
 
@@ -50,24 +48,22 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">Talleres y reuniones semanales sincrónicas:</p>
 
-<ul>
-<li>Introducción y presentación del proyecto.</li>
-<li>Nociones fundamentales de aprendizaje automático.</li>
-<li>Desinformación y opinión pública.</li>
-<li>Elementos fundamentales de metodología.</li>
-<li>Codificación y etiquetado de datos.</li>
-<li>Fundamentos de R.</li>
-<li>Estadística descriptiva en R.</li>
-<li>Evaluación codificación de datos.</li>
-<li>Modelos lineales en R.</li>
-<li>Modelos logísticos en R.</li>
-<li>Evaluación codificación de datos.</li>
-<li>Regularización y validación cruzada.</li>
-<li>Árboles de decisión y Random Forest.</li>
-<li>Evaluación codificación de datos.</li>
-<li>Presentación y comentarios de análisis preliminares.</li>
-<li>Cierre y autoevaluación de esta primera versión.</li>
-</ul>
+- Introducción y presentación del proyecto.
+- Nociones fundamentales de aprendizaje automático.
+- Desinformación y opinión pública.
+- Elementos fundamentales de metodología.
+- Codificación y etiquetado de datos.
+- Fundamentos de R.
+- Estadística descriptiva en R.
+- Evaluación codificación de datos.
+- Modelos lineales en R.
+- Modelos logísticos en R.
+- Evaluación codificación de datos.
+- Regularización y validación cruzada.
+- Árboles de decisión y Random Forest.
+- Evaluación codificación de datos.
+- Presentación y comentarios de análisis preliminares.
+- Cierre y autoevaluación de esta primera versión.
 
 <p align="justify">Este proyecto se desarrolla desde la Escuela de Negocios de la Universidad Mayor, pero se realizará completamente online. No son necesarios conocimientos previos en estadística o programación, solo se requiere acceso a un computador y conexión a Internet. La evaluación de los estudiantes se realizará durante las reuniones de avance de la codificación de datos (25% cada una) y durante la sesión final a través de una autoevaluación (25 %).</p>
 
