@@ -18,7 +18,7 @@
   highlight: 1
   news2:
 
-- title: "Digital Activism, Protests and Incivility"
+- title: "Digital Activism, Protests and Incivility in Latin America"
   image: digital_protests.png
   description: We are analysing online interactions on social media around specific hashtags used during mass protests in Latin America since 2019. Therefore, we download the network activity using particular social media APIs to classify sentiments and toxicity.
   authors: Bastián González-Bustamante
