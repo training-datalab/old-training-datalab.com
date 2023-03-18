@@ -40,5 +40,5 @@ permalink: /projects/chilean-congress-bills
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
-<small>Diagram by Cisternas, González-Bustamante, Morillo and Aguilar (2023).</small><br />
+<small>Diagram by Cisternas, González-Bustamante, Morillo and Aguilar (2021).</small><br />
 <small>Last updated: March 18, 2023.</small>
