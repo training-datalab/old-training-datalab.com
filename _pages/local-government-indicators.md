@@ -34,12 +34,11 @@ permalink: /projects/local-government-indicators
 
 ## Resources
 
-<ul>
-<li><a href="https://github.com/bgonzalezbustamante/local-gov-indicators" target="_blank">GitHub repository.</a></li>
-<li><a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Zenodo repository.</a></li>
-<li><a href="https://doi.org/10.17605/OSF.IO/32WSK" target="_blank">OSF project.</a></li>
-<li><a href="https://youtu.be/AmUQnQbKabQ" target="_blank">Presentation on the repository in Spanish at the LatinR Conference.</a></li>
-<li><a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index in English at the IPSA Seminar in Madrid.</a></li>
-</ul>
+- <a href="https://github.com/bgonzalezbustamante/local-gov-indicators" target="_blank">GitHub repository</a>.
+- <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Zenodo repository</a>.
+- <a href="https://doi.org/10.17605/OSF.IO/32WSK" target="_blank">OSF project</a>.
+- <a href="https://youtu.be/AmUQnQbKabQ" target="_blank">Presentation on the repository in Spanish at the LatinR Conference</a>.
+- <a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index in English at the IPSA Seminar in Madrid</a>.
+
 <br />
 <small>Last updated: March 17, 2023.</small>
