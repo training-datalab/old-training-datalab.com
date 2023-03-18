@@ -45,4 +45,5 @@ permalink: /projects/local-government-indicators
 - González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky) [Data set, pre-release version]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">10.5281/zenodo.7568387</a>.
 
 <br />
+<small>Figure by González-Bustamante and Aguilar (2023).</small><br />
 <small>Last updated: March 18, 2023.</small>
