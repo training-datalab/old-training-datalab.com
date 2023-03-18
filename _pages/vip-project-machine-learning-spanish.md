@@ -34,9 +34,7 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 <p align="justify">En consecuencia, nuestro objetivo principal para nuestro primer caso de estudio es: </p>
 
-<ul>
-<li>Entrenar un algoritmo clasificador para identificar niveles de desinformación en temas de políticas públicas y economía en la esfera digital chilena.</li>
-</ul>
+- Entrenar un algoritmo clasificador para identificar niveles de desinformación en temas de políticas públicas y economía en la esfera digital chilena.
 
 <p align="justify">La integración vertical con estudiantes nos permite establecer los siguientes objetivos secundarios relacionados con el entorno de tutoría que conformaremos:</p>
 
