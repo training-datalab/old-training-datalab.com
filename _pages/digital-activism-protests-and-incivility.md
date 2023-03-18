@@ -16,7 +16,9 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 ## Overview
 
-<p align="justify">We are analysing online interactions on social media around specific hashtags used during mass protests in Latin America since 2019. Therefore, we are downloading the network activity using specific social network APIs. Then we will classify sentiments and toxicity levels before applying a number of causal identification strategies and social network analysis applications.</p>
+<p align="justify">We are analysing online interactions on social media around specific hashtags used during mass protests in Latin America since 2019. Therefore, we download the network activity using particular social media APIs.</p>
+
+<p align="justify">Then we classify sentiments and toxicity levels before applying a number of causal identification strategies and social network analysis applications.</p>
 
 ## Progress
 
@@ -25,6 +27,7 @@ permalink: /projects/digital-activism-protests-and-incivility
 | Hashtag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Finish | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Country | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progress |
 |---|---|---|---|---|---|---|---|---|
 | #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 
 ### Algorithms Application
 
