@@ -40,7 +40,7 @@ permalink: /projects/local-government-indicators
 - <a href="https://youtu.be/AmUQnQbKabQ" target="_blank">Presentation on the repository in Spanish at the LatinR Conference</a>.
 - <a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index in English at the IPSA Seminar in Madrid</a>.
 
-### How to cite the data set?
+### How to cite this data set?
 
 - González-Bustamante, B., & Aguilar, D. (2023). Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky) [Data set, pre-release version]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">10.5281/zenodo.7568387</a>.
 
