@@ -40,4 +40,5 @@ permalink: /projects/cps-ranking
 - González-Bustamante, B. (2023). Chilean Political Science Impact Ranking (Version 3.13.18 -- Silent Thunder) [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">10.17605/OSF.IO/C8PRA</a>.
 
 <br />
+<small>Network by González-Bustamante (2020).</small><br />
 <small>Last updated: March 18, 2023.</small>
