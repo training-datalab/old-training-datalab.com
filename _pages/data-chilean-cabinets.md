@@ -47,5 +47,5 @@ permalink: /projects/data-chilean-cabinets
 <li><a href="https://github.com/bgonzalezbustamante/chilean-undersecretaries/blob/main/docs/codebook_undersecretaries.pdf" target="_blank">Undersecretaries codebook.</a></li>
 </ul>
 <br />
-<small>Artwork by DALL·E in an impressionist style.</small><br />
+<small>Artwork by DALL·E in an Impressionist style.</small><br />
 <small>Last updated: March 5, 2023.</small>
