@@ -18,13 +18,13 @@ permalink: /tufte-working-papers/
 
 ## Issues
 
-* Cisternas, C., González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+- Cisternas, C., González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
 
-* Cuevas, R. (2022). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3. OnlineFirst. SocArXiv: <a href="https://doi.org/10.31235/osf.io/y4fxw" target="_blank">10.31235/osf.io/y4fxw</a>.
+- Cuevas, R. (2022). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3. OnlineFirst. SocArXiv: <a href="https://doi.org/10.31235/osf.io/y4fxw" target="_blank">10.31235/osf.io/y4fxw</a>.
 
-* González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. *Tufte Working Papers*, 2, 1-21. DOI: <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">10.5281/zenodo.6739833</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.
+- González-Bustamante, B. (2021). Sofisticación, participación y compromiso político en América Latina. *Tufte Working Papers*, 2, 1-21. DOI: <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">10.5281/zenodo.6739833</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">10.31235/osf.io/r4pj8</a>.
 
-* González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. *Tufte Working Papers*, 1, 1-15. DOI: <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">10.5281/zenodo.6739266</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.
+- González-Bustamante, B., & Cisternas, C. (2020). Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites. *Tufte Working Papers*, 1, 1-15. DOI: <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">10.5281/zenodo.6739266</a>. SocArXiv: <a href="https://doi.org/10.31235/osf.io/gxrkc" target="_blank">10.31235/osf.io/gxrkc</a>.
 <br />
 
 <figure class="fourth">
