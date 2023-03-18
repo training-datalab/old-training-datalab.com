@@ -29,8 +29,8 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 | Hashtag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Finish | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Country | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progress |
 |---|---|---|---|---|---|---|---|---|
-| #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="{{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg" alt="Progress Bar" height="30" width="215" /> |
-| #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="{{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg" alt="Progress Bar" height="30" width="215" /> |
+| #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="{{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg" alt="Progress Bar" height="25" width="135" /> |
+| #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="{{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg" alt="Progress Bar" height="25" width="135" /> |
 
 ### Algorithms Application
 
