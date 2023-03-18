@@ -10,7 +10,7 @@ permalink: /projects/incivility-towards-experts-during-crises
 
 **Researchers:** Carla Cisternas and Bastián González-Bustamante
 
-![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg)
+![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/experts_dalle.png){: style="width: 300px; float: right; border: 10px"}
 
@@ -28,4 +28,4 @@ permalink: /projects/incivility-towards-experts-during-crises
 
 <br />
 <small>Artwork by DALL·E inspired by Matisse.</small><br />
-<small>Last updated: March 3, 2023.</small>
+<small>Last updated: March 18, 2023.</small>
