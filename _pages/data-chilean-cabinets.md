@@ -38,14 +38,13 @@ permalink: /projects/data-chilean-cabinets
 
 ## Resources
 
-<ul>
-<li><a href="https://github.com/bgonzalezbustamante/chilean-ministers" target="_blank">Ministers GitHub repository.</a></li>
-<li><a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Ministers Zenodo repository.</a></li>
-<li><a href="https://github.com/bgonzalezbustamante/chilean-ministers/blob/main/docs/codebook_ministers.pdf" target="_blank">Ministers codebook.</a></li>
-<li><a href="https://github.com/bgonzalezbustamante/chilean-undersecretaries" target="_blank">Undersecretaries GitHub repository.</a></li>
-<li><a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Undersecretaries Zenodo repository.</a></li>
-<li><a href="https://github.com/bgonzalezbustamante/chilean-undersecretaries/blob/main/docs/codebook_undersecretaries.pdf" target="_blank">Undersecretaries codebook.</a></li>
-</ul>
+- <a href="https://github.com/bgonzalezbustamante/chilean-ministers" target="_blank">Ministers GitHub repository</a>.
+- <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Ministers Zenodo repository</a>.
+- <a href="https://github.com/bgonzalezbustamante/chilean-ministers/blob/main/docs/codebook_ministers.pdf" target="_blank">Ministers codebook</a>.
+- <a href="https://github.com/bgonzalezbustamante/chilean-undersecretaries" target="_blank">Undersecretaries GitHub repository</a>.
+- <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Undersecretaries Zenodo repository</a>.
+- <a href="https://github.com/bgonzalezbustamante/chilean-undersecretaries/blob/main/docs/codebook_undersecretaries.pdf" target="_blank">Undersecretaries codebook</a>.
+
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
 <small>Last updated: March 5, 2023.</small>
