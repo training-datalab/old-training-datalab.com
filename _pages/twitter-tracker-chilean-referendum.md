@@ -25,5 +25,6 @@ permalink: /projects/twitter-tracker-chilean-referendum
 - <a href="https://bgonzalezbustamante.github.io/twConstitution/" target="_blank">GitHub page</a>.
 - <a href="https://github.com/bgonzalezbustamante/twConstitution" target="_blank">GitHub repository</a>.
 - <a href="https://doi.org/10.17605/OSF.IO/73NDB" target="_blank">OSF-Project</a>.
+
 <br />
 <small>Last updated: February 17, 2023.</small>
