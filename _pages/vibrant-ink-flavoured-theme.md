@@ -26,4 +26,5 @@ permalink: /projects/vibrant-ink-flavoured-theme
 - <a href="https://doi.org/10.5281/zenodo.5703436" target="_blank">Zenodo repository</a>.
 
 <br />
+<small>Screenshot by González-Bustamante (2021).</small><br />
 <small>Last updated: February 22, 2023.</small>
