@@ -53,4 +53,5 @@ permalink: /projects/data-chilean-cabinets
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
+<small>Diagrama por González-Bustamante, Astete y Orvenes (2020).</small><br />
 <small>Last updated: March 18, 2023.</small>
