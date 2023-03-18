@@ -24,5 +24,6 @@ permalink: /projects/vibrant-ink-flavoured-theme
 
 - <a href="https://github.com/bgonzalezbustamante/v-ink-flavoured" target="_blank">GitHub repository</a>.
 - <a href="https://doi.org/10.5281/zenodo.5703436" target="_blank">Zenodo repository</a>.
+
 <br />
 <small>Last updated: February 22, 2023.</small>
