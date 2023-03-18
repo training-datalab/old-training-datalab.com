@@ -10,7 +10,7 @@ permalink: /projects/chilean-congress-bills
 
 **Researchers:** Carla Cisternas, Bastián González-Bustamante, Jaquelin Morillo and Diego Aguilar
 
-![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
+![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/bills_training.png){: style="width: 250px; float: right; border: 10px"}
 
@@ -40,4 +40,4 @@ permalink: /projects/chilean-congress-bills
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
-<small>Last updated: February 17, 2023.</small>
+<small>Last updated: March 18, 2023.</small>
