@@ -12,7 +12,7 @@ permalink: /projects/local-government-indicators
 
 **Associate:** Rodrigo Cuevas
 
-![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg)
+![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/open_gov.png){: style="width: 350px; float: right; border: 10px"}
 
@@ -41,4 +41,4 @@ permalink: /projects/local-government-indicators
 - <a href="https://youtu.be/BL9qaoqbdWk" target="_blank">Presentation on open e-government index in English at the IPSA Seminar in Madrid</a>.
 
 <br />
-<small>Last updated: March 17, 2023.</small>
+<small>Last updated: March 18, 2023.</small>
