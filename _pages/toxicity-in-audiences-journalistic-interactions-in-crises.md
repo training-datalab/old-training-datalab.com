@@ -27,4 +27,5 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 | 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![36%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/36.svg) |
 
 <br />
-<small>Last updated: March 17, 2023.</small>
+<small>Figure by Orchard, González-Bustamante and Cisternas (2023).</small><br />
+<small>Last updated: March 18, 2023.</small>
