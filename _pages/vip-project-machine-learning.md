@@ -34,17 +34,13 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">Therefore, our main objective for our first case study is:</p>
 
-<ul>
-<li>To train a classification algorithm to identify disinformation levels in public policy and economic issues in the Chilean digital sphere.</li>
-</ul>
+- To train a classification algorithm to identify disinformation levels in public policy and economic issues in the Chilean digital sphere.
 
 <p align="justify">The vertical integration with students allows us to establish the following secondary objectives related to the tutoring environment to be developed:</p>
 
-<ul>
-<li>To train students in fundamental topics on social science research.</li>
-<li>To introduce students to machine learning topics.</li>
-<li>To train students in programming fundamentals in R.</li>
-</ul>
+- To train students in fundamental topics on social science research.
+- To introduce students to machine learning topics.
+- To train students in programming fundamentals in R.
 
 ## Research Methodology
 
@@ -52,24 +48,22 @@ permalink: /projects/vip-project-machine-learning
 
 <p align="justify">Synchronous workshops and weekly meetings:</p>
 
-<ul>
-<li>Introduction and presentation of the project.</li>
-<li>Fundamental notions of machine learning.</li>
-<li>Disinformation and public opinion.</li>
-<li>Fundamental elements of methodology.</li>
-<li>Data coding and labelling.</li>
-<li>Fundamentals of R.</li>
-<li>Descriptive statistics in R.</li>
-<li>Data coding evaluation.</li>
-<li>Linear models in R.</li>
-<li>Logistic models in R.</li>
-<li>Data coding evaluation.</li>
-<li>Regularisation and cross-validation.</li>
-<li>Decision trees and Random Forest.</li>
-<li>Data coding evaluation.</li>
-<li>Presentation and comments on preliminary analysis.</li>
-<li>Closing and self-evaluation of this first version.</li>
-</ul>
+- Introduction and presentation of the project.
+- Fundamental notions of machine learning.
+- Disinformation and public opinion.
+- Fundamental elements of methodology.
+- Data coding and labelling.
+- Fundamentals of R.
+- Descriptive statistics in R.</li>
+- Data coding evaluation.
+- Linear models in R.
+- Logistic models in R.
+- Data coding evaluation.
+- Regularisation and cross-validation.
+- Decision trees and Random Forest.
+- Data coding evaluation.
+- Presentation and comments on preliminary analysis.
+- Closing and self-evaluation of this first version.
 
 <p align="justify">This project is developed by the Business School of the Universidad Mayor, but it will be carried out entirely online. No previous knowledge of statistics or programming is required, only access to a computer and Internet connection. Students will be evaluated during the data coding progress meetings (25% each) and the final session through self-evaluation (25%).</p>
 
