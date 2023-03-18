@@ -3,7 +3,7 @@ title: "Training Data Lab - Digital Activism, Protests and Incivility"
 layout: textlay
 excerpt: "Digital Activism, Protests and Incivility"
 sitemap: false
-permalink: /projects/digital-Activism-protests-and-incivility
+permalink: /projects/digital-activism-protests-and-incivility
 ---
 
 # Digital Activism, Protests and Incivility
@@ -22,16 +22,15 @@ permalink: /projects/digital-Activism-protests-and-incivility
 
 ### Data Gathering
 
-|---|---|---|---|---|---|---|
-| #ChileDesperto (CHL, 2019) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ##LaMarchaMasGrandeDeChile (CHL, 2019) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| #ChileViolatesHumanRights (CHL, 2019) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
+|---|---|---|---|---|
+| #ChileDesperto | Oct 2019 | Jan 2020 | CHL | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 
-## Algorithms Application
+### Algorithms Application
 
 |---|---|---|---|---|---|---|
 | 1. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | 3. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
 
 <br />
-<small>Artwork by DALL·E inspired by Matisse.</small><br />
+<small>Artwork by DALL·E in an Impressionist style.</small><br />
 <small>Last updated: March 18, 2023.</small>
