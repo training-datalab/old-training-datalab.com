@@ -24,16 +24,16 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 ### Data Gathering
 
-| Hashtag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Finish | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Country | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progress |
+| Hashtag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Est. *N* | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Country | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progress |
 |---|---|---|---|---|---|---|---|---|
-| #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| #EstoPasaEnChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| #ChileViolatesHumanRights | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| #EvasionMasivaTodoElDia | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
-| #ChileQuiereCambios | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
-| #EstoNoHaTerminado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
-| #ChileNoSeRinde | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| #EstoPasaEnChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 966 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 420 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 351 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| #ChileViolatesHumanRights | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 323 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| #ChileQuiereCambios | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 197 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| #EvasionMasivaTodoElDia | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 156 300 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| #ChileNoSeRinde | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 133 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| #EstoNoHaTerminado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 107 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 ### Algorithms Application
 
