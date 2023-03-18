@@ -30,11 +30,10 @@ permalink: /projects/cps-ranking-spanish
 
 ## Recursos
 
-<ul>
-<li><a href="https://bgonzalezbustamante.com/cps-ranking/" target="_blank">Series trimestrales</a>.</li>
-<li><a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en OSF</a>.</li>
-<li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.</li>
-<li><a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.</li>
-</ul>
+- <a href="https://bgonzalezbustamante.com/cps-ranking/" target="_blank">Series trimestrales</a>.
+- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en OSF</a>.
+- <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.
+- <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.
+
 <br />
 <small>Última actualización: 3 de marzo de 2023.</small>
