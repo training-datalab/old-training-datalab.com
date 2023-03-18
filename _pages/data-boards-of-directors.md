@@ -33,7 +33,7 @@ permalink: /projects/data-boards-of-directors
 
 ### How to cite this project?
 
-- González-Bustamante, B., & Cisternas, C. (2023). Chilean Boards of Directors (2001-2022) [Open Science Framework Project]. University of Oxford, Leiden University, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/EMH9C" target="_blank">10.17605/OSF.IO/FS4TQ</a>.
+- González-Bustamante, B., & Cisternas, C. (2023). Chilean Boards of Directors (2001-2022) [Open Science Framework Project]. University of Oxford, Leiden University, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/EMH9C" target="_blank">10.17605/OSF.IO/EMH9C</a>.
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
