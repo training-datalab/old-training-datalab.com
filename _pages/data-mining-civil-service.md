@@ -33,5 +33,5 @@ permalink: /projects/chilean-civil-service
 <li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.</li>
 </ul>
 <br />
-<small>Artwork by DALL·E in an impressionist style.</small><br />
+<small>Artwork by DALL·E in an Impressionist style.</small><br />
 <small>Last updated: August 23, 2021.</small>
