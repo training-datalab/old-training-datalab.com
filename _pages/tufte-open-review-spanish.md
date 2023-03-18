@@ -18,12 +18,10 @@ permalink: /tufte-working-papers/open-review-spanish/
 
 <p align=" justify">El archivo se puede enviar al equipo editorial en el formato que más le acomode al revisor: Word, OpenOffice, PDF o LaTeX. Debe contener la siguiente información:</p>
 
-<ul>
-<li>Título del manuscrito.</li>
-<li>Nombre del evaluador.</li>
-<li>Email del evaluador.</li>
-<li>Breve biografía del evaluador (extensión recomendada 100 - 150 palabras).</li>
-<li>Dictamen abierto fundado (extensión recomendada 1.000 - 1.500 palabras).</li>
-<li>Recomendación final (rechazar, aceptar sujeto a modificaciones o aceptar sin modificaciones).</li>
-</ul>
+- Título del manuscrito.
+- Nombre del evaluador.
+- Email del evaluador.
+- Breve biografía del evaluador (extensión recomendada 100 - 150 palabras).
+- Dictamen abierto fundado (extensión recomendada 1.000 - 1.500 palabras).
+- Recomendación final (rechazar, aceptar sujeto a modificaciones o aceptar sin modificaciones).
 <br />
