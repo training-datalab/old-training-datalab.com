@@ -18,6 +18,16 @@
   highlight: 1
   news2:
 
+- title: "Digital Activism, Protests and Incivility"
+  image: digital_protests.png
+  description: We are analysing online interactions on social media around specific hashtags used during mass protests in Latin America since 2019. Therefore, we download the network activity using particular social media APIs to classify sentiments and toxicity.
+  authors: Bastián González-Bustamante
+  link:
+    url: https://training-datalab.com/projects/digital-activism-protests-and-incivility
+    display: See Project
+  highlight: 1
+  news2:
+
 - title: "Incivility Towards Experts During Crises"
   image: experts.png
   description: We are analysing online incivility in the context of extra-governmental experts' appointments to face unexpected, challenging events in Latin American democracies, such as natural disasters and the coronavirus crisis. We focus on the activity on Twitter around specific hashtags using the Twitter API.
