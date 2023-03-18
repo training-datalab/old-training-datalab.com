@@ -28,10 +28,8 @@ permalink: /projects/chilean-civil-service-spanish
 
 ## Recursos
 
-<ul>
-<li><a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint en inglés</a>.</li>
-<li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Artículo publicado en español</a>.</li>
-</ul>
-<br />
+- <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint en inglés</a>.
+- <a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Artículo publicado en español</a>.
+
 <small>Arte por DALL·E en un estilo impresionista.</small><br />
 <small>Última actualización: 23 de agosto de 2021.</small>
