@@ -24,6 +24,9 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 ### Data Gathering
 
+- #ChileDesperto, Chile, Oct. 2019 to Jan. 2020 ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg)
+- #LaMarchaMasGrandeDeChile, Chile, Oct. 2019 to Jan. 2020 ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg)
+
 | Hashtag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Start | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Finish | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Country | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progress |
 |---|---|---|---|---|---|---|---|---|
 | #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
