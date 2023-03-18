@@ -3,16 +3,19 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.10.6] - TBC
+## [2.11.6] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
-- Digital protests project.
 - QM-Elites demonstration.
 - Time-dependent data demonstration.
 - Regularisation demonstration.
 
 ## [Released]
+
+## [2.10.6] - 2023-03-18
+### Added
+- Digital protests project.
 
 ## [2.9.6] - 2023-03-04
 ### Added
