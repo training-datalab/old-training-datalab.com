@@ -38,4 +38,5 @@ permalink: /projects/political-science-publications
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
+<small>Diagram by González-Bustamante, Olivares and Cisternas (2021).</small><br />
 <small>Last updated: October 15, 2021.</small>
