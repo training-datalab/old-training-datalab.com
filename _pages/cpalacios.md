@@ -16,21 +16,21 @@ permalink: /team/cpalacios/
 
 ## Featured Article
 
-* Palacios, C., & Jofré, H. (2016). <a href="http://www.revistaenfoques.cl/index.php/revista-uno/article/view/409" target="_blank">Permanencia de agentes clave en el Centro de Gobierno. El caso chileno (1990-2014)</a>. *Revista Enfoques, XIV*(24), 91-119.
+- Palacios, C., & Jofré, H. (2016). <a href="http://www.revistaenfoques.cl/index.php/revista-uno/article/view/409" target="_blank">Permanencia de agentes clave en el Centro de Gobierno. El caso chileno (1990-2014)</a>. *Revista Enfoques, XIV*(24), 91-119.
 
 ## Featured Book Chapter
 
-* Maillet, A., Concha, M., & Palacios, C. (2021). <a href="https://www.impuestosjustos.io/capitulos" target="_blank">Estrategia política para reformas tributarias en Chile. Lecciones del pasado y proyección a futuro</a>. In C. Otero & J. Atria (eds.), *Impuestos justos para el Chile que viene: Diagnósticos y desafíos tributarios para un nuevo pacto fiscal*. Santiago: Fondo de Cultura Económica.
+- Maillet, A., Concha, M., & Palacios, C. (2021). <a href="https://www.impuestosjustos.io/capitulos" target="_blank">Estrategia política para reformas tributarias en Chile. Lecciones del pasado y proyección a futuro</a>. In C. Otero & J. Atria (eds.), *Impuestos justos para el Chile que viene: Diagnósticos y desafíos tributarios para un nuevo pacto fiscal*. Santiago: Fondo de Cultura Económica.
 
-## Reviews
+## Other Publications
 
-* Palacios, C. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/332" target="_blank">Inés Nercesian. Presidentes empresarios y estados capturados: América Latina en el siglo XXI. Buenos Aires: Editorial Teseo, 2020.: 246 ppp. ISBN 9789877232646</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 192-195.
+- Palacios, C. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/332" target="_blank">Inés Nercesian. Presidentes empresarios y estados capturados: América Latina en el siglo XXI. Buenos Aires: Editorial Teseo, 2020.: 246 ppp. ISBN 9789877232646</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 192-195.
 
-* Palacios, C. (2018). Aninat, I. y Razmilic. S. (eds.) (2018). <a href="https://revistas.uv.cl/index.php/rgp/article/view/2206" target="_blank">Un Estado para la Ciudadanía. Estudios para su modernización. Santiago: Centro de Estudios Públicos</a>. *Revista de Gestión Pública, VII*(1), 137–142.
+- Palacios, C. (2018). Aninat, I. y Razmilic. S. (eds.) (2018). <a href="https://revistas.uv.cl/index.php/rgp/article/view/2206" target="_blank">Un Estado para la Ciudadanía. Estudios para su modernización. Santiago: Centro de Estudios Públicos</a>. *Revista de Gestión Pública, VII*(1), 137–142.
 
 ## Selected Conference Presentation
 
-* Palacios, C. (2017). *Convergencia y divergencia de la tecnocracia en el proceso de formulación de políticas en Chile: Reformas tributarias entre 1990 y 2014*. Presentation delivered at the IX Latin American Congress of Political Science, Montevideo, Uruguay.
+- Palacios, C. (2017). *Convergencia y divergencia de la tecnocracia en el proceso de formulación de políticas en Chile: Reformas tributarias entre 1990 y 2014*. Presentation delivered at the IX Latin American Congress of Political Science, Montevideo, Uruguay.
 
 ### Contact Information
 
