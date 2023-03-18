@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Digital Activism, Protests and Incivility"
+title: "Training Data Lab - Digital Activism, Protests and Incivility in Latin America"
 layout: textlay
-excerpt: "Digital Activism, Protests and Incivility"
+excerpt: "Digital Activism, Protests and Incivility in Latin America"
 sitemap: false
 permalink: /projects/digital-activism-protests-and-incivility
 ---
@@ -40,6 +40,14 @@ permalink: /projects/digital-activism-protests-and-incivility
 |---|---|---|---|---|---|---|
 | 1. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | 3. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | |
+
+## Resources
+
+- <a href="https://doi.org/10.17605/OSF.IO/Q4G6P" target="_blank">OSF-Project</a>.
+
+### How to cite this project?
+
+- González-Bustamante, B. (2023). Digital Activism, Protests and Incivility in Latin America [Open Science Framework Project]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/Q4G6P" target="_blank">10.17605/OSF.IO/Q4G6P</a>.
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
