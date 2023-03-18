@@ -18,12 +18,10 @@ permalink: /tufte-working-papers/open-review/
 
 <p align=" justify">The file can be sent to the editorial team in the format that best suits the reviewer: Word, OpenOffice, PDF or LaTeX. It should contain the following information:</p>
 
-<ul>
-<li>Title of the manuscript.</li>
-<li>Name of the reviewer.</li>
-<li>Reviewer's email address.</li>
-<li>A brief biography of the reviewer (recommended length 100 - 150 words).</li>
-<li>Open and reasoned opinion (recommended length 1,000 - 1,500 words).</li>
-<li>Final recommendation (reject, accept subject to modifications or accept without modifications).</li>
-</ul>
+- Title of the manuscript.
+- Name of the reviewer.
+- Reviewer's email address.
+- A brief biography of the reviewer (recommended length 100 - 150 words).
+- Open and reasoned opinion (recommended length 1,000 - 1,500 words).
+- Final recommendation (reject, accept subject to modifications or accept without modifications).
 <br />
