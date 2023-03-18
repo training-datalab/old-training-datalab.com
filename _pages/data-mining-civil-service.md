@@ -28,10 +28,8 @@ permalink: /projects/chilean-civil-service
 
 ## Resources
 
-<ul>
-<li><a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint in English</a>.</li>
-<li><a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.</li>
-</ul>
-<br />
+- <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint in English</a>.
+- <a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.
+
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
 <small>Last updated: August 23, 2021.</small>
