@@ -7,9 +7,9 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Added
 - COVID-19 tracker.
 - twConvention project.
-- QM-Elites demonstration.
-- Time-dependent data demonstration.
-- Regularisation demonstration.
+- QM-Elites demonstration (TBC).
+- Time-dependent data demonstration (TBC).
+- Regularisation demonstration (TBC).
 
 ## [Released]
 
