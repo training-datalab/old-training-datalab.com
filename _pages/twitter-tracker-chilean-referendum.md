@@ -22,9 +22,13 @@ permalink: /projects/twitter-tracker-chilean-referendum
 
 ## Resources
 
-- <a href="https://bgonzalezbustamante.github.io/twConstitution/" target="_blank">GitHub page</a>.
-- <a href="https://github.com/bgonzalezbustamante/twConstitution" target="_blank">GitHub repository</a>.
 - <a href="https://doi.org/10.17605/OSF.IO/73NDB" target="_blank">OSF-Project</a>.
+- <a href="https://github.com/bgonzalezbustamante/twConstitution" target="_blank">GitHub repository</a>.
+- <a href="https://bgonzalezbustamante.github.io/twConstitution/" target="_blank">GitHub page</a>.
+
+### How to cite this tracker?
+
+- González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.1 – Purple Silence) [Computer software]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/73NDB" target="_blank">10.17605/OSF.IO/73NDB</a>.
 
 <br />
-<small>Last updated: February 17, 2023.</small>
+<small>Last updated: March 18, 2023.</small>
