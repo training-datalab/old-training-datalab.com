@@ -12,7 +12,7 @@ permalink: /projects/data-boards-of-directors
 
 **Assistants:** Virla Liberona and Matías Carrillo
 
-![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg)
+![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/ceo_dalle.png){: style="width: 300px; float: right; border: 10px"}
 
@@ -29,4 +29,4 @@ permalink: /projects/data-boards-of-directors
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
-<small>Last updated: March 3, 2023.</small>
+<small>Last updated: March 18, 2023.</small>
