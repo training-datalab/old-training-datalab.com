@@ -31,4 +31,5 @@ permalink: /projects/twitter-tracker-chilean-referendum
 - González-Bustamante, B. (2023). Twitter Online Tracker of the Chilean Referendum for a New Constitution (Version 2.0.1 – Purple Silence) [Computer software]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/73NDB" target="_blank">10.17605/OSF.IO/73NDB</a>.
 
 <br />
+<small>Figure by González-Bustamante (2023).</small><br />
 <small>Last updated: March 18, 2023.</small>
