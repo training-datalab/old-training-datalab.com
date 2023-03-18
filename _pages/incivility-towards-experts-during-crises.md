@@ -26,6 +26,14 @@ permalink: /projects/incivility-towards-experts-during-crises
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
+## Resources
+
+- <a href="https://doi.org/10.17605/OSF.IO/FS4TQ" target="_blank">OSF-Project</a>.
+
+### How to cite this project?
+
+- Cisternas, C., & González-Bustamante, B. (2023). Incivility Towards Experts During Crises [Open Science Framework Project]. Leiden University, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/FS4TQ" target="_blank">10.17605/OSF.IO/FS4TQ</a>.
+
 <br />
 <small>Artwork by DALL·E inspired by Matisse.</small><br />
 <small>Last updated: March 18, 2023.</small>
