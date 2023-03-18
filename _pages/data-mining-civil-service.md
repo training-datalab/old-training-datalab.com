@@ -33,4 +33,5 @@ permalink: /projects/chilean-civil-service
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
+<small>Diagram by González-Bustamante, Astete and Orvenes (2020).</small><br />
 <small>Last updated: August 23, 2021.</small>
