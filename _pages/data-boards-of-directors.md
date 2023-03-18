@@ -27,6 +27,14 @@ permalink: /projects/data-boards-of-directors
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![33%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/33.svg) |
 
+## Resources
+
+- <a href="https://doi.org/10.17605/OSF.IO/EMH9C" target="_blank">OSF-Project</a>.
+
+### How to cite this project?
+
+- González-Bustamante, B., & Cisternas, C. (2023). Chilean Boards of Directors (2001-2022) [Open Science Framework Project]. University of Oxford, Leiden University, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/EMH9C" target="_blank">10.17605/OSF.IO/FS4TQ</a>.
+
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
 <small>Last updated: March 18, 2023.</small>
