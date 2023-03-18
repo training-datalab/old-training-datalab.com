@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/svg/training-data-lab.svg" alt="Training Data Lab" height="50%" width="50%" />
+
 <p align="justify">This research group focuses on data science applications in social sciences in three interconnected areas: data mining, econometric modelling and machine learning. On the one hand, we pursue gathering data with mining techniques in order to elaborate econometric models with observational or matching techniques.</p>
 
 <p align="justify">On the other hand, we focus on training models with both machine and deep learning and labelling data sets for different projects. The latter allows us to classify non-coded data using trained models backed by human validation workflow, which improves the AI learning processes.</p>
