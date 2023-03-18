@@ -35,5 +35,9 @@ permalink: /projects/cps-ranking-spanish
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.
 
+## ¿Cómo citar este proyecto?
+
+- González-Bustamante, B. (2023). Chilean Political Science Impact Ranking (Version 3.13.18 -- Silent Thunder) [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">10.17605/OSF.IO/C8PRA</a>.
+
 <br />
-<small>Última actualización: 3 de marzo de 2023.</small>
+<small>Última actualización: 18 de marzo de 2023.</small>
