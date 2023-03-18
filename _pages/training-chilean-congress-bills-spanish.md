@@ -40,4 +40,5 @@ permalink: /projects/chilean-congress-bills-spanish
 
 <br />
 <small>Arte por DALL·E en un estilo impresionista.</small><br />
+<small>Diagrama por Cisternas, González-Bustamante, Morillo y Aguilar (2023).</small><br />
 <small>Última actualización: 18 de marzo de 2023.</small>
