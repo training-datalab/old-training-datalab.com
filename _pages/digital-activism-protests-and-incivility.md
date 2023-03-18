@@ -22,8 +22,8 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 ### Data Gathering
 
-|---|---|---|---|---|
-| #ChileDesperto | Oct 2019 | Jan 2020 | CHL | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+|---|---|---|---|---|---|---|---|---|
+| #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jan 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 
 ### Algorithms Application
 
