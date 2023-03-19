@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/digital-activism-protests-and-incivility
 ---
 
-# Digital Activism, Protests and Incivility
+# Digital Activism, Protests and Incivility in Latin America
 
 **Researcher:** Bastián González-Bustamante
 
@@ -30,7 +30,7 @@ permalink: /projects/digital-activism-protests-and-incivility
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 420 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 351 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileViolatesHumanRights | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 323 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileQuiereCambios | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 197 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileQuiereCambios | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 197 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![25%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/25.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EvasionMasivaTodoElDia | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 156 300 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileNoSeRinde | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 133 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EstoNoHaTerminado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 107 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
@@ -52,4 +52,4 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
-<small>Last updated: March 18, 2023.</small>
+<small>Last updated: March 19, 2023.</small>
