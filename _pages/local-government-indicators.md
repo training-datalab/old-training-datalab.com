@@ -34,6 +34,7 @@ permalink: /projects/local-government-indicators
 
 ## Resources
 
+- <a href="https://doi.org/10.31235/osf.io/gt8a5" target="_blank">SocArXiv preprint</a>.
 - <a href="https://doi.org/10.17605/OSF.IO/32WSK" target="_blank">OSF-Project</a>.
 - <a href="https://github.com/bgonzalezbustamante/local-gov-indicators" target="_blank">GitHub repository</a>.
 - <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Zenodo repository</a>.
@@ -46,4 +47,4 @@ permalink: /projects/local-government-indicators
 
 <br />
 <small>Figure by González-Bustamante and Aguilar (2022).</small><br />
-<small>Last updated: March 18, 2023.</small>
+<small>Last updated: March 19, 2023.</small>
