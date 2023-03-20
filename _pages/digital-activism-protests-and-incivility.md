@@ -30,11 +30,14 @@ permalink: /projects/digital-activism-protests-and-incivility
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 420 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 351 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileViolatesHumanRights | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 323 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileQuiereCambios | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 197 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![25%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/25.svg) |
-| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EvasionMasivaTodoElDia | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 156 300 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
-| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileNoSeRinde | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 133 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileQuiereCambios | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 197 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EvasionMasivaTodoElDia | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 156 300 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileNoSeRinde | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 133 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EstoNoHaTerminado | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 107 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| PER | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #LutoNacional | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Nov. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 137 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| PER | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #NiUnaMenos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Nov. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 93 100 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | PER | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #MarchaNacional | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Nov. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 59 200 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| PER | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #GoleDeEstadoEnPeru | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Nov. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 50 000 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 
 ### Algorithms Application
 
@@ -52,4 +55,4 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
-<small>Last updated: March 19, 2023.</small>
+<small>Last updated: March 20, 2023.</small>
