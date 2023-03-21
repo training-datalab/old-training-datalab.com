@@ -26,6 +26,12 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 | Country | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hashtag | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Date | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Est. N | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progress |
 |---|---|---|---|---|---|---|---|---|
+| ARG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #17AJuntosContraLaImpunidad | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Aug. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 210 100 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| ARG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #YoNoMarcho | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Aug. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 125 900 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| ARG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #26ATodosAlCongreso | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Aug. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 89 600 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| ARG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #1AYoVoy | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Aug. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 80 200 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| ARG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #QueSeVayanTodos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Aug. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 55 200 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| ARG | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #GobiernoDePayasos | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Aug. 2020 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 55 000 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EstoPasaEnChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 966 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ChileDesperto | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 420 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #LaMarchaMasGrandeDeChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 351 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
@@ -55,4 +61,4 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
-<small>Last updated: March 20, 2023.</small>
+<small>Last updated: March 21, 2023.</small>
