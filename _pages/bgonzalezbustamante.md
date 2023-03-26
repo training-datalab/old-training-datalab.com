@@ -18,7 +18,7 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
-- González-Bustamante, B., & Aguilar, D. (2023, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/gt8a5" target="_blank">Territorial patterns of open e-government: Evidence from Chilean municipalities</a>. *Political Research Exchange*.
+- González-Bustamante, B., & Aguilar, D. (2023, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/gt8a5" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange*.
 
 - González-Bustamante, B. (2022). <a href="https://doi.org/10.1177/13691481221124850" target="_blank">Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile</a>. *The British Journal of Politics and International Relations*. OnlineFirst.
 
