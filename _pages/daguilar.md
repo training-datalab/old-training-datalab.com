@@ -16,7 +16,7 @@ permalink: /team/daguilar/
 
 ## Featured Articles
 
-- González-Bustamante, B., & Aguilar, D. (2023, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/gt8a5" target="_blank">Territorial patterns of open e-government: Evidence from Chilean municipalities</a>. *Political Research Exchange*.
+- González-Bustamante, B., & Aguilar, D. (2023, *forthcoming*). <a href="https://doi.org/10.31235/osf.io/gt8a5" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange*.
 
 - Aguilar, D. (2020). <a href="https://www.uchile.cl/noticias/157441/graduado-del-mcp-recibe-premio-por-ensayo-sobre-politica-exterior" target="_blank">La responsabilidad de cooperar de Chile: el caso de los Comité de Integración</a>. *Cuaderno de Estudios Internacionales*, 1, 26-51.
 
