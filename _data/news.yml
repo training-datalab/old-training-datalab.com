@@ -1,3 +1,11 @@
+- date: April 8, 2023
+  headline: "Follow our Twitter account managed by ChatGPT"
+  newslink: <a href="https://twitter.com/tDataLab" target="_blank">[see]</a>
+
+- date: March 29, 2023
+  headline: "Check out our researchers' publication in PRX"
+  newslink: <a href="https://doi.org/10.1080/2474736X.2023.2194369" target="_blank">[see]</a>
+
 - date: March 18, 2023
   headline: "Digital activism and protests project"
   newslink: <a href="/projects/digital-activism-protests-and-incivility">[see]</a>
@@ -9,11 +17,3 @@
 - date: November 18, 2022
   headline: "Second Data Lab Workshop"
   newslink:
-
-- date: November 10, 2022
-  headline: "Local government indicators repository"
-  newslink: <a href="/projects/local-government-indicators">[see]</a>
-
-- date: October 16, 2022
-  headline: "Check out our coordinator's publication in the BJPIR"
-  newslink: <a href="https://doi.org/10.1177/13691481221124850" target="_blank">[see]</a>
