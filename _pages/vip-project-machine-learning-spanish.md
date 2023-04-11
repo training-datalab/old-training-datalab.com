@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Proyecto VIP: Aplicaciones de Machine Learning en políticas públicas y economía"
 layout: textlay
-excerpt: "royecto VIP: Aplicaciones de Machine Learning en políticas públicas y economía"
+excerpt: "Training Data Lab - Proyecto VIP: Aplicaciones de Machine Learning en políticas públicas y economía"
 sitemap: false
 permalink: /projects/vip-project-machine-learning-spanish
 ---
