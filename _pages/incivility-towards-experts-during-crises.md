@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Incivility Towards Experts During Crises"
 layout: textlay
-excerpt: "Incivility Towards Experts During Crises"
+excerpt: "Training Data Lab - Incivility Towards Experts During Crises"
 sitemap: false
 permalink: /projects/incivility-towards-experts-during-crises
 ---
