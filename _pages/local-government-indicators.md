@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Local Government Indicators Repository"
 layout: textlay
-excerpt: "Local Government Indicators Repository"
+excerpt: "Training Data Lab - Local Government Indicators Repository"
 sitemap: false
 permalink: /projects/local-government-indicators
 ---
