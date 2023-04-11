@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Entrenamiento de datos sobre los proyectos de ley del Congreso chileno"
 layout: textlay
-excerpt: "Entrenamiento de datos sobre los proyectos de ley del Congreso chileno"
+excerpt: "Training Data Lab - Entrenamiento de datos sobre los proyectos de ley del Congreso chileno"
 sitemap: false
 permalink: /projects/chilean-congress-bills-spanish
 ---
