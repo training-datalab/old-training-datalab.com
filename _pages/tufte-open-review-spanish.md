@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Open Review Tufte Working Papers"
+title: "Training Data Lab - Revisión abierta Tufte Working Papers"
 layout: gridlay
-excerpt: "Training Data Lab - Open Review Tufte Working Papers"
+excerpt: "Training Data Lab - Revisión abierta Tufte Working Papers"
 sitemap: false
 permalink: /tufte-working-papers/open-review-spanish/
 ---
