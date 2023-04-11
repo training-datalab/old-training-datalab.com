@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Guidelines Tufte Working Papers"
+title: "Training Data Lab - Criterios de publicación Tufte Working Papers"
 layout: gridlay
-excerpt: "Training Data Lab - Guidelines Tufte Working Papers"
+excerpt: "Criterios de publicación Tufte Working Papers"
 sitemap: false
 permalink: /tufte-working-papers/guidelines-spanish/
 ---
