@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Digital Activism, Protests and Incivility in Latin America"
 layout: textlay
-excerpt: "Digital Activism, Protests and Incivility in Latin America"
+excerpt: "Training Data Lab - Digital Activism, Protests and Incivility in Latin America"
 sitemap: false
 permalink: /projects/digital-activism-protests-and-incivility
 ---
