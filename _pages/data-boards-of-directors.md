@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Data Collection on Boards of Directors (2001-2022)"
 layout: textlay
-excerpt: "Data Collection on Boards of Directors (2001-2022)"
+excerpt: "Training Data Lab - Data Collection on Boards of Directors (2001-2022)"
 sitemap: false
 permalink: /projects/data-boards-of-directors
 ---
