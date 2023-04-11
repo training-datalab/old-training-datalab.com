@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Toxicity in Audiences-Journalistic Interactions in Crises"
 layout: textlay
-excerpt: "Toxicity in Audiences-Journalistic Interactions in Crises"
+excerpt: "Training Data Lab - Toxicity in Audiences-Journalistic Interactions in Crises"
 sitemap: false
 permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 ---
