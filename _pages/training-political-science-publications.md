@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Political Science Publications"
+title: "Training Data Lab - Training Data on Political Science Publications"
 layout: textlay
-excerpt: "Training Data on Political Science Publications"
+excerpt: "Training Data Lab - Training Data on Political Science Publications"
 sitemap: false
 permalink: /projects/political-science-publications
 ---
