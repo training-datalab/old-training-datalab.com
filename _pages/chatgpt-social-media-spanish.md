@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/chatgpt-social-media-spanish
 ---
 
-# Colaboración con ChatGPT Collaboration para impulsar nuestra presencia en los medios sociales
+# Colaboración con ChatGPT para impulsar nuestra presencia en los medios sociales
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/chatgpt-social-media) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/chatgpt-social-media-spanish)
 
