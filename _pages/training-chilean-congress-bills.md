@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Chilean Congress Bills"
+title: "Training Data Lab - Training Data on Chilean Congress Bills"
 layout: textlay
-excerpt: "Training Data on Chilean Congress Bills"
+excerpt: "Training Data Lab - Training Data on Chilean Congress Bills"
 sitemap: false
 permalink: /projects/chilean-congress-bills
 ---
