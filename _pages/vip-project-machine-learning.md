@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - VIP Project: Machine Learning Applications in Public Policy and Economics"
 layout: textlay
-excerpt: "VIP Project: Machine Learning Applications in Public Policy and Economics"
+excerpt: "Training Data Lab - VIP Project: Machine Learning Applications in Public Policy and Economics"
 sitemap: false
 permalink: /projects/vip-project-machine-learning
 ---
