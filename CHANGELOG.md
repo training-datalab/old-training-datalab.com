@@ -3,7 +3,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.11.6] - TBC
+## [2.12.6] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
@@ -12,6 +12,12 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Regularisation demonstration (TBC).
 
 ## [Released]
+
+## [2.11.6] - 2023-04-11
+### Added
+- ChatGPT social media project.
+### Changed
+- Minor corrections.
 
 ## [2.10.6] - 2023-03-18
 ### Added
