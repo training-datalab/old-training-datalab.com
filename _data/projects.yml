@@ -1,3 +1,13 @@
+- title: "Collaborating With ChatGPT to Boost Our Social Media Presence"
+  image: mondrian_twitter.png
+  description: We are committed to sharing our research and insights with a broader audience, and social media is an important part of that effort. Therefore, we are collaborating with ChatGPT, a large language model trained by OpenAI, to help us create high-quality content for our social media channels.
+  authors: ChatGPT
+  link:
+    url: https://training-datalab.com/projects/chatgpt-social-media
+    display: See Project
+  highlight: 1
+  news2:
+
 - title: "Toxicity in Audiences-Journalistic Interactions in Crises"
   image: twmedia.png
   description: We are analysing the online interactions between audiences and media in the context of journalist practices during the mass protests in Chile in the second half of 2019. The relevance of these mass protests is associated with the opportunity window to draft a New Constitution.
