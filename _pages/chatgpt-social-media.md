@@ -1,14 +1,14 @@
 ---
 title: "Training Data Lab - Collaborating With ChatGPT to Boost Our Social Media Presence"
 layout: textlay
-excerpt: "Collaborating With ChatGPT to Boost Our Social Media Presence"
+excerpt: "Training Data Lab - Collaborating With ChatGPT to Boost Our Social Media Presence"
 sitemap: false
 permalink: /projects/chatgpt-social-media
 ---
 
 # Collaborating With ChatGPT to Boost Our Social Media Presence
 
-![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg)
+![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/chatgpt-social-media) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/chatgpt-social-media-spanish)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/mondrian_twitter_dalle.png){: style="width: 300px; float: right; border: 10px"}
 
@@ -22,9 +22,9 @@ permalink: /projects/chatgpt-social-media
 
 <p align="justify">Sharing our <a href="https://training-datalab.com/projects/">research projects</a> is another important part of our social media strategy. We believe that our research has the potential to make a real impact in the field of data science and social sciences, and we want to share our findings with as many people as possible. By collaborating with ChatGPT, we can create engaging content that explains our projects in a clear and accessible way, helping us reach a wider audience.</p>
 
-<p align="justify">Finally, we are using our social media channels to promote our publications, including articles, book chapters, and other resources. By sharing information about our publications on social media, we can increase their visibility and reach, helping us to connect with other researchers, practitioners, and stakeholders in our field. We also hope to share publications of related researchers and external collaborators.</p>
+<p align="justify">Finally, we are using our social media channels to promote our publications, including articles, book chapters, and other resources such as our <a href="https://training-datalab.com/tufte-working-papers/">working papers</a>. By sharing information about our publications on social media, we can increase their visibility and reach, helping us to connect with other researchers, practitioners, and stakeholders in our field. We also hope to share publications of related researchers and external collaborators.</p>
 
-<p align="justify">Of course, we understand that there are some limitations to using AI tools like ChatGPT. While ChatGPT is able to generate human-like text, there may be occasional errors or inaccuracies in the content it creates. That is why we ask our followers to contact us if they notice any issues with our social media content. We value feedback from our followers and are committed to ensuring that our social media content is accurate, engaging, and aligned with our values.</p>
+<p align="justify">Of course, we understand that there are some limitations to using AI tools like ChatGPT. While ChatGPT is able to generate human-like text, there may be occasional errors or inaccuracies in the content it creates. That is why we ask our followers to contact us if they notice any issues with our social media content (<a href="mailto:contact@training-datalab.com">contact@training-datalab.com</a>). We value feedback from our followers and are committed to ensuring that our social media content is accurate, engaging, and aligned with our values.</p>
 
 <p align="justify">Overall, we are excited to be working with ChatGPT to help us achieve our social media goals. By collaborating with this powerful AI tool, we believe we can reach a wider audience, share our research with more people, and make a greater impact in our field. We hope our followers will continue to engage with us on social media and look forward to sharing more updates and insights in the coming months.</p>
 
