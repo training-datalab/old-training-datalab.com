@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Twitter Online Tracker of the Chilean Referendum"
 layout: textlay
-excerpt: "Twitter Online Tracker of the Chilean Referendum"
+excerpt: "Training Data Lab - Twitter Online Tracker of the Chilean Referendum"
 sitemap: false
 permalink: /projects/twitter-tracker-chilean-referendum
 ---
