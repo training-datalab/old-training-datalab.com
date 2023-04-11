@@ -1,7 +1,7 @@
 ---
 title: "Training Data Lab - Vibrant Ink Flavoured Theme"
 layout: textlay
-excerpt: "Vibrant Ink Flavoured Theme"
+excerpt: "Training Data Lab - Vibrant Ink Flavoured Theme"
 sitemap: false
 permalink: /projects/vibrant-ink-flavoured-theme
 ---
