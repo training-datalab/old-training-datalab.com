@@ -54,7 +54,7 @@ permalink: /projects/vip-project-machine-learning
 - Fundamental elements of methodology.
 - Data coding and labelling.
 - Fundamentals of R.
-- Descriptive statistics in R.</li>
+- Descriptive statistics in R.
 - Data coding evaluation.
 - Linear models in R.
 - Logistic models in R.
