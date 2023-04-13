@@ -12,9 +12,9 @@ permalink: /team/mapelayo/
 
 <p align=" justify">I am a lawyer from the <a href="https://derecho.uchile.cl/" target="_blank">Universidad de Chile</a> (2:1) and hold a Master of Public Policy (MPP) from the <a href="https://www.bsg.ox.ac.uk/" target="_blank">University of Oxford</a>, United Kingdom. I was awarded the <a href="https://luksicscholars.org/en/" target="_blank">Luksic Scholars Foundation Scholarship</a> to pursue my MPP at Oxford. In addition, I have a diploma in administrative law from the Pontificia Universidad Católica in Chile and in economic regulation from the Universidad Adolfo Ibáñez.</p>
 
-Throughout my professional career, I have worked in the private sector as a lawyer in matters of competition and economic regulation in areas such as transportation, telecommunications and energy. In the public sector, I worked as a Senior Cabinet Advisor and Acting Chief of Staff for the Minister of Labor and Social Security (2018-2021). Internationally, I represented Chile in the ILO and G20, worked as a consultant in Spain for the Ibero-American Social Security Organization, and am currently working on public policy in the pensions sector in the United Kingdom.
+<p align=" justify">Throughout my professional career, I have worked in the private sector as a lawyer in matters of competition and economic regulation in areas such as transportation, telecommunications and energy. In the public sector, I worked as a Senior Cabinet Advisor and Acting Chief of Staff for the Minister of Labor and Social Security (2018-2021). Internationally, I represented Chile in the ILO and G20, worked as a consultant in Spain for the Ibero-American Social Security Organization, and am currently working on public policy in the pensions sector in the United Kingdom.</p>
 
-In academic terms, I have been a teaching assistant in public and private law at the Universidad de Chile, authored comments on Civil jurisprudence with the DER Editorial in Chile, and served as an expert commentator in Chilean media on economic regulation topics.
+<p align=" justify">In academic terms, I have been a teaching assistant in public and private law at the Universidad de Chile, authored comments on Civil jurisprudence with the DER Editorial in Chile, and served as an expert commentator in Chilean media on economic regulation topics.</p>
 
 ### Contact Information
 
