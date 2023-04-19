@@ -10,8 +10,10 @@ permalink: /resources/
 
 - <a href="https://training-datalab.slack.com/" target="_blank">#Slack workspace</a>
 - <a href="https://github.com/training-datalab" target="_blank">GitHub repositories</a>
-- <a href="https://forms.gle/1md52fqwZWccy6Jw5" target="_blank">Prompts form for social media content generated with GPT-4</a>
 - <a href="https://zenodo.org/communities/tdl/" target="_blank">Zenodo collection</a>
+- ChatGPT to Boost Our Social Media Presence
+  - <a href="https://training-datalab.com/projects/chatgpt-social-media">Details of the strategy</a>
+  - <a href="https://forms.gle/1md52fqwZWccy6Jw5" target="_blank">Prompts forms GPT-4</a>
 - <a href="https://training-datalab.com/tufte-working-papers/">Tufte Working Papers</a>
   - Produced in <a href="https://github.com/training-datalab/tufte-latex" target="_blank">Tufte-LaTeX</a> on our <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">GitHub repository</a>
   - Indexed in <a href="https://www.latindex.org/latindex/ficha/27178" target="_blank">Latindex</a>
