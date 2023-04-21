@@ -22,7 +22,7 @@ permalink: /team/aolivares/
 
 - Olivares, A., Carrasco, C., & Tricot, V. (2022). <a href="https://doi.org/10.5102/rbpp.v12i3.8637" target="_blank">The student movement 2011 and free education policy in Chile (2017)</a>. *Revista Brasileira de Políticas Públicas, 12*(3), 255-273.
 
-- Rozas, J., Maillet, A., & Olivares, A. (2022). <a href="http://www.economiaypolitica.cl/index.php/eyp/article/view/188" target="_blank">Entre la independencia y la militancia: Análisis de la vinculación partidaria de los y las convencionales constituyentes de Chile</a>. *Revista Economía y Política, 9*(2), 67-100.
+- Rozas-Bugueño, J., Maillet, A., & Olivares, A. (2022). <a href="http://www.economiaypolitica.cl/index.php/eyp/article/view/188" target="_blank">Entre la independencia y la militancia: Análisis de la vinculación partidaria de los y las convencionales constituyentes de Chile</a>. *Revista Economía y Política, 9*(2), 67-100.
 
 - Olivares, A., & Medina, P. (2020). <a href="http://dx.doi.org/10.4067/S0718-090X2020005000110" target="_blank">La persistente debilidad institucional de Ecuador: Protestas, elecciones y divisiones políticas durante el 2019</a>. *Revista de Ciencia Política, 40*(2), 315–349.
 
