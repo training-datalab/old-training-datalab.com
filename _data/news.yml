@@ -1,3 +1,7 @@
+- date: April 21, 2023
+  headline: "Browse our NFTs collection"
+  newslink: <a href="https://opensea.io/collection/tdatalab" target="_blank">[see]</a>
+
 - date: April 8, 2023
   headline: "Follow our Twitter account managed by ChatGPT"
   newslink: <a href="https://twitter.com/tDataLab" target="_blank">[see]</a>
@@ -13,7 +17,3 @@
 - date: March 1, 2023
   headline: "Toxicity in social media project"
   newslink: <a href="/projects/toxicity-in-audiences-journalistic-interactions-in-crises">[see]</a>
-
-- date: November 18, 2022
-  headline: "Second Data Lab Workshop"
-  newslink:
