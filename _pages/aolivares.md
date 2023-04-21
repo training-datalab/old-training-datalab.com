@@ -10,7 +10,7 @@ permalink: /team/aolivares/
 
 <img src="https://training-datalab.com/images/team/aolivares.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align=" justify">I am a Doctor of Social Sciences and hold an MA in Political Science, both from the <a href="https://www.uchile.cl/" target="_blank">Universidad de Chile</a>. I also earned a BA in Political Science from the Universidad Central de Chile.</p>
+<p align=" justify">I am a Doctor of Social Sciences and hold an MA in Political Science, both from the <a href="https://www.uchile.cl/" target="_blank">Universidad de Chile</a>. I also earned a BA in Political Science from the <a href="https://www.ucentral.cl/" target="_blank">Universidad Central de Chile</a>.</p>
 
 <p align=" justify">In addition, I am a researcher at the Fondecyt de Iniciación 11200345 on the continuity of public policies in Chile. I recently joined the Núcleo Milenio de Desigualdades y Oportunidades Digitales (NUDOS) as an early career researcher and also am an adjunct researcher at the <a href="https://ciss.umayor.cl/" target="_blank">Centre for Health and Society Research</a> at the Universidad Mayor.</p>
 
