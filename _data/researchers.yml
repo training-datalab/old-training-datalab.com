@@ -26,7 +26,7 @@
   photo: aolivares.jpg
   info: Universidad Mayor
   email: alejandro.olivares@uct.cl
-  website:
+  website:  <a href="/team/aolivares">View profile</a>
 
 - name: Carlos Palacios Peralta
   photo: cpalacios.jpg
@@ -39,4 +39,3 @@
   info: Training Data Lab
   email: miguelangel.pelayo@training-datalab.com
   website: <a href="/team/mapelayo">View profile</a>
-  
