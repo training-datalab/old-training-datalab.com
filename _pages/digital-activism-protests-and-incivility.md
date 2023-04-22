@@ -41,8 +41,8 @@ permalink: /projects/digital-activism-protests-and-incivility
 | BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #DeusBrasilBolsonaro | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 89 900 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #Dia26ReformasJa | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 76 900 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #ImpeachmentBolsonaro | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 70 500 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #BolsonaroNossoPresidente | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 69 100 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![30%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/30.svg) |
-| BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #PLN4APROVAJA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 67 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
+| BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #BolsonaroNossoPresidente | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 69 100 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
+| BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #PLN4APROVAJA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 67 400 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![30%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/30.svg) |
 | BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #VamosInvadirBrasilia | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 63 300 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | BRA | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #CancelBolsonaro | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | May 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 50,900 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![0%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/0.svg) |
 | CHL | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | #EstoPasaEnChile | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Oct. 2019 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 966 700 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
@@ -74,4 +74,4 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
-<small>Last updated: March 28, 2023.</small>
+<small>Last updated: April 22, 2023.</small>
