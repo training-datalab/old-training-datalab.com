@@ -13,7 +13,7 @@ permalink: /resources/
 - <a href="https://zenodo.org/communities/tdl/" target="_blank">Zenodo collection</a>
 - ChatGPT to Boost Our Social Media Presence
   - <a href="https://training-datalab.com/projects/chatgpt-social-media">Details of the strategy</a>
-  - <a href="https://forms.gle/1md52fqwZWccy6Jw5" target="_blank">Prompts forms GPT-4</a>
+  - <a href="https://forms.gle/1md52fqwZWccy6Jw5" target="_blank">Prompts form GPT-4</a>
 - <a href="https://opensea.io/collection/tdatalab" target="_blank">NFTs collection</a>
 - <a href="https://training-datalab.com/tufte-working-papers/">Tufte Working Papers</a>
   - Produced in <a href="https://github.com/training-datalab/tufte-latex" target="_blank">Tufte-LaTeX</a> on our <a href="https://github.com/training-datalab/tufte-working-papers" target="_blank">GitHub repository</a>
@@ -41,4 +41,4 @@ permalink: /resources/
   - Upon request by <a href="mailto:contact@training-datalab.com">email</a>
 
 <br />
-<small>Last updated: April 21, 2023.</small>
+<small>Last updated: May 4, 2023.</small>
