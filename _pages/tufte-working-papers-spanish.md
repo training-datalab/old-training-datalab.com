@@ -18,6 +18,8 @@ permalink: /tufte-working-papers-spanish/
 
 ## Números
 
+- González-Bustamante, B. (2024, *próximamente*). Cinco años del ranking chileno de ciencia política: Explorando la producción científica y el impacto de la disciplina.  *Tufte Working Papers*, 5.
+
 - Cisternas, C., González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *próximamente*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
 
 - Cuevas, R. (2022). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3. OnlineFirst. SocArXiv: <a href="https://doi.org/10.31235/osf.io/y4fxw" target="_blank">10.31235/osf.io/y4fxw</a>.
@@ -32,4 +34,4 @@ permalink: /tufte-working-papers-spanish/
 </figure>
 
 <br />
-<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF/SocArXiv, es de 1.837 hasta abril de 2023.</small>
+<small>El uso del texto completo, que es la suma de visualizaciones y descargas de Zenodo y OSF/SocArXiv, es de 1.892 hasta mayo de 2023.</small>
