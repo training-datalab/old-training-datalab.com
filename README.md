@@ -2,7 +2,7 @@
 **Training Data Lab**\
 **https://training-datalab.com**
 
-[![Version](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/versions/v_2_11_6.svg)](/CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/licenses/mit.svg)](LICENSE) [![Jekyll](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/software/jekyll.svg)](https://jekyllrb.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/training-datalab.com/master/badges/tDL.svg)](https://training-datalab.com/)
+[![Version](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/versions/v_2_11_7.svg)](/CHANGELOG.md) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](STATUS.md) [![License](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/licenses/mit.svg)](LICENSE) [![Jekyll](https://raw.githubusercontent.com/training-datalab/training-datalab.com/main/badges/software/jekyll.svg)](https://jekyllrb.com/) [![tDL](https://raw.githubusercontent.com/training-datalab/training-datalab.com/master/badges/tDL.svg)](https://training-datalab.com/)
 
 ## Links
 
