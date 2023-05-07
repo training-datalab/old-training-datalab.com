@@ -3,7 +3,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.12.6] - TBC
+## [2.12.7] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
@@ -12,6 +12,10 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Regularisation demonstration (TBC).
 
 ## [Released]
+
+## [2.11.7] - 2023-05-07
+### Changed
+- Minor corrections.
 
 ## [2.11.6] - 2023-04-11
 ### Added
