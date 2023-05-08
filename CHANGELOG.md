@@ -3,13 +3,19 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [2.12.7] - TBC
+## [2.13.7] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
 - QM-Elites demonstration (TBC).
 - Time-dependent data demonstration (TBC).
 - Regularisation demonstration (TBC).
+### Changed
+- Oblique strategies project.
+
+## [2.12.7] - 2023-05-08
+### Added
+- Oblique strategies project.
 
 ## [Released]
 
