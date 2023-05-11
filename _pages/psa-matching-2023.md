@@ -20,12 +20,12 @@ permalink: /workshops/psa-matching-2023
 
 ## Materiales
 
-- Presentación en Beamer-LaTeX en GitHub.
+- Presentación en <a href="https://github.com/bgonzalezbustamante/Public-Presentations/blob/main/2023/Beamer-PSA-Workshop-2023.pdf" target="_blank">Beamer-LaTeX</a> en GitHub.
 - Artículo principal para el taller publicado en <a href="https://doi.org/10.7770/rchdcp-V13N2-art2907" target="_blank">RChDyCP</a>.
-- Artículo complementario para el taller publicado en BJPIR.
-- Demostración abreviada en Posit Cloud.
-- Repositorio del código en GitHub.
-- Deposito del código en Zenodo.
+- Artículo complementario para el taller publicado en <a href="https://doi.org/10.1177/13691481221124850" target="_blank">BJPIR</a>.
+- Demostración abreviada en <a href="https://posit.cloud/content/5958238" target="_blank">Posit Cloud</a>.
+- Repositorio del código en <a href="https://github.com/bgonzalezbustamante/quant-methods-elites" target="_blank">GitHub</a>.
+- Deposito del código en <a href="https://doi.org/10.5281/zenodo.6098061" target="_blank">Zenodo</a>.
 
 <br />
 <small>Arte por Allison Horst.</small><br />
