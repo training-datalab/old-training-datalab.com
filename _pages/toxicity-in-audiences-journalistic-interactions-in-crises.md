@@ -24,8 +24,8 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 
 |---|---|---|---|---|---|---|
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
-| 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![92%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/92.svg) |
+| 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![96%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/96.svg) |
 
 <br />
 <small>Figure by Orchard, González-Bustamante and Cisternas (2023).</small><br />
-<small>Last updated: May 20, 2023.</small>
+<small>Last updated: May 23, 2023.</small>
