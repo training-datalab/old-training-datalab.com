@@ -1,9 +1,9 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, resources (e.g., SVG badges), team members updates and Tufte Working Papers.
+All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, resources (e.g., SVG badges), team members updates, workshops pages and Tufte Working Papers.
 
 ## [Unreleased]
 
-## [2.14.7] - TBC
+## [2.15.7] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
@@ -13,6 +13,12 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Changed
 - Oblique strategies project.
 
+## [Released]
+
+## [2.14.7] - 2023-05-23
+### Added
+- Social icons.
+
 ## [2.13.7] - 2023-05-11
 ### Added
 - Automated workshops pages.
@@ -20,8 +26,6 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [2.12.7] - 2023-05-08
 ### Added
 - Oblique strategies project.
-
-## [Released]
 
 ## [2.11.7] - 2023-05-07
 ### Changed
