@@ -62,4 +62,5 @@ ORCID iD: <a href="https://orcid.org/0000-0001-6934-2437" target="_blank">https:
 <!-- Personal website: <a href="" target="_blank"></a><br /> -->
 <!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
+<small>44% of works as first author, 13% as sole author.</small><br />
 <small>Last updated: May 31, 2023.</small>
