@@ -18,6 +18,8 @@ permalink: /team/aolivares/
 
 ## Featured Articles
 
+- Albala, A., Clerici, P., & Olivares, A. (2023). <a href="https://doi.org/10.1111/gove.12803" target="_blank">Determinants of the cabinet size in presidential systems</a>. *Governance*. Early View.
+
 - Martínez, C. A., & Olivares, A. (2022). <a href="https://doi.org/10.4067/s0718-090x2022005000119" target="_blank">Chile 2021: Entre un intenso calendario electoral y la acusación constitucional en contra de Sebastián Piñera</a>. *Revista de Ciencia Política, 42*(2), 225–253.
 
 - Olivares, A., Martínez, C. A., Arellano, J. C., Carrasco, S., Campos, M., Medina, P., & Lopes, A. V. (2022). <a href="https://doi.org/10.18441/ibam.22.2022.79.211-242" target="_blank">Presidencialismo en América Latina. Algunas consideraciones para el debate</a>. *Iberoamericana. América Latina - España - Portugal, XXII*(79), 211-242.
@@ -60,4 +62,4 @@ ORCID iD: <a href="https://orcid.org/0000-0001-6934-2437" target="_blank">https:
 <!-- Personal website: <a href="" target="_blank"></a><br /> -->
 <!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
-<small>Last updated: April 21, 2023.</small>
+<small>Last updated: May 31, 2023.</small>
