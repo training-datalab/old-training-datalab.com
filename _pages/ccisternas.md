@@ -18,27 +18,27 @@ I am interested in technocracy in Latin America, public policies and legislative
 
 ## Featured Articles
 
-- Cisternas, C., & González-Bustamante, B. (2022). <a href="https://doi.org/10.15517/eci.v12i2.50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
+- **Cisternas, C.**, & González-Bustamante, B. (2022). <a href="https://doi.org/10.15517/eci.v12i2.50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
 
-- Castañeda, F., Ormazabal, F., & Cisternas, C. (2022). <a href="https://doi.org/10.2478/sbe-2022-0024" target="_blank">Socio-Demographic Determinants of Financial Literacy Levels)</a>. *Studies in Business and Economics Journal, 17*(2), 44-61.
+- Castañeda, F., Ormazabal, F., & **Cisternas, C.** (2022). <a href="https://doi.org/10.2478/sbe-2022-0024" target="_blank">Socio-Demographic Determinants of Financial Literacy Levels)</a>. *Studies in Business and Economics Journal, 17*(2), 44-61.
 
-- Cisternas, C. (2021). <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank">Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018</a>. *Revista de Estudios Políticos*, 194, 249-279.
+- **Cisternas, C.** (2021). <a href="https://doi.org/10.18042/cepc/rep.194.09" target="_blank">Estrategias de copatrocinio legislativo en la Cámara de Diputados de Chile, 2010-2018</a>. *Revista de Estudios Políticos*, 194, 249-279.
 
-- Barría, D., González-Bustamante, B., & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
+- Barría, D., González-Bustamante, B., & **Cisternas, C.** (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
 
-- Cisternas, C., & Vásquez, J. (2018). <a href="https://doi.org/10.32992/erlacs.10349" target="_blank">Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile.</a> *European Review of Latin American and Caribbean Studies*, 106, 1-22.
+- **Cisternas, C.**, & Vásquez, J. (2018). <a href="https://doi.org/10.32992/erlacs.10349" target="_blank">Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile.</a> *European Review of Latin American and Caribbean Studies*, 106, 1-22.
 
 ## Other Publications
 
-- Cisternas, C., González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+- **Cisternas, C.**, González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
 
-- González-Bustamante, B., & Cisternas, C. (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
+- González-Bustamante, B., & **Cisternas, C.** (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
 
-- González-Bustamante, B., & Cisternas, C. (2016). <a href="https://revistapolitica.uchile.cl/index.php/RP/article/view/42691" target="_blank">Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014)</a>. *Política, Revista de Ciencia Política, 54*(1), 19-52.
+- González-Bustamante, B., & **Cisternas, C.** (2016). <a href="https://revistapolitica.uchile.cl/index.php/RP/article/view/42691" target="_blank">Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014)</a>. *Política, Revista de Ciencia Política, 54*(1), 19-52.
 
-- Castañeda F., Brown, E., Cloke, J., Gil, F. J., González, M., & Cisternas, C. (2020). <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank">Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom</a>. *CIRIEC Working Papers*, 9, 1-30.
+- Castañeda F., Brown, E., Cloke, J., Gil, F. J., González, M., & **Cisternas, C.** (2020). <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank">Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom</a>. *CIRIEC Working Papers*, 9, 1-30.
 
-- Cisternas, C. (2016). Reseña Espinoza, F. (2015). <a href="https://doi.org/10.22370/rgp.2016.5.1.2229" target="_blank">Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País</a>. *Revista de Gestión Pública, V*(1), 143-152
+- **Cisternas, C.** (2016). Reseña Espinoza, F. (2015). <a href="https://doi.org/10.22370/rgp.2016.5.1.2229" target="_blank">Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País</a>. *Revista de Gestión Pública, V*(1), 143-152
 
 ### Contact Information
 
