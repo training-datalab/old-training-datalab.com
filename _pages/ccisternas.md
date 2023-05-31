@@ -49,4 +49,5 @@ Personal website: <a href="https://carlacisternas.com/" target="_blank">https://
 Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch" target="_blank">https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch</a><br />
 <br />
 <small>Picture by Luciana Solar.</small><br />
+<small>50% of works as first author, 20% as sole author.</small><br />
 <small>Last updated: March 18, 2023.</small>
