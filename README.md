@@ -8,7 +8,7 @@
 
 - [Team](https://training-datalab.com/team/)
 - [Projects](https://training-datalab.com/projects/)
-- [CPS-Ranking](https://training-datalab.com/cps-ranking/)
+- [CPS-Ranking](https://training-datalab.com/projects/cps-ranking/)
 - [Tufte Working Papers](https://training-datalab.com/tufte-working-papers/)
 - [Resources for our team](https://training-datalab.com/resources/)
 - [Zenodo collection](https://zenodo.org/communities/tdl)
