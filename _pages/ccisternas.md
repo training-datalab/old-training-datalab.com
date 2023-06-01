@@ -28,6 +28,10 @@ I am interested in technocracy in Latin America, public policies and legislative
 
 - **Cisternas, C.**, & Vásquez, J. (2018). <a href="https://doi.org/10.32992/erlacs.10349" target="_blank">Comisiones Asesoras Presidenciales: Entre la expertise y la pluralidad de actores sociales en Chile.</a> *European Review of Latin American and Caribbean Studies*, 106, 1-22.
 
+## Data Collection Project
+
+- González-Bustamante, B., Olivares, A., **Cisternas, C.**, & Cuevas, R. (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+
 ## Other Publications
 
 - **Cisternas, C.**, González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
@@ -49,5 +53,5 @@ Personal website: <a href="https://carlacisternas.com/" target="_blank">https://
 Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch" target="_blank">https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch</a><br />
 <br />
 <small>Picture by Luciana Solar.</small><br />
-<small>50% of works as first author, 20% as sole author.</small><br />
-<small>Last updated: March 18, 2023.</small>
+<small>45% of works as first author, 18% as sole author.</small><br />
+<small>Last updated: June 1, 2023.</small>
