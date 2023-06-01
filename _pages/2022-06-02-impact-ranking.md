@@ -183,7 +183,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">17</td>
     <td class="tg-buh4">Álvaro Ramírez-Alujas</td>
-    <td class="tg-buh4">wk\_RO-sAAAAJ</td>
+    <td class="tg-buh4">wk_RO-sAAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
     <td class="tg-dzk6">1,580</td>
     <td class="tg-dzk6">21</td>
@@ -201,7 +201,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">19</td>
     <td class="tg-buh4">Carlos Meléndez</td>
-    <td class="tg-buh4">JD\_X4KYAAAAJ</td>
+    <td class="tg-buh4">JD_X4KYAAAAJ</td>
     <td class="tg-buh4">UDP</td>
     <td class="tg-dzk6">1,475</td>
     <td class="tg-dzk6">19</td>
@@ -228,7 +228,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-baqh">22</td>
     <td class="tg-0lax">Javier Couso</td>
-    <td class="tg-0lax">r0EzJ\_IAAAAJ</td>
+    <td class="tg-0lax">r0EzJ_IAAAAJ</td>
     <td class="tg-0lax">UDP</td>
     <td class="tg-baqh">1,457</td>
     <td class="tg-baqh">16</td>
@@ -453,7 +453,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">47</td>
     <td class="tg-buh4">Olga Espinoza M.</td>
-    <td class="tg-buh4">\_aEt164AAAAJ</td>
+    <td class="tg-buh4">_aEt164AAAAJ</td>
     <td class="tg-buh4">UCHILE</td>
     <td class="tg-dzk6">553</td>
     <td class="tg-dzk6">11</td>
@@ -813,7 +813,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">87</td>
     <td class="tg-buh4">Jeanne W. Simon</td>
-    <td class="tg-buh4">\_mHLvikAAAAJ</td>
+    <td class="tg-buh4">_mHLvikAAAAJ</td>
     <td class="tg-buh4">UDEC</td>
     <td class="tg-dzk6">235</td>
     <td class="tg-dzk6">7</td>
@@ -822,7 +822,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-baqh">88</td>
     <td class="tg-0lax">Rodrigo Osorio</td>
-    <td class="tg-0lax">3zePL\_gAAAAJ</td>
+    <td class="tg-0lax">3zePL_gAAAAJ</td>
     <td class="tg-0lax">UDP</td>
     <td class="tg-baqh">210</td>
     <td class="tg-baqh">7</td>
@@ -930,7 +930,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-baqh">100</td>
     <td class="tg-0lax">Roberto Mardones</td>
-    <td class="tg-0lax">99rI\_qsAAAAJ</td>
+    <td class="tg-0lax">99rI_qsAAAAJ</td>
     <td class="tg-0lax">UBB</td>
     <td class="tg-baqh">101</td>
     <td class="tg-baqh">6</td>
@@ -1092,7 +1092,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-baqh">118</td>
     <td class="tg-0lax">Anthony A. Pezzola</td>
-    <td class="tg-0lax">U\_YqfqAAAAAJ</td>
+    <td class="tg-0lax">U_YqfqAAAAAJ</td>
     <td class="tg-0lax">WU</td>
     <td class="tg-baqh">65</td>
     <td class="tg-baqh">4</td>
@@ -1173,7 +1173,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">127</td>
     <td class="tg-buh4">Matthias Erlandsen</td>
-    <td class="tg-buh4">HA5\_6QUAAAAJ</td>
+    <td class="tg-buh4">HA5_6QUAAAAJ</td>
     <td class="tg-buh4">UDD</td>
     <td class="tg-dzk6">42</td>
     <td class="tg-dzk6">4</td>
@@ -1326,7 +1326,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-baqh">144</td>
     <td class="tg-0lax">Katherine Figueroa Aillañir</td>
-    <td class="tg-0lax">1vOi\_OsAAAAJ</td>
+    <td class="tg-0lax">1vOi_OsAAAAJ</td>
     <td class="tg-0lax">UDEC</td>
     <td class="tg-baqh">26</td>
     <td class="tg-baqh">2</td>
@@ -1371,7 +1371,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">149</td>
     <td class="tg-buh4">Violeta Montero</td>
-    <td class="tg-buh4">21Iq\_\_YAAAAJ</td>
+    <td class="tg-buh4">21Iq__YAAAAJ</td>
     <td class="tg-buh4">UDEC</td>
     <td class="tg-dzk6">18</td>
     <td class="tg-dzk6">2</td>
@@ -1479,7 +1479,7 @@ permalink: /projects/cps-ranking/2022-06-02-impact-ranking
   <tr>
     <td class="tg-dzk6">161</td>
     <td class="tg-buh4">Daniel Santibañez Guerrero</td>
-    <td class="tg-buh4">B7eJM\_0AAAAJ</td>
+    <td class="tg-buh4">B7eJM_0AAAAJ</td>
     <td class="tg-buh4">USACH</td>
     <td class="tg-dzk6">20</td>
     <td class="tg-dzk6">1</td>
