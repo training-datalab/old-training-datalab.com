@@ -8,10 +8,6 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 # CPS-Ranking March 2023
 
-**Researcher:** Bastián González-Bustamante
-
-**Associates:** Alejandro Olivares, Carla Cisternas and Rodrigo Cuevas
-
 *Data collected on March 3, 2023*
 
 <style type="text/css">
