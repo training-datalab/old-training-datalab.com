@@ -30,6 +30,7 @@ permalink: /projects/cps-ranking
 
 ## Quarterly Series
 
+- [June 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
 - [March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
 - [December 2022](https://training-datalab.com/projects/cps-ranking/2022-12-05-impact-ranking)
 - [September 2022](https://training-datalab.com/projects/cps-ranking/2022-09-01-impact-ranking)
