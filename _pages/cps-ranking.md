@@ -30,6 +30,9 @@ permalink: /projects/cps-ranking
 
 ## Quarterly Series
 
+- [CPS-Ranking March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
+- [CPS-Ranking December 2022](https://training-datalab.com/projects/cps-ranking/2022-12-05-impact-ranking)
+
 ## Resources
 
 - <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Datasets on OSF-Project</a>.
