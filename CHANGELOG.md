@@ -1,9 +1,9 @@
 # Changelog
-All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, resources (e.g., SVG badges), team members updates, workshops pages and Tufte Working Papers.
+All notable changes to "training-datalab.com" will be documented in this file. Automated updates: Projects, news, resources (e.g., SVG badges), team members updates, workshops pages, Tufte Working Papers and CPS-Ranking.
 
 ## [Unreleased]
 
-## [2.15.8] - TBC
+## [3.1.0] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
@@ -14,6 +14,13 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Oblique strategies project.
 
 ## [Released]
+
+## [3.0.0] - 2023-06-01
+### Added
+- CPS-Ranking quarterly series.
+- Automated CPS-Ranking.
+### Changed
+- Minor corrections.
 
 ## [2.14.8] - 2023-05-31
 ### Changed
@@ -184,7 +191,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [1.8.6] - 2021-09-01
 ### Added
-- Google Scholar scraper.
+- CPS-Ranking.
 
 ## [1.7.6] - 2021-08-23
 ### Added
