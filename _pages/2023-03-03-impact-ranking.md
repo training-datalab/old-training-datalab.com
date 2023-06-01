@@ -595,7 +595,7 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <td class="tg-c3ow">2</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$63$</td>
+    <td class="tg-c3ow">63</td>
     <td class="tg-0pky">Mireya Dávila</td>
     <td class="tg-0pky">OLDMbVAAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
