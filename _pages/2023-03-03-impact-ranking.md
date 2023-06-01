@@ -8,6 +8,10 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 # CPS-Ranking March 2023
 
+**Researcher:** Bastián González-Bustamante
+
+**Associates:** Alejandro Olivares, Carla Cisternas and Rodrigo Cuevas
+
 **Data collected on March 3, 2023**
 
 <style type="text/css">
@@ -223,49 +227,49 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$22$</td>
+    <td class="tg-c3ow">22</td>
     <td class="tg-0pky">Javier Couso</td>
-    <td class="tg-0pky">r0EzJ\_IAAAAJ</td>
+    <td class="tg-0pky">r0EzJ_IAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1,634</td>
-    <td class="tg-c3ow">$18$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">18</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$23$</td>
+    <td class="tg-c3ow">23</td>
     <td class="tg-0pky">Sergio Toro Maureira</td>
     <td class="tg-0pky">F7Dguu4AAAAJ</td>
     <td class="tg-0pky">UMAYOR</td>
     <td class="tg-c3ow">985</td>
-    <td class="tg-c3ow">$18$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">18</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$24$</td>
+    <td class="tg-c3ow">24</td>
     <td class="tg-0pky">Arturo Arriagada</td>
     <td class="tg-0pky">TzPYdWsAAAAJ</td>
     <td class="tg-0pky">UAI</td>
     <td class="tg-c3ow">1,770</td>
-    <td class="tg-c3ow">$17$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">17</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$25$</td>
+    <td class="tg-c3ow">25</td>
     <td class="tg-0pky">Mauricio Olavarría-Gambi</td>
     <td class="tg-0pky">yXeMPpEAAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">1,513</td>
-    <td class="tg-c3ow">$17$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">17</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$26$</td>
+    <td class="tg-c3ow">26</td>
     <td class="tg-0pky">Leslie Wehner</td>
     <td class="tg-0pky">8jxM4fcAAAAJ</td>
     <td class="tg-0pky">UOB</td>
     <td class="tg-c3ow">1,401</td>
-    <td class="tg-c3ow">$17$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">17</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">$27$</td>
@@ -1668,10 +1672,12 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 ### Would you like to suggest someone?
 
-Please send an email to <i class="fas fa-envelope"></i> bastian.gonzalezbustamante@politics.ox.ac.uk
+Please send an email to <img src="{{ site.url }}{{ site.baseurl }}/images/svg/envelope-solid.svg" alt="Email" height="17" width="17" /><a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>
+
+contact@training-datalab.com
 
 ### How to download and cite this dataset?
 
-González-Bustamante, B. (2023). *Chilean Political Science Impact Ranking Dataset*. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab [Data collected on March 3, 2023]. DOI: [10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [http://doi.org/10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
 
 <br />
