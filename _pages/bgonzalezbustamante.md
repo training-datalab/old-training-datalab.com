@@ -50,11 +50,13 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
-- **González‑Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a> [Data set, pre-release version]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+- **González‑Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a>. Dataset, pre-release version, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
-- **González-Bustamante, B.**, & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew)</a> [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
+- **González-Bustamante, B.**, & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew)</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
-- **González-Bustamante, B.**, & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.4 -- Wandering Grass)</a> [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
+- **González-Bustamante, B.**, & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.4 -- Wandering Grass)</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
+
+- **González-Bustamante, B.**, Olivares, A., Cisternas, C., & Cuevas, R. (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
 ## Other Publications
 
@@ -88,5 +90,5 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
-<small>68% of works as first author, 29% as sole author.</small><br />
-<small>Last updated: May 31, 2023.</small>
+<small>69% of works as first author, 28% as sole author.</small><br />
+<small>Last updated: June 1, 2023.</small>
