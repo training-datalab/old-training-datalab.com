@@ -8,6 +8,8 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 # CPS-Ranking March 2023
 
+**Data collected on March 3, 2023**
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;margin-left:auto;margin-right:auto;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
@@ -1662,8 +1664,7 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
   </tr>
 </tbody>
 </table>
-
-<small>Note: The affiliations have been standardised. Data collected on March 3, 2023.</small><br />
+<p style="text-align: center;"><small>Note: The affiliations have been standardised. Data collected on March 3, 2023.</small></p>
 
 ### Would you like to suggest someone?
 
