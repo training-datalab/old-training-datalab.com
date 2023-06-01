@@ -24,21 +24,22 @@ permalink: /projects/cps-ranking-spanish
 
 <p align="justify">Además, se ha calculado un índice de consistencia (C-Index) sobre la medición de marzo de 2021. El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en cuanto a la autoría. Los valores más bajos se asocian a mayores incoherencias, por lo que los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.</p>
 
-<p align="justify">Si quiere sugerir a alguien, envíe un correo electrónico a <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>.</p>
+<p align="justify">Si quiere sugerir a alguien, envíe un correo electrónico a <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
 
 <p align="justify">Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.</p>
 
+## Series trimestrales
+
 ## Recursos
 
-- <a href="https://bgonzalezbustamante.com/cps-ranking/" target="_blank">Series trimestrales</a>.
-- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en OSF</a>.
+- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en el proyecto OSF</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.
 
-### ¿Cómo citar este conjunto de datos?
+### ¿Cómo citar esta base de datos?
 
-- González-Bustamante, B. (2023). Chilean Political Science Impact Ranking (Version 3.13.18 -- Silent Thunder) [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">10.17605/OSF.IO/C8PRA</a>.
+- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small>Red por González-Bustamante (2020).</small><br />
-<small>Última actualización: 18 de marzo de 2023.</small>
+<small>Última actualización: 1 de junio de 2023.</small>
