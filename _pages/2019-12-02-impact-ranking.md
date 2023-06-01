@@ -174,7 +174,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-baqh">16</td>
     <td class="tg-0lax">Javier Couso</td>
-    <td class="tg-0lax">r0EzJ\_IAAAAJ</td>
+    <td class="tg-0lax">r0EzJ_IAAAAJ</td>
     <td class="tg-0lax">UDP</td>
     <td class="tg-baqh">959</td>
     <td class="tg-baqh">14</td>
@@ -300,7 +300,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-baqh">30</td>
     <td class="tg-0lax">Olga Espinoza M.</td>
-    <td class="tg-0lax">\_aEt164AAAAJ</td>
+    <td class="tg-0lax">_aEt164AAAAJ</td>
     <td class="tg-0lax">UCHILE</td>
     <td class="tg-baqh">352</td>
     <td class="tg-baqh">10</td>
@@ -588,7 +588,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-baqh">62</td>
     <td class="tg-0lax">Jeanne W. Simon</td>
-    <td class="tg-0lax">\_mHLvikAAAAJ</td>
+    <td class="tg-0lax">_mHLvikAAAAJ</td>
     <td class="tg-0lax">UDEC</td>
     <td class="tg-baqh">144</td>
     <td class="tg-baqh">5</td>
@@ -597,7 +597,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-dzk6">63</td>
     <td class="tg-buh4">Rodrigo Osorio</td>
-    <td class="tg-buh4">3zePL\_gAAAAJ</td>
+    <td class="tg-buh4">3zePL_gAAAAJ</td>
     <td class="tg-buh4">UDP</td>
     <td class="tg-dzk6">94</td>
     <td class="tg-dzk6">5</td>
@@ -768,7 +768,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-baqh">82</td>
     <td class="tg-0lax">Roberto Mardones</td>
-    <td class="tg-0lax">99rI\_qsAAAAJ</td>
+    <td class="tg-0lax">99rI_qsAAAAJ</td>
     <td class="tg-0lax">UCT</td>
     <td class="tg-baqh">36</td>
     <td class="tg-baqh">4</td>
@@ -777,7 +777,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-dzk6">83</td>
     <td class="tg-buh4">Anthony A. Pezzola</td>
-    <td class="tg-buh4">U\_YqfqAAAAAJ</td>
+    <td class="tg-buh4">U_YqfqAAAAAJ</td>
     <td class="tg-buh4">WU</td>
     <td class="tg-dzk6">33</td>
     <td class="tg-dzk6">4</td>
@@ -984,7 +984,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-baqh">106</td>
     <td class="tg-0lax">Violeta Montero</td>
-    <td class="tg-0lax">21Iq\_\_YAAAAJ</td>
+    <td class="tg-0lax">21Iq__YAAAAJ</td>
     <td class="tg-0lax">UDEC</td>
     <td class="tg-baqh">5</td>
     <td class="tg-baqh">2</td>
@@ -1020,7 +1020,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-baqh">110</td>
     <td class="tg-0lax">Katherine Figueroa Aillañir</td>
-    <td class="tg-0lax">1vOi\_OsAAAAJ</td>
+    <td class="tg-0lax">1vOi_OsAAAAJ</td>
     <td class="tg-0lax">UDEC</td>
     <td class="tg-baqh">3</td>
     <td class="tg-baqh">1</td>
@@ -1065,7 +1065,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-dzk6">115</td>
     <td class="tg-buh4">Daniel Santibañez Guerrero</td>
-    <td class="tg-buh4">B7eJM\_0AAAAJ</td>
+    <td class="tg-buh4">B7eJM_0AAAAJ</td>
     <td class="tg-buh4">USACH</td>
     <td class="tg-dzk6">1</td>
     <td class="tg-dzk6">1</td>
@@ -1101,7 +1101,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
   <tr>
     <td class="tg-dzk6">119</td>
     <td class="tg-buh4">Matthias Erlandsen</td>
-    <td class="tg-buh4">HA5\_6QUAAAAJ</td>
+    <td class="tg-buh4">HA5_6QUAAAAJ</td>
     <td class="tg-buh4">PUC</td>
     <td class="tg-dzk6">1</td>
     <td class="tg-dzk6">1</td>
