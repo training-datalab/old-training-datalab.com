@@ -24,21 +24,22 @@ permalink: /projects/cps-ranking
 
 <p align="justify">Furthermore, a consistency index (C-Index) has been calculated on March 2021 measurement. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.</p>
 
-<p align="justify">If you like to suggest someone, please send an email to <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a>.</p>
+<p align="justify">If you like to suggest someone, please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
 
 <p align="justify">We would like to thank Patricio Navia for their valuable comments and contributions.</p>
 
+## Quarterly Series
+
 ## Resources
 
-- <a href="https://bgonzalezbustamante.com/cps-ranking/" target="_blank">Quarterly series</a>.
-- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Data sets on OSF-Project</a>.
+- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Datasets on OSF-Project</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">GitHub repository</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Changelog</a>.
 
-### How to cite this data set?
+### How to cite this dataset?
 
-- González-Bustamante, B. (2023). Chilean Political Science Impact Ranking (Version 3.13.18 -- Silent Thunder) [Data set]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">10.17605/OSF.IO/C8PRA</a>.
+- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small>Network by González-Bustamante (2020).</small><br />
-<small>Last updated: March 18, 2023.</small>
+<small>Last updated: June 1, 2023.</small>
