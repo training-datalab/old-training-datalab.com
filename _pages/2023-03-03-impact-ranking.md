@@ -28,163 +28,163 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <th class="tg-0pky">ID</th>
     <th class="tg-0pky">Affiliation</th>
     <th class="tg-c3ow">Cites</th>
-    <th class="tg-c3ow">H\_Index</th>
+    <th class="tg-c3ow">H-Index</th>
     <th class="tg-c3ow">Quartile</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">1</td>
     <td class="tg-0pky">David Altman</td>
     <td class="tg-0pky">xWbhhH8AAAAJ</td>
     <td class="tg-0pky">PUC-VDEM</td>
     <td class="tg-c3ow">9,230</td>
-    <td class="tg-c3ow">$42$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">42</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$2$</td>
+    <td class="tg-c3ow">2</td>
     <td class="tg-0pky">Cristóbal Rovira Kaltwasser</td>
     <td class="tg-0pky">4iRjwbMAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">13,071</td>
-    <td class="tg-c3ow">$39$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">39</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$3$</td>
+    <td class="tg-c3ow">3</td>
     <td class="tg-0pky">Lucia Dammert</td>
     <td class="tg-0pky">Kh9TTGwAAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">4,501</td>
-    <td class="tg-c3ow">$36$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">36</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$4$</td>
+    <td class="tg-c3ow">4</td>
     <td class="tg-0pky">Juan Pablo Luna</td>
     <td class="tg-0pky">IgwSc8oAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">4,724</td>
-    <td class="tg-c3ow">$34$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">34</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$5$</td>
+    <td class="tg-c3ow">5</td>
     <td class="tg-0pky">Patricio D Navia</td>
     <td class="tg-0pky">IBcs-ZwAAAAJ</td>
     <td class="tg-0pky">UDP-NYU</td>
     <td class="tg-c3ow">4,352</td>
-    <td class="tg-c3ow">$31$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">31</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$6$</td>
+    <td class="tg-c3ow">6</td>
     <td class="tg-0pky">Peter Siavelis</td>
     <td class="tg-0pky">HGTSACIAAAAJ</td>
     <td class="tg-0pky">WFU-COES</td>
     <td class="tg-c3ow">4,363</td>
-    <td class="tg-c3ow">$30$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">30</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$7$</td>
+    <td class="tg-c3ow">7</td>
     <td class="tg-0pky">Gabriel L. Negretto</td>
     <td class="tg-0pky">AP5zUGwAAAAJ</td>
     <td class="tg-0pky">PUC-CIDE</td>
     <td class="tg-c3ow">3,590</td>
-    <td class="tg-c3ow">$30$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">30</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$8$</td>
+    <td class="tg-c3ow">8</td>
     <td class="tg-0pky">Mauricio Morales Quiroga</td>
     <td class="tg-0pky">BPVbhToAAAAJ</td>
     <td class="tg-0pky">UTALCA</td>
     <td class="tg-c3ow">1,965</td>
-    <td class="tg-c3ow">$28$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">28</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$9$</td>
+    <td class="tg-c3ow">9</td>
     <td class="tg-0pky">Carlos Huneeus</td>
     <td class="tg-0pky">Kq4dWnoAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">3,932</td>
-    <td class="tg-c3ow">$27$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">27</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$10$</td>
+    <td class="tg-c3ow">10</td>
     <td class="tg-0pky">Fernando Atria</td>
     <td class="tg-0pky">InrV7oEAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">3,014</td>
-    <td class="tg-c3ow">$27$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">27</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$11$</td>
+    <td class="tg-c3ow">11</td>
     <td class="tg-0pky">Felipe Agüero</td>
     <td class="tg-0pky">JSPWdfYAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">2,657</td>
-    <td class="tg-c3ow">$26$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$12$</td>
+    <td class="tg-c3ow">12</td>
     <td class="tg-0pky">Alfredo Joignant</td>
     <td class="tg-0pky">C6i7344AAAAJ</td>
     <td class="tg-0pky">UDP-COES</td>
     <td class="tg-c3ow">2,614</td>
-    <td class="tg-c3ow">$26$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$13$</td>
+    <td class="tg-c3ow">13</td>
     <td class="tg-0pky">Hary Hugo Fruhling</td>
     <td class="tg-0pky">dJKWN8wAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">2,119</td>
-    <td class="tg-c3ow">$26$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">26</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$14$</td>
+    <td class="tg-c3ow">14</td>
     <td class="tg-0pky">Claudio Fuentes</td>
     <td class="tg-0pky">ckIjzZQAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1,954</td>
-    <td class="tg-c3ow">$24$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">24</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$15$</td>
+    <td class="tg-c3ow">15</td>
     <td class="tg-0pky">Nicolás M. Somma</td>
     <td class="tg-0pky">yyr6ge0AAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">2,156</td>
-    <td class="tg-c3ow">$22$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">22</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$16$</td>
+    <td class="tg-c3ow">16</td>
     <td class="tg-0pky">Kirsten Sehnbruch</td>
     <td class="tg-0pky">qFLejd0AAAAJ</td>
     <td class="tg-0pky">LSE-COES</td>
     <td class="tg-c3ow">1,883</td>
-    <td class="tg-c3ow">$22$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">22</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$17$</td>
+    <td class="tg-c3ow">17</td>
     <td class="tg-0pky">Carlos Meléndez</td>
-    <td class="tg-0pky">JD\_X4KYAAAAJ</td>
+    <td class="tg-0pky">JD_X4KYAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1,738</td>
-    <td class="tg-c3ow">$22$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">22</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">$18$</td>
