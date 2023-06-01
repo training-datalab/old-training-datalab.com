@@ -22,13 +22,29 @@ permalink: /projects/cps-ranking-spanish
 
 <p align="justify">Se ha elaborado según los siguientes criterios de muestreo. En primer lugar, se identificaron todos los ponentes con filiación académica chilena en el último congreso de ciencia política organizado por la Asociación Chilena de Ciencia Política (ACCP) en 2018. Luego, se consideró a las personas que poseían una cuenta activa en Google Scholar. Posteriormente, se agregaron investigadores reconocidos en el ámbito chileno, que también poseyeran un perfil en Google Scholar, sugeridos por otras personas que fueron seleccionadas en el paso anterior. Por último, se eliminaron del ranking los autores que habían añadido a su perfil publicaciones que no son de su autoría (por confusión de nombres, deliberadamente o sin darse cuenta).</p>
 
-<p align="justify">Además, se ha calculado un índice de consistencia (C-Index) sobre la medición de marzo de 2021. El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en cuanto a la autoría. Los valores más bajos se asocian a mayores incoherencias, por lo que los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.</p>
+<p align="justify">Además, se ha calculado un índice de consistencia (C-Index) sobre la [medición de marzo de 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking). El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en cuanto a la autoría. Los valores más bajos se asocian a mayores incoherencias, por lo que los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.</p>
 
 <p align="justify">Si quiere sugerir a alguien, envíe un correo electrónico a <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
 
 <p align="justify">Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.</p>
 
 ## Series trimestrales
+
+- [Junio 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
+- [Marzo 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
+- [Diciembre 2022](https://training-datalab.com/projects/cps-ranking/2022-12-05-impact-ranking)
+- [Septiembre 2022](https://training-datalab.com/projects/cps-ranking/2022-09-01-impact-ranking)
+- [Junio 2022](https://training-datalab.com/projects/cps-ranking/2022-06-02-impact-ranking)
+- [Marzo 2022](https://training-datalab.com/projects/cps-ranking/2022-03-01-impact-ranking)
+- [Diciembre 2021](https://training-datalab.com/projects/cps-ranking/2021-12-02-impact-ranking)
+- [Septiembre 2021](https://training-datalab.com/projects/cps-ranking/2021-09-01-impact-ranking)
+- [Junio 2021](https://training-datalab.com/projects/cps-ranking/2021-06-01-impact-ranking)
+- [Marzo 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking)
+- [Diciembre 2020](https://training-datalab.com/projects/cps-ranking/2020-12-01-impact-ranking)
+- [Septiembre 2020](https://training-datalab.com/projects/cps-ranking/2020-09-05-impact-ranking)
+- [Junio 2020](https://training-datalab.com/projects/cps-ranking/2020-06-02-impact-ranking)
+- [Marzo 2020](https://training-datalab.com/projects/cps-ranking/2020-03-05-impact-ranking)
+- [Diciembre 2019](https://training-datalab.com/projects/cps-ranking/2019-12-02-impact-ranking)
 
 ## Recursos
 
