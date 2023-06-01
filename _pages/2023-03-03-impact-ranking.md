@@ -1671,10 +1671,11 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 ### Would you like to suggest someone?
 
-Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
+- Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
 
 ### How to download and cite this dataset?
 
-González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [http://doi.org/10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD).
+- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
+<small><a href="https://training-datalab.com/projects/cps-ranking">Further details on this project</a>.</small>
