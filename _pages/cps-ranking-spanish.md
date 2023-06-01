@@ -48,8 +48,8 @@ permalink: /projects/cps-ranking-spanish
 
 ## Recursos
 
-- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en el proyecto OSF</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.
+- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en el proyecto OSF</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.
 
 ### ¿Cómo citar esta base de datos?
