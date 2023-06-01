@@ -26,7 +26,7 @@ permalink: /projects/cps-ranking
 
 <p align="justify">If you like to suggest someone, please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
 
-<p align="justify">We would like to thank Patricio Navia for their valuable comments and contributions.</p>
+<p align="justify">We would like to thank Patricio Navia for his valuable comments and contributions.</p>
 
 ## Quarterly Series
 
@@ -48,8 +48,8 @@ permalink: /projects/cps-ranking
 
 ## Resources
 
-- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Datasets on OSF-Project</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">GitHub repository</a>.
+- <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Datasets on OSF-Project</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Changelog</a>.
 
 ### How to cite this dataset?
