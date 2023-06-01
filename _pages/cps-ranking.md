@@ -36,6 +36,7 @@ permalink: /projects/cps-ranking
 - [CPS-Ranking June 2022](https://training-datalab.com/projects/cps-ranking/2022-06-02-impact-ranking)
 - [CPS-Ranking March 2022](https://training-datalab.com/projects/cps-ranking/2022-03-01-impact-ranking)
 - [CPS-Ranking December 2021](https://training-datalab.com/projects/cps-ranking/2021-12-02-impact-ranking)
+- [CPS-Ranking September 2021](https://training-datalab.com/projects/cps-ranking/2021-09-01-impact-ranking)
 
 ## Resources
 
