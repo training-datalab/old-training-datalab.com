@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/cps-ranking-spanish
 ---
 
-# Chilean Political Science Impact Ranking
+# Chilean Political Science Ranking
 
 **Investigador:** Bastián González-Bustamante
 
