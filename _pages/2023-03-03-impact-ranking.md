@@ -17,9 +17,8 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-lcf4{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .center {margin-left: auto;margin-right: auto}
 </style>
-<table class="tg">
+<table class="tg" style="margin-left:auto;margin-right:auto;">
 <thead>
   <tr>
     <th class="tg-lcf4">Ranking</th>
