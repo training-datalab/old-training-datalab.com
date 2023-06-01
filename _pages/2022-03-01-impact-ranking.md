@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/cps-ranking/2022-03-01-impact-ranking
 ---
 
-# CPS-Ranking June 2022
+# CPS-Ranking March 2022
 
 *Data collected on March 1, 2022*
 
