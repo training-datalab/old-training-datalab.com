@@ -17,19 +17,22 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-lcf4{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;text-align:center;vertical-align:top}
+.tg .tg-b0xd{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lcf4">Ranking</th>
-    <th class="tg-0pky">Name</th>
-    <th class="tg-0pky">ID</th>
-    <th class="tg-0pky">Affiliation</th>
-    <th class="tg-c3ow">Cites</th>
-    <th class="tg-c3ow">H-Index</th>
-    <th class="tg-c3ow">Quartile</th>
+    <th class="tg-b0xd">Ranking</th>
+    <th class="tg-fymr">Name</th>
+    <th class="tg-fymr">ID</th>
+    <th class="tg-fymr">Affiliation</th>
+    <th class="tg-7btt">Cites</th>
+    <th class="tg-7btt">H-Index</th>
+    <th class="tg-7btt">Quartile</th>
   </tr>
 </thead>
 <tbody>
@@ -1123,7 +1126,7 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$122$</td>
+    <td class="tg-c3ow">122</td>
     <td class="tg-0pky">Carlos Cantillana</td>
     <td class="tg-0pky">8iP3MuwAAAAJ</td>
     <td class="tg-0pky">unk.</td>
