@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/cps-ranking/2020-06-02-impact-ranking
 ---
 
-# CPS-Ranking Junes 2020
+# CPS-Ranking June 2020
 
 *Data collected on June 2, 2020*
 
