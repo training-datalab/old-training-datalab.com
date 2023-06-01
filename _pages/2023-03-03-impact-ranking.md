@@ -3,7 +3,7 @@ title: "Training Data Lab - CPS-Ranking March 2023"
 layout: textlay
 excerpt: "Training Data Lab - CPS-Ranking March 2023"
 sitemap: false
-permalink: /projects/cps-ranking/2023-03-03-impact-ranking
+permalink: /projects/cps-ranking/2023-03-03-cps-ranking
 ---
 
 # CPS-Ranking March 2023
@@ -12,7 +12,7 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 **Associates:** Alejandro Olivares, Carla Cisternas and Rodrigo Cuevas
 
-**Data collected on March 3, 2023**
+*Data collected on March 3, 2023*
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -272,112 +272,112 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$27$</td>
+    <td class="tg-c3ow">27</td>
     <td class="tg-0pky">Rossana Castiglioni</td>
     <td class="tg-0pky">gkHNPiwAAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">816</td>
-    <td class="tg-c3ow">$17$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">17</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$28$</td>
+    <td class="tg-c3ow">28</td>
     <td class="tg-0pky">Patricio Valdivieso</td>
     <td class="tg-0pky">RqH9nVAAAAAJ</td>
     <td class="tg-0pky">UACH</td>
     <td class="tg-c3ow">954</td>
-    <td class="tg-c3ow">$16$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">16</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$29$</td>
+    <td class="tg-c3ow">29</td>
     <td class="tg-0pky">Bastián González-Bustamante</td>
     <td class="tg-0pky">UknWOrEAAAAJ</td>
     <td class="tg-0pky">OXF-USACH</td>
     <td class="tg-c3ow">782</td>
-    <td class="tg-c3ow">$16$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">16</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$30$</td>
+    <td class="tg-c3ow">30</td>
     <td class="tg-0pky">William Porath</td>
     <td class="tg-0pky">JxOP4-oAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">746</td>
-    <td class="tg-c3ow">$16$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">16</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$31$</td>
+    <td class="tg-c3ow">31</td>
     <td class="tg-0pky">Fernando Rosenblatt</td>
     <td class="tg-0pky">HaX6qs4AAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">663</td>
-    <td class="tg-c3ow">$16$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">16</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$32$</td>
+    <td class="tg-c3ow">32</td>
     <td class="tg-0pky">Rodrigo Mardones</td>
     <td class="tg-0pky">5cAowpkAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">806</td>
-    <td class="tg-c3ow">$15$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$33$</td>
+    <td class="tg-c3ow">33</td>
     <td class="tg-0pky">Esteban Valenzuela</td>
     <td class="tg-0pky">dQZFoWYAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
     <td class="tg-c3ow">798</td>
-    <td class="tg-c3ow">$15$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$34$</td>
+    <td class="tg-c3ow">34</td>
     <td class="tg-0pky">Cristian Garay Vera</td>
     <td class="tg-0pky">14QQq0cAAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">749</td>
-    <td class="tg-c3ow">$15$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$35$</td>
+    <td class="tg-c3ow">35</td>
     <td class="tg-0pky">Octavio Avendaño</td>
     <td class="tg-0pky">JRlbehsAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">723</td>
-    <td class="tg-c3ow">$15$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$36$</td>
+    <td class="tg-c3ow">36</td>
     <td class="tg-0pky">Francisco Urdinez</td>
     <td class="tg-0pky">eubX-aYAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">636</td>
-    <td class="tg-c3ow">$15$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">15</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$37$</td>
+    <td class="tg-c3ow">37</td>
     <td class="tg-0pky">Aldo Madariaga</td>
     <td class="tg-0pky">n0UQqa4AAAAJ</td>
     <td class="tg-0pky">UDP</td>
     <td class="tg-c3ow">1,374</td>
-    <td class="tg-c3ow">$14$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">14</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$38$</td>
+    <td class="tg-c3ow">38</td>
     <td class="tg-0pky">Ricardo Gamboa Valenzuela</td>
     <td class="tg-0pky">nOBjxWUAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">725</td>
-    <td class="tg-c3ow">$14$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">14</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">$39$</td>
@@ -385,152 +385,152 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <td class="tg-0pky">Y4q4OfoAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">696</td>
-    <td class="tg-c3ow">$14$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">14</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$40$</td>
+    <td class="tg-c3ow">40</td>
     <td class="tg-0pky">Adrian Albala</td>
     <td class="tg-0pky">KZhWCqgAAAAJ</td>
     <td class="tg-0pky">UnB</td>
     <td class="tg-c3ow">472</td>
-    <td class="tg-c3ow">$14$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">14</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$41$</td>
+    <td class="tg-c3ow">41</td>
     <td class="tg-0pky">Julieta Suarez-Cao</td>
     <td class="tg-0pky">i2JJrfYAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">886</td>
-    <td class="tg-c3ow">$13$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">13</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$42$</td>
+    <td class="tg-c3ow">42</td>
     <td class="tg-0pky">Valeria Palanza</td>
     <td class="tg-0pky">-lzMBqcAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">703</td>
-    <td class="tg-c3ow">$13$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">13</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$43$</td>
+    <td class="tg-c3ow">43</td>
     <td class="tg-0pky">Cesar Ross</td>
     <td class="tg-0pky">26ZJSbAAAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">609</td>
-    <td class="tg-c3ow">$13$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">13</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$44$</td>
+    <td class="tg-c3ow">44</td>
     <td class="tg-0pky">Matias Bargsted</td>
     <td class="tg-0pky">0oYjLYEAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">1,006</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$45$</td>
+    <td class="tg-c3ow">45</td>
     <td class="tg-0pky">Alejandro Corvalan</td>
     <td class="tg-0pky">KiGpYt4AAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">765</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$46$</td>
+    <td class="tg-c3ow">46</td>
     <td class="tg-0pky">Carolina Segovia</td>
     <td class="tg-0pky">ApRJQVkAAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">701</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$47$</td>
+    <td class="tg-c3ow">47</td>
     <td class="tg-0pky">Olga Espinoza M.</td>
-    <td class="tg-0pky">\_aEt164AAAAJ</td>
+    <td class="tg-0pky">_aEt164AAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">603</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$48$</td>
+    <td class="tg-c3ow">48</td>
     <td class="tg-0pky">Mauricio Apablaza</td>
     <td class="tg-0pky">qKDaZAMAAAAJ</td>
     <td class="tg-0pky">UDD</td>
     <td class="tg-c3ow">595</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$49$</td>
+    <td class="tg-c3ow">49</td>
     <td class="tg-0pky">Carmen Le Foulon</td>
     <td class="tg-0pky">wRPMNvUAAAAJ</td>
     <td class="tg-0pky">CEP</td>
     <td class="tg-c3ow">550</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$50$</td>
+    <td class="tg-c3ow">50</td>
     <td class="tg-0pky">Tomas Dosek</td>
     <td class="tg-0pky">XrCQY-oAAAAJ</td>
     <td class="tg-0pky">PUCP</td>
     <td class="tg-c3ow">496</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$51$</td>
+    <td class="tg-c3ow">51</td>
     <td class="tg-0pky">Alejandro Olivares Lavados</td>
     <td class="tg-0pky">POHGEtYAAAAJ</td>
     <td class="tg-0pky">UMAYOR</td>
     <td class="tg-c3ow">448</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$52$</td>
+    <td class="tg-c3ow">52</td>
     <td class="tg-0pky">Stefano Palestini</td>
     <td class="tg-0pky">1JylyXQAAAAJ</td>
     <td class="tg-0pky">PUC</td>
     <td class="tg-c3ow">429</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$53$</td>
+    <td class="tg-c3ow">53</td>
     <td class="tg-0pky">Germán Bidegain</td>
     <td class="tg-0pky">RBv0BPIAAAAJ</td>
     <td class="tg-0pky">UDELAR</td>
     <td class="tg-c3ow">392</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$54$</td>
+    <td class="tg-c3ow">54</td>
     <td class="tg-0pky">Isaac Caro</td>
     <td class="tg-0pky">0i6XB6MAAAAJ</td>
     <td class="tg-0pky">UAH</td>
     <td class="tg-c3ow">371</td>
-    <td class="tg-c3ow">$12$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">12</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$55$</td>
+    <td class="tg-c3ow">55</td>
     <td class="tg-0pky">Sofia Donoso</td>
     <td class="tg-0pky">MR9YwQkAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">747</td>
-    <td class="tg-c3ow">$11$</td>
-    <td class="tg-c3ow">$2$</td>
+    <td class="tg-c3ow">11</td>
+    <td class="tg-c3ow">2</td>
   </tr>
   <tr>
     <td class="tg-c3ow">$56$</td>
@@ -1672,12 +1672,10 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
 
 ### Would you like to suggest someone?
 
-Please send an email to <img src="{{ site.url }}{{ site.baseurl }}/images/svg/envelope-solid.svg" alt="Email" height="17" width="17" /><a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>
-
-contact@training-datalab.com
+Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
 
 ### How to download and cite this dataset?
 
-González-Bustamante, B. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [http://doi.org/10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD)
+González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. [http://doi.org/10.17605/OSF.IO/M3NZD](http://doi.org/10.17605/OSF.IO/M3NZD).
 
 <br />
