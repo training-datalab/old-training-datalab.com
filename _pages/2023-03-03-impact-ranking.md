@@ -1,6 +1,6 @@
 ---
 title: "Training Data Lab - CPS-Ranking March 2023"
-layout: textlay
+layout: gridlay
 excerpt: "Training Data Lab - CPS-Ranking March 2023"
 sitemap: false
 permalink: /projects/cps-ranking/2023-03-03-impact-ranking
