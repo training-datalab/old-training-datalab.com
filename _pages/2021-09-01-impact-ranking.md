@@ -1559,7 +1559,8 @@ permalink: /projects/cps-ranking/2021-09-01-impact-ranking
   </tr>
 </tbody>
 </table>
-<small>Note: The affiliations have been standardised. Data collected on September 1, 2021. Researchers to be added: Leslie Wehner (ID 8jxM4fcAAAAJ) and Ariel Becerra (ID b7GxWBAAAAAJ).</small><br />
+<small>Note: The affiliations have been standardised. Data collected on September 1, 2021.</small>
+<small>Researchers to be added: Leslie Wehner (ID 8jxM4fcAAAAJ) and Ariel Becerra (ID b7GxWBAAAAAJ).</small><br />
 
 ### Would you like to suggest someone?
 
