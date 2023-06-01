@@ -26,7 +26,7 @@ permalink: /team/daguilar/
 
 ## Data Collection Project
 
-- González‑Bustamante, B., & **Aguilar, D.** (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a> [Data set, pre-release version]. University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+- González‑Bustamante, B., & **Aguilar, D.** (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a>. Dataset, pre-release version, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
 ## Other Publication
 
