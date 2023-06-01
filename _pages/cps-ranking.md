@@ -22,7 +22,7 @@ permalink: /projects/cps-ranking
 
 <p align="justify">It has been elaborated according to the following sampling criteria. First of all, all the paper-givers with a Chilean academic affiliation in the last political science congress organised by the Chilean Association of Political Science (ACCP in Spanish) in 2018 were identified. After that, people considered was those who possed an active Google Scholar account. Subsequently, well-known researchers in the Chilean field, who also possess a Google Scholar profile, suggested by other people who were selected in the previous step were added. Finally, authors who had added to their profile publications that are not their authorship (because of name confusion, deliberately or without realising it) were removed from the ranking.</p>
 
-<p align="justify">Furthermore, a consistency index (C-Index) has been calculated on March 2021 measurement. C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.</p>
+<p align="justify">Furthermore, a consistency index (C-Index) has been calculated on [March 2021 measurement](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking). C-Index goes from zero to 100 and reflects the Google profiles' consistency in terms of authorship. Lower values are associated with greater inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.</p>
 
 <p align="justify">If you like to suggest someone, please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
 
@@ -38,6 +38,7 @@ permalink: /projects/cps-ranking
 - [December 2021](https://training-datalab.com/projects/cps-ranking/2021-12-02-impact-ranking)
 - [September 2021](https://training-datalab.com/projects/cps-ranking/2021-09-01-impact-ranking)
 - [June 2021](https://training-datalab.com/projects/cps-ranking/2021-06-01-impact-ranking)
+- [March 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking)
 
 ## Resources
 
