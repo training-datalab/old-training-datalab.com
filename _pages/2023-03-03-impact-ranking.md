@@ -187,40 +187,40 @@ permalink: /projects/cps-ranking/2023-03-03-impact-ranking
     <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$18$</td>
+    <td class="tg-c3ow">18</td>
     <td class="tg-0pky">Álvaro Ramírez-Alujas</td>
-    <td class="tg-0pky">wk\_RO-sAAAAJ</td>
+    <td class="tg-0pky">wk_RO-sAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">1,774</td>
-    <td class="tg-c3ow">$21$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">21</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$19$</td>
+    <td class="tg-c3ow">19</td>
     <td class="tg-0pky">Egon Montecinos</td>
     <td class="tg-0pky">NcxMjkAAAAAJ</td>
     <td class="tg-0pky">UACH</td>
     <td class="tg-c3ow">1,588</td>
-    <td class="tg-c3ow">$21$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">21</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$20$</td>
+    <td class="tg-c3ow">20</td>
     <td class="tg-0pky">Mariana Chudnovsky</td>
     <td class="tg-0pky">4DhexOEAAAAJ</td>
     <td class="tg-0pky">USACH</td>
     <td class="tg-c3ow">1,569</td>
-    <td class="tg-c3ow">$19$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">19</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">$21$</td>
+    <td class="tg-c3ow">21</td>
     <td class="tg-0pky">Pierre Ostiguy</td>
     <td class="tg-0pky">CdsiN9QAAAAJ</td>
     <td class="tg-0pky">UVALPO</td>
     <td class="tg-c3ow">2,148</td>
-    <td class="tg-c3ow">$18$</td>
-    <td class="tg-c3ow">$1$</td>
+    <td class="tg-c3ow">18</td>
+    <td class="tg-c3ow">1</td>
   </tr>
   <tr>
     <td class="tg-c3ow">$22$</td>
