@@ -16,1598 +16,1600 @@ permalink: /projects/cps-ranking/2022-12-05-impact-ranking
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dzk6{background-color:#f9f9f9;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-7btt">Ranking</th>
-    <th class="tg-fymr">Name</th>
-    <th class="tg-fymr">ID</th>
-    <th class="tg-fymr">Affiliation</th>
-    <th class="tg-7btt">Cites</th>
-    <th class="tg-7btt">H-Index</th>
-    <th class="tg-7btt">Quartile</th>
+    <th class="tg-amwm">Ranking</th>
+    <th class="tg-1wig">Name</th>
+    <th class="tg-1wig">ID</th>
+    <th class="tg-1wig">Affiliation</th>
+    <th class="tg-amwm">Cites</th>
+    <th class="tg-amwm">H-Index</th>
+    <th class="tg-amwm">Quartile</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-0pky">David Altman</td>
-    <td class="tg-0pky">xWbhhH8AAAAJ</td>
-    <td class="tg-0pky">PUC-VDEM</td>
-    <td class="tg-c3ow">8,852</td>
-    <td class="tg-c3ow">42</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-0pky">Cristóbal Rovira Kaltwasser</td>
-    <td class="tg-0pky">4iRjwbMAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">12,365</td>
-    <td class="tg-c3ow">39</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-0pky">Lucia Dammert</td>
-    <td class="tg-0pky">Kh9TTGwAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">4,153</td>
-    <td class="tg-c3ow">35</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-0pky">Juan Pablo Luna</td>
-    <td class="tg-0pky">IgwSc8oAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">4,575</td>
-    <td class="tg-c3ow">33</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-0pky">Patricio D Navia</td>
-    <td class="tg-0pky">IBcs-ZwAAAAJ</td>
-    <td class="tg-0pky">UDP-NYU</td>
-    <td class="tg-c3ow">4,247</td>
-    <td class="tg-c3ow">31</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-0pky">Gabriel L. Negretto</td>
-    <td class="tg-0pky">AP5zUGwAAAAJ</td>
-    <td class="tg-0pky">PUC-CIDE</td>
-    <td class="tg-c3ow">3,631</td>
-    <td class="tg-c3ow">31</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-0pky">Peter Siavelis</td>
-    <td class="tg-0pky">HGTSACIAAAAJ</td>
-    <td class="tg-0pky">WFU-COES</td>
-    <td class="tg-c3ow">4,312</td>
-    <td class="tg-c3ow">29</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-0pky">Mauricio Morales Quiroga</td>
-    <td class="tg-0pky">BPVbhToAAAAJ</td>
-    <td class="tg-0pky">UTALCA</td>
-    <td class="tg-c3ow">1,878</td>
-    <td class="tg-c3ow">28</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-0pky">Carlos Huneeus</td>
-    <td class="tg-0pky">Kq4dWnoAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">3,865</td>
-    <td class="tg-c3ow">27</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-0pky">Alfredo Joignant</td>
-    <td class="tg-0pky">C6i7344AAAAJ</td>
-    <td class="tg-0pky">UDP-COES</td>
-    <td class="tg-c3ow">2,540</td>
-    <td class="tg-c3ow">27</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-0pky">Fernando Atria</td>
-    <td class="tg-0pky">InrV7oEAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">2,971</td>
-    <td class="tg-c3ow">26</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-0pky">Felipe Agüero</td>
-    <td class="tg-0pky">JSPWdfYAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">2,606</td>
-    <td class="tg-c3ow">26</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-0pky">Hary Hugo Fruhling</td>
-    <td class="tg-0pky">dJKWN8wAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">2,104</td>
-    <td class="tg-c3ow">26</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">14</td>
-    <td class="tg-0pky">Claudio Fuentes</td>
-    <td class="tg-0pky">ckIjzZQAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">1,921</td>
-    <td class="tg-c3ow">24</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">15</td>
-    <td class="tg-0pky">Kirsten Sehnbruch</td>
-    <td class="tg-0pky">qFLejd0AAAAJ</td>
-    <td class="tg-0pky">LSE-COES</td>
-    <td class="tg-c3ow">1,836</td>
-    <td class="tg-c3ow">23</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-0pky">Nicolás M. Somma</td>
-    <td class="tg-0pky">yyr6ge0AAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">2,027</td>
-    <td class="tg-c3ow">22</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">17</td>
-    <td class="tg-0pky">Álvaro Ramírez-Alujas</td>
-    <td class="tg-0pky">wk\_RO-sAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">1,725</td>
-    <td class="tg-c3ow">21</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">18</td>
-    <td class="tg-0pky">Carlos Meléndez</td>
-    <td class="tg-0pky">JD\_X4KYAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">1,646</td>
-    <td class="tg-c3ow">21</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">19</td>
-    <td class="tg-0pky">Egon Montecinos</td>
-    <td class="tg-0pky">NcxMjkAAAAAJ</td>
-    <td class="tg-0pky">UACH</td>
-    <td class="tg-c3ow">1,535</td>
-    <td class="tg-c3ow">21</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">20</td>
-    <td class="tg-0pky">Javier Couso</td>
-    <td class="tg-0pky">r0EzJ\_IAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">1,615</td>
-    <td class="tg-c3ow">18</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">21</td>
-    <td class="tg-0pky">Sergio Toro Maureira</td>
-    <td class="tg-0pky">F7Dguu4AAAAJ</td>
-    <td class="tg-0pky">UMAYOR</td>
-    <td class="tg-c3ow">955</td>
-    <td class="tg-c3ow">18</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">22</td>
-    <td class="tg-0pky">Pierre Ostiguy</td>
-    <td class="tg-0pky">CdsiN9QAAAAJ</td>
-    <td class="tg-0pky">UVALPO</td>
-    <td class="tg-c3ow">1,967</td>
-    <td class="tg-c3ow">17</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">23</td>
-    <td class="tg-0pky">Arturo Arriagada</td>
-    <td class="tg-0pky">TzPYdWsAAAAJ</td>
-    <td class="tg-0pky">UAI</td>
-    <td class="tg-c3ow">1,729</td>
-    <td class="tg-c3ow">17</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">24</td>
-    <td class="tg-0pky">Mauricio Olavarría-Gambi</td>
-    <td class="tg-0pky">yXeMPpEAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">1,477</td>
-    <td class="tg-c3ow">17</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">25</td>
-    <td class="tg-0pky">Leslie Wehner</td>
-    <td class="tg-0pky">8jxM4fcAAAAJ</td>
-    <td class="tg-0pky">UOB</td>
-    <td class="tg-c3ow">1,339</td>
-    <td class="tg-c3ow">17</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">26</td>
-    <td class="tg-0pky">Patricio Valdivieso</td>
-    <td class="tg-0pky">RqH9nVAAAAAJ</td>
-    <td class="tg-0pky">UACH</td>
-    <td class="tg-c3ow">910</td>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">27</td>
-    <td class="tg-0pky">Rossana Castiglioni</td>
-    <td class="tg-0pky">gkHNPiwAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">788</td>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">28</td>
-    <td class="tg-0pky">Bastián González-Bustamante</td>
-    <td class="tg-0pky">UknWOrEAAAAJ</td>
-    <td class="tg-0pky">OXF-USACH</td>
-    <td class="tg-c3ow">748</td>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">29</td>
-    <td class="tg-0pky">Fernando Rosenblatt</td>
-    <td class="tg-0pky">HaX6qs4AAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">628</td>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">30</td>
-    <td class="tg-0pky">Esteban Valenzuela</td>
-    <td class="tg-0pky">dQZFoWYAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">763</td>
-    <td class="tg-c3ow">15</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">31</td>
-    <td class="tg-0pky">Rodrigo Mardones</td>
-    <td class="tg-0pky">5cAowpkAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">759</td>
-    <td class="tg-c3ow">15</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">32</td>
-    <td class="tg-0pky">William Porath</td>
-    <td class="tg-0pky">JxOP4-oAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">706</td>
-    <td class="tg-c3ow">15</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">33</td>
-    <td class="tg-0pky">Francisco Urdinez</td>
-    <td class="tg-0pky">eubX-aYAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">593</td>
-    <td class="tg-c3ow">15</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">34</td>
-    <td class="tg-0pky">Octavio Avendaño</td>
-    <td class="tg-0pky">JRlbehsAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">670</td>
-    <td class="tg-c3ow">14</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">35</td>
-    <td class="tg-0pky">Cristian Garay Vera</td>
-    <td class="tg-0pky">14QQq0cAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">650</td>
-    <td class="tg-c3ow">14</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">36</td>
-    <td class="tg-0pky">Adrian Albala</td>
-    <td class="tg-0pky">KZhWCqgAAAAJ</td>
-    <td class="tg-0pky">UnB</td>
-    <td class="tg-c3ow">456</td>
-    <td class="tg-c3ow">14</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">37</td>
-    <td class="tg-0pky">Aldo Madariaga</td>
-    <td class="tg-0pky">n0UQqa4AAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">1,295</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">38</td>
-    <td class="tg-0pky">Matias Bargsted</td>
-    <td class="tg-0pky">0oYjLYEAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">1,003</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">39</td>
-    <td class="tg-0pky">Julieta Suarez-Cao</td>
-    <td class="tg-0pky">i2JJrfYAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">861</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">40</td>
-    <td class="tg-0pky">Ricardo Gamboa Valenzuela</td>
-    <td class="tg-0pky">nOBjxWUAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">690</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">41</td>
-    <td class="tg-0pky">Antoine Maillet</td>
-    <td class="tg-0pky">Y4q4OfoAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">633</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">42</td>
-    <td class="tg-0pky">Cesar Ross</td>
-    <td class="tg-0pky">26ZJSbAAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">585</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">43</td>
-    <td class="tg-0pky">Alejandro Corvalan</td>
-    <td class="tg-0pky">KiGpYt4AAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">746</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">44</td>
-    <td class="tg-0pky">Sofia Donoso</td>
-    <td class="tg-0pky">MR9YwQkAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">699</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">45</td>
-    <td class="tg-0pky">Olga Espinoza M.</td>
-    <td class="tg-0pky">\_aEt164AAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">612</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">46</td>
-    <td class="tg-0pky">Tomas Dosek</td>
-    <td class="tg-0pky">XrCQY-oAAAAJ</td>
-    <td class="tg-0pky">PUCP</td>
-    <td class="tg-c3ow">469</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">47</td>
-    <td class="tg-0pky">Alejandro Olivares Lavados</td>
-    <td class="tg-0pky">POHGEtYAAAAJ</td>
-    <td class="tg-0pky">UMAYOR</td>
-    <td class="tg-c3ow">419</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">48</td>
-    <td class="tg-0pky">Stefano Palestini</td>
-    <td class="tg-0pky">1JylyXQAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">409</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">49</td>
-    <td class="tg-0pky">Isaac Caro</td>
-    <td class="tg-0pky">0i6XB6MAAAAJ</td>
-    <td class="tg-0pky">UAH</td>
-    <td class="tg-c3ow">366</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">1</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">50</td>
-    <td class="tg-0pky">Carolina Segovia</td>
-    <td class="tg-0pky">ApRJQVkAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">675</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">51</td>
-    <td class="tg-0pky">Valeria Palanza</td>
-    <td class="tg-0pky">-lzMBqcAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">666</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">52</td>
-    <td class="tg-0pky">Mauricio Apablaza</td>
-    <td class="tg-0pky">qKDaZAMAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">561</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">53</td>
-    <td class="tg-0pky">Cristian Pliscoff</td>
-    <td class="tg-0pky">7HVy8iAAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">446</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">54</td>
-    <td class="tg-0pky">Loreto Correa</td>
-    <td class="tg-0pky">iIDHIHkAAAAJ</td>
-    <td class="tg-0pky">ANEPE</td>
-    <td class="tg-c3ow">356</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">55</td>
-    <td class="tg-0pky">José Hernández-Bonivento</td>
-    <td class="tg-0pky">tBxjDkcAAAAJ</td>
-    <td class="tg-0pky">UACH</td>
-    <td class="tg-c3ow">344</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">56</td>
-    <td class="tg-0pky">Diego Barría Traverso</td>
-    <td class="tg-0pky">r5a2T-wAAAAJ</td>
-    <td class="tg-0pky">UVALPO</td>
-    <td class="tg-c3ow">333</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">57</td>
-    <td class="tg-0pky">Germán Bidegain</td>
-    <td class="tg-0pky">RBv0BPIAAAAJ</td>
-    <td class="tg-0pky">UDELAR</td>
-    <td class="tg-c3ow">326</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">58</td>
-    <td class="tg-0pky">Rodrigo M. Medel</td>
-    <td class="tg-0pky">nYgItkMAAAAJ</td>
-    <td class="tg-0pky">UAH</td>
-    <td class="tg-c3ow">504</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">59</td>
-    <td class="tg-0pky">Mireya Dávila</td>
-    <td class="tg-0pky">OLDMbVAAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">432</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">60</td>
-    <td class="tg-0pky">Veronica Figueroa Huencho</td>
-    <td class="tg-0pky">7lA1piEAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">398</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">61</td>
-    <td class="tg-0pky">Miguel Angel Lopez</td>
-    <td class="tg-0pky">rIbm6tMAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">343</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">62</td>
-    <td class="tg-0pky">Sebastián A. Umpierrez</td>
-    <td class="tg-0pky">82aQaYIAAAAJ</td>
-    <td class="tg-0pky">EUI-UDP-Leiden</td>
-    <td class="tg-c3ow">336</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">63</td>
-    <td class="tg-0pky">Jorge Fabrega</td>
-    <td class="tg-0pky">VM3OxhsAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">298</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">64</td>
-    <td class="tg-0pky">Marcelo Mella Polanco</td>
-    <td class="tg-0pky">qdm2fHgAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">240</td>
-    <td class="tg-c3ow">10</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">65</td>
-    <td class="tg-0pky">Jorge Gordin</td>
-    <td class="tg-0pky">RJp2E7cAAAAJ</td>
-    <td class="tg-0pky">unk.</td>
-    <td class="tg-c3ow">409</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">66</td>
-    <td class="tg-0pky">Vesna Mandakovic</td>
-    <td class="tg-0pky">VqjxJ4gAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">408</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">67</td>
-    <td class="tg-0pky">Claudia Heiss</td>
-    <td class="tg-0pky">nj4yvK0AAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">367</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">68</td>
-    <td class="tg-0pky">Cristina Moyano Barahona</td>
-    <td class="tg-0pky">MwnsXycAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">307</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">69</td>
-    <td class="tg-0pky">Juan Pablo Couyoumdjian</td>
-    <td class="tg-0pky">dJMnKfcAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">304</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">70</td>
-    <td class="tg-0pky">Lorena Oyarzún Serrano</td>
-    <td class="tg-0pky">5kiG1xgAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">304</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">71</td>
-    <td class="tg-0pky">Antonio Bascuñán Rodríguez</td>
-    <td class="tg-0pky">CDjgEGIAAAAJ</td>
-    <td class="tg-0pky">UAI</td>
-    <td class="tg-c3ow">295</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">72</td>
-    <td class="tg-0pky">Nicole Jenne</td>
-    <td class="tg-0pky">065KEBgAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">290</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">73</td>
-    <td class="tg-0pky">Juan Carlos Arellano</td>
-    <td class="tg-0pky">wsdmHJ0AAAAJ</td>
-    <td class="tg-0pky">UCT</td>
-    <td class="tg-c3ow">284</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">74</td>
-    <td class="tg-0pky">Catherine Reyes-Housholder</td>
-    <td class="tg-0pky">8WfwsloAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">271</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">75</td>
-    <td class="tg-0pky">Kenneth Bunker</td>
-    <td class="tg-0pky">kFHaW6wAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">224</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">76</td>
-    <td class="tg-0pky">Ignacio Arana Araya</td>
-    <td class="tg-0pky">ws3YSrkAAAAJ</td>
-    <td class="tg-0pky">CMU</td>
-    <td class="tg-c3ow">196</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">77</td>
-    <td class="tg-0pky">Andrés Dockendorff</td>
-    <td class="tg-0pky">fJbvIm4AAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">167</td>
-    <td class="tg-c3ow">9</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">78</td>
-    <td class="tg-0pky">Eugenio Guzman</td>
-    <td class="tg-0pky">kHIa5vwAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">452</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">79</td>
-    <td class="tg-0pky">Giancarlo Visconti</td>
-    <td class="tg-0pky">IYungBYAAAAJ</td>
-    <td class="tg-0pky">PSU</td>
-    <td class="tg-c3ow">340</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">80</td>
-    <td class="tg-0pky">Umut Aydin</td>
-    <td class="tg-0pky">NvlbMocAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">296</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">81</td>
-    <td class="tg-0pky">Rodrigo Osorio</td>
-    <td class="tg-0pky">3zePL\_gAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">245</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">82</td>
-    <td class="tg-0pky">Robert L. Funk</td>
-    <td class="tg-0pky">9mAm1D8AAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">216</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">83</td>
-    <td class="tg-0pky">Armando Cartes Montory</td>
-    <td class="tg-0pky">bjlo-TEAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">195</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">84</td>
-    <td class="tg-0pky">Sandra Baquedano Jer</td>
-    <td class="tg-0pky">R84mfaoAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">165</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">85</td>
-    <td class="tg-0pky">Cristian Pérez Muñoz</td>
-    <td class="tg-0pky">MKayIWEAAAAJ</td>
-    <td class="tg-0pky">UF</td>
-    <td class="tg-c3ow">154</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">86</td>
-    <td class="tg-0pky">Daniel Brieba</td>
-    <td class="tg-0pky">s112cUYAAAAJ</td>
-    <td class="tg-0pky">LSE</td>
-    <td class="tg-c3ow">124</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">87</td>
-    <td class="tg-0pky">Luis Garrido-Vergara</td>
-    <td class="tg-0pky">DlO0jXVS4FIC</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">423</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">88</td>
-    <td class="tg-0pky">Javier Sajuria</td>
-    <td class="tg-0pky">elmJq2gAAAAJ</td>
-    <td class="tg-0pky">QMUL</td>
-    <td class="tg-c3ow">300</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">89</td>
-    <td class="tg-0pky">Gonzalo Contreras Aguirre</td>
-    <td class="tg-0pky">bsi-e88AAAAJ</td>
-    <td class="tg-0pky">OXF</td>
-    <td class="tg-c3ow">250</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">90</td>
-    <td class="tg-0pky">Cecilia Osorio Gonnet</td>
-    <td class="tg-0pky">Y9qxhQ8AAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">247</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">91</td>
-    <td class="tg-0pky">Jaime Baeza Freer</td>
-    <td class="tg-0pky">xwVLXRQAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">183</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">92</td>
-    <td class="tg-0pky">Victor Tricot Salomon</td>
-    <td class="tg-0pky">O7DOqCcAAAAJ</td>
-    <td class="tg-0pky">unk.</td>
-    <td class="tg-c3ow">170</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">93</td>
-    <td class="tg-0pky">Evelyn Arriagada</td>
-    <td class="tg-0pky">zAw8CDAAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">166</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">94</td>
-    <td class="tg-0pky">Giovanni Agostinis</td>
-    <td class="tg-0pky">u9c4q20AAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">139</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">95</td>
-    <td class="tg-0pky">Lisa Zanotti</td>
-    <td class="tg-0pky">f9up4NwAAAAJ</td>
-    <td class="tg-0pky">UDP-UAM</td>
-    <td class="tg-c3ow">130</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">96</td>
-    <td class="tg-0pky">Cristóbal Bellolio B.</td>
-    <td class="tg-0pky">8L8S57cAAAAJ</td>
-    <td class="tg-0pky">UAI</td>
-    <td class="tg-c3ow">103</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">2</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">97</td>
-    <td class="tg-0pky">Rodolfo Disi Pavlic</td>
-    <td class="tg-0pky">xFcbnmMAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">270</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">98</td>
-    <td class="tg-0pky">Jeanne W. Simon</td>
-    <td class="tg-0pky">\_mHLvikAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">249</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">99</td>
-    <td class="tg-0pky">Ines Picazo Verdejo</td>
-    <td class="tg-0pky">8rPfIQYAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">186</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">100</td>
-    <td class="tg-0pky">Rene Jara</td>
-    <td class="tg-0pky">oeRXDWkAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">172</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">101</td>
-    <td class="tg-0pky">Gonzalo Alvarez Fuentes</td>
-    <td class="tg-0pky">sC-GIj8AAAAJ</td>
-    <td class="tg-0pky">UNAP</td>
-    <td class="tg-c3ow">171</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">102</td>
-    <td class="tg-0pky">Máximo Quitral Rojas</td>
-    <td class="tg-0pky">Iz7nUN8AAAAJ</td>
-    <td class="tg-0pky">UTEM</td>
-    <td class="tg-c3ow">132</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">103</td>
-    <td class="tg-0pky">Nicolás Del Valle Orellana</td>
-    <td class="tg-0pky">800PtAYAAAAJ</td>
-    <td class="tg-0pky">IIPSS</td>
-    <td class="tg-c3ow">128</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">104</td>
-    <td class="tg-0pky">Maite De Cea</td>
-    <td class="tg-0pky">tHL6bFwAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">128</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">105</td>
-    <td class="tg-0pky">Felipe Schwember</td>
-    <td class="tg-0pky">YAryivQAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">124</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">106</td>
-    <td class="tg-0pky">Diego Rossello</td>
-    <td class="tg-0pky">-MWiRrUAAAAJ</td>
-    <td class="tg-0pky">UAI</td>
-    <td class="tg-c3ow">115</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">107</td>
-    <td class="tg-0pky">Roberto Mardones</td>
-    <td class="tg-0pky">99rI\_qsAAAAJ</td>
-    <td class="tg-0pky">UBB</td>
-    <td class="tg-c3ow">110</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">108</td>
-    <td class="tg-0pky">Lucia Miranda Leibe</td>
-    <td class="tg-0pky">PfjSTeUAAAAJ</td>
-    <td class="tg-0pky">FLACSO</td>
-    <td class="tg-c3ow">110</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">109</td>
-    <td class="tg-0pky">Bernardo Mackenna</td>
-    <td class="tg-0pky">UALXeUMAAAAJ</td>
-    <td class="tg-0pky">UCSD</td>
-    <td class="tg-c3ow">107</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">110</td>
-    <td class="tg-0pky">Rodrigo Cuevas</td>
-    <td class="tg-0pky">MVRwJT0AAAAJ</td>
-    <td class="tg-0pky">UCT</td>
-    <td class="tg-c3ow">71</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">111</td>
-    <td class="tg-0pky">María Gabriela Cordova</td>
-    <td class="tg-0pky">YDPznzAAAAAJ</td>
-    <td class="tg-0pky">ULAGOS</td>
-    <td class="tg-c3ow">302</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">112</td>
-    <td class="tg-0pky">Lucas Perelló</td>
-    <td class="tg-0pky">ShRtBhMAAAAJ</td>
-    <td class="tg-0pky">SC</td>
-    <td class="tg-c3ow">92</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">113</td>
-    <td class="tg-0pky">Carlos Cantillana</td>
-    <td class="tg-0pky">8iP3MuwAAAAJ</td>
-    <td class="tg-0pky">unk.</td>
-    <td class="tg-c3ow">87</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">114</td>
-    <td class="tg-0pky">Christopher A Martínez</td>
-    <td class="tg-0pky">37hEwq8AAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">86</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">115</td>
-    <td class="tg-0pky">Juan Pablo Araya-Orellana</td>
-    <td class="tg-0pky">eDBbeDcAAAAJ</td>
-    <td class="tg-0pky">UOH</td>
-    <td class="tg-c3ow">86</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">116</td>
-    <td class="tg-0pky">Alfonso Donoso</td>
-    <td class="tg-0pky">OrPr-3AAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">78</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">117</td>
-    <td class="tg-0pky">María Cristina Escudero</td>
-    <td class="tg-0pky">s6VvyfsAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">77</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">118</td>
-    <td class="tg-0pky">Anthony A. Pezzola</td>
-    <td class="tg-0pky">U\_YqfqAAAAAJ</td>
-    <td class="tg-0pky">WU</td>
-    <td class="tg-c3ow">76</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">119</td>
-    <td class="tg-0pky">Karina Arias Yurisch</td>
-    <td class="tg-0pky">glnCpMkAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">67</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">120</td>
-    <td class="tg-0pky">Jose M. Cabezas</td>
-    <td class="tg-0pky">ie78OmcAAAAJ</td>
-    <td class="tg-0pky">UMAYOR</td>
-    <td class="tg-c3ow">91</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">121</td>
-    <td class="tg-0pky">Carla Cisternas</td>
-    <td class="tg-0pky">ArIMp5YAAAAJ</td>
-    <td class="tg-0pky">Leiden</td>
-    <td class="tg-c3ow">81</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">122</td>
-    <td class="tg-0pky">Susana Gazmuri</td>
-    <td class="tg-0pky">ZOmEt88AAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">65</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">123</td>
-    <td class="tg-0pky">Diego Telias</td>
-    <td class="tg-0pky">ZjxwRK0AAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">63</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">124</td>
-    <td class="tg-0pky">Macarena Valenzuela Beltrán</td>
-    <td class="tg-0pky">xP-7heoAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">59</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">125</td>
-    <td class="tg-0pky">Pablo Valenzuela</td>
-    <td class="tg-0pky">cyKIMlUAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">57</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">126</td>
-    <td class="tg-0pky">Daniel Flores Cáceres</td>
-    <td class="tg-0pky">VQKPXBMAAAAJ</td>
-    <td class="tg-0pky">ULAGOS</td>
-    <td class="tg-c3ow">54</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">127</td>
-    <td class="tg-0pky">Waleska Muñoz Aravena</td>
-    <td class="tg-0pky">ihALyKUAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">53</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">128</td>
-    <td class="tg-0pky">Matthias Erlandsen</td>
-    <td class="tg-0pky">HA5\_6QUAAAAJ</td>
-    <td class="tg-0pky">FLACSO</td>
-    <td class="tg-c3ow">50</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">129</td>
-    <td class="tg-0pky">Karen Manzano Iturra</td>
-    <td class="tg-0pky">grB28SkAAAAJ</td>
-    <td class="tg-0pky">USS</td>
-    <td class="tg-c3ow">48</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">130</td>
-    <td class="tg-0pky">Carla Alberti</td>
-    <td class="tg-0pky">3tcX6pYAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">48</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">131</td>
-    <td class="tg-0pky">Hector Bahamonde</td>
-    <td class="tg-0pky">3FHDoL0AAAAJ</td>
-    <td class="tg-0pky">UTU</td>
-    <td class="tg-c3ow">43</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">132</td>
-    <td class="tg-0pky">Sebastián Carrasco Soto</td>
-    <td class="tg-0pky">CrQouUsAAAAJ</td>
-    <td class="tg-0pky">UCT</td>
-    <td class="tg-c3ow">39</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">133</td>
-    <td class="tg-0pky">Javiera Arce-Riffo</td>
-    <td class="tg-0pky">IiVB-oQAAAAJ</td>
-    <td class="tg-0pky">UCL</td>
-    <td class="tg-c3ow">32</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">134</td>
-    <td class="tg-0pky">Federico Rojas-de-Galarreta</td>
-    <td class="tg-0pky">hTyE9WAAAAAJ</td>
-    <td class="tg-0pky">UCHILE</td>
-    <td class="tg-c3ow">69</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">135</td>
-    <td class="tg-0pky">Pablo Argote</td>
-    <td class="tg-0pky">6DqP7GsAAAAJ</td>
-    <td class="tg-0pky">CU</td>
-    <td class="tg-c3ow">51</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">136</td>
-    <td class="tg-0pky">Cristóbal Bywaters</td>
-    <td class="tg-0pky">omFHUesAAAAJ</td>
-    <td class="tg-0pky">WARW</td>
-    <td class="tg-c3ow">49</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">137</td>
-    <td class="tg-0pky">Sergio Huertas-Hernandez</td>
-    <td class="tg-0pky">fv7N0eUAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">36</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">138</td>
-    <td class="tg-0pky">Violeta Montero</td>
-    <td class="tg-0pky">21Iq\_\_YAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">31</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">139</td>
-    <td class="tg-0pky">Ross Mittiga</td>
-    <td class="tg-0pky">o4ZnQNsAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">27</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">140</td>
-    <td class="tg-0pky">María Patricia Sotomayor</td>
-    <td class="tg-0pky">ZRf8dtAAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">23</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">141</td>
-    <td class="tg-0pky">Ely Orrego-Torres</td>
-    <td class="tg-0pky">89bS-lkAAAAJ</td>
-    <td class="tg-0pky">NWU</td>
-    <td class="tg-c3ow">18</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">142</td>
-    <td class="tg-0pky">Laura Levick</td>
-    <td class="tg-0pky">otugCsoAAAAJ</td>
-    <td class="tg-0pky">STU</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">143</td>
-    <td class="tg-0pky">Jaime Contreras Alvarez</td>
-    <td class="tg-0pky">QeDE2BwAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">52</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">144</td>
-    <td class="tg-0pky">Germán Campos-Herrera</td>
-    <td class="tg-0pky">zWIsBT8AAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">33</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">145</td>
-    <td class="tg-0pky">Katherine Figueroa Aillañir</td>
-    <td class="tg-0pky">1vOi\_OsAAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">32</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">146</td>
-    <td class="tg-0pky">Mariol Virgili Lillo</td>
-    <td class="tg-0pky">pr35r24AAAAJ</td>
-    <td class="tg-0pky">UDEC</td>
-    <td class="tg-c3ow">32</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">147</td>
-    <td class="tg-0pky">Nicole Darat</td>
-    <td class="tg-0pky">EQrjT5sAAAAJ</td>
-    <td class="tg-0pky">UAI</td>
-    <td class="tg-c3ow">29</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">148</td>
-    <td class="tg-0pky">Carolina Acevedo</td>
-    <td class="tg-0pky">KNKPs0EAAAAJ</td>
-    <td class="tg-0pky">UCT</td>
-    <td class="tg-c3ow">25</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">149</td>
-    <td class="tg-0pky">Rodolfo de Camargo Lima</td>
-    <td class="tg-0pky">1R7MsicAAAAJ</td>
-    <td class="tg-0pky">UCT</td>
-    <td class="tg-c3ow">20</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">150</td>
-    <td class="tg-0pky">Hernán Campos Parra</td>
-    <td class="tg-0pky">QIn03zIAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">20</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">151</td>
-    <td class="tg-0pky">Arlette Martínez Ossa</td>
-    <td class="tg-0pky">kv5dWS4AAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">18</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">152</td>
-    <td class="tg-0pky">Constanza Jorquera Mery</td>
-    <td class="tg-0pky">DZbBocQAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">16</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">153</td>
-    <td class="tg-0pky">Antonio Canale-Mayet</td>
-    <td class="tg-0pky">dFcoyfMAAAAJ</td>
-    <td class="tg-0pky">IL</td>
-    <td class="tg-c3ow">13</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">154</td>
-    <td class="tg-0pky">Hugo Jofré</td>
-    <td class="tg-0pky">9JmWI5MAAAAJ</td>
-    <td class="tg-0pky">UA</td>
-    <td class="tg-c3ow">12</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">155</td>
-    <td class="tg-0pky">Gonzalo Espinoza Bianchini</td>
-    <td class="tg-0pky">0cEbNnwAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">156</td>
-    <td class="tg-0pky">Ximena Soto Soutullo</td>
-    <td class="tg-0pky">r2q0t8cAAAAJ</td>
-    <td class="tg-0pky">KCL</td>
-    <td class="tg-c3ow">70</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">157</td>
-    <td class="tg-0pky">Daniel Santibañez Guerrero</td>
-    <td class="tg-0pky">B7eJM\_0AAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">23</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">158</td>
-    <td class="tg-0pky">Nicolás Mimica</td>
-    <td class="tg-0pky">u0K3FJMAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">11</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">159</td>
-    <td class="tg-0pky">Claudio Fuentes-González</td>
-    <td class="tg-0pky">vLROxScAAAAJ</td>
-    <td class="tg-0pky">UACH</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">160</td>
-    <td class="tg-0pky">Cristóbal Sandoval Rojo</td>
-    <td class="tg-0pky">aw7lNr4AAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">8</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">161</td>
-    <td class="tg-0pky">Renata Retamal Iturriaga</td>
-    <td class="tg-0pky">V8JzxeQAAAAJ</td>
-    <td class="tg-0pky">unk.</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">162</td>
-    <td class="tg-0pky">Jose de la Cruz Garrido</td>
-    <td class="tg-0pky">Q8J28ZcAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">6</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">163</td>
-    <td class="tg-0pky">Caterina Bo Guzman</td>
-    <td class="tg-0pky">3ULmjXcAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">164</td>
-    <td class="tg-0pky">Ariel Becerra</td>
-    <td class="tg-0pky">b7GxWBAAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">165</td>
-    <td class="tg-0pky">Fernando Schmidt</td>
-    <td class="tg-0pky">wXHJZ4oAAAAJ</td>
-    <td class="tg-0pky">UDD</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">166</td>
-    <td class="tg-0pky">Marcelo Marzouka</td>
-    <td class="tg-0pky">kj503iEAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">167</td>
-    <td class="tg-0pky">Andrés Stark Azocar</td>
-    <td class="tg-0pky">mQwDWagAAAAJ</td>
-    <td class="tg-0pky">UAI</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">168</td>
-    <td class="tg-0pky">Francisca Lisbona Saavedra</td>
-    <td class="tg-0pky">8BB7GS4AAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">169</td>
-    <td class="tg-0pky">Luis Clavería Cambón</td>
-    <td class="tg-0pky">8jETtdIAAAAJ</td>
-    <td class="tg-0pky">USACH</td>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">170</td>
-    <td class="tg-0pky">Shirley Gotz</td>
-    <td class="tg-0pky">MsPC8uwAAAAJ</td>
-    <td class="tg-0pky">UAH</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">171</td>
-    <td class="tg-0pky">Vicente Faúndez Caicedo</td>
-    <td class="tg-0pky">xhj3oqEAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">172</td>
-    <td class="tg-0pky">Nerea C. Palma</td>
-    <td class="tg-0pky">qNc7eZgAAAAJ</td>
-    <td class="tg-0pky">PUC</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">173</td>
-    <td class="tg-0pky">Jhon Jaime-Godoy</td>
-    <td class="tg-0pky">zqlTlxYAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">174</td>
-    <td class="tg-0pky">Carolina Pérez Aburto</td>
-    <td class="tg-0pky">vgJHvAcAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">4</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">175</td>
-    <td class="tg-0pky">Verónica Figueroa-Gutiérrez</td>
-    <td class="tg-0pky">IuQrLCEAAAAJ</td>
-    <td class="tg-0pky">UDP</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">0</td>
-    <td class="tg-c3ow">4</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-buh4">David Altman</td>
+    <td class="tg-buh4">xWbhhH8AAAAJ</td>
+    <td class="tg-buh4">PUC-VDEM</td>
+    <td class="tg-dzk6">8,852</td>
+    <td class="tg-dzk6">42</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">2</td>
+    <td class="tg-0lax">Cristóbal Rovira Kaltwasser</td>
+    <td class="tg-0lax">4iRjwbMAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">12,365</td>
+    <td class="tg-baqh">39</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">3</td>
+    <td class="tg-buh4">Lucia Dammert</td>
+    <td class="tg-buh4">Kh9TTGwAAAAJ</td>
+    <td class="tg-buh4">USACH</td>
+    <td class="tg-dzk6">4,153</td>
+    <td class="tg-dzk6">35</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">4</td>
+    <td class="tg-0lax">Juan Pablo Luna</td>
+    <td class="tg-0lax">IgwSc8oAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">4,575</td>
+    <td class="tg-baqh">33</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-buh4">Patricio D Navia</td>
+    <td class="tg-buh4">IBcs-ZwAAAAJ</td>
+    <td class="tg-buh4">UDP-NYU</td>
+    <td class="tg-dzk6">4,247</td>
+    <td class="tg-dzk6">31</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">6</td>
+    <td class="tg-0lax">Gabriel L. Negretto</td>
+    <td class="tg-0lax">AP5zUGwAAAAJ</td>
+    <td class="tg-0lax">PUC-CIDE</td>
+    <td class="tg-baqh">3,631</td>
+    <td class="tg-baqh">31</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-buh4">Peter Siavelis</td>
+    <td class="tg-buh4">HGTSACIAAAAJ</td>
+    <td class="tg-buh4">WFU-COES</td>
+    <td class="tg-dzk6">4,312</td>
+    <td class="tg-dzk6">29</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">8</td>
+    <td class="tg-0lax">Mauricio Morales Quiroga</td>
+    <td class="tg-0lax">BPVbhToAAAAJ</td>
+    <td class="tg-0lax">UTALCA</td>
+    <td class="tg-baqh">1,878</td>
+    <td class="tg-baqh">28</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-buh4">Carlos Huneeus</td>
+    <td class="tg-buh4">Kq4dWnoAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">3,865</td>
+    <td class="tg-dzk6">27</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">10</td>
+    <td class="tg-0lax">Alfredo Joignant</td>
+    <td class="tg-0lax">C6i7344AAAAJ</td>
+    <td class="tg-0lax">UDP-COES</td>
+    <td class="tg-baqh">2,540</td>
+    <td class="tg-baqh">27</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">11</td>
+    <td class="tg-buh4">Fernando Atria</td>
+    <td class="tg-buh4">InrV7oEAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">2,971</td>
+    <td class="tg-dzk6">26</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">12</td>
+    <td class="tg-0lax">Felipe Agüero</td>
+    <td class="tg-0lax">JSPWdfYAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">2,606</td>
+    <td class="tg-baqh">26</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">13</td>
+    <td class="tg-buh4">Hary Hugo Fruhling</td>
+    <td class="tg-buh4">dJKWN8wAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">2,104</td>
+    <td class="tg-dzk6">26</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">14</td>
+    <td class="tg-0lax">Claudio Fuentes</td>
+    <td class="tg-0lax">ckIjzZQAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">1,921</td>
+    <td class="tg-baqh">24</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">15</td>
+    <td class="tg-buh4">Kirsten Sehnbruch</td>
+    <td class="tg-buh4">qFLejd0AAAAJ</td>
+    <td class="tg-buh4">LSE-COES</td>
+    <td class="tg-dzk6">1,836</td>
+    <td class="tg-dzk6">23</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">16</td>
+    <td class="tg-0lax">Nicolás M. Somma</td>
+    <td class="tg-0lax">yyr6ge0AAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">2,027</td>
+    <td class="tg-baqh">22</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">17</td>
+    <td class="tg-buh4">Álvaro Ramírez-Alujas</td>
+    <td class="tg-buh4">wk\_RO-sAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">1,725</td>
+    <td class="tg-dzk6">21</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">18</td>
+    <td class="tg-0lax">Carlos Meléndez</td>
+    <td class="tg-0lax">JD\_X4KYAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">1,646</td>
+    <td class="tg-baqh">21</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">19</td>
+    <td class="tg-buh4">Egon Montecinos</td>
+    <td class="tg-buh4">NcxMjkAAAAAJ</td>
+    <td class="tg-buh4">UACH</td>
+    <td class="tg-dzk6">1,535</td>
+    <td class="tg-dzk6">21</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">20</td>
+    <td class="tg-0lax">Javier Couso</td>
+    <td class="tg-0lax">r0EzJ\_IAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">1,615</td>
+    <td class="tg-baqh">18</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">21</td>
+    <td class="tg-buh4">Sergio Toro Maureira</td>
+    <td class="tg-buh4">F7Dguu4AAAAJ</td>
+    <td class="tg-buh4">UMAYOR</td>
+    <td class="tg-dzk6">955</td>
+    <td class="tg-dzk6">18</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">22</td>
+    <td class="tg-0lax">Pierre Ostiguy</td>
+    <td class="tg-0lax">CdsiN9QAAAAJ</td>
+    <td class="tg-0lax">UVALPO</td>
+    <td class="tg-baqh">1,967</td>
+    <td class="tg-baqh">17</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">23</td>
+    <td class="tg-buh4">Arturo Arriagada</td>
+    <td class="tg-buh4">TzPYdWsAAAAJ</td>
+    <td class="tg-buh4">UAI</td>
+    <td class="tg-dzk6">1,729</td>
+    <td class="tg-dzk6">17</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">24</td>
+    <td class="tg-0lax">Mauricio Olavarría-Gambi</td>
+    <td class="tg-0lax">yXeMPpEAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">1,477</td>
+    <td class="tg-baqh">17</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">25</td>
+    <td class="tg-buh4">Leslie Wehner</td>
+    <td class="tg-buh4">8jxM4fcAAAAJ</td>
+    <td class="tg-buh4">UOB</td>
+    <td class="tg-dzk6">1,339</td>
+    <td class="tg-dzk6">17</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">26</td>
+    <td class="tg-0lax">Patricio Valdivieso</td>
+    <td class="tg-0lax">RqH9nVAAAAAJ</td>
+    <td class="tg-0lax">UACH</td>
+    <td class="tg-baqh">910</td>
+    <td class="tg-baqh">16</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">27</td>
+    <td class="tg-buh4">Rossana Castiglioni</td>
+    <td class="tg-buh4">gkHNPiwAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">788</td>
+    <td class="tg-dzk6">16</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">28</td>
+    <td class="tg-0lax">Bastián González-Bustamante</td>
+    <td class="tg-0lax">UknWOrEAAAAJ</td>
+    <td class="tg-0lax">OXF-USACH</td>
+    <td class="tg-baqh">748</td>
+    <td class="tg-baqh">16</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">29</td>
+    <td class="tg-buh4">Fernando Rosenblatt</td>
+    <td class="tg-buh4">HaX6qs4AAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">628</td>
+    <td class="tg-dzk6">16</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">30</td>
+    <td class="tg-0lax">Esteban Valenzuela</td>
+    <td class="tg-0lax">dQZFoWYAAAAJ</td>
+    <td class="tg-0lax">UDEC</td>
+    <td class="tg-baqh">763</td>
+    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">31</td>
+    <td class="tg-buh4">Rodrigo Mardones</td>
+    <td class="tg-buh4">5cAowpkAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">759</td>
+    <td class="tg-dzk6">15</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">32</td>
+    <td class="tg-0lax">William Porath</td>
+    <td class="tg-0lax">JxOP4-oAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">706</td>
+    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">33</td>
+    <td class="tg-buh4">Francisco Urdinez</td>
+    <td class="tg-buh4">eubX-aYAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">593</td>
+    <td class="tg-dzk6">15</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">34</td>
+    <td class="tg-0lax">Octavio Avendaño</td>
+    <td class="tg-0lax">JRlbehsAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">670</td>
+    <td class="tg-baqh">14</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">35</td>
+    <td class="tg-buh4">Cristian Garay Vera</td>
+    <td class="tg-buh4">14QQq0cAAAAJ</td>
+    <td class="tg-buh4">USACH</td>
+    <td class="tg-dzk6">650</td>
+    <td class="tg-dzk6">14</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">36</td>
+    <td class="tg-0lax">Adrian Albala</td>
+    <td class="tg-0lax">KZhWCqgAAAAJ</td>
+    <td class="tg-0lax">UnB</td>
+    <td class="tg-baqh">456</td>
+    <td class="tg-baqh">14</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">37</td>
+    <td class="tg-buh4">Aldo Madariaga</td>
+    <td class="tg-buh4">n0UQqa4AAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">1,295</td>
+    <td class="tg-dzk6">13</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">38</td>
+    <td class="tg-0lax">Matias Bargsted</td>
+    <td class="tg-0lax">0oYjLYEAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">1,003</td>
+    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">39</td>
+    <td class="tg-buh4">Julieta Suarez-Cao</td>
+    <td class="tg-buh4">i2JJrfYAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">861</td>
+    <td class="tg-dzk6">13</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">40</td>
+    <td class="tg-0lax">Ricardo Gamboa Valenzuela</td>
+    <td class="tg-0lax">nOBjxWUAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">690</td>
+    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">41</td>
+    <td class="tg-buh4">Antoine Maillet</td>
+    <td class="tg-buh4">Y4q4OfoAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">633</td>
+    <td class="tg-dzk6">13</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">42</td>
+    <td class="tg-0lax">Cesar Ross</td>
+    <td class="tg-0lax">26ZJSbAAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">585</td>
+    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">43</td>
+    <td class="tg-buh4">Alejandro Corvalan</td>
+    <td class="tg-buh4">KiGpYt4AAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">746</td>
+    <td class="tg-dzk6">12</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">44</td>
+    <td class="tg-0lax">Sofia Donoso</td>
+    <td class="tg-0lax">MR9YwQkAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">699</td>
+    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">45</td>
+    <td class="tg-buh4">Olga Espinoza M.</td>
+    <td class="tg-buh4">\_aEt164AAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">612</td>
+    <td class="tg-dzk6">12</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">46</td>
+    <td class="tg-0lax">Tomas Dosek</td>
+    <td class="tg-0lax">XrCQY-oAAAAJ</td>
+    <td class="tg-0lax">PUCP</td>
+    <td class="tg-baqh">469</td>
+    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">47</td>
+    <td class="tg-buh4">Alejandro Olivares Lavados</td>
+    <td class="tg-buh4">POHGEtYAAAAJ</td>
+    <td class="tg-buh4">UMAYOR</td>
+    <td class="tg-dzk6">419</td>
+    <td class="tg-dzk6">12</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">48</td>
+    <td class="tg-0lax">Stefano Palestini</td>
+    <td class="tg-0lax">1JylyXQAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">409</td>
+    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">1</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">49</td>
+    <td class="tg-buh4">Isaac Caro</td>
+    <td class="tg-buh4">0i6XB6MAAAAJ</td>
+    <td class="tg-buh4">UAH</td>
+    <td class="tg-dzk6">366</td>
+    <td class="tg-dzk6">12</td>
+    <td class="tg-dzk6">1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">50</td>
+    <td class="tg-0lax">Carolina Segovia</td>
+    <td class="tg-0lax">ApRJQVkAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">675</td>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">51</td>
+    <td class="tg-buh4">Valeria Palanza</td>
+    <td class="tg-buh4">-lzMBqcAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">666</td>
+    <td class="tg-dzk6">11</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">52</td>
+    <td class="tg-0lax">Mauricio Apablaza</td>
+    <td class="tg-0lax">qKDaZAMAAAAJ</td>
+    <td class="tg-0lax">UDD</td>
+    <td class="tg-baqh">561</td>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">53</td>
+    <td class="tg-buh4">Cristian Pliscoff</td>
+    <td class="tg-buh4">7HVy8iAAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">446</td>
+    <td class="tg-dzk6">11</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">54</td>
+    <td class="tg-0lax">Loreto Correa</td>
+    <td class="tg-0lax">iIDHIHkAAAAJ</td>
+    <td class="tg-0lax">ANEPE</td>
+    <td class="tg-baqh">356</td>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">55</td>
+    <td class="tg-buh4">José Hernández-Bonivento</td>
+    <td class="tg-buh4">tBxjDkcAAAAJ</td>
+    <td class="tg-buh4">UACH</td>
+    <td class="tg-dzk6">344</td>
+    <td class="tg-dzk6">11</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">56</td>
+    <td class="tg-0lax">Diego Barría Traverso</td>
+    <td class="tg-0lax">r5a2T-wAAAAJ</td>
+    <td class="tg-0lax">UVALPO</td>
+    <td class="tg-baqh">333</td>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">57</td>
+    <td class="tg-buh4">Germán Bidegain</td>
+    <td class="tg-buh4">RBv0BPIAAAAJ</td>
+    <td class="tg-buh4">UDELAR</td>
+    <td class="tg-dzk6">326</td>
+    <td class="tg-dzk6">11</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">58</td>
+    <td class="tg-0lax">Rodrigo M. Medel</td>
+    <td class="tg-0lax">nYgItkMAAAAJ</td>
+    <td class="tg-0lax">UAH</td>
+    <td class="tg-baqh">504</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">59</td>
+    <td class="tg-buh4">Mireya Dávila</td>
+    <td class="tg-buh4">OLDMbVAAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">432</td>
+    <td class="tg-dzk6">10</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">60</td>
+    <td class="tg-0lax">Veronica Figueroa Huencho</td>
+    <td class="tg-0lax">7lA1piEAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">398</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">61</td>
+    <td class="tg-buh4">Miguel Angel Lopez</td>
+    <td class="tg-buh4">rIbm6tMAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">343</td>
+    <td class="tg-dzk6">10</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">62</td>
+    <td class="tg-0lax">Sebastián A. Umpierrez</td>
+    <td class="tg-0lax">82aQaYIAAAAJ</td>
+    <td class="tg-0lax">EUI-UDP-Leiden</td>
+    <td class="tg-baqh">336</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">63</td>
+    <td class="tg-buh4">Jorge Fabrega</td>
+    <td class="tg-buh4">VM3OxhsAAAAJ</td>
+    <td class="tg-buh4">UDD</td>
+    <td class="tg-dzk6">298</td>
+    <td class="tg-dzk6">10</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">64</td>
+    <td class="tg-0lax">Marcelo Mella Polanco</td>
+    <td class="tg-0lax">qdm2fHgAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">240</td>
+    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">65</td>
+    <td class="tg-buh4">Jorge Gordin</td>
+    <td class="tg-buh4">RJp2E7cAAAAJ</td>
+    <td class="tg-buh4">unk.</td>
+    <td class="tg-dzk6">409</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">66</td>
+    <td class="tg-0lax">Vesna Mandakovic</td>
+    <td class="tg-0lax">VqjxJ4gAAAAJ</td>
+    <td class="tg-0lax">UDD</td>
+    <td class="tg-baqh">408</td>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">67</td>
+    <td class="tg-buh4">Claudia Heiss</td>
+    <td class="tg-buh4">nj4yvK0AAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">367</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">68</td>
+    <td class="tg-0lax">Cristina Moyano Barahona</td>
+    <td class="tg-0lax">MwnsXycAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">307</td>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">69</td>
+    <td class="tg-buh4">Juan Pablo Couyoumdjian</td>
+    <td class="tg-buh4">dJMnKfcAAAAJ</td>
+    <td class="tg-buh4">UDD</td>
+    <td class="tg-dzk6">304</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">70</td>
+    <td class="tg-0lax">Lorena Oyarzún Serrano</td>
+    <td class="tg-0lax">5kiG1xgAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">304</td>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">71</td>
+    <td class="tg-buh4">Antonio Bascuñán Rodríguez</td>
+    <td class="tg-buh4">CDjgEGIAAAAJ</td>
+    <td class="tg-buh4">UAI</td>
+    <td class="tg-dzk6">295</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">72</td>
+    <td class="tg-0lax">Nicole Jenne</td>
+    <td class="tg-0lax">065KEBgAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">290</td>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">73</td>
+    <td class="tg-buh4">Juan Carlos Arellano</td>
+    <td class="tg-buh4">wsdmHJ0AAAAJ</td>
+    <td class="tg-buh4">UCT</td>
+    <td class="tg-dzk6">284</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">74</td>
+    <td class="tg-0lax">Catherine Reyes-Housholder</td>
+    <td class="tg-0lax">8WfwsloAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">271</td>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">75</td>
+    <td class="tg-buh4">Kenneth Bunker</td>
+    <td class="tg-buh4">kFHaW6wAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">224</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">76</td>
+    <td class="tg-0lax">Ignacio Arana Araya</td>
+    <td class="tg-0lax">ws3YSrkAAAAJ</td>
+    <td class="tg-0lax">CMU</td>
+    <td class="tg-baqh">196</td>
+    <td class="tg-baqh">9</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">77</td>
+    <td class="tg-buh4">Andrés Dockendorff</td>
+    <td class="tg-buh4">fJbvIm4AAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">167</td>
+    <td class="tg-dzk6">9</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">78</td>
+    <td class="tg-0lax">Eugenio Guzman</td>
+    <td class="tg-0lax">kHIa5vwAAAAJ</td>
+    <td class="tg-0lax">UDD</td>
+    <td class="tg-baqh">452</td>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">79</td>
+    <td class="tg-buh4">Giancarlo Visconti</td>
+    <td class="tg-buh4">IYungBYAAAAJ</td>
+    <td class="tg-buh4">PSU</td>
+    <td class="tg-dzk6">340</td>
+    <td class="tg-dzk6">8</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">80</td>
+    <td class="tg-0lax">Umut Aydin</td>
+    <td class="tg-0lax">NvlbMocAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">296</td>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">81</td>
+    <td class="tg-buh4">Rodrigo Osorio</td>
+    <td class="tg-buh4">3zePL\_gAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">245</td>
+    <td class="tg-dzk6">8</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">82</td>
+    <td class="tg-0lax">Robert L. Funk</td>
+    <td class="tg-0lax">9mAm1D8AAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">216</td>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">83</td>
+    <td class="tg-buh4">Armando Cartes Montory</td>
+    <td class="tg-buh4">bjlo-TEAAAAJ</td>
+    <td class="tg-buh4">UDEC</td>
+    <td class="tg-dzk6">195</td>
+    <td class="tg-dzk6">8</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">84</td>
+    <td class="tg-0lax">Sandra Baquedano Jer</td>
+    <td class="tg-0lax">R84mfaoAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">165</td>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">85</td>
+    <td class="tg-buh4">Cristian Pérez Muñoz</td>
+    <td class="tg-buh4">MKayIWEAAAAJ</td>
+    <td class="tg-buh4">UF</td>
+    <td class="tg-dzk6">154</td>
+    <td class="tg-dzk6">8</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">86</td>
+    <td class="tg-0lax">Daniel Brieba</td>
+    <td class="tg-0lax">s112cUYAAAAJ</td>
+    <td class="tg-0lax">LSE</td>
+    <td class="tg-baqh">124</td>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">87</td>
+    <td class="tg-buh4">Luis Garrido-Vergara</td>
+    <td class="tg-buh4">DlO0jXVS4FIC</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">423</td>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">88</td>
+    <td class="tg-0lax">Javier Sajuria</td>
+    <td class="tg-0lax">elmJq2gAAAAJ</td>
+    <td class="tg-0lax">QMUL</td>
+    <td class="tg-baqh">300</td>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">89</td>
+    <td class="tg-buh4">Gonzalo Contreras Aguirre</td>
+    <td class="tg-buh4">bsi-e88AAAAJ</td>
+    <td class="tg-buh4">OXF</td>
+    <td class="tg-dzk6">250</td>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">90</td>
+    <td class="tg-0lax">Cecilia Osorio Gonnet</td>
+    <td class="tg-0lax">Y9qxhQ8AAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">247</td>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">91</td>
+    <td class="tg-buh4">Jaime Baeza Freer</td>
+    <td class="tg-buh4">xwVLXRQAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">183</td>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">92</td>
+    <td class="tg-0lax">Victor Tricot Salomon</td>
+    <td class="tg-0lax">O7DOqCcAAAAJ</td>
+    <td class="tg-0lax">unk.</td>
+    <td class="tg-baqh">170</td>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">93</td>
+    <td class="tg-buh4">Evelyn Arriagada</td>
+    <td class="tg-buh4">zAw8CDAAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">166</td>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">94</td>
+    <td class="tg-0lax">Giovanni Agostinis</td>
+    <td class="tg-0lax">u9c4q20AAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">139</td>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">95</td>
+    <td class="tg-buh4">Lisa Zanotti</td>
+    <td class="tg-buh4">f9up4NwAAAAJ</td>
+    <td class="tg-buh4">UDP-UAM</td>
+    <td class="tg-dzk6">130</td>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-dzk6">2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">96</td>
+    <td class="tg-0lax">Cristóbal Bellolio B.</td>
+    <td class="tg-0lax">8L8S57cAAAAJ</td>
+    <td class="tg-0lax">UAI</td>
+    <td class="tg-baqh">103</td>
+    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">2</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">97</td>
+    <td class="tg-buh4">Rodolfo Disi Pavlic</td>
+    <td class="tg-buh4">xFcbnmMAAAAJ</td>
+    <td class="tg-buh4">USACH</td>
+    <td class="tg-dzk6">270</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">98</td>
+    <td class="tg-0lax">Jeanne W. Simon</td>
+    <td class="tg-0lax">\_mHLvikAAAAJ</td>
+    <td class="tg-0lax">UDEC</td>
+    <td class="tg-baqh">249</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">99</td>
+    <td class="tg-buh4">Ines Picazo Verdejo</td>
+    <td class="tg-buh4">8rPfIQYAAAAJ</td>
+    <td class="tg-buh4">UDEC</td>
+    <td class="tg-dzk6">186</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">100</td>
+    <td class="tg-0lax">Rene Jara</td>
+    <td class="tg-0lax">oeRXDWkAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">172</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">101</td>
+    <td class="tg-buh4">Gonzalo Alvarez Fuentes</td>
+    <td class="tg-buh4">sC-GIj8AAAAJ</td>
+    <td class="tg-buh4">UNAP</td>
+    <td class="tg-dzk6">171</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">102</td>
+    <td class="tg-0lax">Máximo Quitral Rojas</td>
+    <td class="tg-0lax">Iz7nUN8AAAAJ</td>
+    <td class="tg-0lax">UTEM</td>
+    <td class="tg-baqh">132</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">103</td>
+    <td class="tg-buh4">Nicolás Del Valle Orellana</td>
+    <td class="tg-buh4">800PtAYAAAAJ</td>
+    <td class="tg-buh4">IIPSS</td>
+    <td class="tg-dzk6">128</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">104</td>
+    <td class="tg-0lax">Maite De Cea</td>
+    <td class="tg-0lax">tHL6bFwAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">128</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">105</td>
+    <td class="tg-buh4">Felipe Schwember</td>
+    <td class="tg-buh4">YAryivQAAAAJ</td>
+    <td class="tg-buh4">UDD</td>
+    <td class="tg-dzk6">124</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">106</td>
+    <td class="tg-0lax">Diego Rossello</td>
+    <td class="tg-0lax">-MWiRrUAAAAJ</td>
+    <td class="tg-0lax">UAI</td>
+    <td class="tg-baqh">115</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">107</td>
+    <td class="tg-buh4">Roberto Mardones</td>
+    <td class="tg-buh4">99rI\_qsAAAAJ</td>
+    <td class="tg-buh4">UBB</td>
+    <td class="tg-dzk6">110</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">108</td>
+    <td class="tg-0lax">Lucia Miranda Leibe</td>
+    <td class="tg-0lax">PfjSTeUAAAAJ</td>
+    <td class="tg-0lax">FLACSO</td>
+    <td class="tg-baqh">110</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">109</td>
+    <td class="tg-buh4">Bernardo Mackenna</td>
+    <td class="tg-buh4">UALXeUMAAAAJ</td>
+    <td class="tg-buh4">UCSD</td>
+    <td class="tg-dzk6">107</td>
+    <td class="tg-dzk6">6</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">110</td>
+    <td class="tg-0lax">Rodrigo Cuevas</td>
+    <td class="tg-0lax">MVRwJT0AAAAJ</td>
+    <td class="tg-0lax">UCT</td>
+    <td class="tg-baqh">71</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">111</td>
+    <td class="tg-buh4">María Gabriela Cordova</td>
+    <td class="tg-buh4">YDPznzAAAAAJ</td>
+    <td class="tg-buh4">ULAGOS</td>
+    <td class="tg-dzk6">302</td>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">112</td>
+    <td class="tg-0lax">Lucas Perelló</td>
+    <td class="tg-0lax">ShRtBhMAAAAJ</td>
+    <td class="tg-0lax">SC</td>
+    <td class="tg-baqh">92</td>
+    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">113</td>
+    <td class="tg-buh4">Carlos Cantillana</td>
+    <td class="tg-buh4">8iP3MuwAAAAJ</td>
+    <td class="tg-buh4">unk.</td>
+    <td class="tg-dzk6">87</td>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">114</td>
+    <td class="tg-0lax">Christopher A Martínez</td>
+    <td class="tg-0lax">37hEwq8AAAAJ</td>
+    <td class="tg-0lax">UDEC</td>
+    <td class="tg-baqh">86</td>
+    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">115</td>
+    <td class="tg-buh4">Juan Pablo Araya-Orellana</td>
+    <td class="tg-buh4">eDBbeDcAAAAJ</td>
+    <td class="tg-buh4">UOH</td>
+    <td class="tg-dzk6">86</td>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">116</td>
+    <td class="tg-0lax">Alfonso Donoso</td>
+    <td class="tg-0lax">OrPr-3AAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">78</td>
+    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">117</td>
+    <td class="tg-buh4">María Cristina Escudero</td>
+    <td class="tg-buh4">s6VvyfsAAAAJ</td>
+    <td class="tg-buh4">UCHILE</td>
+    <td class="tg-dzk6">77</td>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">118</td>
+    <td class="tg-0lax">Anthony A. Pezzola</td>
+    <td class="tg-0lax">U\_YqfqAAAAAJ</td>
+    <td class="tg-0lax">WU</td>
+    <td class="tg-baqh">76</td>
+    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">119</td>
+    <td class="tg-buh4">Karina Arias Yurisch</td>
+    <td class="tg-buh4">glnCpMkAAAAJ</td>
+    <td class="tg-buh4">USACH</td>
+    <td class="tg-dzk6">67</td>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">120</td>
+    <td class="tg-0lax">Jose M. Cabezas</td>
+    <td class="tg-0lax">ie78OmcAAAAJ</td>
+    <td class="tg-0lax">UMAYOR</td>
+    <td class="tg-baqh">91</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">121</td>
+    <td class="tg-buh4">Carla Cisternas</td>
+    <td class="tg-buh4">ArIMp5YAAAAJ</td>
+    <td class="tg-buh4">Leiden</td>
+    <td class="tg-dzk6">81</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">122</td>
+    <td class="tg-0lax">Susana Gazmuri</td>
+    <td class="tg-0lax">ZOmEt88AAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">65</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">123</td>
+    <td class="tg-buh4">Diego Telias</td>
+    <td class="tg-buh4">ZjxwRK0AAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">63</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">124</td>
+    <td class="tg-0lax">Macarena Valenzuela Beltrán</td>
+    <td class="tg-0lax">xP-7heoAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">59</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">125</td>
+    <td class="tg-buh4">Pablo Valenzuela</td>
+    <td class="tg-buh4">cyKIMlUAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">57</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">126</td>
+    <td class="tg-0lax">Daniel Flores Cáceres</td>
+    <td class="tg-0lax">VQKPXBMAAAAJ</td>
+    <td class="tg-0lax">ULAGOS</td>
+    <td class="tg-baqh">54</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">127</td>
+    <td class="tg-buh4">Waleska Muñoz Aravena</td>
+    <td class="tg-buh4">ihALyKUAAAAJ</td>
+    <td class="tg-buh4">UDEC</td>
+    <td class="tg-dzk6">53</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">128</td>
+    <td class="tg-0lax">Matthias Erlandsen</td>
+    <td class="tg-0lax">HA5\_6QUAAAAJ</td>
+    <td class="tg-0lax">FLACSO</td>
+    <td class="tg-baqh">50</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">129</td>
+    <td class="tg-buh4">Karen Manzano Iturra</td>
+    <td class="tg-buh4">grB28SkAAAAJ</td>
+    <td class="tg-buh4">USS</td>
+    <td class="tg-dzk6">48</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">130</td>
+    <td class="tg-0lax">Carla Alberti</td>
+    <td class="tg-0lax">3tcX6pYAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">48</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">131</td>
+    <td class="tg-buh4">Hector Bahamonde</td>
+    <td class="tg-buh4">3FHDoL0AAAAJ</td>
+    <td class="tg-buh4">UTU</td>
+    <td class="tg-dzk6">43</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">132</td>
+    <td class="tg-0lax">Sebastián Carrasco Soto</td>
+    <td class="tg-0lax">CrQouUsAAAAJ</td>
+    <td class="tg-0lax">UCT</td>
+    <td class="tg-baqh">39</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">3</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">133</td>
+    <td class="tg-buh4">Javiera Arce-Riffo</td>
+    <td class="tg-buh4">IiVB-oQAAAAJ</td>
+    <td class="tg-buh4">UCL</td>
+    <td class="tg-dzk6">32</td>
+    <td class="tg-dzk6">4</td>
+    <td class="tg-dzk6">3</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">134</td>
+    <td class="tg-0lax">Federico Rojas-de-Galarreta</td>
+    <td class="tg-0lax">hTyE9WAAAAAJ</td>
+    <td class="tg-0lax">UCHILE</td>
+    <td class="tg-baqh">69</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">135</td>
+    <td class="tg-buh4">Pablo Argote</td>
+    <td class="tg-buh4">6DqP7GsAAAAJ</td>
+    <td class="tg-buh4">CU</td>
+    <td class="tg-dzk6">51</td>
+    <td class="tg-dzk6">3</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">136</td>
+    <td class="tg-0lax">Cristóbal Bywaters</td>
+    <td class="tg-0lax">omFHUesAAAAJ</td>
+    <td class="tg-0lax">WARW</td>
+    <td class="tg-baqh">49</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">137</td>
+    <td class="tg-buh4">Sergio Huertas-Hernandez</td>
+    <td class="tg-buh4">fv7N0eUAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">36</td>
+    <td class="tg-dzk6">3</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">138</td>
+    <td class="tg-0lax">Violeta Montero</td>
+    <td class="tg-0lax">21Iq\_\_YAAAAJ</td>
+    <td class="tg-0lax">UDEC</td>
+    <td class="tg-baqh">31</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">139</td>
+    <td class="tg-buh4">Ross Mittiga</td>
+    <td class="tg-buh4">o4ZnQNsAAAAJ</td>
+    <td class="tg-buh4">PUC</td>
+    <td class="tg-dzk6">27</td>
+    <td class="tg-dzk6">3</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">140</td>
+    <td class="tg-0lax">María Patricia Sotomayor</td>
+    <td class="tg-0lax">ZRf8dtAAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">23</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">141</td>
+    <td class="tg-buh4">Ely Orrego-Torres</td>
+    <td class="tg-buh4">89bS-lkAAAAJ</td>
+    <td class="tg-buh4">NWU</td>
+    <td class="tg-dzk6">18</td>
+    <td class="tg-dzk6">3</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">142</td>
+    <td class="tg-0lax">Laura Levick</td>
+    <td class="tg-0lax">otugCsoAAAAJ</td>
+    <td class="tg-0lax">STU</td>
+    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">143</td>
+    <td class="tg-buh4">Jaime Contreras Alvarez</td>
+    <td class="tg-buh4">QeDE2BwAAAAJ</td>
+    <td class="tg-buh4">UDEC</td>
+    <td class="tg-dzk6">52</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">144</td>
+    <td class="tg-0lax">Germán Campos-Herrera</td>
+    <td class="tg-0lax">zWIsBT8AAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">33</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">145</td>
+    <td class="tg-buh4">Katherine Figueroa Aillañir</td>
+    <td class="tg-buh4">1vOi\_OsAAAAJ</td>
+    <td class="tg-buh4">UDEC</td>
+    <td class="tg-dzk6">32</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">146</td>
+    <td class="tg-0lax">Mariol Virgili Lillo</td>
+    <td class="tg-0lax">pr35r24AAAAJ</td>
+    <td class="tg-0lax">UDEC</td>
+    <td class="tg-baqh">32</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">147</td>
+    <td class="tg-buh4">Nicole Darat</td>
+    <td class="tg-buh4">EQrjT5sAAAAJ</td>
+    <td class="tg-buh4">UAI</td>
+    <td class="tg-dzk6">29</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">148</td>
+    <td class="tg-0lax">Carolina Acevedo</td>
+    <td class="tg-0lax">KNKPs0EAAAAJ</td>
+    <td class="tg-0lax">UCT</td>
+    <td class="tg-baqh">25</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">149</td>
+    <td class="tg-buh4">Rodolfo de Camargo Lima</td>
+    <td class="tg-buh4">1R7MsicAAAAJ</td>
+    <td class="tg-buh4">UCT</td>
+    <td class="tg-dzk6">20</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">150</td>
+    <td class="tg-0lax">Hernán Campos Parra</td>
+    <td class="tg-0lax">QIn03zIAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">20</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">151</td>
+    <td class="tg-buh4">Arlette Martínez Ossa</td>
+    <td class="tg-buh4">kv5dWS4AAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">18</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">152</td>
+    <td class="tg-0lax">Constanza Jorquera Mery</td>
+    <td class="tg-0lax">DZbBocQAAAAJ</td>
+    <td class="tg-0lax">USACH</td>
+    <td class="tg-baqh">16</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">153</td>
+    <td class="tg-buh4">Antonio Canale-Mayet</td>
+    <td class="tg-buh4">dFcoyfMAAAAJ</td>
+    <td class="tg-buh4">IL</td>
+    <td class="tg-dzk6">13</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">154</td>
+    <td class="tg-0lax">Hugo Jofré</td>
+    <td class="tg-0lax">9JmWI5MAAAAJ</td>
+    <td class="tg-0lax">UA</td>
+    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">155</td>
+    <td class="tg-buh4">Gonzalo Espinoza Bianchini</td>
+    <td class="tg-buh4">0cEbNnwAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">11</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">156</td>
+    <td class="tg-0lax">Ximena Soto Soutullo</td>
+    <td class="tg-0lax">r2q0t8cAAAAJ</td>
+    <td class="tg-0lax">KCL</td>
+    <td class="tg-baqh">70</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">157</td>
+    <td class="tg-buh4">Daniel Santibañez Guerrero</td>
+    <td class="tg-buh4">B7eJM\_0AAAAJ</td>
+    <td class="tg-buh4">USACH</td>
+    <td class="tg-dzk6">23</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">158</td>
+    <td class="tg-0lax">Nicolás Mimica</td>
+    <td class="tg-0lax">u0K3FJMAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">159</td>
+    <td class="tg-buh4">Claudio Fuentes-González</td>
+    <td class="tg-buh4">vLROxScAAAAJ</td>
+    <td class="tg-buh4">UACH</td>
+    <td class="tg-dzk6">8</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">160</td>
+    <td class="tg-0lax">Cristóbal Sandoval Rojo</td>
+    <td class="tg-0lax">aw7lNr4AAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">161</td>
+    <td class="tg-buh4">Renata Retamal Iturriaga</td>
+    <td class="tg-buh4">V8JzxeQAAAAJ</td>
+    <td class="tg-buh4">unk.</td>
+    <td class="tg-dzk6">7</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">162</td>
+    <td class="tg-0lax">Jose de la Cruz Garrido</td>
+    <td class="tg-0lax">Q8J28ZcAAAAJ</td>
+    <td class="tg-0lax">UDD</td>
+    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">163</td>
+    <td class="tg-buh4">Caterina Bo Guzman</td>
+    <td class="tg-buh4">3ULmjXcAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">5</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">164</td>
+    <td class="tg-0lax">Ariel Becerra</td>
+    <td class="tg-0lax">b7GxWBAAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">4</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">165</td>
+    <td class="tg-buh4">Fernando Schmidt</td>
+    <td class="tg-buh4">wXHJZ4oAAAAJ</td>
+    <td class="tg-buh4">UDD</td>
+    <td class="tg-dzk6">3</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">166</td>
+    <td class="tg-0lax">Marcelo Marzouka</td>
+    <td class="tg-0lax">kj503iEAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">3</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">167</td>
+    <td class="tg-buh4">Andrés Stark Azocar</td>
+    <td class="tg-buh4">mQwDWagAAAAJ</td>
+    <td class="tg-buh4">UAI</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">168</td>
+    <td class="tg-0lax">Francisca Lisbona Saavedra</td>
+    <td class="tg-0lax">8BB7GS4AAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">169</td>
+    <td class="tg-buh4">Luis Clavería Cambón</td>
+    <td class="tg-buh4">8jETtdIAAAAJ</td>
+    <td class="tg-buh4">USACH</td>
+    <td class="tg-dzk6">2</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">170</td>
+    <td class="tg-0lax">Shirley Gotz</td>
+    <td class="tg-0lax">MsPC8uwAAAAJ</td>
+    <td class="tg-0lax">UAH</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">1</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">171</td>
+    <td class="tg-buh4">Vicente Faúndez Caicedo</td>
+    <td class="tg-buh4">xhj3oqEAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">1</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">172</td>
+    <td class="tg-0lax">Nerea C. Palma</td>
+    <td class="tg-0lax">qNc7eZgAAAAJ</td>
+    <td class="tg-0lax">PUC</td>
+    <td class="tg-baqh">0</td>
+    <td class="tg-baqh">0</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">173</td>
+    <td class="tg-buh4">Jhon Jaime-Godoy</td>
+    <td class="tg-buh4">zqlTlxYAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">0</td>
+    <td class="tg-dzk6">0</td>
+    <td class="tg-dzk6">4</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">174</td>
+    <td class="tg-0lax">Carolina Pérez Aburto</td>
+    <td class="tg-0lax">vgJHvAcAAAAJ</td>
+    <td class="tg-0lax">UDP</td>
+    <td class="tg-baqh">0</td>
+    <td class="tg-baqh">0</td>
+    <td class="tg-baqh">4</td>
+  </tr>
+  <tr>
+    <td class="tg-dzk6">175</td>
+    <td class="tg-buh4">Verónica Figueroa-Gutiérrez</td>
+    <td class="tg-buh4">IuQrLCEAAAAJ</td>
+    <td class="tg-buh4">UDP</td>
+    <td class="tg-dzk6">0</td>
+    <td class="tg-dzk6">0</td>
+    <td class="tg-dzk6">4</td>
   </tr>
 </tbody>
 </table>
