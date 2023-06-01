@@ -40,6 +40,7 @@ permalink: /projects/cps-ranking
 - [June 2021](https://training-datalab.com/projects/cps-ranking/2021-06-01-impact-ranking)
 - [March 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking)
 - [December 2020](https://training-datalab.com/projects/cps-ranking/2020-12-01-impact-ranking)
+- [September 2020](https://training-datalab.com/projects/cps-ranking/2020-09-05-impact-ranking)
 
 ## Resources
 
