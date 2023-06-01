@@ -16,21 +16,21 @@ permalink: /projects/cps-ranking/2022-09-01-impact-ranking
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-7btt">Ranking</th>
-    <th class="tg-fymr">Name</th>
-    <th class="tg-fymr">ID</th>
-    <th class="tg-fymr">Affiliation</th>
-    <th class="tg-7btt">Cites</th>
-    <th class="tg-7btt">H-Index</th>
-    <th class="tg-7btt">Quartile</th>
+    <th class="tg-amwm">Ranking</th>
+    <th class="tg-1wig">Name</th>
+    <th class="tg-1wig">ID</th>
+    <th class="tg-1wig">Affiliation</th>
+    <th class="tg-amwm">Cites</th>
+    <th class="tg-amwm">H-Index</th>
+    <th class="tg-amwm">Quartile</th>
   </tr>
 </thead>
 <tbody>
