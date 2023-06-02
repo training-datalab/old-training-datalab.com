@@ -10,7 +10,7 @@ permalink: /projects/vip-project-machine-learning-spanish
 
 **Investigadores:** [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas) y Francisco Castañeda
 
-**Asociados:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), Rodrigo Cuevas y [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/aguilar)
+**Asociados:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), Rodrigo Cuevas y [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
 
 **Asistentes:** Esteban Barrios, Virla Liberona, Felipe Aniñir, Sebastián Saldías, Carolina Ávila, Gonzalo Avaria, Matías Carrillo y Nicolas Garrido
 
