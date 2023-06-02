@@ -1,7 +1,7 @@
 ---
-title: "Training Data Lab - Chilean Political Science Impact Ranking"
+title: "Training Data Lab - Chilean Political Science Ranking"
 layout: textlay
-excerpt: "Training Data Lab - Chilean Political Science Impact Ranking"
+excerpt: "Training Data Lab - Chilean Political Science Ranking"
 sitemap: false
 permalink: /projects/cps-ranking
 ---
