@@ -8,7 +8,7 @@ permalink: /projects/data-chilean-cabinets
 
 # Data on Chilean Cabinets (1990-2022)
 
-**Researchers:** Bastián González-Bustamante and Alejandro Olivares
+**Researchers:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante) and [Alejandro Olivares]({{ site.url }}{{ site.baseurl }}/team/aolivares)
 
 ![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg)
 
