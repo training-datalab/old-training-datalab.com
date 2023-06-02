@@ -8,7 +8,7 @@ permalink: /projects/local-government-indicators
 
 # Local Government Indicators Repository
 
-**Researchers:** Bastián González-Bustamante and Diego Aguilar
+**Researchers:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante) and [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
 
 **Associate:** Rodrigo Cuevas
 
