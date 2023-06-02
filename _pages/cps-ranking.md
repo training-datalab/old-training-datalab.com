@@ -8,9 +8,9 @@ permalink: /projects/cps-ranking
 
 # Chilean Political Science Ranking
 
-**Researcher:** Bastián González-Bustamante
+**Researcher:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante)
 
-**Associates:** Alejandro Olivares, Carla Cisternas and Rodrigo Cuevas
+**Associates:** [Alejandro Olivares]({{ site.url }}{{ site.baseurl }}/team/aolivares), [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas) and Rodrigo Cuevas
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
