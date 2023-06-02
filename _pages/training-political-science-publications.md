@@ -8,7 +8,7 @@ permalink: /projects/political-science-publications
 
 # Training Data on Political Science Publications
 
-**Researchers:** Bastián González-Bustamante, Alejandro Olivares and Carla Cisternas
+**Researchers:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), [Alejandro Olivares]({{ site.url }}{{ site.baseurl }}/team/aolivares) and [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas)
 
 ![Project Status: Suspended]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_suspended.svg)
 
