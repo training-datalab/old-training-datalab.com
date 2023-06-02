@@ -8,7 +8,7 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 
 # Toxicity in Audiences-Journalistic Interactions in Crises
 
-**Researchers:** Ximena Orchard, Bastián González-Bustamante and [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas)
+**Researchers:** Ximena Orchard, [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante) and [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas)
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg)
 
