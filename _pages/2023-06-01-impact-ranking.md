@@ -589,7 +589,7 @@ permalink: /projects/cps-ranking/2023-06-01-impact-ranking
     <td class="tg-baqh">62</td>
     <td class="tg-0lax">Rodrigo M. Medel</td>
     <td class="tg-0lax">nYgItkMAAAAJ</td>
-    <td class="tg-0lax">UAB</td>
+    <td class="tg-0lax">UNAB</td>
     <td class="tg-baqh">593</td>
     <td class="tg-baqh">10</td>
     <td class="tg-baqh">2</td>
