@@ -10,7 +10,7 @@ permalink: /projects/chilean-civil-service-spanish
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab-diagrams/civil_service.png){: style="width: 250px; float: right; border: 10px"}
 
-**Investigador:** Bastián González-Bustamante
+**Investigador:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante)
 
 **Asistentes:** Matías Astete y Berenice Orvenes
 
