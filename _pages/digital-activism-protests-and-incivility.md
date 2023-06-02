@@ -8,7 +8,7 @@ permalink: /projects/digital-activism-protests-and-incivility
 
 # Digital Activism, Protests and Incivility in Latin America
 
-**Researcher:** Bastián González-Bustamante
+**Researcher:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante)
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg)
 
