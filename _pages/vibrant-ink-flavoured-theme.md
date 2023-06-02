@@ -8,7 +8,7 @@ permalink: /projects/vibrant-ink-flavoured-theme
 
 # Vibrant Ink Flavoured Theme
 
-**Researchers:** Bastián González-Bustamante
+**Researchers:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante)
 
 ![Project Status: Completed]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_completed.svg)
 
