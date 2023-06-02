@@ -8,7 +8,7 @@ permalink: /projects/data-boards-of-directors
 
 # Data Collection on Boards of Directors (2001-2022)
 
-**Researchers:** Bastián González-Bustamante and Carla Cisternas
+**Researchers:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante) and [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas)
 
 **Assistants:** Virla Liberona and Matías Carrillo
 
