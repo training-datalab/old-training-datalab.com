@@ -8,9 +8,9 @@ permalink: /projects/vip-project-machine-learning
 
 # VIP Project: Machine Learning Applications in Public Policy and Economics
 
-**Researchers:** Carla Cisternas and Francisco Castañeda
+**Researchers:** [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas) and Francisco Castañeda
 
-**Associates:** Bastián González-Bustamante, Rodrigo Cuevas and Diego Aguilar
+**Associates:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), Rodrigo Cuevas and [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
 
 **Assistants:** Esteban Barrios, Virla Liberona, Felipe Aniñir, Sebastián Saldías, Carolina Ávila, Gonzalo Avaria, Matías Carrillo and Nicolas Garrido
 
