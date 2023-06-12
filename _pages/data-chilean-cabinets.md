@@ -47,7 +47,7 @@ permalink: /projects/data-chilean-cabinets
 
 ### How to cite these data sets?
 
-- González-Bustamante, B., & Olivares, A. (2023). Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew). Data set, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab. <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">https://doi.org/10.5281/zenodo.5744536</a>.
+- González-Bustamante, B., & Olivares, A. (2023). Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew). Dataset, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab. <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">https://doi.org/10.5281/zenodo.5744536</a>.
 
 - González-Bustamante, B., & Olivares, A. (2023). Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.4 -- Wandering Grass). Dataset, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab. <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">https://doi.org/10.5281/zenodo.5715384</a>.
 
