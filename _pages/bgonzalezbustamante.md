@@ -42,11 +42,11 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.** (2018). <a href="https://doi.org/10.1007/978-3-319-20928-9_2699" target="_blank">Civil Service Models in Latin America</a>. In A. Farazmand (ed.), *Global Encyclopedia of Public Administration, Public Policy, and Governance*. Cham: Springer.
 
-- **González-Bustamante, B.**, & Olivares, A. (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: Supervivencia de ministros</a>. In A. Codato and F. Espinoza (eds.), *Las Élites en las Américas: Diferentes Perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
+- **González-Bustamante, B.**, & Olivares, A. (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: supervivencia de ministros</a>. In A. Codato and F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
 
-- **González-Bustamante, B.**, & Barría, D. (2018). <a href="https://doi.org/10.31235/osf.io/nkftb" target="_blank">Expansión de la esfera pública en Chile: Redes sociales, campañas electorales y participación digital</a>. In N. Del Valle (ed.), *Transformaciones de la Esfera Pública en Chile. Luchas Sociales, Espacio Público y Pluralismo Informativo*. Santiago: RIL Editores.
+- **González-Bustamante, B.**, & Barría, D. (2018). <a href="https://doi.org/10.31235/osf.io/nkftb" target="_blank">Expansión de la esfera pública en Chile: Redes sociales, campañas electorales y participación digital</a>. In N. Del Valle (ed.), *Transformaciones de la esfera pública en Chile. Luchas sociales, espacio público y pluralismo informativo*. Santiago: RIL Editores.
 
-- **González-Bustamante, B.** (2018). <a href="https://doi.org/10.34720/2nd0-8t73" target="_blank">Internet, uso de redes sociales digitales y participación en el Cono Sur</a>. In P. Cottet (ed.), *Opinión Pública Contemporánea: Otras Posibilidades de Comprensión e Investigación*. Santiago: Social-Ediciones.
+- **González-Bustamante, B.** (2018). <a href="https://doi.org/10.34720/2nd0-8t73" target="_blank">Internet, uso de redes sociales digitales y participación en el Cono Sur</a>. In P. Cottet (ed.), *Opinión pública contemporánea: otras posibilidades de comprensión e investigación*. Santiago: Social-Ediciones.
 
 ## Data Collection Projects
 
@@ -68,7 +68,7 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.**, & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
 
-- **González-Bustamante, B.** (2021). <a href="https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé*, 21, 31-39.
+- **González-Bustamante, B.** (2021). <a href="https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé: Revista de Comunicación Social*, 21, 31-39.
 
 - **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
 
