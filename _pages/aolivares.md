@@ -46,7 +46,7 @@ permalink: /team/aolivares/
 
 - Escudero, M. C., & **Olivares, A.** (2021). <a href="https://link.springer.com/chapter/10.1007/978-3-030-70320-2_10" target="_blank">From the Dance of Those Left Out to a New Constitution: Channeling the Chilean Social Unrest</a>. In B. Navarrete & V. Tricot (Eds.), *Social Outburst and Political Representation in Chile*. Springer Nature.
 
-- González-Bustamante, B., & **Olivares, A.** (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: Supervivencia de ministros</a>. In A. Codato and F. Espinoza (eds.), *Las Élites en las Américas: Diferentes Perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
+- González-Bustamante, B., & **Olivares, A.** (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: supervivencia de ministros</a>. In A. Codato and F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
 
 ## Data Collection Projects
 
