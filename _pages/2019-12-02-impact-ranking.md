@@ -1172,7 +1172,7 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
 
 ### How to download and cite this dataset?
 
-- González-Bustamante, B. (2019). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
+- González-Bustamante, B. (2019). Chilean Political Science Ranking. Dataset, University of Oxford and Universidad de Santiago de Chile (USACH). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small><a href="https://training-datalab.com/projects/cps-ranking">Further details about this project</a>.</small>
