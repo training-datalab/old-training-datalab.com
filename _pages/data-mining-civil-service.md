@@ -30,8 +30,14 @@ permalink: /projects/chilean-civil-service
 
 - <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">SocArXiv preprint in English</a>.
 - <a href="https://doi.org/10.22370/rgp.2020.9.2.2920" target="_blank">Published paper in Spanish</a>.
+- <a href="https://doi.org/10.17605/OSF.IO/WBF6M" target="_blank">OSF-Project</a>.
+- <a href="https://doi.org/10.5281/zenodo.8115596" target="_blank">Zenodo repository</a>.
+
+### How to cite this dataset?
+
+- González-Bustamante, B., Astete, M., & Orvenes, B. (2021). Survival of the Senior Civil Servants in the Chilean Executive Branch (Version 1.13.19 -- Bold Lab). Dataset, pre-release version under restricted access, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="https://doi.org/10.5281/zenodo.8115596" target="_blank">https://doi.org/10.5281/zenodo.8115596</a>.
 
 <br />
 <small>Artwork by DALL·E in an Impressionist style.</small><br />
 <small>Diagram by González-Bustamante, Astete and Orvenes (2020).</small><br />
-<small>Last updated: August 23, 2021.</small>
+<small>Last updated: July 6, 2023.</small>
