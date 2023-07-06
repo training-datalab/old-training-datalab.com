@@ -13,6 +13,10 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Changed
 - Oblique strategies project.
 
+## [3.0.1] - 2023-07-06
+### Changed
+- Minor corrections.
+
 ## [Released]
 
 ## [3.0.0] - 2023-06-01
