@@ -51,6 +51,7 @@ permalink: /projects/cps-ranking-spanish
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.
 - <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Bases de datos en el proyecto OSF</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Registro de cambios</a>.
+- <a href="https://twitter.com/i/lists/1672034534907342850" target="_blank">Lista de Twitter</a>.
 
 ### ¿Cómo citar esta base de datos?
 
@@ -58,4 +59,4 @@ permalink: /projects/cps-ranking-spanish
 
 <br />
 <small>Red por González-Bustamante (2020).</small><br />
-<small>Última actualización: 2 de junio de 2023.</small>
+<small>Última actualización: 6 de julio de 2023.</small>
