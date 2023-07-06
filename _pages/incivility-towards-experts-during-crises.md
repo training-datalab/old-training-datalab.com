@@ -32,7 +32,7 @@ permalink: /projects/incivility-towards-experts-during-crises
 
 ### How to cite this project?
 
-- Cisternas, C., & González-Bustamante, B. (2023). Incivility Towards Experts During Crises [Open Science Framework Project]. Leiden University, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. DOI: <a href="https://doi.org/10.17605/OSF.IO/FS4TQ" target="_blank">10.17605/OSF.IO/FS4TQ</a>.
+- Cisternas, C., & González-Bustamante, B. (2023). Incivility Towards Experts During Crises. Research project, Leiden University, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="https://doi.org/10.17605/OSF.IO/FS4TQ" target="_blank">https://doi.org/10.17605/OSF.IO/FS4TQ</a>.
 
 <br />
 <small>Artwork by DALL·E inspired by Matisse.</small><br />
