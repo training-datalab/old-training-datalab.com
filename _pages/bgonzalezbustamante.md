@@ -58,6 +58,8 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.**, Olivares, A., Cisternas, C., & Cuevas, R. (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
+- **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2021).  <a href="https://doi.org/10.5281/zenodo.8115596" target="_blank">Survival of the Senior Civil Servants in the Chilean Executive Branch (Version 1.13.19 -- Bold Lab)</a>. Dataset, pre-release version under restricted access, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+
 ## Other Publications
 
 - Cisternas, C., **González-Bustamante, B.**, Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
@@ -90,5 +92,5 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
-<small>69% of works as first author, 28% as sole author.</small><br />
-<small>Last updated: June 1, 2023.</small>
+<small>70% of works as first author, 27% as sole author.</small><br />
+<small>Last updated: July 6, 2023.</small>
