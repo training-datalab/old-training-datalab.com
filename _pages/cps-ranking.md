@@ -51,6 +51,7 @@ permalink: /projects/cps-ranking
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">GitHub repository</a>.
 - <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Datasets on OSF-Project</a>.
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Changelog</a>.
+- <a href="https://twitter.com/i/lists/1672034534907342850" target="_blank">Twitter list</a>.
 
 ### How to cite this dataset?
 
@@ -58,4 +59,4 @@ permalink: /projects/cps-ranking
 
 <br />
 <small>Network by González-Bustamante (2020).</small><br />
-<small>Last updated: June 2, 2023.</small>
+<small>Last updated: July 6, 2023.</small>
