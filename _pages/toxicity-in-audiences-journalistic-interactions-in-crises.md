@@ -26,6 +26,14 @@ permalink: /projects/toxicity-in-audiences-journalistic-interactions-in-crises
 | 1. Data Gathering | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 2. Data Cleaning | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 | 3. Sentiment Analysis | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 4. Toxicity Algorithm | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ![100%]({{ site.url }}{{ site.baseurl }}/badges/progress_bar/100.svg) |
 
+## Resources
+
+- <a href="https://doi.org/10.17605/OSF.IO/GBWAV" target="_blank">OSF-Project</a>.
+
+### How to cite this project?
+
+- Orchard, X., González-Bustamante, B., & Cisternas, C. (2023). Toxicity in Audiences-Journalistic Interactions in Crises. Research project, Universidad Alberto Hurtado, University of Oxford, Universidad de Santiago de Chile (USACH), Leiden University and Training Data Lab. <a href="https://doi.org/10.17605/OSF.IO/GBWAV" target="_blank">https://doi.org/10.17605/OSF.IO/GBWAV</a>.
+
 <br />
 <small>Figure by Orchard, González-Bustamante and Cisternas (2023).</small><br />
-<small>Last updated: May 29, 2023.</small>
+<small>Last updated: July 6, 2023.</small>
