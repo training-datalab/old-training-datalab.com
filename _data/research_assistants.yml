@@ -1,11 +1,5 @@
-- name: Matías Carrillo
-  photo: mcarrillo.jpg
-  info: Universidad Mayor
-  email: matias.carrillo@mayor.cl
-  website:
-
-- name: Virla Liberona
-  photo: vliberona.jpg
-  info: Universidad Mayor
-  email: virla.liberona@mayor.cl
+- name: Antonia Rebolledo
+  photo: arebolledo.jpg
+  info: Training Data Lab
+  email: antonia.rebolledo@training-datalab.com
   website:
