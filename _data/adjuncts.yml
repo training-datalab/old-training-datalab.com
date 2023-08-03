@@ -1,0 +1,17 @@
+- name: Diego Aguilar
+  photo: daguilar.jpg
+  info: Training Data Lab
+  email: diego.aguilar@training-datalab.com
+  website: <a href="/team/daguilar">View profile</a>
+
+- name: Carlos Palacios Peralta
+  photo: cpalacios.jpg
+  info: Training Data Lab
+  email: carlos.palacios@training-datalab.com
+  website: <a href="/team/cpalacios">View profile</a>
+
+- name: Miguel Ángel Pelayo
+  photo: mapelayo.jpg
+  info: Training Data Lab
+  email: miguelangel.pelayo@training-datalab.com
+  website: <a href="/team/mapelayo">View profile</a>
