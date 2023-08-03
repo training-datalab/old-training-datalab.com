@@ -10,9 +10,9 @@ permalink: /team/
 
 <a href="https://training-datalab.com/resources"><strong>Resources for our team</strong>.</a>
 
-## Coordinators
+## Coordinator
 {% assign number_printed = 0 %}
-{% for member in site.data.coordinators %}
+{% for member in site.data.coordinator %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -41,7 +41,38 @@ permalink: /team/
 
 ## Research Associates
 {% assign number_printed = 0 %}
-{% for member in site.data.researchers %}
+{% for member in site.data.associates %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <h4>{{ member.name }}</h4> -->
+  <br>{{ member.name }}<br>
+  <!-- {{ member.info }}<br><{{ member.email }}><br>{{ member.website }}-->
+  {{ member.info }}<br>{{ member.website }}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+## Adjunct Researchers
+{% assign number_printed = 0 %}
+{% for member in site.data.adjuncts %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
