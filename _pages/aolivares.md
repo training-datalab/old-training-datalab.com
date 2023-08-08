@@ -14,7 +14,7 @@ permalink: /team/aolivares/
 
 <p align=" justify">In addition, I am a researcher at the Fondecyt de Iniciación 11200345, a Chilean National Agency for Research and Development funded project focused on the continuity of public policies in Chile. I recently joined the Núcleo Milenio de Desigualdades y Oportunidades Digitales (NUDOS) as an early career researcher and also am an adjunct researcher at the <a href="https://ciss.umayor.cl/" target="_blank">Centre for Health and Society Research</a> at the Universidad Mayor.</p>
 
-<p align=" justify">Since 2022 I have been the director of the <a href="https://www.umayor.cl/um/carreras/administracion-publica-santiago/10000" target="_blank">Public Administration programme at the Universidad Mayor</a>. Previously, I was a visiting professor at the Latin American Faculty of Social Sciences (<a href="https://www.flacso.edu.ec/en/inicio" target="_blank">Facultad Latinoamericana de Ciencias Sociales</a>, FLACSO) in Ecuador, a scholar at the Universidad Católica de Temuco, Chile, and a Lecturer at the Universidad de Chile.</p>
+<p align=" justify">Since 2022, I have been the director of the <a href="https://www.umayor.cl/um/carreras/administracion-publica-santiago/10000" target="_blank">Public Administration programme at the Universidad Mayor</a>. Previously, I was a visiting professor at the Latin American Faculty of Social Sciences (<a href="https://www.flacso.edu.ec/en/inicio" target="_blank">Facultad Latinoamericana de Ciencias Sociales</a>, FLACSO) in Ecuador, a scholar at the Universidad Católica de Temuco, Chile, and a Lecturer at the Universidad de Chile.</p>
 
 ## Featured Articles
 
@@ -59,10 +59,8 @@ permalink: /team/aolivares/
 ### Contact Information
 
 Email: <a href="mailto:alejandro.olivares@uct.cl">alejandro.olivares@umayor.cl</a><br />
-<!-- Alternative email: <a href=""></a><br /> -->
+Alternative email: <a href="mailto:alejandro.olivares@training-datalab.com">alejandro.olivares@training-datalab.com</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0001-6934-2437" target="_blank">https://orcid.org/0000-0001-6934-2437</a><br />
-<!-- Personal website: <a href="" target="_blank"></a><br /> -->
-<!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
 <small>41% of works as first author, 12% as sole author.</small><br />
-<small>Last updated: June 1, 2023.</small>
+<small>Last updated: August 8, 2023.</small>
