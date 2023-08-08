@@ -33,5 +33,5 @@ permalink: /team/rsaezvergara/
 Email: <a href="mailto:rocio.saezvergara@training-datalab.com">rocio.saezvergara@training-datalab.com</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0002-4074-2493" target="_blank">https://orcid.org/0000-0002-4074-2493</a><br />
 <br />
-<small>100% of works as first author, 0% as sole author (without outreach).</small><br />
+<small>100% of works as first author, 0% as sole author (excluding outreach).</small><br />
 <small>Last updated: August 8, 2023.</small>
