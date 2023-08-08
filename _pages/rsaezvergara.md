@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/rsaezvergara/
 ---
 
-# Rocío Sáez-Vergara"
+# Rocío Sáez-Vergara
 
 <img src="https://training-datalab.com/images/team/avatar.jpg" class="img-responsive" width="180px" style="float: left" />
 
