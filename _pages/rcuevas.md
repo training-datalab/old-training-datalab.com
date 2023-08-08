@@ -13,8 +13,6 @@ permalink: /team/rcuevas/
 ### Contact Information
 
 Email: <a href="mailto:rodrigo.cuevas@uct.cl">rodrigo.cuevas@uct.cl</a><br />
-<!-- Alternative email: <a href=""></a><br /> -->
+Alternative email: <a href="mailto:rodrigo.cuevas@training-datalab.com">rodrigo.cuevas@training-datalab.com</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0002-5980-1908" target="_blank">https://orcid.org/0000-0002-5980-1908</a><br />
-<!-- Personal website: <a href="" target="_blank"></a><br /> -->
-<!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
