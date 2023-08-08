@@ -12,6 +12,7 @@ permalink: /team/jmorillo/
 
 ### Contact Information
 
-Email: <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a><br />
+Email: <a href="mailto:jmorillor@udd.cl">jmorillor@udd.cl</a><br />
+Alternative email: <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0002-2870-2691" target="_blank">https://orcid.org/0000-0002-2870-2691</a><br />
 <br />
