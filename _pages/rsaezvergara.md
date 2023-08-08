@@ -22,7 +22,7 @@ permalink: /team/rsaezvergara/
 
 ## Book Chapter
 
-- **Sáez-Vergara, R.**, & Martínez, C. A. (2022). La reelección presidencial en América Latina: tendencias y alternativas. In C. A. Martínez (Ed.), *Presidencialismo: Reflexiones para el debate constitucional en Chile*. Santiago: FCE.
+- **Sáez-Vergara, R.**, & Martínez, C. A. (2022). La reelección presidencial en América Latina: tendencias y alternativas. In C. A. Martínez (ed.), *Presidencialismo: Reflexiones para el debate constitucional en Chile*. Santiago: FCE.
 
 ## Outreach
 
