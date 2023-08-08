@@ -88,9 +88,10 @@ permalink: /team/bgonzalezbustamante/
 
 Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a><br />
 <!-- Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a><br /> -->
+Alternative email: <a href="mailto:bastian.gonzalezbustamante@training-datalab.com">bastian.gonzalezbustamante@training-datalab.com</a><br />
 ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a><br />
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
 <small>70% of works as first author, 27% as sole author.</small><br />
-<small>Last updated: July 6, 2023.</small>
+<small>Last updated: August 8, 2023.</small>
