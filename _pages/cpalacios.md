@@ -35,10 +35,6 @@ permalink: /team/cpalacios/
 ### Contact Information
 
 Email: <a href="mailto:carlos.palacios@training-datalab.com">carlos.palacios@training-datalab.com</a><br />
-<!-- Alternative email: <a href=""></a><br /> -->
-<!-- ORCID iD: <a href="" target="_blank"></a><br /> -->
-<!-- Personal website: <a href="" target="_blank"></a><br /> -->
-<!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
 <small>80% of works as first author, 60% as sole author.</small><br />
 <small>Last updated: July 5, 2022.</small>
