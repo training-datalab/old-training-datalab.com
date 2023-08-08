@@ -45,10 +45,7 @@ permalink: /team/daguilar/
 ### Contact Information
 
 Email: <a href="mailto:diego.aguilar@training-datalab.com">diego.aguilar@training-datalab.com</a><br />
-<!-- Alternative email: <a href=""></a><br /> -->
 ORCID iD: <a href="https://orcid.org/0000-0003-4531-5922" target="_blank">https://orcid.org/0000-0003-4531-5922</a><br />
-<!-- Personal website: <a href="" target="_blank"></a><br /> -->
-<!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
 <small>22% of works as first author, 22% as sole author.</small><br />
 <small>Last updated: May 31, 2023.</small>
