@@ -10,7 +10,7 @@ permalink: /team/rsaezvergara/
 
 <img src="https://training-datalab.com/images/team/avatar.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align="justify">I am a Lecturer in the <a href="https://soccipol.uct.cl/" target="_blank">Department of Sociology, Political Science and Public Administration</a> at the Universidad Católica de Temuco, Chile. I hold an MA in Political Science, mention in government and public policy, from the Pontificia Universidad Católica de Chile and a BA in Political Science from the Universidad Católica de Temuco, Chile. Since 2017, I have worked as a research assistant in several projects based on interdisciplinary methods and approaches with a focus on comparative politics and sociology, political institutions, the relationship between executive and legislative branches, social and labour movements in Latin America, power concentration in the sixteenth century and constitutional evolution worldwide.</p>
+<p align="justify">I hold an MA in Political Science, mention in government and public policy, from the Pontificia Universidad Católica de Chile and a BA in Political Science from the Universidad Católica de Temuco, Chile. I have been a Lecturer in the <a href="https://soccipol.uct.cl/" target="_blank">Department of Sociology, Political Science and Public Administration</a> at the Universidad Católica de Temuco, Chile. In addition, since 2017, I have worked as a research assistant in several projects based on interdisciplinary methods and approaches with a focus on comparative politics and sociology, political institutions, the relationship between executive and legislative branches, social and labour movements in Latin America, power concentration in the sixteenth century and constitutional evolution worldwide.</p>
 
 <p align="justify">I have published in journals such as *Economía y Política* and *Revista Austral de Ciencias Sociales* and a book chapter in *Presidencialismo: Reflexiones para el debate Constitucional en Chile* (FCE, 2022). In 2021, I went to an internship at the Inter Pares programme at IDEA International and was a scholarship awardee at the <a href="https://coes.cl/" target="_blank">Centro de Estudios de Conflicto y Cohesión Social (COES)</a>. My main research interests focus on power concentration, government stability, political institutions, social movements and democracy.</p>
 
@@ -34,4 +34,4 @@ Email: <a href="mailto:rocio.saezvergara@training-datalab.com">rocio.saezvergara
 ORCID iD: <a href="https://orcid.org/0000-0002-4074-2493" target="_blank">https://orcid.org/0000-0002-4074-2493</a><br />
 <br />
 <small>100% of works as first author, 0% as sole author (excluding outreach).</small><br />
-<small>Last updated: August 8, 2023.</small>
+<small>Last updated: August 11, 2023.</small>
