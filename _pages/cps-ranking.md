@@ -30,6 +30,7 @@ permalink: /projects/cps-ranking
 
 ## Quarterly Series
 
+- [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
 - [June 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
 - [March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
 - [December 2022](https://training-datalab.com/projects/cps-ranking/2022-12-05-impact-ranking)
@@ -53,10 +54,14 @@ permalink: /projects/cps-ranking
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking/blob/master/CHANGELOG.md" target="_blank">Changelog</a>.
 - <a href="https://twitter.com/i/lists/1672034534907342850" target="_blank">Twitter list</a>.
 
+### Would you like to suggest someone?
+
+- Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
+
 ### How to cite this dataset?
 
 - González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small>Network by González-Bustamante (2020).</small><br />
-<small>Last updated: July 6, 2023.</small>
+<small>Last updated: September 1, 2023.</small>
