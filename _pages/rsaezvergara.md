@@ -8,7 +8,7 @@ permalink: /team/rsaezvergara/
 
 # Rocío Sáez-Vergara
 
-<img src="https://training-datalab.com/images/team/avatar.jpg" class="img-responsive" width="180px" style="float: left" />
+<img src="https://training-datalab.com/images/team/rsaezvergara.jpg" class="img-responsive" width="180px" style="float: left" />
 
 <p align="justify">I hold an MA in Political Science, mention in government and public policy, from the Pontificia Universidad Católica de Chile and a BA in Political Science from the Universidad Católica de Temuco, Chile. I have been a Lecturer in the <a href="https://soccipol.uct.cl/" target="_blank">Department of Sociology, Political Science and Public Administration</a> at the Universidad Católica de Temuco, Chile. In addition, since 2017, I have worked as a research assistant in several projects based on interdisciplinary methods and approaches with a focus on comparative politics and sociology, political institutions, the relationship between executive and legislative branches, social and labour movements in Latin America, power concentration in the sixteenth century and constitutional evolution worldwide.</p>
 
