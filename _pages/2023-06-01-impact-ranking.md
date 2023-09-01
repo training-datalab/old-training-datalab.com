@@ -1514,7 +1514,7 @@ permalink: /projects/cps-ranking/2023-06-01-impact-ranking
   </tr>
   <tr>
     <td class="tg-dzk6">165</td>
-    <td class="tg-buh4">Ximena Soto Soutullo, PhD</td>
+    <td class="tg-buh4">Ximena Soto Soutullo</td>
     <td class="tg-buh4">r2q0t8cAAAAJ</td>
     <td class="tg-buh4">KCL</td>
     <td class="tg-dzk6">71</td>
