@@ -992,15 +992,6 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
   </tr>
   <tr>
     <td class="tg-c3ow">107</td>
-    <td class="tg-0pky">Roberto Mardones</td>
-    <td class="tg-0pky">99rI_qsAAAAJ</td>
-    <td class="tg-0pky">UMAYOR</td>
-    <td class="tg-c3ow">128</td>
-    <td class="tg-c3ow">7</td>
-    <td class="tg-c3ow">3</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">108</td>
     <td class="tg-0pky">María Cristina Escudero</td>
     <td class="tg-0pky">s6VvyfsAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
@@ -1009,7 +1000,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">109</td>
+    <td class="tg-c3ow">108</td>
     <td class="tg-0pky">Felipe Livert</td>
     <td class="tg-0pky">N7E3JRMAAAAJ</td>
     <td class="tg-0pky">UAH</td>
@@ -1018,7 +1009,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">110</td>
+    <td class="tg-c3ow">109</td>
     <td class="tg-0pky">Rene Jara</td>
     <td class="tg-0pky">oeRXDWkAAAAJ</td>
     <td class="tg-0pky">USACH</td>
@@ -1027,7 +1018,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">111</td>
+    <td class="tg-c3ow">110</td>
     <td class="tg-0pky">Ines Picazo Verdejo</td>
     <td class="tg-0pky">8rPfIQYAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1036,7 +1027,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">112</td>
+    <td class="tg-c3ow">111</td>
     <td class="tg-0pky">Maite De Cea</td>
     <td class="tg-0pky">tHL6bFwAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1045,7 +1036,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">113</td>
+    <td class="tg-c3ow">112</td>
     <td class="tg-0pky">Felipe Schwember</td>
     <td class="tg-0pky">YAryivQAAAAJ</td>
     <td class="tg-0pky">UDD</td>
@@ -1054,7 +1045,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">114</td>
+    <td class="tg-c3ow">113</td>
     <td class="tg-0pky">Diego Rossello</td>
     <td class="tg-0pky">-CZLlJAAAAAJ</td>
     <td class="tg-0pky">UAI</td>
@@ -1063,7 +1054,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">115</td>
+    <td class="tg-c3ow">114</td>
     <td class="tg-0pky">Lucas Perelló</td>
     <td class="tg-0pky">ShRtBhMAAAAJ</td>
     <td class="tg-0pky">Marist</td>
@@ -1072,7 +1063,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">116</td>
+    <td class="tg-c3ow">115</td>
     <td class="tg-0pky">Anthony A. Pezzola</td>
     <td class="tg-0pky">U_YqfqAAAAAJ</td>
     <td class="tg-0pky">WU</td>
@@ -1081,7 +1072,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">117</td>
+    <td class="tg-c3ow">116</td>
     <td class="tg-0pky">Diego Sazo</td>
     <td class="tg-0pky">EUBDjRMAAAAJ</td>
     <td class="tg-0pky">LSE</td>
@@ -1090,7 +1081,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">118</td>
+    <td class="tg-c3ow">117</td>
     <td class="tg-0pky">Juan Pablo Araya-Orellana</td>
     <td class="tg-0pky">eDBbeDcAAAAJ</td>
     <td class="tg-0pky">UGA</td>
@@ -1099,7 +1090,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">119</td>
+    <td class="tg-c3ow">118</td>
     <td class="tg-0pky">Karina Arias Yurisch</td>
     <td class="tg-0pky">glnCpMkAAAAJ</td>
     <td class="tg-0pky">USACH</td>
@@ -1108,7 +1099,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">120</td>
+    <td class="tg-c3ow">119</td>
     <td class="tg-0pky">Rodrigo Cuevas</td>
     <td class="tg-0pky">MVRwJT0AAAAJ</td>
     <td class="tg-0pky">UCT</td>
@@ -1117,7 +1108,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">121</td>
+    <td class="tg-c3ow">120</td>
     <td class="tg-0pky">Karen Manzano Iturra</td>
     <td class="tg-0pky">grB28SkAAAAJ</td>
     <td class="tg-0pky">USS</td>
@@ -1126,7 +1117,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">122</td>
+    <td class="tg-c3ow">121</td>
     <td class="tg-0pky">María Gabriela Cordova</td>
     <td class="tg-0pky">YDPznzAAAAAJ</td>
     <td class="tg-0pky">ULAGOS</td>
@@ -1135,7 +1126,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">123</td>
+    <td class="tg-c3ow">122</td>
     <td class="tg-0pky">Joaquín Rozas-Bugueño</td>
     <td class="tg-0pky">9H55Z4oAAAAJ</td>
     <td class="tg-0pky">UPF</td>
@@ -1144,7 +1135,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">124</td>
+    <td class="tg-c3ow">123</td>
     <td class="tg-0pky">Christopher A Martínez</td>
     <td class="tg-0pky">37hEwq8AAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1153,7 +1144,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">125</td>
+    <td class="tg-c3ow">124</td>
     <td class="tg-0pky">Diego Telias</td>
     <td class="tg-0pky">ZjxwRK0AAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1162,7 +1153,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">126</td>
+    <td class="tg-c3ow">125</td>
     <td class="tg-0pky">Lucia Miranda Leibe</td>
     <td class="tg-0pky">PfjSTeUAAAAJ</td>
     <td class="tg-0pky">FLACSO</td>
@@ -1171,7 +1162,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">127</td>
+    <td class="tg-c3ow">126</td>
     <td class="tg-0pky">Jose M. Cabezas</td>
     <td class="tg-0pky">ie78OmcAAAAJ</td>
     <td class="tg-0pky">USS</td>
@@ -1180,7 +1171,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">128</td>
+    <td class="tg-c3ow">127</td>
     <td class="tg-0pky">Isabel Castillo Carniglia</td>
     <td class="tg-0pky">zhduEFwAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
@@ -1189,7 +1180,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">129</td>
+    <td class="tg-c3ow">128</td>
     <td class="tg-0pky">Carlos Cantillana</td>
     <td class="tg-0pky">8iP3MuwAAAAJ</td>
     <td class="tg-0pky">unk.</td>
@@ -1198,7 +1189,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">130</td>
+    <td class="tg-c3ow">129</td>
     <td class="tg-0pky">Alfonso Donoso</td>
     <td class="tg-0pky">OrPr-3AAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1207,7 +1198,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">131</td>
+    <td class="tg-c3ow">130</td>
     <td class="tg-0pky">Matthias Erlandsen</td>
     <td class="tg-0pky">HA5_6QUAAAAJ</td>
     <td class="tg-0pky">FLACSO</td>
@@ -1216,7 +1207,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">132</td>
+    <td class="tg-c3ow">131</td>
     <td class="tg-0pky">Sebastián Carrasco Soto</td>
     <td class="tg-0pky">CrQouUsAAAAJ</td>
     <td class="tg-0pky">UCT</td>
@@ -1225,7 +1216,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">133</td>
+    <td class="tg-c3ow">132</td>
     <td class="tg-0pky">Pablo Valenzuela</td>
     <td class="tg-0pky">cyKIMlUAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1234,7 +1225,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">134</td>
+    <td class="tg-c3ow">133</td>
     <td class="tg-0pky">Carla Alberti</td>
     <td class="tg-0pky">3tcX6pYAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1243,7 +1234,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">135</td>
+    <td class="tg-c3ow">134</td>
     <td class="tg-0pky">Carla Cisternas</td>
     <td class="tg-0pky">ArIMp5YAAAAJ</td>
     <td class="tg-0pky">Leiden</td>
@@ -1252,7 +1243,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">136</td>
+    <td class="tg-c3ow">135</td>
     <td class="tg-0pky">Daniel Flores Cáceres</td>
     <td class="tg-0pky">VQKPXBMAAAAJ</td>
     <td class="tg-0pky">ULAGOS</td>
@@ -1261,7 +1252,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">137</td>
+    <td class="tg-c3ow">136</td>
     <td class="tg-0pky">Susana Gazmuri</td>
     <td class="tg-0pky">ZOmEt88AAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1270,7 +1261,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">138</td>
+    <td class="tg-c3ow">137</td>
     <td class="tg-0pky">Macarena Valenzuela Beltrán</td>
     <td class="tg-0pky">xP-7heoAAAAJ</td>
     <td class="tg-0pky">UBB</td>
@@ -1279,7 +1270,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">139</td>
+    <td class="tg-c3ow">138</td>
     <td class="tg-0pky">Waleska Muñoz Aravena</td>
     <td class="tg-0pky">ihALyKUAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1288,7 +1279,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">140</td>
+    <td class="tg-c3ow">139</td>
     <td class="tg-0pky">Hector Bahamonde</td>
     <td class="tg-0pky">3FHDoL0AAAAJ</td>
     <td class="tg-0pky">UTU</td>
@@ -1297,7 +1288,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">141</td>
+    <td class="tg-c3ow">140</td>
     <td class="tg-0pky">Sergio Huertas-Hernandez</td>
     <td class="tg-0pky">fv7N0eUAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1306,7 +1297,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">142</td>
+    <td class="tg-c3ow">141</td>
     <td class="tg-0pky">Javiera Arce-Riffo</td>
     <td class="tg-0pky">IiVB-oQAAAAJ</td>
     <td class="tg-0pky">UCL</td>
@@ -1315,7 +1306,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">3</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">143</td>
+    <td class="tg-c3ow">142</td>
     <td class="tg-0pky">Federico Rojas-de-Galarreta</td>
     <td class="tg-0pky">hTyE9WAAAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
@@ -1324,7 +1315,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">144</td>
+    <td class="tg-c3ow">143</td>
     <td class="tg-0pky">Pablo Argote</td>
     <td class="tg-0pky">6DqP7GsAAAAJ</td>
     <td class="tg-0pky">USC</td>
@@ -1333,7 +1324,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">145</td>
+    <td class="tg-c3ow">144</td>
     <td class="tg-0pky">Ross Mittiga</td>
     <td class="tg-0pky">o4ZnQNsAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1342,7 +1333,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">146</td>
+    <td class="tg-c3ow">145</td>
     <td class="tg-0pky">Cristóbal Bywaters</td>
     <td class="tg-0pky">omFHUesAAAAJ</td>
     <td class="tg-0pky">WARW</td>
@@ -1351,7 +1342,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">147</td>
+    <td class="tg-c3ow">146</td>
     <td class="tg-0pky">Violeta Montero</td>
     <td class="tg-0pky">21Iq__YAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1360,7 +1351,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">148</td>
+    <td class="tg-c3ow">147</td>
     <td class="tg-0pky">Nicole Darat</td>
     <td class="tg-0pky">EQrjT5sAAAAJ</td>
     <td class="tg-0pky">UAI</td>
@@ -1369,7 +1360,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">149</td>
+    <td class="tg-c3ow">148</td>
     <td class="tg-0pky">Rodolfo de Camargo Lima</td>
     <td class="tg-0pky">1R7MsicAAAAJ</td>
     <td class="tg-0pky">UCT</td>
@@ -1378,7 +1369,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">150</td>
+    <td class="tg-c3ow">149</td>
     <td class="tg-0pky">María Patricia Sotomayor</td>
     <td class="tg-0pky">ZRf8dtAAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1387,7 +1378,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">151</td>
+    <td class="tg-c3ow">150</td>
     <td class="tg-0pky">Norma Muñoz del Campo</td>
     <td class="tg-0pky">sOd1T0wAAAAJ</td>
     <td class="tg-0pky">USACH</td>
@@ -1396,7 +1387,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">152</td>
+    <td class="tg-c3ow">151</td>
     <td class="tg-0pky">Laura Levick</td>
     <td class="tg-0pky">otugCsoAAAAJ</td>
     <td class="tg-0pky">STU</td>
@@ -1405,7 +1396,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">153</td>
+    <td class="tg-c3ow">152</td>
     <td class="tg-0pky">Ely Orrego-Torres</td>
     <td class="tg-0pky">89bS-lkAAAAJ</td>
     <td class="tg-0pky">NWU</td>
@@ -1414,7 +1405,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">154</td>
+    <td class="tg-c3ow">153</td>
     <td class="tg-0pky">Hugo Jofré</td>
     <td class="tg-0pky">9JmWI5MAAAAJ</td>
     <td class="tg-0pky">USS</td>
@@ -1423,7 +1414,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">155</td>
+    <td class="tg-c3ow">154</td>
     <td class="tg-0pky">Gonzalo Espinoza Bianchini</td>
     <td class="tg-0pky">0cEbNnwAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1432,7 +1423,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">156</td>
+    <td class="tg-c3ow">155</td>
     <td class="tg-0pky">Mario Herrera</td>
     <td class="tg-0pky">8m3Lhe8AAAAJ</td>
     <td class="tg-0pky">UTALCA</td>
@@ -1441,7 +1432,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">157</td>
+    <td class="tg-c3ow">156</td>
     <td class="tg-0pky">Fabián Belmar</td>
     <td class="tg-0pky">wr6beBsAAAAJ</td>
     <td class="tg-0pky">UTALCA</td>
@@ -1450,7 +1441,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">158</td>
+    <td class="tg-c3ow">157</td>
     <td class="tg-0pky">Jaime Contreras Alvarez</td>
     <td class="tg-0pky">QeDE2BwAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1459,7 +1450,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">159</td>
+    <td class="tg-c3ow">158</td>
     <td class="tg-0pky">Mariol Virgili Lillo</td>
     <td class="tg-0pky">pr35r24AAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1468,7 +1459,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">160</td>
+    <td class="tg-c3ow">159</td>
     <td class="tg-0pky">Germán Campos-Herrera</td>
     <td class="tg-0pky">zWIsBT8AAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1477,7 +1468,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">161</td>
+    <td class="tg-c3ow">160</td>
     <td class="tg-0pky">Katherine Figueroa Aillañir</td>
     <td class="tg-0pky">1vOi_OsAAAAJ</td>
     <td class="tg-0pky">UDEC</td>
@@ -1486,7 +1477,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">162</td>
+    <td class="tg-c3ow">161</td>
     <td class="tg-0pky">Carolina Acevedo</td>
     <td class="tg-0pky">KNKPs0EAAAAJ</td>
     <td class="tg-0pky">UCT</td>
@@ -1495,7 +1486,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">163</td>
+    <td class="tg-c3ow">162</td>
     <td class="tg-0pky">Constanza Jorquera Mery</td>
     <td class="tg-0pky">DZbBocQAAAAJ</td>
     <td class="tg-0pky">USACH</td>
@@ -1504,7 +1495,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">164</td>
+    <td class="tg-c3ow">163</td>
     <td class="tg-0pky">Hernán Campos Parra</td>
     <td class="tg-0pky">QIn03zIAAAAJ</td>
     <td class="tg-0pky">UDP-UTALCA</td>
@@ -1513,7 +1504,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">165</td>
+    <td class="tg-c3ow">164</td>
     <td class="tg-0pky">Arlette Martínez Ossa</td>
     <td class="tg-0pky">kv5dWS4AAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1522,7 +1513,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">166</td>
+    <td class="tg-c3ow">165</td>
     <td class="tg-0pky">Nicolás Mimica</td>
     <td class="tg-0pky">u0K3FJMAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1531,7 +1522,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">167</td>
+    <td class="tg-c3ow">166</td>
     <td class="tg-0pky">Antonio Canale-Mayet</td>
     <td class="tg-0pky">dFcoyfMAAAAJ</td>
     <td class="tg-0pky">IL</td>
@@ -1540,7 +1531,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">168</td>
+    <td class="tg-c3ow">167</td>
     <td class="tg-0pky">Daniel Santibañez Guerrero</td>
     <td class="tg-0pky">B7eJM_0AAAAJ</td>
     <td class="tg-0pky">USACH</td>
@@ -1549,7 +1540,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">169</td>
+    <td class="tg-c3ow">168</td>
     <td class="tg-0pky">Jose de la Cruz Garrido</td>
     <td class="tg-0pky">Q8J28ZcAAAAJ</td>
     <td class="tg-0pky">UDD</td>
@@ -1558,7 +1549,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">170</td>
+    <td class="tg-c3ow">169</td>
     <td class="tg-0pky">María Pía Méndez</td>
     <td class="tg-0pky">8w7FRG0AAAAJ</td>
     <td class="tg-0pky">UMAYOR</td>
@@ -1567,7 +1558,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">171</td>
+    <td class="tg-c3ow">170</td>
     <td class="tg-0pky">Fernando Schmidt</td>
     <td class="tg-0pky">wXHJZ4oAAAAJ</td>
     <td class="tg-0pky">UDD</td>
@@ -1576,7 +1567,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">172</td>
+    <td class="tg-c3ow">171</td>
     <td class="tg-0pky">Vicente Faúndez Caicedo</td>
     <td class="tg-0pky">xhj3oqEAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1585,7 +1576,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">173</td>
+    <td class="tg-c3ow">172</td>
     <td class="tg-0pky">Ximena Soto Soutullo</td>
     <td class="tg-0pky">r2q0t8cAAAAJ</td>
     <td class="tg-0pky">TPXimpact</td>
@@ -1594,7 +1585,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">174</td>
+    <td class="tg-c3ow">173</td>
     <td class="tg-0pky">Claudio Fuentes González</td>
     <td class="tg-0pky">vLROxScAAAAJ</td>
     <td class="tg-0pky">unk.</td>
@@ -1603,7 +1594,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">175</td>
+    <td class="tg-c3ow">174</td>
     <td class="tg-0pky">Cristóbal Sandoval Rojo</td>
     <td class="tg-0pky">aw7lNr4AAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1612,7 +1603,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">176</td>
+    <td class="tg-c3ow">175</td>
     <td class="tg-0pky">Renata Retamal Iturriaga</td>
     <td class="tg-0pky">V8JzxeQAAAAJ</td>
     <td class="tg-0pky">unk.</td>
@@ -1621,7 +1612,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">177</td>
+    <td class="tg-c3ow">176</td>
     <td class="tg-0pky">Ariel Becerra</td>
     <td class="tg-0pky">b7GxWBAAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1630,7 +1621,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">178</td>
+    <td class="tg-c3ow">177</td>
     <td class="tg-0pky">Caterina Bo Guzman</td>
     <td class="tg-0pky">3ULmjXcAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1639,7 +1630,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">179</td>
+    <td class="tg-c3ow">178</td>
     <td class="tg-0pky">Marcelo Marzouka</td>
     <td class="tg-0pky">kj503iEAAAAJ</td>
     <td class="tg-0pky">PUC</td>
@@ -1648,7 +1639,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">180</td>
+    <td class="tg-c3ow">179</td>
     <td class="tg-0pky">Andrés Stark Azocar</td>
     <td class="tg-0pky">mQwDWagAAAAJ</td>
     <td class="tg-0pky">UAI</td>
@@ -1657,7 +1648,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">181</td>
+    <td class="tg-c3ow">180</td>
     <td class="tg-0pky">Francisca Lisbona Saavedra</td>
     <td class="tg-0pky">8BB7GS4AAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1666,7 +1657,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">182</td>
+    <td class="tg-c3ow">181</td>
     <td class="tg-0pky">Carolina Pérez Aburto</td>
     <td class="tg-0pky">vgJHvAcAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1675,7 +1666,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">183</td>
+    <td class="tg-c3ow">182</td>
     <td class="tg-0pky">Verónica Figueroa-Gutiérrez</td>
     <td class="tg-0pky">IuQrLCEAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1684,7 +1675,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">184</td>
+    <td class="tg-c3ow">183</td>
     <td class="tg-0pky">Luis Clavería Cambón</td>
     <td class="tg-0pky">8jETtdIAAAAJ</td>
     <td class="tg-0pky">USACH</td>
@@ -1693,7 +1684,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">185</td>
+    <td class="tg-c3ow">184</td>
     <td class="tg-0pky">Shirley Gotz</td>
     <td class="tg-0pky">MsPC8uwAAAAJ</td>
     <td class="tg-0pky">UAH</td>
@@ -1702,7 +1693,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">186</td>
+    <td class="tg-c3ow">185</td>
     <td class="tg-0pky">Jhon Jaime-Godoy</td>
     <td class="tg-0pky">zqlTlxYAAAAJ</td>
     <td class="tg-0pky">UDP</td>
@@ -1711,7 +1702,7 @@ permalink: /projects/cps-ranking/2023-09-01-impact-ranking
     <td class="tg-c3ow">4</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">187</td>
+    <td class="tg-c3ow">186</td>
     <td class="tg-0pky">Nerea C. Palma</td>
     <td class="tg-0pky">qNc7eZgAAAAJ</td>
     <td class="tg-0pky">PUC</td>
