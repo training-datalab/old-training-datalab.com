@@ -8,7 +8,7 @@ permalink: /validation/ccisternas
 
 # Valid Digital Signature
 
-![]({{ site.url }}{{ site.baseurl }}/images/qr/ccisternas.png){: style="width: 100px; float: left"}
+![]({{ site.url }}{{ site.baseurl }}/images/qr/ccisternas.png){: style="width: 100px; float: left; border: 10px"}
 
 Author: Carla Cisternas Guasch<br />
 Position: Coordinador & Research Associate<br />
