@@ -19,7 +19,7 @@
   news2:
 
 - title: "Chilean Political Science Ranking"
-  image: CPS-Ranking.png
+  image: cps_ranking.png
   description: This is a scraper programmed in order to obtain quarterly data from Google Scholar and elaborate an impact measurement. This ranking is presented from the highest to the lowest H-Index. The number of cites has been used as a second criterion in case of a tie in H-Index.
   authors: Bastián González-Bustamante, Alejandro Olivares, Carla Cisternas and Rodrigo Cuevas
   link:
