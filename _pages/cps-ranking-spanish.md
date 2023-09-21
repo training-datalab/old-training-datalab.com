@@ -14,7 +14,7 @@ permalink: /projects/cps-ranking-spanish
 
 ![Project Status: Active]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_active.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/cps-ranking) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/cps-ranking-spanish)
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/network_ranking.png){: style="width: 350px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/projects/cps_ranking_dalle.png){: style="width: 350px; float: right; border: 10px"}
 
 ## Descripción
 
@@ -63,5 +63,5 @@ permalink: /projects/cps-ranking-spanish
 - González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
-<small>Red por González-Bustamante (2020).</small><br />
-<small>Última actualización: 1 de septiembre de 2023.</small>
+<small>Arte por DALL·E inspirado por Mondrian.</small><br />
+<small>Última actualización: 21 de septiembre de 2023.</small>
