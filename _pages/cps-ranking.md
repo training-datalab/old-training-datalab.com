@@ -45,7 +45,7 @@ permalink: /projects/cps-ranking
 - [March 2020](https://training-datalab.com/projects/cps-ranking/2020-03-05-impact-ranking)
 - [December 2019](https://training-datalab.com/projects/cps-ranking/2019-12-02-impact-ranking)
 
-## Researchers to be Added
+### Researchers to be Added
 
 1. Ryan E. Carlin (ID -eHDvsQAAAAJ)
 2. Sebastian Rivera (ID Z_hzOvcAAAAJ)
@@ -56,11 +56,11 @@ permalink: /projects/cps-ranking
 7. Pamela Figueroa Rubio (ID 1pAw2bwAAAAJ)
 8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
 
-## Disclaimer
+### Disclaimer
 
 <p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
 
-## Resources
+### Resources
 
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">GitHub repository</a>.
 - <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Datasets on OSF-Project</a>.
