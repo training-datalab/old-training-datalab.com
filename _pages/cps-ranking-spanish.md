@@ -24,13 +24,7 @@ permalink: /projects/cps-ranking-spanish
 
 <p align="justify">Además, en [marzo de 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking) se calculó un índice de consistencia (C-Index). El índice C va de cero a 100 y refleja la consistencia de los perfiles de Google en términos de autoría. Los valores más bajos se asocian con inconsistencias más significativas, por lo tanto, los indicadores del investigador podrían estar sesgados y su posición podría estar sobreestimada.</p>
 
-<p align="justify">Si desea sugerir a alguien, envíe un correo electrónico a <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
-
 <p align="justify">Agradecemos a Patricio Navia sus valiosos comentarios y contribuciones.</p>
-
-## Descargo de responsabilidad
-
-<p align="justify">Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el índice H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por índice H y citación..</p>
 
 ## Series trimestrales
 
@@ -51,6 +45,21 @@ permalink: /projects/cps-ranking-spanish
 - [Marzo 2020](https://training-datalab.com/projects/cps-ranking/2020-03-05-impact-ranking)
 - [Diciembre 2019](https://training-datalab.com/projects/cps-ranking/2019-12-02-impact-ranking)
 
+## Investigadores por añadir
+
+1. Ryan E. Carlin (ID -eHDvsQAAAAJ)
+2. Sebastian Rivera (ID Z_hzOvcAAAAJ)
+3. Jaime Lindh (ID puGitsoAAAAJ)
+4. Martin Schuster (ID ybpn9pEAAAAJ)
+5. Pedro Fierro (ID RrzlOTIAAAAJ)
+6. Emmanuelle Barozet (ID NLiNCD0AAAAJ)
+7. Pamela Figueroa Rubio (ID 1pAw2bwAAAAJ)
+8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
+
+## Descargo de responsabilidad
+
+<p align="justify">Tenga en cuenta que estos datos de citas proceden de perfiles creados por los propios usuarios en Google Scholar, cuya cobertura no es tan rigurosa como la de Scopus o Web of Science. Además, el principal criterio de clasificación es el índice H, que tiene algunas limitaciones y está sujeto a sesgos y manipulaciones en algunos casos. Nuestra elaboración trimestral de la clasificación no implica reordenar los datos, sino que nos centramos en ordenar la lista por índice H y citación.</p>
+
 ## Recursos
 
 - <a href="https://github.com/bgonzalezbustamante/CPS-Ranking" target="_blank">Repositorio en GitHub</a>.
@@ -68,4 +77,4 @@ permalink: /projects/cps-ranking-spanish
 
 <br />
 <small>Arte por DALL·E inspirado por Mondrian.</small><br />
-<small>Última actualización: 21 de septiembre de 2023.</small>
+<small>Última actualización: 8 de octubre de 2023.</small>
