@@ -34,4 +34,4 @@ permalink: /tufte-working-papers/
 </figure>
 
 <br />
-<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 1,970 until June 2023.</small>
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,132 until October 2023.</small>
