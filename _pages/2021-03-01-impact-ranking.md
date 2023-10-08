@@ -1421,6 +1421,10 @@ permalink: /projects/cps-ranking/2021-03-01-impact-ranking
 
 <small>Researchers to be added: Carla Alberti (ID 3tcX6pYAAAAJ), Cristóbal Bywaters C. (ID omFHUesAAAAJ), Maite De Cea (ID tHL6bFwAAAAJ), Lucia Miranda Leibe (ID PfjSTeUAAAAJ), Carlos Meléndez (ID JD_X4KYAAAAJ), Nerea C. Palma (ID qNc7eZgAAAAJ), Diego Telias (ID ZjxwRK0AAAAJ), Amy L. Atchison (ID LWLkiYMAAAAJ), Arlette Martínez Ossa (ID kv5dWS4AAAAJ), Pablo Argote (ID 6DqP7GsAAAAJ), and Jaime Baeza Freer (ID xwVLXRQAAAAJ).</small><br />
 
+### Disclaimer
+
+<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
+
 ### Would you like to suggest someone?
 
 - Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
