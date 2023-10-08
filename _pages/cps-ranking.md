@@ -28,6 +28,10 @@ permalink: /projects/cps-ranking
 
 <p align="justify">We would like to thank Patricio Navia for his valuable comments and contributions.</p>
 
+## Disclaimer
+
+<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
+
 ## Quarterly Series
 
 - [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
@@ -64,4 +68,4 @@ permalink: /projects/cps-ranking
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
-<small>Last updated: September 21, 2023.</small>
+<small>Last updated: October 8, 2023.</small>
