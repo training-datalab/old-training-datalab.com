@@ -24,13 +24,7 @@ permalink: /projects/cps-ranking
 
 <p align="justify">Furthermore, a consistency index (C-Index) was calculated on [March 2021](https://training-datalab.com/projects/cps-ranking/2021-03-01-impact-ranking). C-Index goes from zero to 100 and reflects the Google profiles’ consistency in terms of authorship. Lower values are associated with more significant inconsistencies, therefore, the researcher’s indicators could be biased, and his/her position might be overestimated.</p>
 
-<p align="justify">If you like to suggest someone, please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.</p>
-
 <p align="justify">We would like to thank Patricio Navia for his valuable comments and contributions.</p>
-
-## Disclaimer
-
-<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
 
 ## Quarterly Series
 
@@ -50,6 +44,21 @@ permalink: /projects/cps-ranking
 - [June 2020](https://training-datalab.com/projects/cps-ranking/2020-06-02-impact-ranking)
 - [March 2020](https://training-datalab.com/projects/cps-ranking/2020-03-05-impact-ranking)
 - [December 2019](https://training-datalab.com/projects/cps-ranking/2019-12-02-impact-ranking)
+
+## Researchers to be Added
+
+1. Ryan E. Carlin (ID -eHDvsQAAAAJ)
+2. Sebastian Rivera (ID Z_hzOvcAAAAJ)
+3. Jaime Lindh (ID puGitsoAAAAJ)
+4. Martin Schuster (ID ybpn9pEAAAAJ)
+5. Pedro Fierro (ID RrzlOTIAAAAJ)
+6. Emmanuelle Barozet (ID NLiNCD0AAAAJ)
+7. Pamela Figueroa Rubio (ID 1pAw2bwAAAAJ)
+8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
+
+## Disclaimer
+
+<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
 
 ## Resources
 
