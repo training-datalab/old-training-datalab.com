@@ -1166,6 +1166,10 @@ permalink: /projects/cps-ranking/2019-12-02-impact-ranking
 <small>Note: The affiliations have been standardised. Data collected on December 2, 2019.</small><br />
 <small>Researchers to be added: Marcelo Mella Polanco (ID qdm2fHgAAAAJ), Hary Hugo Fruhling (ID dJKWN8wAAAAJ), Arturo Arriagada (ID TzPYdWsAAAAJ), Jorge Gordin (ID RJp2E7cAAAAJ), Stefano Palestini (ID 1JylyXQAAAAJ), Ross Mittiga (ID o4ZnQNsAAAAJ), Alfonso Donoso (ID OrPr-3AAAAAJ), Giovanni Agostinis (ID u9c4q20AAAAJ), Antonio Canale-Mayet (ID dFcoyfMAAAAJ), Javier Sajuria (ID elmJq2gAAAAJ), Federico Rojas-de-Galarreta (ID hTyE9WAAAAAJ), Ximena Soto Soutullo (ID r2q0t8cAAAAJ), Luis Garrido-Vergara (ID DlO0jXVS4FIC), and Carolina Acevedo (ID KNKPs0EAAAAJ).</small><br />
 
+### Disclaimer
+
+<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
+
 ### Would you like to suggest someone?
 
 - Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
