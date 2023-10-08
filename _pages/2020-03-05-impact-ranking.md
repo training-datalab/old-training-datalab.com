@@ -1292,6 +1292,10 @@ permalink: /projects/cps-ranking/2020-03-05-impact-ranking
 <small>Note: The affiliations have been standardised. Data collected on March 5, 2020.</small><br />
 <small>Researchers to be added: Andrés Dockendorff (ID fJbvIm4AAAAJ), Hector Bahamonde (ID 3FHDoL0AAAAJ), Renata Retamal Iturriaga (ID V8JzxeQAAAAJ), Gonzalo Contreras Aguirre (ID bsi-e88AAAAJ), Lucas Perelló (ID ShRtBhMAAAAJ), and Carlos Cantillana (ID 8iP3MuwAAAAJ).</small><br />
 
+### Disclaimer
+
+<p align="justify">Please bear in mind that this citation data comes from own user-created profiles on Google Scholar, whose coverage is not as rigorous as Scopus or Web of Science. In addition, the main ranking criterion is the H-Index, which has some limitations and is subject to bias and manipulation in some cases. Our quarterly ranking elaboration does not involve rearranging data, we focus on ordering the list by H-Index and citation.</p>
+
 ### Would you like to suggest someone?
 
 - Please send an email to <a href="mailto:cps-ranking@training-datalab.com">cps-ranking@training-datalab.com</a>.
