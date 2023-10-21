@@ -55,6 +55,7 @@ permalink: /projects/cps-ranking
 6. Emmanuelle Barozet (ID NLiNCD0AAAAJ)
 7. Pamela Figueroa Rubio (ID 1pAw2bwAAAAJ)
 8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
+9. Susana Riquelme Parra (ID JKUtx6oAAAAJ)
 
 ### Disclaimer
 
@@ -77,4 +78,4 @@ permalink: /projects/cps-ranking
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
-<small>Last updated: October 8, 2023.</small>
+<small>Last updated: October 21, 2023.</small>
