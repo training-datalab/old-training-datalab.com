@@ -12,7 +12,7 @@ permalink: /team/rcuevas/
 
 <p align=" justify">I am an assistant professor in the  <a href="https://soccipol.uct.cl/" target="_blank">Department of Sociology, Political Science and Public Administration at the Universidad Católica de Temuco</a>, Chile. My teaching activities are related to the teaching of quantitative and data analysis techniques applied to public policy. Previously, I served as a lecturer at the Universidad de Chile, de Valparaíso, de Santiago, among others.</p>
 
-<p align=" justify">I am a Doctor of Social Sciences and hold an MA in International Studies, both from the <a href="https://uchile.cl/" target="_blank">Universidad de Chile</a>. Previously, I earned a BA in Journalism at the Pontificia Universidad Católica de Valparaíso. My research is mainly focused on international trade and interest groups, specifically on the collective action of these groups during trade processes. In addition, my ancillary areas of interest are related to the study and measurement of political values using data surveys.</p>
+<p align=" justify">I am a Doctor of Social Sciences and hold an MA in International Studies, both from the <a href="https://uchile.cl/" target="_blank">Universidad de Chile</a>. Previously, I earned a BA in Journalism at the Pontificia Universidad Católica de Valparaíso, Chile. My research is mainly focused on international trade and interest groups, specifically on the collective action of these groups during trade processes. In addition, my ancillary areas of interest are related to the study and measurement of political values using data surveys.</p>
 
 ## Featured Articles
 
