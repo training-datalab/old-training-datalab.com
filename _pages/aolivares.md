@@ -42,11 +42,11 @@ permalink: /team/aolivares/
 
 - **Olivares, A.** (2022). <a href="https://link.springer.com/book/10.1007/978-3-030-92802-5" target="_blank">*Survival of Ministers and Configuration of Cabinets in Chile and Uruguay*</a>. Springer Nature.
 
-- Zurita-Tapia, J., Yanes-Rojas, A., & **Olivares, A.** (2022). ¿Vicepresidencia para Chile? In C. A. Martínez (Ed.), <a href="https://fondodeculturaeconomica.cl/products/presidencialismo-fce" target="_blank">*Presidencialismo. Reflexiones para el debate constitucional en Chile*</a>. Santiago: Fondo de Cultura Económica.
+- Zurita-Tapia, J., Yanes-Rojas, A., & **Olivares, A.** (2022). ¿Vicepresidencia para Chile? In C. A. Martínez (ed.), <a href="https://fondodeculturaeconomica.cl/products/presidencialismo-fce" target="_blank">*Presidencialismo. Reflexiones para el debate constitucional en Chile*</a>. Santiago: Fondo de Cultura Económica.
 
-- Escudero, M. C., & **Olivares, A.** (2021). <a href="https://link.springer.com/chapter/10.1007/978-3-030-70320-2_10" target="_blank">From the Dance of Those Left Out to a New Constitution: Channeling the Chilean Social Unrest</a>. In B. Navarrete & V. Tricot (Eds.), *Social Outburst and Political Representation in Chile*. Springer Nature.
+- Escudero, M. C., & **Olivares, A.** (2021). <a href="https://link.springer.com/chapter/10.1007/978-3-030-70320-2_10" target="_blank">From the Dance of Those Left Out to a New Constitution: Channeling the Chilean Social Unrest</a>. In B. Navarrete & V. Tricot (eds.), *Social Outburst and Political Representation in Chile*. Springer Nature.
 
-- González-Bustamante, B., & **Olivares, A.** (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: supervivencia de ministros</a>. In A. Codato and F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
+- González-Bustamante, B., & **Olivares, A.** (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: supervivencia de ministros</a>. In A. Codato & F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
 
 ## Data Collection Projects
 
