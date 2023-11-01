@@ -20,7 +20,7 @@ permalink: /team/cpalacios/
 
 ## Book Chapter
 
-- Maillet, A., Concha, M., & **Palacios, C.** (2021). <a href="https://www.impuestosjustos.io/capitulos" target="_blank">Estrategia política para reformas tributarias en Chile. Lecciones del pasado y proyección a futuro</a>. In C. Otero & J. Atria (eds.), *Impuestos justos para el Chile que viene: Diagnósticos y desafíos tributarios para un nuevo pacto fiscal*. Santiago: Fondo de Cultura Económica.
+- Maillet, A., Concha, M., & **Palacios, C.** (2021). <a href="https://www.impuestosjustos.io/capitulos" target="_blank">Estrategia política para reformas tributarias en Chile. Lecciones del pasado y proyección a futuro</a>. In C. Otero & J. Atria (eds.), *Impuestos justos para el Chile que viene: Diagnósticos y desafíos tributarios para un nuevo pacto fiscal*. Santiago: FCE.
 
 ## Other Publications
 
