@@ -66,7 +66,7 @@ permalink: /team/bgonzalezbustamante/
 
 - Cisternas, C., & **González-Bustamante, B.** (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
 
-- **González-Bustamante, B.** (2021). <a href="https://doi.org/10.31235/osf.io/r4pj8" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21. DOI: 10.5281/zenodo.6739833.
+- **González-Bustamante, B.** (2021). <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21.
 
 - **González-Bustamante, B.**, & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
 
@@ -94,4 +94,4 @@ Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">htt
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
 <small>70% of works as first author, 27% as sole author.</small><br />
-<small>Last updated: August 8, 2023.</small>
+<small>Last updated: November 1, 2023.</small>
