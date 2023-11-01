@@ -42,7 +42,7 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.** (2018). <a href="https://doi.org/10.1007/978-3-319-20928-9_2699" target="_blank">Civil Service Models in Latin America</a>. In A. Farazmand (ed.), *Global Encyclopedia of Public Administration, Public Policy, and Governance*. Cham: Springer.
 
-- **González-Bustamante, B.**, & Olivares, A. (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: supervivencia de ministros</a>. In A. Codato and F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
+- **González-Bustamante, B.**, & Olivares, A. (2018). <a href="https://www.researchgate.net/publication/325699783_Elites_en_las_Americas_diferentes_perspectivas_Elites_in_the_Americas_Different_Perspectives" target="_blank">La élite política gubernamental en Chile: supervivencia de ministros</a>. In A. Codato & F. Espinoza (eds.), *Las élites en las Américas: diferentes perspectivas*. Curitiba: Editora Universidade Federal do Paraná.
 
 - **González-Bustamante, B.**, & Barría, D. (2018). <a href="https://doi.org/10.31235/osf.io/nkftb" target="_blank">Expansión de la esfera pública en Chile: Redes sociales, campañas electorales y participación digital</a>. In N. Del Valle (ed.), *Transformaciones de la esfera pública en Chile. Luchas sociales, espacio público y pluralismo informativo*. Santiago: RIL Editores.
 
