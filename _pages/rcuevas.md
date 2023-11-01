@@ -26,7 +26,7 @@ permalink: /team/rcuevas/
 
 ## Featured Book Chapter
 
-- Avendaño, O., & **Cuevas, R.** (2018). Gremios empresariales y sindicatos. In C. Huneeus & O. Avendaño (eds.), *El Sistema Político de Chile*. LOM: Santiago.
+- Avendaño, O., & **Cuevas, R.** (2018). Gremios empresariales y sindicatos. In C. Huneeus & O. Avendaño (eds.), *El Sistema Político de Chile*. Santiago: LOM.
 
 ## Data Collection Projects
 
