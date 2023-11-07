@@ -10,9 +10,9 @@ permalink: /team/jmorillo/
 
 <img src="https://training-datalab.com/images/team/jmorillo.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align=" justify">I am a PhD student in Social Complexity Sciences at the Universidad del Desarrollo, Chile. My interests in political science and human behaviour have led me to follow an academic path focused on quantitative and experimental methodologies.</p>
+<p align=" justify">I am a PhD student in <a href="https://dccs.udd.cl/en/" target="_blank">Social Complexity Sciences at the Universidad del Desarrollo</a>, Chile. My interests in political science and human behaviour have led me to follow an academic path focused on quantitative and experimental methodologies.</p>
 
-<p align=" justify">My academic background is in international studies at the Universidad Torcuato Di Tella, Argentina. In addition, I hold a master's degree in International Strategy and Trade Policy at the Universidad de Chile.</p>
+<p align=" justify">My academic background is in international studies at the <a href="https://www.utdt.edu/" target="_blank">Universidad Torcuato Di Tella</a>, Argentina. In addition, I hold a master's degree in <a href="https://iei.uchile.cl/" target="_blank">International Strategy and Trade Policy at the Universidad de Chile</a>.</p>
 
 <p align=" justify">My research interests focus on quantitative approaches applied to electoral behaviour, democracy, congressional members and dynamics of human behaviour in socio-political contexts and trade policy.</p>
 
@@ -22,9 +22,9 @@ permalink: /team/jmorillo/
 
 ## Other Publications
 
-- Morillo Remesnitzky, J. (2017). WTO Dispute Settlement System: Latin American Countries Behavior in the Period 1995-2017 (2017). SECO/WTI Academic Cooperation Project Working Paper Series 2017/21. https://ssrn.com/abstract=3096032 or http://dx.doi.org/10.2139/ssrn.3096032
+- **Morillo Remesnitzky, J.** (2017). a href="https://ssrn.com/abstract=3096032 or http://dx.doi.org/10.2139/ssrn.3096032" target="_blank">WTO Dispute Settlement System: Latin American Countries Behavior in the Period 1995-2017</a>. SECO/WTI Academic Cooperation Project Working Paper Series 2017/21.
 
-- **Morillo Remesnitzky, J.** (2017). The World Order, Henry Kissinger (2014). Estudios Internacionales, 49(186), 207–212. https://doi.org/10.5354/0719-3769.2017.45225
+- **Morillo Remesnitzky, J.** (2017). a href="https://doi.org/10.5354/0719-3769.2017.45225" target="_blank">The World Order, Henry Kissinger (2014)</a>. *Estudios Internacionales, 49*(186), 207–212.
 
 ## Theses
 
@@ -34,7 +34,7 @@ permalink: /team/jmorillo/
 
 ## Outreach
 
-- **Morillo Remesnitzky, J.** (2017). Economía política del comercio internacional: el cambio de orden y la estrategia de Chile. Instituto de Estudios Internacionales, Universidad de Chile. http://www.iei.uchile.cl/noticias/135534/economia-politica-del-comercio-internacional.
+- **Morillo Remesnitzky, J.** (2017). a href="http://www.iei.uchile.cl/noticias/135534/economia-politica-del-comercio-internacional" target="_blank">Economía política del comercio internacional: el cambio de orden y la estrategia de Chile</a>. Instituto de Estudios Internacionales, Universidad de Chile.
 
 ### Contact Information
 
@@ -42,5 +42,5 @@ Email: <a href="mailto:jmorillor@udd.cl">jmorillor@udd.cl</a><br />
 Alternative email: <a href="mailto:jaquelin.morillo@training-datalab.com">jaquelin.morillo@training-datalab.com</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0002-2870-2691" target="_blank">https://orcid.org/0000-0002-2870-2691</a><br />
 <br />
-<small>XX% of works as first author, XX% as sole author.</small><br />
+<small>80% of works as first author, 80% as sole author (excluding outreach).</small><br />
 <small>Last updated: November 7, 2023.</small>
