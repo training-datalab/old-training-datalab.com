@@ -20,7 +20,7 @@ permalink: /team/rcuevas/
 
 - **Cuevas, R.**, Pérez, A., & Ramírez, M. J. (2021). <a href="https://doi.org/10.5354/0719-5338.2021.61849" target="_blank">Restricciones a las democracias sudamericanas y pandemia de COVID-19</a>. *Política, Revista de Ciencia Política, 59*(2), 11-31
 
-- **Cuevas, R.**, & Morillo Remesnitzky, Jaquelin (2020). <a href="https://doi.org/10.7770/rchdcp-V11N2-art2334" target="_blank">¿Todos los caminos llevan a Washington? Trayectorias de América Latina hacia un Acuerdo de Libre Comercio con los Estados Unidos (1990-2015)</a>. *Revista Chilena de Derecho y Ciencia Política, 11*(2), 206-236.
+- **Cuevas, R.**, & Morillo Remesnitzky, J. (2020). <a href="https://doi.org/10.7770/rchdcp-V11N2-art2334" target="_blank">¿Todos los caminos llevan a Washington? Trayectorias de América Latina hacia un Acuerdo de Libre Comercio con los Estados Unidos (1990-2015)</a>. *Revista Chilena de Derecho y Ciencia Política, 11*(2), 206-236.
 
 - **Cuevas, R.** (2019), <a href="https://doi.org/10.22201/fcpys.2448492xe.2019.237.64691" target="_blank">Reformas de Mercado y Acuerdos Comerciales en América Latina (1970-2015)</a>. *Revista Mexicana de Ciencias Políticas y Sociales, 64*(237), 377-408.
 
@@ -43,4 +43,4 @@ Alternative email: <a href="mailto:rodrigo.cuevas@training-datalab.com">rodrigo.
 ORCID iD: <a href="https://orcid.org/0000-0002-5980-1908" target="_blank">https://orcid.org/0000-0002-5980-1908</a><br />
 <br />
 <small>71% of works as first author, 43% as sole author.</small><br />
-<small>Last updated: November 3, 2023.</small>
+<small>Last updated: November 7, 2023.</small>
