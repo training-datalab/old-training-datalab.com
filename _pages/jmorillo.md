@@ -22,9 +22,9 @@ permalink: /team/jmorillo/
 
 ## Other Publications
 
-- **Morillo Remesnitzky, J.** (2017). a href="https://ssrn.com/abstract=3096032 or http://dx.doi.org/10.2139/ssrn.3096032" target="_blank">WTO Dispute Settlement System: Latin American Countries Behavior in the Period 1995-2017</a>. SECO/WTI Academic Cooperation Project Working Paper Series 2017/21.
+- **Morillo Remesnitzky, J.** (2017). <a href="https://ssrn.com/abstract=3096032 or http://dx.doi.org/10.2139/ssrn.3096032" target="_blank">WTO Dispute Settlement System: Latin American Countries Behavior in the Period 1995-2017</a>. SECO/WTI Academic Cooperation Project Working Paper Series 2017/21.
 
-- **Morillo Remesnitzky, J.** (2017). a href="https://doi.org/10.5354/0719-3769.2017.45225" target="_blank">The World Order, Henry Kissinger (2014)</a>. *Estudios Internacionales, 49*(186), 207–212.
+- **Morillo Remesnitzky, J.** (2017). <a href="https://doi.org/10.5354/0719-3769.2017.45225" target="_blank">The World Order, Henry Kissinger (2014)</a>. *Estudios Internacionales, 49*(186), 207–212.
 
 ## Theses
 
@@ -34,7 +34,7 @@ permalink: /team/jmorillo/
 
 ## Outreach
 
-- **Morillo Remesnitzky, J.** (2017). a href="http://www.iei.uchile.cl/noticias/135534/economia-politica-del-comercio-internacional" target="_blank">Economía política del comercio internacional: el cambio de orden y la estrategia de Chile</a>. Instituto de Estudios Internacionales, Universidad de Chile.
+- **Morillo Remesnitzky, J.** (2017). <a href="http://www.iei.uchile.cl/noticias/135534/economia-politica-del-comercio-internacional" target="_blank">Economía política del comercio internacional: el cambio de orden y la estrategia de Chile</a>. Instituto de Estudios Internacionales, Universidad de Chile.
 
 ### Contact Information
 
