@@ -10,7 +10,7 @@ permalink: /projects/local-government-indicators
 
 **Researchers:** [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante) and [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
 
-**Associate:** Rodrigo Cuevas
+**Associate:** [Rodrigo Cuevas]({{ site.url }}{{ site.baseurl }}/team/rcuevas)
 
 ![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg)
 
