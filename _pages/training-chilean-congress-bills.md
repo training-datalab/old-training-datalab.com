@@ -8,7 +8,7 @@ permalink: /projects/chilean-congress-bills
 
 # Training Data on Chilean Congress Bills
 
-**Researchers:** [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas), [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), Jaquelin Morillo and [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
+**Researchers:** [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas), [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), [Jaquelin Morillo]({{ site.url }}{{ site.baseurl }}/team/jmorillo) and [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
 
 ![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
