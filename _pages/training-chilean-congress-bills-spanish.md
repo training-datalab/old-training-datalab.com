@@ -8,7 +8,7 @@ permalink: /projects/chilean-congress-bills-spanish
 
 # Entrenamiento de datos sobre los proyectos de ley del Congreso chileno
 
-**Investigadores:** [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas), [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), [Jaquelin Morillo](({{ site.url }}{{ site.baseurl }}/team/jmorillo)) y [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
+**Investigadores:** [Carla Cisternas]({{ site.url }}{{ site.baseurl }}/team/ccisternas), [Bastián González-Bustamante]({{ site.url }}{{ site.baseurl }}/team/bgonzalezbustamante), [Jaquelin Morillo]({{ site.url }}{{ site.baseurl }}/team/jmorillo) y [Diego Aguilar]({{ site.url }}{{ site.baseurl }}/team/daguilar)
 
 ![Project Status: Standby]({{ site.url }}{{ site.baseurl }}/badges/project_status/project_standby.svg) &nbsp;&nbsp; [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com/projects/chilean-congress-bills) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/projects/chilean-congress-bills-spanish)
 
