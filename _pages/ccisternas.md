@@ -42,7 +42,7 @@ I am interested in technocracy in Latin America, public policies and legislative
 
 - Castañeda F., Brown, E., Cloke, J., Gil, F. J., González, M., & **Cisternas, C.** (2020). <a href="http://www.ciriec.uliege.be/wp-content/uploads/2020/07/WP2020-09.pdf" target="_blank">Social Inclusion: The Higher Education Sector in Chile and in the United Kingdom</a>. *CIRIEC Working Papers*, 9, 1-30.
 
-- **Cisternas, C.** (2016). Reseña Espinoza, F. (2015). <a href="https://doi.org/10.22370/rgp.2016.5.1.2229" target="_blank">Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País</a>. *Revista de Gestión Pública, V*(1), 143-152
+- **Cisternas, C.** (2016). <a href="https://doi.org/10.22370/rgp.2016.5.1.2229" target="_blank">Espinoza, F. (2015). Bolivia: La Circulación de sus Élites (2006-2014). Santa Cruz de la Sierra: Editorial El País</a>. *Revista de Gestión Pública, V*(1), 143-152
 
 ### Contact Information
 
@@ -54,4 +54,4 @@ Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmember
 <br />
 <small>Picture by Luciana Solar.</small><br />
 <small>45% of works as first author, 18% as sole author.</small><br />
-<small>Last updated: June 1, 2023.</small>
+<small>Last updated: November 9, 2023.</small>
