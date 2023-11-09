@@ -14,7 +14,7 @@ permalink: /team/daguilar/
 
 <p align=" justify">I hold an MA in Political Science from the <a href="https://inap.uchile.cl/" target="_blank">Institute of Public Affairs</a> at the Universidad de Chile and an MA in Global Politics from <a href="https://socialsciences.mcmaster.ca/" target="_blank">McMaster University</a>, Canada. Moreover, I earned an LLB from <a href="https://derecho.uahurtado.cl/" target="_blank">Universidad Alberto Hurtado</a>, Chile. I am interested in transparency and open government, public policies, indigenous affairs and international relations.</p>
 
-## Featured Articles
+## Featured Article
 
 - González-Bustamante, B., & **Aguilar, D.** (2023). <a href="https://doi.org/10.1080/2474736X.2023.2194369" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange, 5*(1).
 
