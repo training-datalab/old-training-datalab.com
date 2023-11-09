@@ -48,6 +48,8 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.** (2018). <a href="https://doi.org/10.34720/2nd0-8t73" target="_blank">Internet, uso de redes sociales digitales y participación en el Cono Sur</a>. In P. Cottet (ed.), *Opinión pública contemporánea: otras posibilidades de comprensión e investigación*. Santiago: Social-Ediciones.
 
+- Barría, D., **González-Bustamante, B.**, & Araya, E. (2017). <a href="https://www.researchgate.net/publication/321980289_Democracia_electronica_y_participacion_digital_Avances_y_desafios" target="_blank">Democracia electrónica y participación digital. Avances y desafíos</a>. In J. R. Gil-García, J. I. Criado, and J. C. Téllez (eds.), *Tecnologías de Información y Comunicación en la Administración Pública: Conceptos, Enfoques, Aplicaciones y Resultados*. Mexico City: INFOTEC.
+
 ## Data Collection Projects
 
 - **González‑Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a>. Dataset, pre-release version, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
@@ -64,6 +66,8 @@ permalink: /team/bgonzalezbustamante/
 
 - Cisternas, C., **González-Bustamante, B.**, Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
 
+- **González-Bustamante, B.** (2022). <a href="https://doi.org/10.7770/rchdcp-V13N2-art2907" target="_blank">Métodos cuantitativos para estudiar a las élites: Aplicaciones prácticas, sesgos y potencialidades</a>. *Revista Chilena de Derecho y Ciencia Política, 13*(2), 12-44.
+
 - Cisternas, C., & **González-Bustamante, B.** (2022). <a href="https://revistas.ucr.ac.cr/index.php/eciencias/article/view/50078" target="_blank">Ciencias sociales en contextos de represión: Análisis bibliométrico de la producción histórica de la Corporación de Estudios para Latinoamérica, Chile (1979-1989)</a>. *eCiencias de la Información 12*(2), 1-18.
 
 - **González-Bustamante, B.** (2021). <a href="https://doi.org/10.5281/zenodo.6739833" target="_blank">Sofisticación, participación y compromiso político en América Latina</a>. *Tufte Working Papers*, 2, 1-21.
@@ -72,7 +76,7 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.** (2021). <a href="https://www.researchgate.net/publication/363158016_Hibridacion_digital_en_el_Cono_Sur_Consumo_de_medios_tradicionales_digitales_y_uso_de_redes_sociales" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé: Revista de Comunicación Social*, 21, 31-39.
 
-- **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
+- **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Altos directivos públicos: Un nuevo conjunto de datos de miembros del servicio civil chileno</a>. *Revista de Gestión Pública, IX*(2), 151-169.
 
 - **González-Bustamante, B.**, & Cisternas, C. (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
 
@@ -84,6 +88,38 @@ permalink: /team/bgonzalezbustamante/
 
 - Del Valle, N., & **González-Bustamante, B.** (2018). <a href="http://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146" target="_blank">Agenda política, periodismo y medios digitales en Chile: Notas de investigación sobre pluralismo informativo</a>. *Perspectivas de la Comunicación, 11*(1), 291-326.
 
+- Maillet, A., **González-Bustamante, B.**, Olivares, A. (2016). <a href="https://www.latinamerica.undp.org/content/rblac/es/home/library/democratic_governance/-puerta-giratoria--analisis-de-la-circulacion-publico-privada-en.html" target="_blank">¿Puerta giratoria? Análisis de la circulación público-privada en Chile (2000-2014)</a>. *Serie Documentos de Trabajo PNUD-Desigualdad*, 7, 1-40.
+
+- **González-Bustamante, B.**, & Cisternas, C. (2016). <a href="https://revistapolitica.uchile.cl/index.php/RP/article/view/42691" target="_blank">Élites políticas en el poder legislativo chileno: la Cámara de Diputados (1990-2014)</a>. *Política, Revista de Ciencia Política, 54*(1), 19-52.
+
+- **González-Bustamante, B.** (2016). <a href="https://revistapolitica.uchile.cl/index.php/RP/article/view/42690" target="_blank">Élites políticas, económicas e intelectuales: una agenda de investigación creciente para la ciencia política</a>. *Política, Revista de Ciencia Política, 54*(1), 7-17.
+
+- **González-Bustamante, B.**, & Olivares, A. (2016). <a href="https://doi.org/10.7440/colombiaint87.2016.04" target="_blank">Cambios de gabinete y supervivencia de los ministros en Chile durante los gobiernos de la Concertación (1990-2010)</a>. *Colombia Internacional*, 87, 81-108.
+
+- **González-Bustamante, B.**, & Olivares, A. (2016). <a href="https://www.researchgate.net/publication/321993740_A_rotatividade_de_subsecretarios_dos_ministerios_no_Chile_1990-2014" target="_blank">A rotatividade de subsecretários dos ministérios no Chile (1990-2014)</a>. *Newsletter. Observatório de elites políticas e sociais do Brasil. NUSP/UFPR, 3*(5), 1-19.
+
+- **González-Bustamante, B.**, & Soto, D. (2016). <a href="http://dx.doi.org/10.13140/RG.2.2.33899.03362/1" target="_blank">Pluralismo en los medios digitales escritos en Chile, una exploración de casos clave</a>. *Serie Política, Gestión y Políticas Públicas*, 2, 1-26.
+
+- **González-Bustamante, B.**, Olivares, A., Abarca, P., & Molina, E. (2016). <a href="http://dx.doi.org/10.1590/0034-7612145767" target="_blank">Servicio civil en Chile, análisis de los directivos de primer nivel jerárquico (2003-13)</a>. *Revista de Administração Pública, 50*(1), 59-79.
+
+- **González-Bustamante, B.**, & Olivares, A. (2015). <a href="https://doi.org/10.22370/rgp.2015.4.2.2230" target="_blank">Rotación de subsecretarios en Chile: Una exploración de la segunda línea gubernamental, 1990-2014</a>. *Revista de Gestión Pública, IV*(2), 151-190.
+
+- **González-Bustamante, B.** (2015). <a href="https://doi.org/10.22370/rgp.2015.4.1.2240" target="_blank">Programas de Naciones Unidas para el Desarrollo (PNUD). (2014). Ciudadanía Política: Voz y Participación Ciudadana en América Latina. Buenos Aires: Siglo Veintiuno Editores</a>. *Revista de Gestión Pública, IV*(1), 143-149.
+
+- **González-Bustamante, B.** (2015). <a href="http://www.revistas.usach.cl/ojs/index.php/politicas/article/view/2182" target="_blank">Éxito electoral y gasto en campaña en las elecciones de senadores y diputados en Chile 2013</a>. *Políticas Públicas, 8*(1), 21-35.
+
+- **González-Bustamante, B.** (2015). <a href="https://www.redalyc.org/articulo.oa?id=387142733006" target="_blank">Evaluando Twitter como indicador de opinión pública: una mirada al arribo de Bachelet a la presidencial chilena 2013</a>. *Revista SAAP, 9*(1), 119-141.
+
+- Olivares, A., **González-Bustamante, B.**, Meneses, J., & Rodríguez, M. (2014). <a href="http://doi.org/10.5354/0719-529X.2014.36177" target="_blank">Los think tanks en el gabinete: una exploración del caso chileno (2006-2014)</a>. *Revista de Sociología*, 29, 37-54.
+
+- **González-Bustamante, B.** (2014). <a href="https://revistapolitica.uchile.cl/index.php/RP/article/view/36137" target="_blank">Elección directa de consejeros regionales 2013. Rendimiento del capital político, familiar y económico en una nueva arena electoral en Chile</a>. *Política, Revista de Ciencia Política, 52*(2), 49-91.
+
+- **González-Bustamante, B.** (2013). <a href="https://www.redalyc.org/articulo.oa?id=421739499004" target="_blank">El estudio de las élites en Chile: aproximaciones conceptuales y metodológicas</a>. *Intersticios Sociales*, 6, 1-20.
+
+- **González-Bustamante, B.** (2013). <a href="https://doi.org/10.5354/0716-1077.2013.27436" target="_blank">Factores de acceso y permanencia de la élite política gubernamental en Chile (1990-2010)</a>. *Política, Revista de Ciencia Política, 51*(1), 119-153.
+
+- **González-Bustamante, B.**, & Henríquez, G. (2012). <a href="https://www.researchgate.net/publication/260517478_Campanas_digitales_Branding_o_participacion_politica_El_rol_de_las_redes_sociales_en_la_ultima_campana_presidencial_chilena" target="_blank">Campañas digitales: ¿Branding o participación política?</a>. *Más Poder Local*, 12, 32-39.
+
 ### Contact Information
 
 Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a><br />
@@ -93,5 +129,5 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
-<small>70% of works as first author, 27% as sole author.</small><br />
+<small>75% of works as first author, 33% as sole author.</small><br />
 <small>Last updated: November 9, 2023.</small>
