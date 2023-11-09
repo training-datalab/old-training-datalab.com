@@ -18,9 +18,9 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
-- **González-Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.1080/2474736X.2023.2194369" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange, 5*(1).
+- **González-Bustamante, B.** (2023). <a href="https://doi.org/10.1177/13691481221124850" target="_blank">Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile</a>. *The British Journal of Politics and International Relations, 25*(4), 655-675.
 
-- **González-Bustamante, B.** (2022). <a href="https://doi.org/10.1177/13691481221124850" target="_blank">Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile</a>. *The British Journal of Politics and International Relations*. OnlineFirst.
+- **González-Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.1080/2474736X.2023.2194369" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange, 5*(1).
 
 - Fleming, T. G., **González‑Bustamante, B.**, & Schleiter, P. (2022). <a href="https://doi.org/10.1017/gov.2022.23" target="_blank">Cabinet Reshuffles and Parliamentary No‑Confidence Motions</a>. *Government and Opposition*. FirstView.
 
@@ -70,7 +70,7 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.**, & Luci, F. (2021). <a href="http://www.revistapleyade.cl/index.php/OJS/article/view/359" target="_blank">Élites políticas en América Latina: Socialización, trayectorias y capitales</a>. *Pléyade, Revista de Humanidades y Ciencias Sociales*, 28, 21-32.
 
-- **González-Bustamante, B.** (2021). <a href="https://revistas.unife.edu.pe/index.php/comunife/article/view/2580/" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé: Revista de Comunicación Social*, 21, 31-39.
+- **González-Bustamante, B.** (2021). <a href="https://www.researchgate.net/publication/363158016_Hibridacion_digital_en_el_Cono_Sur_Consumo_de_medios_tradicionales_digitales_y_uso_de_redes_sociales" target="_blank">Hibridación digital en el Cono Sur: Consumo de medios tradicionales, digitales y uso de redes sociales</a>. *Comunifé: Revista de Comunicación Social*, 21, 31-39.
 
 - **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2020). <a href="https://doi.org/10.31235/osf.io/vshcz" target="_blank">Senior Public Managers: A Novel Dataset on Members of the Chilean Civil Service</a>. *Revista de Gestión Pública, IX*(2), 151-169.
 
@@ -94,4 +94,4 @@ Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">htt
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
 <small>70% of works as first author, 27% as sole author.</small><br />
-<small>Last updated: November 1, 2023.</small>
+<small>Last updated: November 9, 2023.</small>
