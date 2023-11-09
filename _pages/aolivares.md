@@ -26,7 +26,7 @@ permalink: /team/aolivares/
 
 - **Olivares, A.**, Carrasco, C., & Tricot, V. (2022). <a href="https://doi.org/10.5102/rbpp.v12i3.8637" target="_blank">The student movement 2011 and free education policy in Chile (2017)</a>. *Revista Brasileira de Políticas Públicas, 12*(3), 255-273.
 
-- Rozas-Bugueño, J., Maillet, A., & **Olivares, A.** (2022). <a href="http://www.economiaypolitica.cl/index.php/eyp/article/view/188" target="_blank">Entre la independencia y la militancia: Análisis de la vinculación partidaria de los y las convencionales constituyentes de Chile</a>. *Revista Economía y Política, 9*(2), 67-100.
+- Rozas-Bugueño, J., Maillet, A., & **Olivares, A.** (2022). <a href="http://www.economiaypolitica.cl/index.php/eyp/article/view/188" target="_blank">Entre la independencia y la militancia: Análisis de la vinculación partidaria de los y las convencionales constituyentes de Chile</a>. *Economía y Política, 9*(2), 67-100.
 
 - **Olivares, A.**, & Medina, P. (2020). <a href="http://dx.doi.org/10.4067/S0718-090X2020005000110" target="_blank">La persistente debilidad institucional de Ecuador: Protestas, elecciones y divisiones políticas durante el 2019</a>. *Revista de Ciencia Política, 40*(2), 315–349.
 
@@ -56,11 +56,23 @@ permalink: /team/aolivares/
 
 - González-Bustamante, B., **Olivares, A.**, Cisternas, C., & Cuevas, R. (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
+## Other Publications
+
+- González-Bustamante, B., & **Olivares, A.** (2016). <a href="https://doi.org/10.7440/colombiaint87.2016.04" target="_blank">Cambios de gabinete y supervivencia de los ministros en Chile durante los gobiernos de la Concertación (1990-2010)</a>. *Colombia Internacional*, 87, 81-108.
+
+- González-Bustamante, B., & **Olivares, A.** (2016). <a href="https://www.researchgate.net/publication/321993740_A_rotatividade_de_subsecretarios_dos_ministerios_no_Chile_1990-2014" target="_blank">A rotatividade de subsecretários dos ministérios no Chile (1990-2014)</a>. *Newsletter. Observatório de elites políticas e sociais do Brasil. NUSP/UFPR, 3*(5), 1-19.
+
+- González-Bustamante, B., **Olivares, A.**, Abarca, P., & Molina, E. (2016). <a href="http://dx.doi.org/10.1590/0034-7612145767" target="_blank">Servicio civil en Chile, análisis de los directivos de primer nivel jerárquico (2003-13)</a>. *Revista de Administração Pública, 50*(1), 59-79.
+
+- González-Bustamante, B., & **Olivares, A.** (2015). <a href="https://doi.org/10.22370/rgp.2015.4.2.2230" target="_blank">Rotación de subsecretarios en Chile: Una exploración de la segunda línea gubernamental, 1990-2014</a>. *Revista de Gestión Pública, IV*(2), 151-190.
+
+- **Olivares, A.**, González-Bustamante, B., Meneses, J., & Rodríguez, M. (2014). <a href="http://doi.org/10.5354/0719-529X.2014.36177" target="_blank">Los think tanks en el gabinete: una exploración del caso chileno (2006-2014)</a>. *Revista de Sociología*, 29, 37-54.
+
 ### Contact Information
 
 Email: <a href="mailto:alejandro.olivares@uct.cl">alejandro.olivares@umayor.cl</a><br />
 Alternative email: <a href="mailto:alejandro.olivares@training-datalab.com">alejandro.olivares@training-datalab.com</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0001-6934-2437" target="_blank">https://orcid.org/0000-0001-6934-2437</a><br />
 <br />
-<small>41% of works as first author, 12% as sole author.</small><br />
-<small>Last updated: August 8, 2023.</small>
+<small>36% of works as first author, 9% as sole author.</small><br />
+<small>Last updated: November 9, 2023.</small>
