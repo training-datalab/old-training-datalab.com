@@ -14,7 +14,7 @@ permalink: /team/cpalacios/
 
 <p align=" justify">In my five years -and counting- of professional experience in both the public and private sectors, I have worked in multidisciplinary teams and supported decision-making through developing specialised content on public policies. Today, I am a coordinator of studies in a public affairs consultancy. I monitor and analyse the constituent process in Chile and the media agenda, as well as provide advice on various issues relevant to clients.</p>
 
-## Article
+## Featured Article
 
 - **Palacios, C.**, & Jofré, H. (2016). <a href="http://www.revistaenfoques.cl/index.php/revista-uno/article/view/409" target="_blank">Permanencia de agentes clave en el Centro de Gobierno. El caso chileno (1990-2014)</a>. *Revista Enfoques, XIV*(24), 91-119.
 
