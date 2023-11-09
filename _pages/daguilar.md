@@ -18,8 +18,6 @@ permalink: /team/daguilar/
 
 - González-Bustamante, B., & **Aguilar, D.** (2023). <a href="https://doi.org/10.1080/2474736X.2023.2194369" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange, 5*(1).
 
-- **Aguilar, D.** (2020). <a href="https://www.uchile.cl/noticias/157441/graduado-del-mcp-recibe-premio-por-ensayo-sobre-politica-exterior" target="_blank">La responsabilidad de cooperar de Chile: el caso de los Comité de Integración</a>. *Cuaderno de Estudios Internacionales*, 1, 26-51.
-
 ## Book Chapter
 
 - **Aguilar, D.** (2020). <a href="https://www.academia.edu/43823415/Una_aproximaci%C3%B3n_a_la_arbitrariedad_como_cl%C3%A1usula_abusiva_an%C3%A1lisis_a_la_cl%C3%A1usula_del_no_show" target="_blank">Una aproximación a la arbitrariedad como cláusula abusiva: análisis a la cláusula del no-show</a>. In S. Bozzo (ed.), *Memorias III Congreso Internacional de Regulación y Consumo*. Santiago: RIL Editores.
@@ -28,9 +26,11 @@ permalink: /team/daguilar/
 
 - González‑Bustamante, B., & **Aguilar, D.** (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a>. Dataset, pre-release version, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
-## Other Publication
+## Other Publications
 
 - Cisternas, C., González-Bustamante, B., Morillo, J., & **Aguilar, D.** (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+
+- **Aguilar, D.** (2020). <a href="https://www.uchile.cl/noticias/157441/graduado-del-mcp-recibe-premio-por-ensayo-sobre-politica-exterior" target="_blank">La responsabilidad de cooperar de Chile: el caso de los Comité de Integración</a>. *Cuaderno de Estudios Internacionales*, 1, 26-51.
 
 ## Selected Conference Presentations
 
@@ -48,4 +48,4 @@ Email: <a href="mailto:diego.aguilar@training-datalab.com">diego.aguilar@trainin
 ORCID iD: <a href="https://orcid.org/0000-0003-4531-5922" target="_blank">https://orcid.org/0000-0003-4531-5922</a><br />
 <br />
 <small>22% of works as first author, 22% as sole author.</small><br />
-<small>Last updated: August 23, 2023.</small>
+<small>Last updated: November 9, 2023.</small>
