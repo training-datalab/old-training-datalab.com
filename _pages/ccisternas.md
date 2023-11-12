@@ -10,11 +10,9 @@ permalink: /team/ccisternas/
 
 <img src="https://training-datalab.com/images/team/ccisternas.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/en" target="_blank">Leiden University</a>, Netherlands. I am also a Lecturer at the <a href="https://www.umayor.cl/um/facultades/facultad-de-ciencias-sociales-y-artes/10000" target="_blank">Faculty of Social Sciences and Arts</a> at the Universidad Mayor, Chile.</p>
+<p align="justify">I am a PhD Researcher in the Department of Latin American Studies at the Faculty of Humanities at <a href="https://www.universiteitleiden.nl/en/staffmembers/carla-cisternas-guasch" target="_blank">Leiden University</a>, Netherlands. I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a> at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago de Chile (USACH).</p>
 
-I hold an MA (1st) in Political Science from the <a href="http://www.inap.uchile.cl/" target="_blank">Institute of Public Affairs</a> at the Universidad de Chile. Moreover, I earned a BA (1st) and a BPS (1st) in Public Administration from the Universidad de Santiago de Chile (USACH).
-
-I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis and mixed methods. My doctoral project is supervised by <a href="https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1" target="_blank">Professor Patricio Silva</a> and <a href="https://www.universiteitleiden.nl/en/staffmembers/maria-gabriela-palacio-ludena#tab-1" target="_blank">Dr María Gabriela Palacio</a> and focuses on the relationship between technocracy, democracy, and sociopolitical conflicts. In particular, I study ad hoc presidential advisory commissions. The Chilean National Agency for Research and Development funds my PhD project.
+<p align="justify">I am interested in technocracy in Latin America, public policies and legislative processes, social network analysis and mixed methods. My doctoral project is supervised by <a href="https://www.universiteitleiden.nl/en/staffmembers/patricio-silva#tab-1" target="_blank">Professor Patricio Silva</a> and <a href="https://www.universiteitleiden.nl/en/staffmembers/maria-gabriela-palacio-ludena#tab-1" target="_blank">Dr María Gabriela Palacio</a> and focuses on the relationship between technocracy, democracy, and sociopolitical conflicts. In particular, I study ad hoc presidential advisory commissions. The Chilean National Agency for Research and Development and the Slicher van Bath de Jong Foundation, through the Centre for Latin American Research and Documentation (CEDLA) of the University of Amsterdam, fund my PhD project.</p>
 
 ## Featured Articles
 
@@ -54,4 +52,4 @@ Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmember
 <br />
 <small>Picture by Luciana Solar.</small><br />
 <small>45% of works as first author, 18% as sole author.</small><br />
-<small>Last updated: November 9, 2023.</small>
+<small>Last updated: November 12, 2023.</small>
