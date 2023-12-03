@@ -64,7 +64,9 @@ permalink: /team/bgonzalezbustamante/
 
 ## Other Publications
 
-- Cisternas, C., **González-Bustamante, B.**, Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+- Cisternas, C., **González-Bustamante, B.**, Morillo Remesnitzky, J., & Aguilar, D. (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
+
+- **González-Bustamante, B.** (2023, *forthcoming*). Indicadores basados en Google Trends para opinión pública.*Tufte Working Papers*, 4.
 
 - **González-Bustamante, B.** (2022). <a href="https://doi.org/10.7770/rchdcp-V13N2-art2907" target="_blank">Métodos cuantitativos para estudiar a las élites: Aplicaciones prácticas, sesgos y potencialidades</a>. *Revista Chilena de Derecho y Ciencia Política, 13*(2), 12-44.
 
@@ -129,5 +131,5 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
-<small>75% of works as first author, 33% as sole author.</small><br />
+<small>76% of works as first author, 35% as sole author.</small><br />
 <small>Last updated: December 3, 2023.</small>
