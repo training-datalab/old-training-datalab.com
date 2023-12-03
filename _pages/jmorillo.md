@@ -22,7 +22,7 @@ permalink: /team/jmorillo/
 
 ## Other Publications
 
-- Cisternas, C., González-Bustamante, B., **Morillo, J.**, & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+- Cisternas, C., González-Bustamante, B., **Morillo Remesnitzky, J.**, & Aguilar, D. (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
 
 - **Morillo Remesnitzky, J.** (2017). <a href="https://dx.doi.org/10.2139/ssrn.3096032" target="_blank">WTO Dispute Settlement System: Latin American Countries Behavior in the Period 1995-2017</a>. SECO/WTI Academic Cooperation Project Working Paper Series 2017/21.
 
@@ -45,4 +45,4 @@ Alternative email: <a href="mailto:jaquelin.morillo@training-datalab.com">jaquel
 ORCID iD: <a href="https://orcid.org/0000-0002-2870-2691" target="_blank">https://orcid.org/0000-0002-2870-2691</a><br />
 <br />
 <small>67% of works as first author, 67% as sole author (excluding outreach).</small><br />
-<small>Last updated: November 7, 2023.</small>
+<small>Last updated: December 3, 2023.</small>
