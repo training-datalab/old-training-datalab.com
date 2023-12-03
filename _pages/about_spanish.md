@@ -12,12 +12,12 @@ permalink: /about-spanish
 
 [![English]({{ site.url }}{{ site.baseurl }}/badges/lang/english_inactive.svg)](https://training-datalab.com) &nbsp;&nbsp; [![Spanish]({{ site.url }}{{ site.baseurl }}/badges/lang/spanish.svg)](https://training-datalab.com/about-spanish)
 
-Diferentes instituciones apoyan logística o financieramente a este grupo.
+Diferentes instituciones apoyan o han apoyado a nuestro grupo logística y/o financieramente.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab-logo.png" style="width: 65px"> &nbsp;&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/oxford.jpg" style="width: 60px"> &nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/leiden.jpg" style="width: 155px">  &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/oxford.jpg" style="width: 60px"> &nbsp;&nbsp;
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logos/uct.png" style="width: 160px">  &nbsp;&nbsp;-->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/usach.png" style="width: 55px"> &nbsp;&nbsp;&nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/umayor.png" style="width: 60px">
