@@ -3,7 +3,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [3.1.1] - TBC
+## [3.1.2] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
@@ -14,6 +14,10 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 - Oblique strategies project.
 
 ## [Released]
+
+## [3.0.2] - 2023-12-03
+### Changed
+- Minor corrections.
 
 ## [3.0.1] - 2023-07-06
 ### Changed
