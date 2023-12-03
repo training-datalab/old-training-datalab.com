@@ -28,6 +28,7 @@ permalink: /projects/cps-ranking
 
 ## Quarterly Series
 
+- [December 2023](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking)
 - [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
 - [June 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
 - [March 2023](https://training-datalab.com/projects/cps-ranking/2023-03-03-impact-ranking)
@@ -47,15 +48,7 @@ permalink: /projects/cps-ranking
 
 ### Researchers to be Added
 
-1. Ryan E. Carlin (ID -eHDvsQAAAAJ)
-2. Sebastian Rivera (ID Z_hzOvcAAAAJ)
-3. Jaime Lindh (ID puGitsoAAAAJ)
-4. Martin Schuster (ID ybpn9pEAAAAJ)
-5. Pedro Fierro (ID RrzlOTIAAAAJ)
-6. Emmanuelle Barozet (ID NLiNCD0AAAAJ)
-7. Pamela Figueroa Rubio (ID 1pAw2bwAAAAJ)
-8. Ignacio Cienfuegos (ID desdAPoAAAAJ)
-9. Susana Riquelme Parra (ID JKUtx6oAAAAJ)
+1.
 
 ### Disclaimer
 
@@ -74,8 +67,8 @@ permalink: /projects/cps-ranking
 
 ### How to cite this dataset?
 
-- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
+- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, Leiden University, University of Oxford and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
-<small>Last updated: October 21, 2023.</small>
+<small>Last updated: December 3, 2023.</small>
