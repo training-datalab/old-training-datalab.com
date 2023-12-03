@@ -28,7 +28,7 @@ permalink: /team/daguilar/
 
 ## Other Publications
 
-- Cisternas, C., González-Bustamante, B., Morillo, J., & **Aguilar, D.** (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+- Cisternas, C., González-Bustamante, B., Morillo Remesnitzky, J., & **Aguilar, D.** (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
 
 - **Aguilar, D.** (2020). <a href="https://www.uchile.cl/noticias/157441/graduado-del-mcp-recibe-premio-por-ensayo-sobre-politica-exterior" target="_blank">La responsabilidad de cooperar de Chile: el caso de los Comité de Integración</a>. *Cuaderno de Estudios Internacionales*, 1, 26-51.
 
@@ -48,4 +48,4 @@ Email: <a href="mailto:diego.aguilar@training-datalab.com">diego.aguilar@trainin
 ORCID iD: <a href="https://orcid.org/0000-0003-4531-5922" target="_blank">https://orcid.org/0000-0003-4531-5922</a><br />
 <br />
 <small>22% of works as first author, 22% as sole author.</small><br />
-<small>Last updated: November 9, 2023.</small>
+<small>Last updated: December 3, 2023.</small>
