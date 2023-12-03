@@ -10,11 +10,11 @@ permalink: /team/bgonzalezbustamante/
 
 <img src="https://training-datalab.com/images/team/bgonzalezbustamante.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align=" justify">I am completing my DPhil (PhD) dissertation in the <a href="https://www.politics.ox.ac.uk/" target="_blank">Department of Politics and International Relations</a> and <a href="https://www.sthildas.ox.ac.uk/" target="_blank">St Hilda’s College</a> at the <a href="http://www.ox.ac.uk/" target="_blank">University of Oxford</a>, United Kingdom. Before starting the DPhil in October 2019, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile. Moreover, I served as a lecturer at the Universidad de Santiago and Universidad de Chile and as a consultant for the United Nations Development Programme (UNDP).</p>
+<p align=" justify">I am a post-doctoral researcher in Computational Social Science at the Institute of Security and Global Affairs (ISGA) at the <a href="https://www.universiteitleiden.nl/en/governance-and-global-affairs" target="_blank">Faculty of Governance and Global Affairs at Leiden University</a>, Netherlands. I hold a <a href="https://www.politics.ox.ac.uk/" target="_blank">DPhil (PhD) in Politics from the University of Oxford</a>, United Kingdom. Before my DPhil, I earned an MA (1st) in Political Science and a BA (2:1) in Government, both from the Universidad de Chile.</p>
 
-<p align=" justify">My doctoral research is supervised by <a href="https://www.politics.ox.ac.uk/person/petra-schleiter" target="_blank">Professor Petra Schleiter</a> and focuses on the causes and consequences of ministerial turnover in 12 Latin American presidential countries from the mid-1970s to date. My project integrates elements of the principal-agent theory to evaluate specific incentives and strategies of the actors in presidential systems, considering the regime’s institutional features. In my data-gathering process, I applied optical character recognition (OCR), natural language processing (NLP) and machine learning techniques to almost 50 years of press report archives. In addition, my empirical strategy employs propensity score matching methods, semiparametric competing risks models and instrumental-variable regressions.</p>
+<p align=" justify">My research interests lie in the intersection of comparative politics and government, focusing mainly on cabinets, political regimes and civil services. Methodologically, my interests rely on the application of quantitative text analysis, machine learning methods and causal inference strategies in the comparative politics field. In the past two years, my work has been published in *The International Journal of Press/Politics*, *World Development*, *Government and Opposition*, *The British Journal of Politics and International Relations*, *Bulletin of Latin American Research* and elsewhere.</p>
 
-<p align=" justify">My research is funded by the Chilean National Agency for Research and Development (ANID), the St Hilda’s College Muriel Wise Fund and the Postgraduate and Postdoctoral Award of the Society for Latin American Studies (SLAS).</p>
+<p align=" justify">During my post-doctorate, I will be working on two research projects funded by the Dutch Research Council (NWO) related to how the rule of law has changed over time and automated text analysis of investment data to study the effects of governance on sustainable investments. Specifically, I will employ Natural Language Processing (NLP) and text-as-data techniques to find patterns and topics within big text data.</p>
 
 ## Featured Articles
 
@@ -122,7 +122,7 @@ permalink: /team/bgonzalezbustamante/
 
 ### Contact Information
 
-Email: <a href="mailto:bastian.gonzalezbustamante@politics.ox.ac.uk">bastian.gonzalezbustamante@politics.ox.ac.uk</a><br />
+Email: <a href="mailto:b.a.gonzalez.bustamante@fgga.leidenuniv.nl">b.a.gonzalez.bustamante@fgga.leidenuniv.nl</a><br />
 <!-- Alternative email: <a href="mailto:bastian.gonzalez.b@usach.cl">bastian.gonzalez.b@usach.cl</a><br /> -->
 Alternative email: <a href="mailto:bastian.gonzalezbustamante@training-datalab.com">bastian.gonzalezbustamante@training-datalab.com</a><br />
 ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://orcid.org/0000-0003-1510-6820</a><br />
@@ -130,4 +130,4 @@ Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">htt
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
 <small>75% of works as first author, 33% as sole author.</small><br />
-<small>Last updated: November 9, 2023.</small>
+<small>Last updated: December 3, 2023.</small>
