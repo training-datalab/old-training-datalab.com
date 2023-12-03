@@ -32,7 +32,7 @@ permalink: /team/ccisternas/
 
 ## Other Publications
 
-- **Cisternas, C.**, González-Bustamante, B., Morillo, J., & Aguilar, D. (2023, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 4.
+- **Cisternas, C.**, González-Bustamante, B., Morillo Remesnitzky, J., & Aguilar, D. (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
 
 - González-Bustamante, B., & **Cisternas, C.** (2020). <a href="https://doi.org/10.5281/zenodo.6739266" target="_blank">Aplicación de ForceAtlas2, un algoritmo de diseño gráfico continuo, para el estudio de las élites</a>. *Tufte Working Papers*, 1, 1-15.
 
@@ -52,4 +52,4 @@ Institutional website: <a href="https://www.universiteitleiden.nl/en/staffmember
 <br />
 <small>Picture by Luciana Solar.</small><br />
 <small>45% of works as first author, 18% as sole author.</small><br />
-<small>Last updated: November 12, 2023.</small>
+<small>Last updated: December 3, 2023.</small>
