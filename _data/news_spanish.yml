@@ -1,3 +1,11 @@
+- date: 28 de octubre, 2023
+  headline: "Nuestro investigador, B. González-Bustamante, ha sido galardonado con el premio a la mejor ponencia early career en la conferencia BigSurv23."
+  newslink: <a href="https://twitter.com/BigSurvConf/status/1719558907503215064/photo/2" target="_blank">[ver]</a>
+
+- date: 19 de octubre, 2023
+  headline: "Tercer Taller del Data Lab"
+  newslink:
+
 - date: 22 de agosto, 2023
   headline: "Nuestra coordinadora fue galardonada con el premio Slicher van Bath del CEDLA de University of Amsterdam"
   newslink: <a href="https://www.cedla.nl/slicher-van-bath-de-jong-fonds" target="_blank">[ver]</a>
@@ -5,11 +13,3 @@
 - date: 1 de julio, 2023
   headline: "CfP número especial en RGP sobre inteligencia artificial y gobernanza algorítmica"
   newslink: <a href="https://doi.org/10.17605/OSF.IO/FNRGQ">[ver]</a>
-
-- date: 1 de junio, 2023
-  headline: "Ya están disponibles en nuestro sitio todas las series trimestrales de CPS-Ranking"
-  newslink: <a href="https://training-datalab.com/projects/cps-ranking">[ver]</a>
-
-- date: 24 de mayo, 2023
-  headline: "Revisa el paper de Alejandro Olivares en Governance"
-  newslink: <a href="https://doi.org/10.1111/gove.12803" target="_blank">[ver]</a>
