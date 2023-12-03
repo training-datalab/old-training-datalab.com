@@ -16,7 +16,7 @@ Diferentes instituciones apoyan o han apoyado a nuestro grupo logística y/o fin
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab-logo.png" style="width: 65px"> &nbsp;&nbsp;
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/leiden.jpg" style="width: 155px">  &nbsp;
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/leiden.png" style="width: 155px">  &nbsp;
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/oxford.jpg" style="width: 60px"> &nbsp;&nbsp;
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logos/uct.png" style="width: 160px">  &nbsp;&nbsp;-->
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/usach.png" style="width: 55px"> &nbsp;&nbsp;&nbsp;
