@@ -48,7 +48,8 @@ permalink: /projects/cps-ranking
 
 ### Researchers to be Added
 
-1.
+1. Fabian Pressacco (ID KX_lc8MAAAAJ)
+2. Francisca Castro (ID R8GnvnMAAAAJ)
 
 ### Disclaimer
 
@@ -71,4 +72,4 @@ permalink: /projects/cps-ranking
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
-<small>Last updated: December 3, 2023.</small>
+<small>Last updated: December 5, 2023.</small>
