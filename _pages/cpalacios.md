@@ -37,4 +37,4 @@ permalink: /team/cpalacios/
 Email: <a href="mailto:carlos.palacios@training-datalab.com">carlos.palacios@training-datalab.com</a><br />
 <br />
 <small>80% of works as first author, 60% as sole author.</small><br />
-<small>Last updated: July 5, 2022.</small>
+<small>Last updated: December 6, 2023.</small>
