@@ -10,7 +10,9 @@ permalink: /team/scarreramartinez/
 
 <img src="https://training-datalab.com/images/team/scarreramartinez.jpg" class="img-responsive" width="180px" style="float: left" />
 
-<p align="justify">I hold a BA in Political Science from the <a href="https://urosario.edu.co/" target="_blank"Universidad del Rosario</a>, Colombia, with a mention in Development and Participation. I also studied BA Applied Mathematics and Computer Science for three years at the same university. I have three years of experience in quantitative and qualitative research in social sciences. My expertise focuses on programming and the advanced use of software. I am interested in working in interdisciplinary and diverse teams, and my research interests mainly focus on elections, data analysis for social sciences, democracy, post-conflict and peace.</p>
+<p align="justify">I hold a BA in Political Science from the <a href="https://urosario.edu.co/" target="_blank">Universidad del Rosario</a>, Colombia, with a mention in Development and Participation. I also studied BA Applied Mathematics and Computer Science for three years at the same university.</p>
+
+<p align="justify">I have three years of experience in quantitative and qualitative research in social sciences. My expertise focuses on programming and the advanced use of software. I am interested in working in interdisciplinary and diverse teams, and my research interests mainly focus on elections, data analysis for social sciences, democracy, post-conflict and peace.</p>
 
 ## Featured Article
 
