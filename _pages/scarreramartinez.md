@@ -12,9 +12,7 @@ permalink: /team/scarreramartinez/
 
 <p align="justify">I hold a BA in Political Science from the <a href="https://urosario.edu.co/" target="_blank">Universidad del Rosario</a>, Colombia, with a mention in Development and Participation. I also studied BA Applied Mathematics and Computer Science for three years at the same university.</p>
 
-<p align="justify">I have three years of experience in quantitative and qualitative research in social sciences. My expertise focuses on programming and the advanced use of software.</p>
-
-<p align="justify">I am interested in working in interdisciplinary and diverse teams, and my research interests mainly focus on elections, data analysis for social sciences, democracy, post-conflict and peace.</p>
+<p align="justify">I have three years of experience in quantitative and qualitative research in social sciences. My expertise focuses on programming and the advanced use of software. I am interested in working in interdisciplinary and diverse teams, and my research interests mainly focus on elections, data analysis for social sciences, democracy, post-conflict and peace.</p>
 
 ## Featured Article
 
@@ -22,7 +20,7 @@ permalink: /team/scarreramartinez/
 
 ## Selected Conference Presentation
 
-- Méndez-Romero, R. A., **Carrerá-Martínez, S.**, & Suavita-Ramírez, M. A. (2022).  *STEM pedagogical innovations for the incorporation of social justice in University education: the case of Universidad del Rosario*. Presentation delivered at the 15th International Conference of Education, Research and Innovation, Seville, Spain.
+- Méndez-Romero, R. A., **Carrerá-Martínez, S.**, & Suavita-Ramírez, M. A. (2022).  *STEM pedagogical innovations for the incorporation of social justice in University education: the case of Universidad del Rosario*. Presentation delivered at the 15th International Conference of Education, Research and Innovation, Seville.
 
 ## Outreach
 
