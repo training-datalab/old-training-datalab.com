@@ -19,9 +19,5 @@ permalink: /team/mapelayo/
 ### Contact Information
 
 Email: <a href="mailto:miguelangel.pelayo@training-datalab.com">miguelangel.pelayo@training-datalab.com</a><br />
-<!-- Alternative email: <a href=""></a><br /> -->
-<!-- ORCID iD: <a href="" target="_blank"></a><br /> -->
-<!-- Personal website: <a href="" target="_blank"></a><br /> -->
-<!-- Institutional website: <a href="" target="_blank"></a><br /> -->
 <br />
 <small>Last updated: April 14, 2023.</small>
