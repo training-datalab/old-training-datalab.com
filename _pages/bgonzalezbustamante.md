@@ -54,21 +54,23 @@ permalink: /team/bgonzalezbustamante/
 
 ## Data Collection Projects
 
+- **González-Bustamante, B.**, Olivares, A., Cisternas, C., & Cuevas, R. (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, Leiden University, University of Oxford and Training Data Lab.
+
 - **González‑Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.5281/zenodo.7568387" target="_blank">Data Set on Local Government Indicators in Chile (Version 0.21.15 -- Late Sky)</a>. Dataset, pre-release version, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
 - **González-Bustamante, B.**, & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5744536" target="_blank">Data Set on Chilean Ministers (1990-2014) (Version 3.3.7 -- Soft Dew)</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
 - **González-Bustamante, B.**, & Olivares, A. (2023). <a href="https://doi.org/10.5281/zenodo.5715384" target="_blank">Data Set on Chilean Undersecretaries (1990-2022) (Version 2.1.4 -- Wandering Grass)</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH), Universidad Mayor and Training Data Lab.
 
-- **González-Bustamante, B.**, Olivares, A., Cisternas, C., & Cuevas, R. (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
-
 - **González-Bustamante, B.**, Astete, M., & Orvenes, B. (2021).  <a href="https://doi.org/10.5281/zenodo.8115596" target="_blank">Survival of the Senior Civil Servants in the Chilean Executive Branch (Version 1.13.19 -- Bold Lab)</a>. Dataset, pre-release version under restricted access, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
 
 ## Other Publications
 
+- González-Bustamante, B. (2025, *forthcoming*). Cinco años del ranking chileno de ciencia política: Explorando la producción científica y el impacto de la disciplina.  *Tufte Working Papers*, 6.
+
 - Cisternas, C., **González-Bustamante, B.**, Morillo Remesnitzky, J., & Aguilar, D. (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
 
-- **González-Bustamante, B.** (2023, *forthcoming*). Indicadores basados en Google Trends para opinión pública.*Tufte Working Papers*, 4.
+- **González-Bustamante, B.** (2023, *forthcoming*). Análisis de Componentes Principales con correlaciones policóricas: Aplicación en consumo de medios.*Tufte Working Papers*, 4.
 
 - **González-Bustamante, B.** (2022). <a href="https://doi.org/10.7770/rchdcp-V13N2-art2907" target="_blank">Métodos cuantitativos para estudiar a las élites: Aplicaciones prácticas, sesgos y potencialidades</a>. *Revista Chilena de Derecho y Ciencia Política, 13*(2), 12-44.
 
@@ -131,5 +133,5 @@ ORCID iD: <a href="http://orcid.org/0000-0003-1510-6820" target="_blank">http://
 Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">https://bgonzalezbustamante.com</a><br />
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
-<small>76% of works as first author, 35% as sole author.</small><br />
+<small>76% of works as first author, 36% as sole author.</small><br />
 <small>Last updated: December 17, 2023.</small>
