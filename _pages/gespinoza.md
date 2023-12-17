@@ -26,11 +26,11 @@ permalink: /team/gespinoza/
 
 - **Espinoza Bianchini, G.** (2024, *forthcoming*). Análisis del consumo y de la credibilidad informativa en estudiantes chilenos de Periodismo. *Cuadernos.info*.
 
-- Cifuentes Krstulovic, M., **Espinoza Bianchini, G.**, & Navia, P. (2023). <a href="https://www.izquierdas.cl/images/pdf/2023/52/art20.pdf" target="_blank">El voto económico en el apoyo electoral a las candidaturas presidenciales de Salvador Allende, 1958-1970</a>. *Revista Izquierdas*, (52), 1-20.
+- Cifuentes Krstulovic, M., **Espinoza Bianchini, G.**, & Navia, P. (2023). <a href="https://www.izquierdas.cl/images/pdf/2023/52/art20.pdf" target="_blank">El voto económico en el apoyo electoral a las candidaturas presidenciales de Salvador Allende, 1958-1970</a>. *Revista Izquierdas*, 52, 1-20.
 
 - Barrueto Ávalos, F., **Espinoza Bianchini, G.**, & Navia, P. (2020). <a href="https://revistaepe.utem.cl/wp-content/uploads/sites/7/2021/11/revista-estudios-politicos-y-estrategicos-epe-vol9-n1-2021-Barrueto-Espinoza-Navia.pdf" target="_blank">¿Mi definición de democracia impacta en mi apoyo a la democracia?</a> *Revista de Estudios Políticos y Estratégicos, 9*(1), 218-251.
 
-- **Espinoza Bianchini, G.**, & Navia, P. (2018). <a href="https://doi.org/10.17533/udea.espo.n52a04" target="_blank">El efecto de la percepción económica sobre la participación política no convencional en Chile, 2015</a>. *Estudios Políticos*, (52), 57–81.
+- **Espinoza Bianchini, G.**, & Navia, P. (2018). <a href="https://doi.org/10.17533/udea.espo.n52a04" target="_blank">El efecto de la percepción económica sobre la participación política no convencional en Chile, 2015</a>. *Estudios Políticos*, 52, 57–81.
 
 - **Espinoza Bianchini, G.** (2018). <a href="https://dialnet.unirioja.es/descarga/articulo/6526064.pdf" target="_blank">Informados y confiados: el efecto del consumo de medios de comunicación tradicional y digital sobre la confianza de los chilenos en 2015</a>. *Revista Chilena de Derecho y Ciencia Política, 9*(1), 182-213.
 
