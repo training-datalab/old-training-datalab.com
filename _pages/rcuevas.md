@@ -26,7 +26,7 @@ permalink: /team/rcuevas/
 
 ## Data Collection Project
 
-- González-Bustamante, B., Olivares, A., Cisternas, C., & **Cuevas, R.** (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab.
+- González-Bustamante, B., Olivares, A., Cisternas, C., & **Cuevas, R.** (2023). <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">Chilean Political Science Ranking</a>. Dataset, Leiden University, University of Oxford and Training Data Lab.
 
 ## Other Publications
 
