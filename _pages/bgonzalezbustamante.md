@@ -132,4 +132,4 @@ Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">htt
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
 <small>76% of works as first author, 35% as sole author.</small><br />
-<small>Last updated: December 3, 2023.</small>
+<small>Last updated: December 17, 2023.</small>
