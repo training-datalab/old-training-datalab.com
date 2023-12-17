@@ -22,21 +22,11 @@ permalink: /team/aolivares/
 
 - Martínez, C. A., & **Olivares, A.** (2022). <a href="https://doi.org/10.4067/s0718-090x2022005000119" target="_blank">Chile 2021: Entre un intenso calendario electoral y la acusación constitucional en contra de Sebastián Piñera</a>. *Revista de Ciencia Política, 42*(2), 225–253.
 
-- **Olivares, A.**, Martínez, C. A., Arellano, J. C., Carrasco, S., Campos, M., Medina, P., & Lopes, A. V. (2022). <a href="https://doi.org/10.18441/ibam.22.2022.79.211-242" target="_blank">Presidencialismo en América Latina. Algunas consideraciones para el debate</a>. *Iberoamericana. América Latina - España - Portugal, XXII*(79), 211-242.
-
-- **Olivares, A.**, Carrasco, C., & Tricot, V. (2022). <a href="https://doi.org/10.5102/rbpp.v12i3.8637" target="_blank">The student movement 2011 and free education policy in Chile (2017)</a>. *Revista Brasileira de Políticas Públicas, 12*(3), 255-273.
-
-- Rozas-Bugueño, J., Maillet, A., & **Olivares, A.** (2022). <a href="http://www.economiaypolitica.cl/index.php/eyp/article/view/188" target="_blank">Entre la independencia y la militancia: Análisis de la vinculación partidaria de los y las convencionales constituyentes de Chile</a>. *Economía y Política, 9*(2), 67-100.
-
 - **Olivares, A.**, & Medina, P. (2020). <a href="http://dx.doi.org/10.4067/S0718-090X2020005000110" target="_blank">La persistente debilidad institucional de Ecuador: Protestas, elecciones y divisiones políticas durante el 2019</a>. *Revista de Ciencia Política, 40*(2), 315–349.
 
 - **Olivares, A.**, & Carrasco, C. (2020). <a href="https://nbn-resolving.org/urn:nbn:de:0168-ssoar-69926-8" target="_blank">Social Movements and Public Policies in Chile: Analysis of the Student Movement of 2011 and the No+AFP movement of 2016</a>. *Studia Politica: Romanian Political Science Review, 20*(2), 203–222.
 
-- **Olivares, A.**, González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
-
 - Maillet, A., González-Bustamante, B., & **Olivares, A.** (2019). <a href="https://doi.org/10.1080/10978526.2019.1652099" target="_blank">Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</a>. *Latin American Business Review, 20*(4), 367-387.
-
-- **Olivares, A.** (2018). <a href="https://portalrevistas.uct.cl/index.php/RDCP/article/view/1798" target="_blank">Ministros y precandidatos presidenciales en Chile 1990-2014</a>. *Revista Chilena de Derecho y Ciencia Política, 9*(2), 230–258.
 
 ## Book and Chapters
 
@@ -58,6 +48,16 @@ permalink: /team/aolivares/
 
 ## Other Publications
 
+- **Olivares, A.**, Martínez, C. A., Arellano, J. C., Carrasco, S., Campos, M., Medina, P., & Lopes, A. V. (2022). <a href="https://doi.org/10.18441/ibam.22.2022.79.211-242" target="_blank">Presidencialismo en América Latina. Algunas consideraciones para el debate</a>. *Iberoamericana. América Latina - España - Portugal, XXII*(79), 211-242.
+
+- **Olivares, A.**, Carrasco, C., & Tricot, V. (2022). <a href="https://doi.org/10.5102/rbpp.v12i3.8637" target="_blank">The student movement 2011 and free education policy in Chile (2017)</a>. *Revista Brasileira de Políticas Públicas, 12*(3), 255-273.
+
+- Rozas-Bugueño, J., Maillet, A., & **Olivares, A.** (2022). <a href="http://www.economiaypolitica.cl/index.php/eyp/article/view/188" target="_blank">Entre la independencia y la militancia: Análisis de la vinculación partidaria de los y las convencionales constituyentes de Chile</a>. *Economía y Política, 9*(2), 67-100.
+
+- **Olivares, A.**, González-Bustamante, B., Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
+
+- **Olivares, A.** (2018). <a href="https://portalrevistas.uct.cl/index.php/RDCP/article/view/1798" target="_blank">Ministros y precandidatos presidenciales en Chile 1990-2014</a>. *Revista Chilena de Derecho y Ciencia Política, 9*(2), 230–258.
+
 - González-Bustamante, B., & **Olivares, A.** (2016). <a href="https://doi.org/10.7440/colombiaint87.2016.04" target="_blank">Cambios de gabinete y supervivencia de los ministros en Chile durante los gobiernos de la Concertación (1990-2010)</a>. *Colombia Internacional*, 87, 81-108.
 
 - González-Bustamante, B., & **Olivares, A.** (2016). <a href="https://www.researchgate.net/publication/321993740_A_rotatividade_de_subsecretarios_dos_ministerios_no_Chile_1990-2014" target="_blank">A rotatividade de subsecretários dos ministérios no Chile (1990-2014)</a>. *Newsletter. Observatório de elites políticas e sociais do Brasil. NUSP/UFPR, 3*(5), 1-19.
@@ -75,4 +75,4 @@ Alternative email: <a href="mailto:alejandro.olivares@training-datalab.com">alej
 ORCID iD: <a href="https://orcid.org/0000-0001-6934-2437" target="_blank">https://orcid.org/0000-0001-6934-2437</a><br />
 <br />
 <small>36% of works as first author, 9% as sole author.</small><br />
-<small>Last updated: November 9, 2023.</small>
+<small>Last updated: December 17, 2023.</small>
