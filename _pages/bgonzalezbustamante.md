@@ -18,13 +18,13 @@ permalink: /team/bgonzalezbustamante/
 
 ## Featured Articles
 
+- Orchard, X., & **González-Bustamante, B.** (2024). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991–2019)</a>. *The International Journal of Press/Politics, 29*(1), 100-123.
+
 - **González-Bustamante, B.** (2023). <a href="https://doi.org/10.1177/13691481221124850" target="_blank">Ministerial stability during presidential approval crises: The moderating effect of ministers’ attributes on dismissals in Brazil and Chile</a>. *The British Journal of Politics and International Relations, 25*(4), 655-675.
 
 - **González-Bustamante, B.**, & Aguilar, D. (2023). <a href="https://doi.org/10.1080/2474736X.2023.2194369" target="_blank">Territorial patterns of open e-government: evidence from Chilean municipalities</a>. *Political Research Exchange, 5*(1).
 
 - Fleming, T. G., **González‑Bustamante, B.**, & Schleiter, P. (2022). <a href="https://doi.org/10.1017/gov.2022.23" target="_blank">Cabinet Reshuffles and Parliamentary No‑Confidence Motions</a>. *Government and Opposition*. FirstView.
-
-- Orchard, X., & **González-Bustamante, B.** (2022). <a href="https://doi.org/10.1177/19401612221089482" target="_blank">Power Hierarchies and Visibility in the News: Exploring Determinants of Politicians’ Presence and Prominence in the Chilean Press (1991-2019)</a>. *The International Journal of Press/Politics*. OnlineFirst.
 
 - Cuevas, C., **González-Bustamante, B.**, Calderón-Orellana, M., & Barría, D. (2021). <a href="https://doi.org/10.31235/osf.io/p963q" target="_blank">Motivación de servicio público entre funcionarios públicos chilenos</a>. *Revista del CLAD Reforma y Democracia*, 81, 105-138.
 
@@ -33,6 +33,8 @@ permalink: /team/bgonzalezbustamante/
 - **González-Bustamante, B.** (2020). <a href="https://doi.org/10.1111/blar.13044" target="_blank">The Politics‐Administration Dichotomy: A Case Study of the Chilean Executive during the Democratic Post‐Transition</a>. *Bulletin of Latin American Research, 39*(5), 582-597.
 
 - **González-Bustamante, B.**, Carvajal, A., & González, A. (2020). <a href="http://dx.doi.org/10.29265/gypp.v29i1.658" target="_blank">Determinantes del gobierno electrónico en las municipalidades: Evidencia del caso chileno</a>. *Gestión y Política Pública, XXIX*(1), 97-129.
+
+- Maillet, A., **González-Bustamante, B.**, & Olivares, A. (2019). <a href="https://doi.org/10.1080/10978526.2019.1652099" target="_blank">Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</a>. *Latin American Business Review, 20*(4), 367-387.
 
 - **González-Bustamante, B.** (2019). <a href="https://doi.org/10.29101/crcs.v26i80.11097" target="_blank">Brechas, representación y congruencia élite-ciudadanía en Chile y Uruguay</a>. *Convergencia. Revista de Ciencias Sociales*, 80, 1-27.
 
@@ -84,8 +86,6 @@ permalink: /team/bgonzalezbustamante/
 
 - Olivares, A., **González-Bustamante, B.**, Toro, S., Arellano, J. C., Yanes-Rojas, A., Zurita-Tapia, J., Lopes, A. V., Robledo Guzmán, C., & Canavesi Sosa, J. B. (2020). <a href="https://doi.org/10.18441/ibam.20.2020.74.229-259" target="_blank">Nuevos desafíos, enfoques y perspectivas para estudiar élites políticas</a>. *Iberoamericana. América Latina - España - Portugal, XX*(74), 229–259.
 
-- Maillet, A., **González-Bustamante, B.**, & Olivares, A. (2019). <a href="https://doi.org/10.1080/10978526.2019.1652099" target="_blank">Public-Private Circulation and the Revolving Door in the Chilean Executive Branch (2000–2014)</a>. *Latin American Business Review, 20*(4), 367-387.
-
 - Barría, D., **González-Bustamante, B.**, & Cisternas, C. (2019). <a href="http://dx.doi.org/10.20983/noesis.2019.2.3" target="_blank">La literatura sobre gobierno abierto en español. Análisis sobre las dinámicas de producción y citación</a>. *Nóesis. Revista de Ciencias Sociales y Humanidades, 28*(56), 22-42.
 
 - Del Valle, N., & **González-Bustamante, B.** (2018). <a href="http://revistas.ufro.cl/ojs/index.php/perspectivas/article/view/1146" target="_blank">Agenda política, periodismo y medios digitales en Chile: Notas de investigación sobre pluralismo informativo</a>. *Perspectivas de la Comunicación, 11*(1), 291-326.
@@ -120,7 +120,7 @@ permalink: /team/bgonzalezbustamante/
 
 - **González-Bustamante, B.** (2013). <a href="https://doi.org/10.5354/0716-1077.2013.27436" target="_blank">Factores de acceso y permanencia de la élite política gubernamental en Chile (1990-2010)</a>. *Política, Revista de Ciencia Política, 51*(1), 119-153.
 
-- **González-Bustamante, B.**, & Henríquez, G. (2012). <a href="https://www.researchgate.net/publication/260517478_Campanas_digitales_Branding_o_participacion_politica_El_rol_de_las_redes_sociales_en_la_ultima_campana_presidencial_chilena" target="_blank">Campañas digitales: ¿Branding o participación política?</a>. *Más Poder Local*, 12, 32-39.
+- **González-Bustamante, B.**, & Henríquez, G. (2012). <a href="https://www.researchgate.net/publication/260517478_Campanas_digitales_Branding_o_participacion_politica_El_rol_de_las_redes_sociales_en_la_ultima_campana_presidencial_chilena" target="_blank">Campañas digitales: ¿Branding o participación política?</a> *Más Poder Local*, 12, 32-39.
 
 ### Contact Information
 
