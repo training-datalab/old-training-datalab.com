@@ -22,7 +22,7 @@ permalink: /tufte-working-papers/
 
 - Cisternas, C., González-Bustamante, B., Morillo Remesnitzky, J., & Aguilar, D. (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
 
-- González-Bustamante, B. (2023). Análisis de Componentes Principales con correlaciones policóricas: Aplicación en consumo de medios. *Tufte Working Papers*, 4. OnlineFirst. SocArXiv minted in progress: <a href="https://osf.io/preprints/socarxiv/npc9e" target="_blank">https://osf.io/preprints/socarxiv/npc9e</a>.
+- González-Bustamante, B. (2023). Análisis de Componentes Principales con correlaciones policóricas: Aplicación en consumo de medios. *Tufte Working Papers*, 4. OnlineFirst. SocArXiv: <a href="https://doi.org/10.31235/osf.io/npc9e" target="_blank">10.31235/osf.io/npc9e</a>. <!-- SocArXiv minted in progress: <a href="https://osf.io/preprints/socarxiv/npc9e" target="_blank">https://osf.io/preprints/socarxiv/npc9e</a>.-->
 
 - Cuevas, R. (2022). Democracia y acuerdos de libre comercio: Una relación más de mercado que democracia. *Tufte Working Papers*, 3. OnlineFirst. SocArXiv: <a href="https://doi.org/10.31235/osf.io/y4fxw" target="_blank">10.31235/osf.io/y4fxw</a>.
 
@@ -36,4 +36,4 @@ permalink: /tufte-working-papers/
 </figure>
 
 <br />
-<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,204 until December 2023.</small>
+<small>The full text usage, which is the sum of views and downloads from Zenodo and OSF/SocArXiv, is 2,283 until January 2024.</small>
