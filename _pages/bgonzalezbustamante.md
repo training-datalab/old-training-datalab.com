@@ -70,7 +70,7 @@ permalink: /team/bgonzalezbustamante/
 
 - Cisternas, C., **González-Bustamante, B.**, Morillo Remesnitzky, J., & Aguilar, D. (2024, *forthcoming*). Clasificación de proyectos de ley y mociones legislativas: Modelos supervisados y no supervisados aplicados al caso chileno. *Tufte Working Papers*, 5.
 
-- **González-Bustamante, B.** (2023, *forthcoming*). Análisis de Componentes Principales con correlaciones policóricas: Aplicación en consumo de medios. *Tufte Working Papers*, 4.
+- **González-Bustamante, B.** (2023). <a href="https://doi.org/10.31235/osf.io/npc9e" target="_blank">Análisis de Componentes Principales con correlaciones policóricas: Aplicación en consumo de medios</a>. *Tufte Working Papers*, 4. OnlineFirst.
 
 - **González-Bustamante, B.** (2022). <a href="https://doi.org/10.7770/rchdcp-V13N2-art2907" target="_blank">Métodos cuantitativos para estudiar a las élites: Aplicaciones prácticas, sesgos y potencialidades</a>. *Revista Chilena de Derecho y Ciencia Política, 13*(2), 12-44.
 
@@ -134,4 +134,4 @@ Personal website: <a href="https://bgonzalezbustamante.com/" target="_blank">htt
 Institutional website: <a href="https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante" target="_blank">https://www.politics.ox.ac.uk/person/bastian-gonzalez-bustamante</a><br />
 <br />
 <small>76% of works as first author, 36% as sole author.</small><br />
-<small>Last updated: December 17, 2023.</small>
+<small>Last updated: January 2, 2024.</small>
