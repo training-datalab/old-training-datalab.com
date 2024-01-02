@@ -25,3 +25,4 @@ permalink: /tufte-working-papers/open-review-spanish/
 - Dictamen abierto fundado (extensión recomendada 1.000 - 1.500 palabras).
 - Recomendación final (rechazar, aceptar sujeto a modificaciones o aceptar sin modificaciones).
 <br />
+<br />
