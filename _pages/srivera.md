@@ -30,7 +30,7 @@ permalink: /team/srivera/
 
 Email: <a href="mailto:sebastian.rivera@uci.edu">sebastian.rivera@uci.edu</a><br />
 ORCID iD: <a href="https://orcid.org/0000-0003-2642-2546" target="_blank">https://orcid.org/0000-0003-2642-2546</a><br />
-Personal website: <a href="https://sebastianrivera.cl/" target="_blank">https://sebastianrivera.cl/</a><br />
+Personal website: <a href="https://sebastianrivera.cl/" target="_blank">https://sebastianrivera.cl</a><br />
 <br />
 <small>33% of works as first author, 33% as sole author.</small><br />
 <small>Last updated: January 3, 2024.</small>
