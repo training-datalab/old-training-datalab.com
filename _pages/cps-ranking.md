@@ -69,7 +69,7 @@ permalink: /projects/cps-ranking
 
 ### How to cite this dataset?
 
-- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, Leiden University, University of Oxford and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
+- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, Leiden University, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
