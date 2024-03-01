@@ -28,6 +28,7 @@ permalink: /projects/cps-ranking-spanish
 
 ## Series trimestrales
 
+- [Marzo 2024](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking)
 - [Diciembre 2023](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking)
 - [Septiembre 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
 - [Junio 2023](https://training-datalab.com/projects/cps-ranking/2023-06-01-impact-ranking)
@@ -48,9 +49,7 @@ permalink: /projects/cps-ranking-spanish
 
 ### Investigadores por añadir
 
-1. Fabian Pressacco (ID KX_lc8MAAAAJ)
-2. Francisca Castro (ID R8GnvnMAAAAJ)
-3. Cristian Ovando Santana (ID 95XWzKgAAAAJ)
+1.
 
 ### Descargo de responsabilidad
 
@@ -69,8 +68,8 @@ permalink: /projects/cps-ranking-spanish
 
 ### ¿Cómo citar esta base de datos?
 
-- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2023). Chilean Political Science Ranking. Dataset, Leiden University, University of Oxford, Universidad de Santiago de Chile (USACH) and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
+- González-Bustamante, B., Olivares, A., Cisternas, C., & Cuevas, R. (2024). Chilean Political Science Ranking. Dataset, Leiden University, Universidad Diego Portales and Training Data Lab. <a href="http://doi.org/10.17605/OSF.IO/C8PRA" target="_blank">http://doi.org/10.17605/OSF.IO/C8PRA</a>.
 
 <br />
 <small>Arte por DALL·E inspirado por Mondrian.</small><br />
-<small>Última actualización: 5 de diciembre de 2023.</small>
+<small>Última actualización: 1 de marzo de 2024.</small>
