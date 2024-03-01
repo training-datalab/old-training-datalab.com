@@ -3,7 +3,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Unreleased]
 
-## [3.1.2] - TBC
+## [3.1.3] - TBC
 ### Added
 - COVID-19 tracker.
 - twConvention project.
@@ -15,8 +15,14 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 
 ## [Released]
 
+## [3.0.3] - 2024-03-01
+### Changed
+- Institutional logos.
+- Minor corrections.
+
 ## [3.0.2] - 2023-12-03
 ### Changed
+- Institutional logos.
 - Minor corrections.
 
 ## [3.0.1] - 2023-07-06
@@ -59,6 +65,8 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [2.10.6] - 2023-03-18
 ### Added
 - Digital protests project.
+### Changed
+- Institutional logos.
 
 ## [2.9.6] - 2023-03-04
 ### Added
@@ -215,6 +223,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ### Added
 - VIP Project.
 ### Changed
+- Institutional logos.
 - Minor corrections.
 
 ## [1.5.5] - 2021-05-08
@@ -290,6 +299,7 @@ All notable changes to "training-datalab.com" will be documented in this file. A
 ## [0.8.10] - 2021-03-14
 ### Added
 - GitHub page powered by Jekyll.
+- Institutional logos.
 - Chilean Congress bills project.
 - Workflow diagrams code.
 
