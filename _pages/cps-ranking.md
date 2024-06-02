@@ -28,6 +28,9 @@ permalink: /projects/cps-ranking
 
 ## Quarterly Series
 
+<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**SUBSCRIBE TO OUR NEWSLETTER!**</a> **Soon we will renew the site and we will have several new features.**</p>
+
+- [June 2024](https://training-datalab.com/projects/cps-ranking/2024-06-02-impact-ranking)
 - [March 2024](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking)
 - [December 2023](https://training-datalab.com/projects/cps-ranking/2023-12-03-impact-ranking)
 - [September 2023](https://training-datalab.com/projects/cps-ranking/2023-09-01-impact-ranking)
@@ -72,4 +75,4 @@ permalink: /projects/cps-ranking
 
 <br />
 <small>Artwork by DALL·E inspired by Mondrian.</small><br />
-<small>Last updated: March 1, 2024.</small>
+<small>Last updated: June 2, 2024.</small>
