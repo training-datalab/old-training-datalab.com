@@ -28,7 +28,7 @@ permalink: /projects/cps-ranking-spanish
 
 ## Series trimestrales
 
-<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**¡SUSCRÍBETE A NUESTRO BOLETÍN!**</a> **Pronto renovaremos el sitio y tendremos varias novedades.**</p>
+<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**¡SUSCRÍBETE A NUESTRO BOLETÍN!**</a> **Pronto renovaremos nuestro sitio web y tendremos varias novedades.**</p>
 
 - [Junio 2024](https://training-datalab.com/projects/cps-ranking/2024-06-02-impact-ranking)
 - [Marzo 2024](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking)
