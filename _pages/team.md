@@ -101,7 +101,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Research Assistants
+## Research Assistant
 {% assign number_printed = 0 %}
 {% for member in site.data.research_assistants %}
 
