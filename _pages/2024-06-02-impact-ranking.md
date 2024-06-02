@@ -10,7 +10,7 @@ permalink: /projects/cps-ranking/2024-06-02-impact-ranking
 
 *Data collected on June 2, 2024*
 
-<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**SUBSCRIBE TO OUR NEWSLETTER!**</a> **Soon we will renew the site and we will have several new features.**</p>
+<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**SUBSCRIBE TO OUR NEWSLETTER!**</a> **Soon we will renew our website and will have several new features.**</p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
