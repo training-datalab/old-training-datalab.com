@@ -670,7 +670,7 @@ permalink: /projects/cps-ranking/2024-06-02-impact-ranking
   </tr>
   <tr>
     <td class="tg-c3ow">71</td>
-    <td class="tg-0pky">Claudia Heiss (ORCID 0000-0002-2690-7175)</td>
+    <td class="tg-0pky">Claudia Heiss</td>
     <td class="tg-0pky">nj4yvK0AAAAJ</td>
     <td class="tg-0pky">UCHILE</td>
     <td class="tg-c3ow">567</td>
