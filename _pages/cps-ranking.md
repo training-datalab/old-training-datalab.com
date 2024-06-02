@@ -28,7 +28,7 @@ permalink: /projects/cps-ranking
 
 ## Quarterly Series
 
-<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**SUBSCRIBE TO OUR NEWSLETTER!**</a> **Soon we will renew the site and we will have several new features.**</p>
+<p align="justify"><a href="https://zcmp.eu/e28J" target="_blank">**SUBSCRIBE TO OUR NEWSLETTER!**</a> **Soon we will renew our website and will have several new features.**</p>
 
 - [June 2024](https://training-datalab.com/projects/cps-ranking/2024-06-02-impact-ranking)
 - [March 2024](https://training-datalab.com/projects/cps-ranking/2024-03-01-impact-ranking)
